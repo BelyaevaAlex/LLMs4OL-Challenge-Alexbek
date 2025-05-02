@@ -38,3 +38,7 @@ Whether you are a researcher, practitioner, or enthusiast in the semantic web, k
 
 For questions, discussions, or contributions, feel free to join our Google Groups at [https://groups.google.com/d/forum/llms4ol-challenge](https://groups.google.com/d/forum/llms4ol-challenge). Fure more information visit the challenge website.
 
+## ⚖️ License
+
+This repository is under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it with proper attribution.
+
