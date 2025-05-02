@@ -1,0 +1,7126 @@
+[
+ {
+  "term": "exagram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millinewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petalitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petaweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "3 to 5 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "hectotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "statohm",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "weber",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "wine glass",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "kilohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "piece",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "961.78 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "centimetre of mercury",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "54.3584 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "zeptopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "24.5561 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "ton of refrigeration",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kilocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "light year",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "hectoampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "deciwatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "point (TeX)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "grain",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "calorie (International Table)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettabyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "furlong (international)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "ounce (apothecaries')",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "frequency dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "zeptovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigayear",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decikelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "lux",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kilofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petamole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exacandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanoohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "chemistry",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "gigabit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "one",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "273.16 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "solar mass",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "picoradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centisiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "ton (short assay)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "picowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "stathenry",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zeptogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decanewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "thermodynamic temperature dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "milliradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "statcoulomb",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "micromagnitude",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "South Korean won",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "stattesla",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "shannon",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanoradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "25 millilitre",
+  "types": [
+   "unit multiple"
+  ]
+ },
+ {
+  "term": "231.928 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "nanohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "mass flow dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "attolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigaelectronvolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigayear cubic kiloparsec",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "abampere",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "centiare",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petalumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "capacitance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "nanomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "acceleration dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "gigalitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctonewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "milligauss",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petamolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptosteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megacoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decilux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "peck (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "microdegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decipascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "solar radius",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pica (Postscript)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "pressure dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "femtokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millipascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microlitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yobibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teraweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "13.8033 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "attopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "byte",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attosteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centilitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "candela steradian",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "picopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "baud",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "barrel (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megalumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millijoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "joule",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "lumen second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "month",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exabyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microcandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "piconewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "dyne",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "tebibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "acre foot",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottavolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "perm (23 °C)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "luminous flux dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "millihenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "University_Science_Books",
+  "types": [
+   "Organization"
+  ]
+ },
+ {
+  "term": "deep bowl",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "hectoohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "micronewton metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "petajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microcoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtoohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "quad",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "degree Celsius",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "tonne of carbon dioxide equivalent",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "bowl",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "zettanewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "length dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "petaohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "British thermal unit (mean)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "erg second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "gilbert",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "1-10",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "milliwatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attoweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigagram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "29.7646 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "mechanics",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "decasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decivolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teralux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "-270.15 to -268.15 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "1/0",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "glass",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "picofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "luminous energy dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "litre",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettagray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanoweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottanewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "stere",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "reciprocal metre kilogram second to the power -2",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "British thermal unit (59 °F)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exabit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "RussianRuble",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "505.078 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "nanomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "1-5",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "234.3156 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "yottaampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "wedge",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "International_Astronomical_Union",
+  "types": [
+   "Organization"
+  ]
+ },
+ {
+  "term": "Astrophysical_Techniques_chapter3",
+  "types": [
+   "Chapter"
+  ]
+ },
+ {
+  "term": "mole micrometre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "yoctotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picodegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "meganewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "therm (EC)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "millikelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptodegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "calorie (thermochemical)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decaohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decaampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decihertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millimagnitude",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "watt",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "horsepower (boiler)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microgram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "carat (mass)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "wavenumber dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "rhe",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "phot",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "surface tension dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "~20.3 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "kilovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petanewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pound (apthecaries')",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "Birmingham gauge",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "rod (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "degree Réaumur",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "metre of mercury",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "hectare",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "reciprocal square metre reciprocal metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "zeptotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megaerg",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "second (angle)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picoweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "liquid pint (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "pascal second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "attoohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megatonne",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "footcandle",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency 540e12 hertz and that has a radiant intensity in that direction of 1/683 watt per steradian",
+  "types": [
+   "luminous intensity"
+  ]
+ },
+ {
+  "term": "microkatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centihenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "electric current dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "decihenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decatesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petaampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilogram second to the power -2",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "are",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megamolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilobyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "cord",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "petatesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "thermal conductivity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "pinch",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "pint (imperial)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gibibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centikatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "micron",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "microsteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottagram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "square metre hertz",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "British thermal unit (60 °F)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decagram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "mile (US survey)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "Astrophysical_Techniques_chapter1",
+  "types": [
+   "Chapter"
+  ]
+ },
+ {
+  "term": "micrometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decisiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centigram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "parsec",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettalitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "deciampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decimole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "year (tropical)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "dry pint (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "bottle",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "zeptoampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pebibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "portion",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "fluid mechanics",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "hour (hour angle)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "square metre steradian",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "terasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kibibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megabit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centimetre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "permeability of free space dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "petabyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "0-100",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "picosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "horsepower (metric)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "inch (international)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "faraday",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gigasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilocalorie (mean)",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigaampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "siemens",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "petavolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "British thermal unit (International Table)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gill (imperial)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "acoustics",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "minute (sidereal)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decicandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "electromagnetism",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "nanolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "atmosphere (technical)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "degree",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "horsepower (British)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottalitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctodegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centisteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millisecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "sievert",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "petakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "henry",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "joule second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "petagray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "cup (US customary)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centiradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centifarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Brazilian real",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exaohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "catalytic activity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "yard (international)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "catalytic activity concentration dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "exposure dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "100 kilometre",
+  "types": [
+   "unit multiple"
+  ]
+ },
+ {
+  "term": "statvolt",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "terahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exaampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "calorie (mean)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "bar",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "teraohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Cambridge_University_Press",
+  "types": [
+   "Organization"
+  ]
+ },
+ {
+  "term": "yottaohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "micromole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millimole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "1064.18 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "exasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teraampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gal",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "millimolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exagray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petabit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "calorie (20 °C)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "IntroAstronomicalPhotometry",
+  "types": [
+   "Book"
+  ]
+ },
+ {
+  "term": "number density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "mebibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pound (avoirdupois)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtoweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yobibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "statweber",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "pica (ATA)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "429.7485 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "bushel (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "centilux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "minute (hour angle)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decacandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exalumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "newton",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decisteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centiohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millikatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Institute_of_Physics_Publishing",
+  "types": [
+   "Organization"
+  ]
+ },
+ {
+  "term": "VU",
+  "types": [
+   "Organization"
+  ]
+ },
+ {
+  "term": "zettasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Willmann_Bell",
+  "types": [
+   "Organization"
+  ]
+ },
+ {
+  "term": "terahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "South African rand",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "picojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "radian",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "metre kelvin",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "femtocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "metre kilogram",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "energy dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "magnetic flux density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "dry gallon (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "foot poundal",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "hectocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "156.5985 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "metre",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "terabyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "square metre second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "exametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "absorbed dose rate dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "shake",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "microlumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigamole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teragray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kiloelectronvolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pascal second square metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "point (Didot)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kibibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pound-force",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "microjoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terawatt hour",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "centiwatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "83.8058 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "millihertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "quart (imperial)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "mole micrometre reciprocal square centimetre reciprocal second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "petafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "International Unit",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "thermodynamics",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "decinewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decamolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centicoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decavolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "astronomical unit",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottatesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kelvin kilogram",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "kelvin",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "magnetic field dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "British thermal unit (39 °F)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "point (ATA)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decimolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "speed dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "mass dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "centisecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decibel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "chapter13_Astronomical_Algorithms",
+  "types": [
+   "Chapter"
+  ]
+ },
+ {
+  "term": "megabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "electric charge density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "terawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "examole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "day",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "picosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettabit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "933.473 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "gigawatt hour",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "kilopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "French gauge",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yoctoradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pound sterling",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exavolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "square metre kelvin",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "stilb",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "abmho",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "rem",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yoctohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microgray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decalitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "1/273.16 of the thermodynamic temperature of the triple point of water",
+  "types": [
+   "thermodynamic temperature"
+  ]
+ },
+ {
+  "term": "colony forming unit",
+  "types": [
+   "singular unit",
+   "unit division",
+   "unit"
+  ]
+ },
+ {
+  "term": "luminance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "tonne",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "lux second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "kayser",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "electronvolt",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kilokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "point (Postscript)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "660.323 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "oersted",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "radiance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "decisievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millicoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "mass of the international prototype of the kilogram",
+  "types": [
+   "mass"
+  ]
+ },
+ {
+  "term": "ton (register)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yoctofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "luminous intensity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "kilobit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "year (sidereal)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "horsepower (water)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millidegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pixel",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanounified atomic mass unit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millimetre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottacoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilocalorie (mean) per day",
+  "types": [
+   "unit division",
+   "unit"
+  ]
+ },
+ {
+  "term": "foot (US survey)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "IAUDiv1WG",
+  "types": [
+   "Organization"
+  ]
+ },
+ {
+  "term": "decamole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "abcoulomb",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "kilohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zebibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilowatt hour",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "Turkish lira",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "petawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigamolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "katal",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "energy density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "yoctoohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centicandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "ohm metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "reciprocal square metre reciprocal gram",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "knot (international)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "-259.3467 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "degree Rankine",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gigakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Singapore dollar",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "minute (angle)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "mil (length)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "molar entropy, molar heat capacity, or gas constant dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "fluid ounce (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "fermi",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exalux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exaweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanodegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millibecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decibar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "photometry",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "kilobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hour (sidereal)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "poise",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "volumetric flow rate dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "~17 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "Hong Kong dollar",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "1357.77 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "hectohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "tebibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "lumen",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "microsievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "milliweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "micropascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "shipping",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "Swedish krona",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zeptomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gauss",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "picogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottaweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picoampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petacandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microwatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "United States dollar",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "röntgen",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exanewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teralitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "amylase unit",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decitesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "tesla",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zeptogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "permittivity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "teratesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilogram of carbon dioxide equivalent per megawatt hour",
+  "types": [
+   "unit division",
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "amount of substance of a system that contains as many elementary entities as there are atoms in 0.012 kilogram of carbon 12",
+  "types": [
+   "amount of substance"
+  ]
+ },
+ {
+  "term": "barn",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "millinewton metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "~-256.15 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "electrical resistivity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "attobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "perm (0 °C)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gigagray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gon",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "centigray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigalux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "poundal",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "milliohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "barye",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanonewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megagray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "cicero",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microvolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettalux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "angstrom",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "microbecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centilumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "common application area",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "centimole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "milliampere hour",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "zettaohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "farad",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "abvolt",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "millisievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millibar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millisiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petagram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "square metre nanometre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "slug",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "unit pole",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "franklin",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "specific entropy or specific heat capacity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "megasecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilonewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "slice",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "yoctolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "statfarad",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exatesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettavolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "specific volume dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "current density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "exabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilogram of carbon dioxide equivalent",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megalux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "692.677 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "zeptoweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kiloweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millivolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "square metre day",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "hectare day",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "gallon (imperial)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "stokes",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decifarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "abohm",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "molar energy dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "zeptocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "fathom (US survey)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "-248.5939 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "megamole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decidegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigaohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "chemical physics",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "gray",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microsiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "volt second",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "picohertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "amount of substance concentration dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "megalitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "fillet",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "exasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptoradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hundredweight (British)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "hectocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centikelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "geometry",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "inductance or permeance (electromagnetic) dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "volt",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "second (sidereal)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "millifarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "watt hour",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "mole",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "ampere hour",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "megawatt hour",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "solar luminosity",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "parts per million",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "therm (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "dry quart (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanoampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centivolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centipoise",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petalux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the cesium 133 atom",
+  "types": [
+   "duration"
+  ]
+ },
+ {
+  "term": "fluid ounce (imperial)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "teravolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decilumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilotonne",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "milligray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "typography",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "milliampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hundred count",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "maxwell",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "terakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centipascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "abhenry",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "1084.62 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "nanosteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "coulomb",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "teramole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettatesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottabyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microfarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gram of carbon dioxide equivalent",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "millitesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decagray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microtesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teracoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exposure to x and γ rays dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "radiometry and radiobiology",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "gigalumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "serving spoon",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "acre (US survey)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gigawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "micromolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "IAU_2012_Resolution_B2",
+  "types": [
+   "Chapter"
+  ]
+ },
+ {
+  "term": "kilosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "giganewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptoohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtoradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "action or angular momentum dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "mile (statute)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettacandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decicoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigacandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigacoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigayear cubic parsec",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "euro",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "teaspoon (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yoctowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "bar (food)",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "chain",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "Crawford1958",
+  "types": [
+   "Article"
+  ]
+ },
+ {
+  "term": "percent",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microkelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millicandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picoohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "statampere",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "dozen",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettaampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Swiss franc",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kinematic viscosity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "exalitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "AFS",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gigaweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millisteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "chapter23_Astronomical_Algorithms",
+  "types": [
+   "Chapter"
+  ]
+ },
+ {
+  "term": "microhenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megaweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microsecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottalumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hour",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "hectolumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "1337.33 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "column number density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "mho",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "centisievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettaweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decacoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "volumetric heat capacity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "watt square metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "specific energy, absorbed dose, or dose equivalent dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "petasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "minute",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "unified atomic mass unit",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "VistasAstronomy",
+  "types": [
+   "Journal"
+  ]
+ },
+ {
+  "term": "steradian square metre hertz",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "astronomy and astrophysics",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "teranewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectosecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nautical mile (international)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "calorie (15 °C)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exbibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megabyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "information capacity of one binary digit",
+  "types": [
+   "information capacity"
+  ]
+ },
+ {
+  "term": "tonne of carbon dioxide equivalent per gigawatt hour",
+  "types": [
+   "unit division",
+   "unit"
+  ]
+ },
+ {
+  "term": "biot",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "permeance (materials science) dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "time dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "megaelectronvolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "statmho",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yoctohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "electric field dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "electric dipole moment dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "hertz",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "419.527 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "teracandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "thousand piece",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megavolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettagram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "constant current that produces an attractive force of 2e–7 newton per metre of length between two straight, parallel conductors of infinite length and negligible circular cross section placed one metre apart in a vacuum",
+  "types": [
+   "electric current"
+  ]
+ },
+ {
+  "term": "abfarad",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decikatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtodegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "second (hour angle)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "scoop",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "becquerel",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kiloparsec",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centinewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanopascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "deciweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megaampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettamole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "specific catalytic activity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "zettalumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decijoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "thermal resistance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "megatesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "volume dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "exacoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hartley",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtoampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millimetre of mercury",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "degree Celsius day",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "deciohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microlux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "1234.93 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "centiweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "ton-force (short)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "information technology",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "electric charge dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "centibecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "erg",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kilogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "angular acceleration dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "hectonewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microohm",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "area dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "yottamole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "degree Fahrenheit",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "cup",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "hectokatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "jansky",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "electrical conductance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "yoctocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Glossary_Astronomical_Almanac",
+  "types": [
+   "BookSection"
+  ]
+ },
+ {
+  "term": "sustainability",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "dessertspoon",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "economics",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "decajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gram",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "attodegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "British thermal unit (thermochemical)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "bel",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gibibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "bit",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottamolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centiampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millilitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "newton metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "illuminance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "yoctoweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "year",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zettacoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microhertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attoampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picosteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "ton (short)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "week",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "millilux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Japanese yen",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "electrical resistance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "centitesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centidegree Celsius",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "femtosteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centimolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "examolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "power density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "dynamic viscosity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "microampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attoradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "foot (international)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kelvin mole",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "Astrophysical_Techniques",
+  "types": [
+   "Book"
+  ]
+ },
+ {
+  "term": "femtojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "mole micrometre reciprocal square centimetre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "kilogram square metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "decafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "torr",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "pica (TeX)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yottasiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "circular mil",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "triple point of water thermodynamic temperature",
+  "types": [
+   "thermodynamic temperature"
+  ]
+ },
+ {
+  "term": "femtonewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Mexican peso",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "second",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "mil (angle)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "Australian dollar",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "ton of TNT",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "petasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "electric flux density dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "pebibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "liquid quart (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kilokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centistokes",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Indian rupee",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "dash",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "IntroAstronomicalPhotometry_chapter_2",
+  "types": [
+   "Chapter"
+  ]
+ },
+ {
+  "term": "tablespoon (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "exajoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "cosmology",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "0-5",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megacandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigavolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millisecond (angle)",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectoweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "coulomb metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "darcy",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zeptomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "magnitude",
+  "types": [
+   "singular unit",
+   "unit",
+   "quantity"
+  ]
+ },
+ {
+  "term": "decilitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terabit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decisecond",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Chinese yuan",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megagram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctocoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "megaeuro",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "ampere",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "centijoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zettamolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "drop",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "pennyweight (Troy)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "302.9146 on the Kelvin scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "ton (long)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zebibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctoampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptonewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attogram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottacandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "angular speed dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "decapascal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "milligram RAE",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "lambert",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "ApJ",
+  "types": [
+   "Journal"
+  ]
+ },
+ {
+  "term": "yottalux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "0.01 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "decaweber",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teragram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "-189.3442 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "petakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decalumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottahenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "mebibit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptohenry",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "milligram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "half dozen",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "megaparsec",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigatesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petacoulomb",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "petahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exakelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "luminous efficacy dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "entropy or heat capacity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "footlambert",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "urn:isbn:0943396611",
+  "types": [
+   "Book"
+  ]
+ },
+ {
+  "term": "yoctosteradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gross",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "femtomole",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptocandela",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "pascal",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "yoctosiemens",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "steradian",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "second ampere",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "force dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "gill (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "spread",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "electrical conductivity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "yottagray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "magnetic flux dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "terabecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "centihertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "millilumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "nanokelvin",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kip",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "nanofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "candela",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "hundredweight (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "electric potential dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "fluid mechanics dimensionless numbers",
+  "types": [
+   "application area"
+  ]
+ },
+ {
+  "term": "gigaparsec",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "reluctance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "power dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "decimetre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kilojoule",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gallon (US)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "ohm",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "gamma",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decibecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "oneDistinctSymbolChangeOrSignallingEventMadeToTheTransmissionMediumPerSecondInADigitallyModulatedSignalOrALineCode",
+  "types": [
+   "symbol rate"
+  ]
+ },
+ {
+  "term": "1000 colony forming unit",
+  "types": [
+   "unit multiple",
+   "unit division"
+  ]
+ },
+ {
+  "term": "zettawatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "thermal insulance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "ounce (avoirdupois)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "picosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "decalux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picotesla",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "-38.8344 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "amount of substance dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "heat transfer coefficient dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "rad",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "curie",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "handful",
+  "types": [
+   "unit"
+  ]
+ },
+ {
+  "term": "zeptolitre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gram of carbon dioxide equivalent per kilowatt hour",
+  "types": [
+   "unit division",
+   "unit"
+  ]
+ },
+ {
+  "term": "gigakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "day (sidereal)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "steradian square metre",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "femtobecquerel",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigabyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "micronewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "~-252.85 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "molar",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "zeptofarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "kiloampere",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "acre (international)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "kilomolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "teramolar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigametre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exahertz",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "horsepower (electric)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "revolution",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "delta A450",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "debye",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "decigram",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "exakatal",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "dimensionOne",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "cubic metre kelvin",
+  "types": [
+   "unit multiplication"
+  ]
+ },
+ {
+  "term": "deciradian",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Canadian dollar",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "microbar",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "attonewton",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "Stroemgren1956",
+  "types": [
+   "Article"
+  ]
+ },
+ {
+  "term": "decigray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "-218.7916 on the Celsius scale",
+  "types": [
+   "fixed point"
+  ]
+ },
+ {
+  "term": "teralumen",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "hectometre",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "gigafarad",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yottabit",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "zeptowatt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "picovolt",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "length of the path travelled by light in vacuum during a time interval of 1/299 792 458 of a second",
+  "types": [
+   "length"
+  ]
+ },
+ {
+  "term": "kilosievert",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "microsecond (angle)",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "atmosphere (standard)",
+  "types": [
+   "singular unit",
+   "unit"
+  ]
+ },
+ {
+  "term": "hectolux",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "fluidity dimension",
+  "types": [
+   "dimension"
+  ]
+ },
+ {
+  "term": "exbibyte",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "yoctogray",
+  "types": [
+   "prefixed unit"
+  ]
+ },
+ {
+  "term": "terasievert",
+  "types": [
+   "prefixed unit"
+  ]
+ }
+]

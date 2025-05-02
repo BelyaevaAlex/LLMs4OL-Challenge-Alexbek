@@ -1,0 +1,246 @@
+numeral fraction
+coordination particle
+full form
+open parenthesis
+postposition
+translative case
+question mark
+interrogative determiner
+imperative
+benefactive case
+fused preposition
+cardinal numeral
+full article
+logical expression
+comitative case
+aditive case
+equation
+expression
+interrogative pronoun
+indefinite multiplicative numeral
+cjk_compound
+preterite
+superlative
+instrumental case
+product name
+indefinite ordinal numeral
+legal term
+interrogative multiplicative numeral
+diminutive noun
+pronominal adverb
+affixed personal pronoun
+compound preposition
+light verb
+outdated form
+finite
+indefinite article
+vulgar register
+slang register
+modern
+ironic register
+collective
+interrogative ordinal numeral
+noun
+middle voice
+auxiliary
+terminative case
+multiplicative numeral
+international scientific term
+fused pronoun auxiliary
+exclamative pronoun
+lative case
+exclamative determiner
+vocative case
+string
+relative determiner
+idiom
+superessive case
+preferred term
+deprecated term
+delative case
+possessive
+dual
+nucleus
+relation noun
+adjective-na
+other animacy
+qualifier adjective
+in house register
+participle adjective
+clipped term
+adverb
+preposition
+sku
+non finite
+partitive article
+possessive particle
+inverted comma
+entry term
+standard text
+general adverb
+regulated term
+other number
+neutral register
+formula
+distinctive particle
+nominative case
+standardized term
+negative pronoun
+formal register
+personal pronoun
+numeral
+bound
+transcribed form
+equative case
+weak personal pronoun
+personal
+colon
+absolutive case
+acronym
+dative case
+punctuation
+active voice
+generalization word
+proper noun
+relative particle
+existential pronoun
+presentative pronoun
+sublative case
+taboo register
+short form
+definite article
+ablative case
+collective pronoun
+adjective
+no
+positive
+appellation
+conditional
+unclassified particle
+contraction
+indicative
+mass noun
+conditional pronoun
+imperfect
+genitive case
+demonstrative determiner
+prepositional adverb
+initialism
+interrogative particle
+interrogative cardinal numeral
+plain verb
+possessive adjective
+inanimate
+singular
+particle
+dialect register
+main verb
+slash
+strong personal pronoun
+causative case
+participle
+indefinite cardinal numeral
+indefinite
+comparative particle
+internationalism
+fused preposition pronoun
+copula
+pronoun
+ordinal adjective
+exclamative point
+irreflexive personal pronoun
+abessive case
+possessive pronoun
+semi colon
+string category
+past
+circumposition
+interjection
+comparative
+verb
+subjunctive
+reflexive determiner
+generic numeral
+plural
+elative case
+technical register
+archaic form
+trial
+modal
+obsolete form
+interrogative relative pronoun
+compound
+adverbial pronoun
+definite
+subordinating conjunction
+article
+bullet
+old
+conditional particle
+sociative case
+reflexive personal pronoun
+determiner
+abbreviation
+reflexive possessive pronoun
+short article
+passive voice
+comma
+admitted term
+fused preposition determiner
+conjunction
+present participle adjective
+possessive determiner
+partitive case
+affirmative particle
+point
+future particle
+locative case
+common noun
+set phrase
+demonstrative pronoun
+letter
+future
+facetious register
+symbol
+close parenthesis
+phraseological unit
+yes
+abbreviated form
+direct case
+suspension points
+allative case
+ergative case
+indefinite determiner
+coordinating conjunction
+gerundive
+illative case
+adjective-i
+past participle adjective
+reciprocal pronoun
+accusative case
+deficient verb
+essive case
+superseded term
+quadrial
+animate
+oblique case
+possessive relative pronoun
+adessive case
+bench level register
+allusive pronoun
+inessive case
+impersonal pronoun
+prolative case
+superlative particle
+proverb
+infinitive
+present
+adposition
+common name
+infinitive particle
+paucal
+relative pronoun
+negative particle
+emphatic pronoun
+part number
+indefinite pronoun

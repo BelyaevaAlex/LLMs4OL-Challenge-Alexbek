@@ -1,0 +1,1608 @@
+[
+ {
+  "term": "ironic register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "impersonal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "exclamative point",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "yes",
+  "types": [
+   "cliticness",
+   "negative"
+  ]
+ },
+ {
+  "term": "entry term",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "no",
+  "types": [
+   "cliticness",
+   "negative"
+  ]
+ },
+ {
+  "term": "taboo register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "lative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "vulgar register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "direct case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "irreflexive personal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "nucleus",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "delative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "deficient verb",
+  "types": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "regulated term",
+  "types": [
+   "normative authorization"
+  ]
+ },
+ {
+  "term": "participle",
+  "types": [
+   "verb form mood"
+  ]
+ },
+ {
+  "term": "suspension points",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "existential pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "coordinating conjunction",
+  "types": [
+   "conjunction",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "string category",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "present",
+  "types": [
+   "tense"
+  ]
+ },
+ {
+  "term": "interrogative determiner",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "bound",
+  "types": [
+   "cliticness"
+  ]
+ },
+ {
+  "term": "allative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "imperative",
+  "types": [
+   "mood",
+   "verb form mood"
+  ]
+ },
+ {
+  "term": "imperfect",
+  "types": [
+   "tense"
+  ]
+ },
+ {
+  "term": "qualifier adjective",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "prolative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "plural",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "facetious register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "slash",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "dialect register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "idiom",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "contraction",
+  "types": [
+   "AbbreviatedForm",
+   "term type"
+  ]
+ },
+ {
+  "term": "indefinite cardinal numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "preferred term",
+  "types": [
+   "normative authorization"
+  ]
+ },
+ {
+  "term": "passive voice",
+  "types": [
+   "voice"
+  ]
+ },
+ {
+  "term": "reflexive determiner",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "finite",
+  "types": [
+   "finiteness"
+  ]
+ },
+ {
+  "term": "possessive adjective",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "close parenthesis",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "accusative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "numeral fraction",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "compound",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "open parenthesis",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "inverted comma",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "oblique case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "fused preposition determiner",
+  "types": [
+   "fused preposition",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "conditional particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "instrumental case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "indefinite determiner",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "participle adjective",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "fused preposition",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "adposition",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "definite",
+  "types": [
+   "definiteness"
+  ]
+ },
+ {
+  "term": "conjunction",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "conditional",
+  "types": [
+   "verb form mood"
+  ]
+ },
+ {
+  "term": "generalization word",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "part number",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "abessive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "other animacy",
+  "types": [
+   "animacy"
+  ]
+ },
+ {
+  "term": "personal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "absolutive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "possessive",
+  "types": [
+   "referent type"
+  ]
+ },
+ {
+  "term": "short form",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "indefinite multiplicative numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "compound preposition",
+  "types": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "postposition",
+  "types": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "general adverb",
+  "types": [
+   "adverb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "possessive relative pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "conditional pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "inessive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "essive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "coordination particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "gerundive",
+  "types": [
+   "verb form mood"
+  ]
+ },
+ {
+  "term": "partitive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "main verb",
+  "types": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "internationalism",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "in house register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "demonstrative determiner",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "definite article",
+  "types": [
+   "article",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "personal",
+  "types": [
+   "referent type"
+  ]
+ },
+ {
+  "term": "positive",
+  "types": [
+   "degree"
+  ]
+ },
+ {
+  "term": "symbol",
+  "types": [
+   "Word",
+   "part of speech",
+   "term type"
+  ]
+ },
+ {
+  "term": "sociative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "affirmative particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "outdated form",
+  "types": [
+   "temporal qualifier"
+  ]
+ },
+ {
+  "term": "indefinite article",
+  "types": [
+   "article",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "superessive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "other number",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "translative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "plain verb",
+  "types": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "ergative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "proper noun",
+  "types": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "abbreviation",
+  "types": [
+   "AbbreviatedForm",
+   "term type"
+  ]
+ },
+ {
+  "term": "particle",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "formal register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "unclassified particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "superlative particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "dual",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "possessive pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "standard text",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "multiplicative numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "emphatic pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "common name",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "legal term",
+  "types": [
+   "normative authorization"
+  ]
+ },
+ {
+  "term": "infinitive",
+  "types": [
+   "verb form mood"
+  ]
+ },
+ {
+  "term": "colon",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "acronym",
+  "types": [
+   "AbbreviatedForm",
+   "term type"
+  ]
+ },
+ {
+  "term": "demonstrative pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "adjective-na",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "mass noun",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "superlative",
+  "types": [
+   "degree"
+  ]
+ },
+ {
+  "term": "generic numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "causative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "point",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "interrogative cardinal numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "expression",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "ordinal adjective",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "technical register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "possessive particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "negative particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "copula",
+  "types": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "non finite",
+  "types": [
+   "finiteness"
+  ]
+ },
+ {
+  "term": "inanimate",
+  "types": [
+   "animacy"
+  ]
+ },
+ {
+  "term": "fused preposition pronoun",
+  "types": [
+   "fused preposition",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "international scientific term",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "full form",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "singular",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "clipped term",
+  "types": [
+   "AbbreviatedForm",
+   "term type"
+  ]
+ },
+ {
+  "term": "superseded term",
+  "types": [
+   "normative authorization"
+  ]
+ },
+ {
+  "term": "adjective",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "relative determiner",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "abbreviated form",
+  "types": [
+   "AbbreviatedForm",
+   "term type"
+  ]
+ },
+ {
+  "term": "active voice",
+  "types": [
+   "voice"
+  ]
+ },
+ {
+  "term": "numeral",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "old",
+  "types": [
+   "dating"
+  ]
+ },
+ {
+  "term": "preterite",
+  "types": [
+   "tense"
+  ]
+ },
+ {
+  "term": "interrogative particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "adessive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "elative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "archaic form",
+  "types": [
+   "temporal qualifier"
+  ]
+ },
+ {
+  "term": "possessive determiner",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "allusive pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "full article",
+  "types": [
+   "definiteness"
+  ]
+ },
+ {
+  "term": "middle voice",
+  "types": [
+   "voice"
+  ]
+ },
+ {
+  "term": "transcribed form",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "interrogative relative pronoun",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "circumposition",
+  "types": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "noun",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "benefactive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "adverbial pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "formula",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "standardized term",
+  "types": [
+   "normative authorization"
+  ]
+ },
+ {
+  "term": "semi colon",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "adverb",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "future particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "animate",
+  "types": [
+   "animacy"
+  ]
+ },
+ {
+  "term": "admitted term",
+  "types": [
+   "normative authorization"
+  ]
+ },
+ {
+  "term": "article",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "exclamative determiner",
+  "types": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "slang register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "sku",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "letter",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "modern",
+  "types": [
+   "dating"
+  ]
+ },
+ {
+  "term": "modal",
+  "types": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "collective pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "question mark",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "cjk_compound",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "equative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "nominative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "bullet",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "past",
+  "types": [
+   "tense"
+  ]
+ },
+ {
+  "term": "infinitive particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "indicative",
+  "types": [
+   "mood",
+   "verb form mood"
+  ]
+ },
+ {
+  "term": "paucal",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "set phrase",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "dative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "reflexive personal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "logical expression",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "neutral register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "future",
+  "types": [
+   "tense"
+  ]
+ },
+ {
+  "term": "reflexive possessive pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "comparative particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "interjection",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "affixed personal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "presentative pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "indefinite ordinal numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "determiner",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "illative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "ablative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "relation noun",
+  "types": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "light verb",
+  "types": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "past participle adjective",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "diminutive noun",
+  "types": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "locative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "indefinite pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "exclamative pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "indefinite",
+  "types": [
+   "definiteness"
+  ]
+ },
+ {
+  "term": "initialism",
+  "types": [
+   "AbbreviatedForm",
+   "term type"
+  ]
+ },
+ {
+  "term": "preposition",
+  "types": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "terminative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "pronoun",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "comparative",
+  "types": [
+   "degree"
+  ]
+ },
+ {
+  "term": "quadrial",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "common noun",
+  "types": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "interrogative ordinal numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "prepositional adverb",
+  "types": [
+   "adverb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "relative pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "verb",
+  "types": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "weak personal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "appellation",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "cardinal numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "aditive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "vocative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "trial",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "deprecated term",
+  "types": [
+   "normative authorization"
+  ]
+ },
+ {
+  "term": "obsolete form",
+  "types": [
+   "temporal qualifier"
+  ]
+ },
+ {
+  "term": "subordinating conjunction",
+  "types": [
+   "conjunction",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "string",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "pronominal adverb",
+  "types": [
+   "adverb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "product name",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "auxiliary",
+  "types": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "punctuation",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "genitive case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "partitive article",
+  "types": [
+   "article",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "collective",
+  "types": [
+   "number"
+  ]
+ },
+ {
+  "term": "negative pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "interrogative pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "sublative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "strong personal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "comitative case",
+  "types": [
+   "case"
+  ]
+ },
+ {
+  "term": "adjective-i",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "reciprocal pronoun",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "comma",
+  "types": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "equation",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "short article",
+  "types": [
+   "definiteness"
+  ]
+ },
+ {
+  "term": "relative particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "present participle adjective",
+  "types": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "distinctive particle",
+  "types": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "bench level register",
+  "types": [
+   "register"
+  ]
+ },
+ {
+  "term": "subjunctive",
+  "types": [
+   "mood",
+   "verb form mood"
+  ]
+ },
+ {
+  "term": "phraseological unit",
+  "types": [
+   "term type"
+  ]
+ },
+ {
+  "term": "interrogative multiplicative numeral",
+  "types": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "fused pronoun auxiliary",
+  "types": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "term": "proverb",
+  "types": [
+   "term type"
+  ]
+ }
+]

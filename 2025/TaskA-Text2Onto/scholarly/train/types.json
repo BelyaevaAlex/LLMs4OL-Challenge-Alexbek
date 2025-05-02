@@ -1,0 +1,1638 @@
+[
+ {
+  "type": "ditransitive frame_ to",
+  "parents": [
+   "ditransitive frame"
+  ]
+ },
+ {
+  "type": "impersonal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "exclamative point",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "transitive pp frame",
+  "parents": [
+   "transitive frame"
+  ]
+ },
+ {
+  "type": "nominal complement frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "register",
+  "parents": []
+ },
+ {
+  "type": "adjective superlative frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "adpositional object",
+  "parents": [
+   "object"
+  ]
+ },
+ {
+  "type": "irreflexive personal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "deficient verb",
+  "parents": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "suspension points",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "existential pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "coordinating conjunction",
+  "parents": [
+   "conjunction",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive interrogative frame",
+  "parents": [
+   "interrogative frame"
+  ]
+ },
+ {
+  "type": "adjective accusative post positive frame",
+  "parents": [
+   "adjective post positive frame"
+  ]
+ },
+ {
+  "type": "interrogative determiner",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive pp frame",
+  "parents": [
+   "intransitive frame"
+  ]
+ },
+ {
+  "type": "transitive interrogative infinitive frame",
+  "parents": [
+   "interrogative infinitive frame"
+  ]
+ },
+ {
+  "type": "infinitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "prepositional phrase frame",
+  "parents": [
+   "preposition frame"
+  ]
+ },
+ {
+  "type": "qualifier adjective",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "post positive arg",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "gerund frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "slash",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive infinitive ac frame",
+  "parents": [
+   "infinitive frame"
+  ]
+ },
+ {
+  "type": "indirect object",
+  "parents": [
+   "object"
+  ]
+ },
+ {
+  "type": "SyntacticArgument",
+  "parents": []
+ },
+ {
+  "type": "transitive nominal complement frame",
+  "parents": [
+   "transitive frame"
+  ]
+ },
+ {
+  "type": "indefinite cardinal numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "prepositional frame",
+  "parents": [
+   "SyntacticFrame"
+  ]
+ },
+ {
+  "type": "AccusativePostPositiveArg",
+  "parents": [
+   "post positive arg"
+  ]
+ },
+ {
+  "type": "reflexive determiner",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "close parenthesis",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "possessive adjective",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "preposition frame",
+  "parents": [
+   "SyntacticFrame"
+  ]
+ },
+ {
+  "type": "numeral fraction",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "open parenthesis",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "inverted comma",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "AbbreviatedForm",
+  "parents": [
+   "term type"
+  ]
+ },
+ {
+  "type": "fused preposition determiner",
+  "parents": [
+   "fused preposition",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "gerund oc frame",
+  "parents": [
+   "gerund frame"
+  ]
+ },
+ {
+  "type": "possessive adjunct",
+  "parents": [
+   "adjunct"
+  ]
+ },
+ {
+  "type": "impersonal intransitive frame",
+  "parents": [
+   "impersonal frame"
+  ]
+ },
+ {
+  "type": "conditional particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "prepositional adjunct",
+  "parents": [
+   "adjunct"
+  ]
+ },
+ {
+  "type": "declarative frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "interrogative frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "indefinite determiner",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "gerund ac frame",
+  "parents": [
+   "gerund frame"
+  ]
+ },
+ {
+  "type": "participle adjective",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "SyntacticFrame",
+  "parents": []
+ },
+ {
+  "type": "fused preposition",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adposition",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "prepositional object",
+  "parents": [
+   "adpositional object"
+  ]
+ },
+ {
+  "type": "morphological root",
+  "parents": [
+   "LexicalEntry"
+  ]
+ },
+ {
+  "type": "conjunction",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "generalization word",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "tense",
+  "parents": []
+ },
+ {
+  "type": "personal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "raising subject",
+  "parents": [
+   "control"
+  ]
+ },
+ {
+  "type": "direct object",
+  "parents": [
+   "object"
+  ]
+ },
+ {
+  "type": "subjectless transitive frame",
+  "parents": [
+   "subjectless frame"
+  ]
+ },
+ {
+  "type": "indefinite multiplicative numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "referent type",
+  "parents": []
+ },
+ {
+  "type": "compound preposition",
+  "parents": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "postposition",
+  "parents": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "general adverb",
+  "parents": [
+   "adverb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "possessive relative pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "finiteness",
+  "parents": []
+ },
+ {
+  "type": "conditional pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "pp frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "coordination particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "degree",
+  "parents": []
+ },
+ {
+  "type": "verb frame",
+  "parents": [
+   "SyntacticFrame"
+  ]
+ },
+ {
+  "type": "main verb",
+  "parents": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "demonstrative determiner",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "definite article",
+  "parents": [
+   "article",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "object complement",
+  "parents": [
+   "complement"
+  ]
+ },
+ {
+  "type": "subjectless intransitive frame",
+  "parents": [
+   "subjectless frame"
+  ]
+ },
+ {
+  "type": "arbitrary control",
+  "parents": [
+   "control"
+  ]
+ },
+ {
+  "type": "symbol",
+  "parents": [
+   "Word",
+   "part of speech",
+   "term type"
+  ]
+ },
+ {
+  "type": "control",
+  "parents": [
+   "SyntacticFrame"
+  ]
+ },
+ {
+  "type": "noun frame",
+  "parents": [
+   "SyntacticFrame"
+  ]
+ },
+ {
+  "type": "transitive infinitive sc frame",
+  "parents": [
+   "infinitive frame"
+  ]
+ },
+ {
+  "type": "affirmative particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "indefinite article",
+  "parents": [
+   "article",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "GenitivePostPositiveArg",
+  "parents": [
+   "post positive arg"
+  ]
+ },
+ {
+  "type": "plain verb",
+  "parents": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "proper noun",
+  "parents": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "reflexive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "particle",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "unclassified particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive declarative frame",
+  "parents": [
+   "declarative frame"
+  ]
+ },
+ {
+  "type": "adjective predicate frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "genitive transitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "superlative particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "reciprocal frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "multiplicative numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "demonstrative pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "emphatic pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "reflexive transitive frame",
+  "parents": [
+   "reflexive frame"
+  ]
+ },
+ {
+  "type": "reflexive reciprocal frame",
+  "parents": [
+   "reflexive frame"
+  ]
+ },
+ {
+  "type": "colon",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjective scale frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "definiteness",
+  "parents": []
+ },
+ {
+  "type": "term type",
+  "parents": []
+ },
+ {
+  "type": "adjective-na",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "DativePostPositiveArg",
+  "parents": [
+   "post positive arg"
+  ]
+ },
+ {
+  "type": "attributive arg",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "normative authorization",
+  "parents": []
+ },
+ {
+  "type": "generic numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive sentential frame",
+  "parents": [
+   "sentential frame"
+  ]
+ },
+ {
+  "type": "ditransitive frame_ for",
+  "parents": [
+   "ditransitive frame"
+  ]
+ },
+ {
+  "type": "point",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "interrogative cardinal numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "possessive particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "reflexive transitive pp frame",
+  "parents": [
+   "reflexive frame"
+  ]
+ },
+ {
+  "type": "preposition",
+  "parents": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "copula",
+  "parents": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "negative particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "ordinal adjective",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "fused preposition pronoun",
+  "parents": [
+   "fused preposition",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "gerund sc frame",
+  "parents": [
+   "gerund frame"
+  ]
+ },
+ {
+  "type": "dative transitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "copulative subject",
+  "parents": [
+   "subject",
+   "copulative arg"
+  ]
+ },
+ {
+  "type": "genitive ditransitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "transitive infinitive ac frame",
+  "parents": [
+   "infinitive frame"
+  ]
+ },
+ {
+  "type": "predicative adverb",
+  "parents": [
+   "complement"
+  ]
+ },
+ {
+  "type": "adjective predicative frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "adverbial complement frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "adjective",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjective genitive post positive frame",
+  "parents": [
+   "adjective post positive frame"
+  ]
+ },
+ {
+  "type": "transitive adjectival complement frame",
+  "parents": [
+   "transitive frame"
+  ]
+ },
+ {
+  "type": "sentential frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "relative determiner",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "numeral",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "subjectless intransitive pp frame",
+  "parents": [
+   "subjectless intransitive frame"
+  ]
+ },
+ {
+  "type": "morphological stem",
+  "parents": [
+   "LexicalEntry"
+  ]
+ },
+ {
+  "type": "interrogative particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive adjectival complement frame",
+  "parents": [
+   "intransitive frame"
+  ]
+ },
+ {
+  "type": "intransitive adverbial complement frame",
+  "parents": [
+   "intransitive frame"
+  ]
+ },
+ {
+  "type": "predicative adjunct",
+  "parents": [
+   "adjunct"
+  ]
+ },
+ {
+  "type": "transitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "allusive pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "complement",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "possessive determiner",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adverbial complement",
+  "parents": [
+   "complement"
+  ]
+ },
+ {
+  "type": "intransitive pp declarative frame",
+  "parents": [
+   "declarative frame"
+  ]
+ },
+ {
+  "type": "predicative adjective",
+  "parents": [
+   "complement"
+  ]
+ },
+ {
+  "type": "comparative adjunct",
+  "parents": [
+   "predicative adjunct"
+  ]
+ },
+ {
+  "type": "ditransitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "intransitive interrogative infinitive frame",
+  "parents": [
+   "interrogative infinitive frame"
+  ]
+ },
+ {
+  "type": "mood",
+  "parents": []
+ },
+ {
+  "type": "circumposition",
+  "parents": [
+   "adposition",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "voice",
+  "parents": []
+ },
+ {
+  "type": "interrogative relative pronoun",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "superlative adjunct",
+  "parents": [
+   "predicative adjunct"
+  ]
+ },
+ {
+  "type": "noun",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "object",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "adverbial pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "reflexive object",
+  "parents": [
+   "object"
+  ]
+ },
+ {
+  "type": "reflexive ditransitive frame",
+  "parents": [
+   "reflexive frame"
+  ]
+ },
+ {
+  "type": "semi colon",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "copulative arg",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "noun predicate frame",
+  "parents": [
+   "noun frame"
+  ]
+ },
+ {
+  "type": "adverb",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "future particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "verb form mood",
+  "parents": []
+ },
+ {
+  "type": "article",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "exclamative determiner",
+  "parents": [
+   "determiner",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "letter",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "transitive adverbial complement frame",
+  "parents": [
+   "transitive frame"
+  ]
+ },
+ {
+  "type": "modal",
+  "parents": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "collective pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive nominal complement frame",
+  "parents": [
+   "intransitive frame"
+  ]
+ },
+ {
+  "type": "question mark",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "bullet",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "RaisableArgument",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "noun pp frame",
+  "parents": [
+   "noun frame"
+  ]
+ },
+ {
+  "type": "infinitive particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "impersonal frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "reflexive personal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "case",
+  "parents": []
+ },
+ {
+  "type": "comparative particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "dating",
+  "parents": []
+ },
+ {
+  "type": "reflexive possessive pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "part of speech",
+  "parents": []
+ },
+ {
+  "type": "intransitive infinitive rs frame",
+  "parents": [
+   "infinitive frame"
+  ]
+ },
+ {
+  "type": "adjunct",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "affixed personal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "interjection",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "presentative pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "indefinite ordinal numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjective comparative frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "determiner",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjective impersonal frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "object control",
+  "parents": [
+   "control"
+  ]
+ },
+ {
+  "type": "subjectless transitive pp frame",
+  "parents": [
+   "subjectless transitive frame"
+  ]
+ },
+ {
+  "type": "relation noun",
+  "parents": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "light verb",
+  "parents": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjective dative post positive frame",
+  "parents": [
+   "adjective post positive frame"
+  ]
+ },
+ {
+  "type": "past participle adjective",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "number",
+  "parents": []
+ },
+ {
+  "type": "diminutive noun",
+  "parents": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "indefinite pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "transitive interrogative frame",
+  "parents": [
+   "interrogative frame"
+  ]
+ },
+ {
+  "type": "intransitive infinitive sc frame",
+  "parents": [
+   "infinitive frame"
+  ]
+ },
+ {
+  "type": "predicative nominative",
+  "parents": [
+   "complement"
+  ]
+ },
+ {
+  "type": "animacy",
+  "parents": []
+ },
+ {
+  "type": "subject",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "genitive object",
+  "parents": [
+   "object"
+  ]
+ },
+ {
+  "type": "adjective pp frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "pronoun",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjectival complement frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "adjective post positive frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "common noun",
+  "parents": [
+   "noun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "transitive sentential frame",
+  "parents": [
+   "sentential frame"
+  ]
+ },
+ {
+  "type": "interrogative ordinal numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "verb",
+  "parents": [
+   "Word",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "transitive declarative frame",
+  "parents": [
+   "declarative frame"
+  ]
+ },
+ {
+  "type": "prepositional adverb",
+  "parents": [
+   "adverb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "relative pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "possessive pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "cardinal numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "ditransitive double accusative frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "weak personal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "intransitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "exclamative pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "impersonal intransitive pp frame",
+  "parents": [
+   "prepositional frame"
+  ]
+ },
+ {
+  "type": "subordinating conjunction",
+  "parents": [
+   "conjunction",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "pronominal adverb",
+  "parents": [
+   "adverb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "punctuation",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "auxiliary",
+  "parents": [
+   "verb",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "reflexive dative transitive frame",
+  "parents": [
+   "reflexive frame"
+  ]
+ },
+ {
+  "type": "prepositional interrogative frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "partitive article",
+  "parents": [
+   "article",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "impersonal transitive frame",
+  "parents": [
+   "impersonal frame"
+  ]
+ },
+ {
+  "type": "negative pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjective attributive frame",
+  "parents": [
+   "adjective frame"
+  ]
+ },
+ {
+  "type": "interrogative pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "LexicalEntry",
+  "parents": []
+ },
+ {
+  "type": "strong personal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "comma",
+  "parents": [
+   "symbol",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "cliticness",
+  "parents": []
+ },
+ {
+  "type": "interrogative infinitive frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "reciprocal pronoun",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "adjective-i",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "clausal arg",
+  "parents": [
+   "SyntacticArgument"
+  ]
+ },
+ {
+  "type": "relative particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "present participle adjective",
+  "parents": [
+   "adjective",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "subject control",
+  "parents": [
+   "control"
+  ]
+ },
+ {
+  "type": "adjective frame",
+  "parents": [
+   "SyntacticFrame"
+  ]
+ },
+ {
+  "type": "subjectless frame",
+  "parents": [
+   "verb frame"
+  ]
+ },
+ {
+  "type": "transitive infinitive oc frame",
+  "parents": [
+   "infinitive frame"
+  ]
+ },
+ {
+  "type": "distinctive particle",
+  "parents": [
+   "particle",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "noun possessive frame",
+  "parents": [
+   "noun frame"
+  ]
+ },
+ {
+  "type": "temporal qualifier",
+  "parents": []
+ },
+ {
+  "type": "interrogative multiplicative numeral",
+  "parents": [
+   "numeral",
+   "part of speech"
+  ]
+ },
+ {
+  "type": "Word",
+  "parents": []
+ },
+ {
+  "type": "fused pronoun auxiliary",
+  "parents": [
+   "pronoun",
+   "part of speech"
+  ]
+ }
+]

@@ -1,0 +1,826 @@
+{
+  "ditransitive frame_ to": [
+    "14_0"
+  ],
+  "impersonal pronoun": [
+    "10_0"
+  ],
+  "exclamative point": [
+    "5_0"
+  ],
+  "transitive pp frame": [
+    "12_0"
+  ],
+  "nominal complement frame": [
+    "14_0"
+  ],
+  "register": [
+    "13_0"
+  ],
+  "adjective superlative frame": [
+    "16_0"
+  ],
+  "adpositional object": [
+    "6_0"
+  ],
+  "irreflexive personal pronoun": [
+    "10_1"
+  ],
+  "deficient verb": [
+    "10_3"
+  ],
+  "suspension points": [
+    "5_0"
+  ],
+  "existential pronoun": [
+    "10_1"
+  ],
+  "coordinating conjunction": [
+    "10_2"
+  ],
+  "intransitive interrogative frame": [
+    "14_0"
+  ],
+  "adjective accusative post positive frame": [
+    "16_0"
+  ],
+  "interrogative determiner": [
+    "10_1"
+  ],
+  "intransitive pp frame": [
+    "14_0"
+  ],
+  "transitive interrogative infinitive frame": [
+    "14_0"
+  ],
+  "infinitive frame": [
+    "14_0"
+  ],
+  "prepositional phrase frame": [
+    "42_0"
+  ],
+  "qualifier adjective": [
+    "10_1"
+  ],
+  "post positive arg": [
+    "27_0"
+  ],
+  "gerund frame": [
+    "14_0"
+  ],
+  "slash": [
+    "5_0"
+  ],
+  "intransitive infinitive ac frame": [
+    "14_0"
+  ],
+  "indirect object": [
+    "6_0"
+  ],
+  "SyntacticArgument": [
+    "27_0"
+  ],
+  "transitive nominal complement frame": [
+    "12_0"
+  ],
+  "indefinite cardinal numeral": [
+    "10_0"
+  ],
+  "prepositional frame": [
+    "24_0",
+    "44_0"
+  ],
+  "AccusativePostPositiveArg": [
+    "27_0"
+  ],
+  "reflexive determiner": [
+    "10_1"
+  ],
+  "close parenthesis": [
+    "5_0"
+  ],
+  "possessive adjective": [
+    "10_1"
+  ],
+  "preposition frame": [
+    "44_0",
+    "42_0"
+  ],
+  "numeral fraction": [
+    "10_0"
+  ],
+  "open parenthesis": [
+    "5_0"
+  ],
+  "inverted comma": [
+    "5_0"
+  ],
+  "AbbreviatedForm": [
+    "5_0",
+    "5_1"
+  ],
+  "fused preposition determiner": [
+    "10_0"
+  ],
+  "gerund oc frame": [
+    "14_0"
+  ],
+  "possessive adjunct": [
+    "4_0"
+  ],
+  "impersonal intransitive frame": [
+    "14_0"
+  ],
+  "conditional particle": [
+    "10_3"
+  ],
+  "prepositional adjunct": [
+    "4_0"
+  ],
+  "declarative frame": [
+    "0_0",
+    "14_0"
+  ],
+  "interrogative frame": [
+    "14_0"
+  ],
+  "indefinite determiner": [
+    "10_1"
+  ],
+  "gerund ac frame": [
+    "14_0"
+  ],
+  "participle adjective": [
+    "10_1"
+  ],
+  "SyntacticFrame": [
+    "44_0"
+  ],
+  "fused preposition": [
+    "10_0",
+    "10_4",
+    "30_0"
+  ],
+  "adposition": [
+    "10_0",
+    "10_4",
+    "30_0"
+  ],
+  "prepositional object": [
+    "6_0"
+  ],
+  "morphological root": [
+    "37_0"
+  ],
+  "conjunction": [
+    "10_2",
+    "10_4",
+    "30_0"
+  ],
+  "generalization word": [
+    "30_0"
+  ],
+  "tense": [
+    "38_0"
+  ],
+  "personal pronoun": [
+    "10_0"
+  ],
+  "raising subject": [
+    "31_0"
+  ],
+  "direct object": [
+    "6_0"
+  ],
+  "subjectless transitive frame": [
+    "23_0",
+    "14_0"
+  ],
+  "indefinite multiplicative numeral": [
+    "10_0"
+  ],
+  "referent type": [
+    "43_0"
+  ],
+  "compound preposition": [
+    "10_0"
+  ],
+  "postposition": [
+    "10_0"
+  ],
+  "general adverb": [
+    "10_0"
+  ],
+  "possessive relative pronoun": [
+    "10_1"
+  ],
+  "finiteness": [
+    "40_0"
+  ],
+  "conditional pronoun": [
+    "10_0"
+  ],
+  "pp frame": [
+    "14_0"
+  ],
+  "coordination particle": [
+    "10_3"
+  ],
+  "degree": [
+    "18_0"
+  ],
+  "verb frame": [
+    "14_0",
+    "44_0"
+  ],
+  "main verb": [
+    "10_3"
+  ],
+  "demonstrative determiner": [
+    "10_1"
+  ],
+  "definite article": [
+    "10_4"
+  ],
+  "object complement": [
+    "27_0"
+  ],
+  "subjectless intransitive frame": [
+    "29_0",
+    "14_0"
+  ],
+  "arbitrary control": [
+    "31_0"
+  ],
+  "symbol": [
+    "5_0",
+    "30_0"
+  ],
+  "control": [
+    "44_0",
+    "31_0"
+  ],
+  "noun frame": [
+    "44_0",
+    "21_0"
+  ],
+  "transitive infinitive sc frame": [
+    "14_0"
+  ],
+  "affirmative particle": [
+    "10_3"
+  ],
+  "indefinite article": [
+    "10_4"
+  ],
+  "GenitivePostPositiveArg": [
+    "27_0"
+  ],
+  "plain verb": [
+    "10_3"
+  ],
+  "proper noun": [
+    "10_2"
+  ],
+  "reflexive frame": [
+    "7_0",
+    "14_0"
+  ],
+  "particle": [
+    "10_3",
+    "10_4",
+    "30_0"
+  ],
+  "unclassified particle": [
+    "10_3"
+  ],
+  "intransitive declarative frame": [
+    "0_0"
+  ],
+  "adjective predicate frame": [
+    "16_0"
+  ],
+  "genitive transitive frame": [
+    "14_0"
+  ],
+  "superlative particle": [
+    "10_3"
+  ],
+  "reciprocal frame": [
+    "14_0"
+  ],
+  "multiplicative numeral": [
+    "10_0"
+  ],
+  "demonstrative pronoun": [
+    "10_0"
+  ],
+  "emphatic pronoun": [
+    "10_1"
+  ],
+  "reflexive transitive frame": [
+    "7_0"
+  ],
+  "reflexive reciprocal frame": [
+    "7_0"
+  ],
+  "colon": [
+    "5_0"
+  ],
+  "adjective scale frame": [
+    "16_0"
+  ],
+  "definiteness": [
+    "34_0"
+  ],
+  "term type": [
+    "5_0"
+  ],
+  "adjective-na": [
+    "10_1"
+  ],
+  "DativePostPositiveArg": [
+    "27_0"
+  ],
+  "attributive arg": [
+    "27_0"
+  ],
+  "normative authorization": [
+    "26_0"
+  ],
+  "generic numeral": [
+    "10_0"
+  ],
+  "intransitive sentential frame": [
+    "14_0"
+  ],
+  "ditransitive frame_ for": [
+    "14_0"
+  ],
+  "point": [
+    "5_0"
+  ],
+  "interrogative cardinal numeral": [
+    "10_0"
+  ],
+  "possessive particle": [
+    "10_3"
+  ],
+  "reflexive transitive pp frame": [
+    "7_0"
+  ],
+  "preposition": [
+    "10_0"
+  ],
+  "copula": [
+    "10_3"
+  ],
+  "negative particle": [
+    "10_3"
+  ],
+  "ordinal adjective": [
+    "10_1"
+  ],
+  "fused preposition pronoun": [
+    "10_0"
+  ],
+  "gerund sc frame": [
+    "14_0"
+  ],
+  "dative transitive frame": [
+    "14_0"
+  ],
+  "copulative subject": [
+    "27_0"
+  ],
+  "genitive ditransitive frame": [
+    "14_0"
+  ],
+  "transitive infinitive ac frame": [
+    "14_0"
+  ],
+  "predicative adverb": [
+    "27_0"
+  ],
+  "adjective predicative frame": [
+    "16_0"
+  ],
+  "adverbial complement frame": [
+    "14_0"
+  ],
+  "adjective": [
+    "10_4",
+    "10_1",
+    "30_0"
+  ],
+  "adjective genitive post positive frame": [
+    "16_0"
+  ],
+  "transitive adjectival complement frame": [
+    "12_0"
+  ],
+  "sentential frame": [
+    "14_0"
+  ],
+  "relative determiner": [
+    "10_1"
+  ],
+  "numeral": [
+    "10_0",
+    "10_4",
+    "30_0"
+  ],
+  "subjectless intransitive pp frame": [
+    "29_0"
+  ],
+  "morphological stem": [
+    "37_0"
+  ],
+  "interrogative particle": [
+    "10_3"
+  ],
+  "intransitive adjectival complement frame": [
+    "14_0"
+  ],
+  "intransitive adverbial complement frame": [
+    "14_0"
+  ],
+  "predicative adjunct": [
+    "4_0"
+  ],
+  "transitive frame": [
+    "12_0",
+    "14_0"
+  ],
+  "allusive pronoun": [
+    "10_1"
+  ],
+  "complement": [
+    "27_0"
+  ],
+  "possessive determiner": [
+    "10_1"
+  ],
+  "adverbial complement": [
+    "27_0"
+  ],
+  "intransitive pp declarative frame": [
+    "0_0"
+  ],
+  "predicative adjective": [
+    "27_0"
+  ],
+  "comparative adjunct": [
+    "4_0"
+  ],
+  "ditransitive frame": [
+    "14_0"
+  ],
+  "intransitive interrogative infinitive frame": [
+    "14_0"
+  ],
+  "mood": [
+    "1_0"
+  ],
+  "circumposition": [
+    "10_0"
+  ],
+  "voice": [
+    "11_0"
+  ],
+  "interrogative relative pronoun": [
+    "30_0"
+  ],
+  "superlative adjunct": [
+    "4_0"
+  ],
+  "noun": [
+    "10_2",
+    "10_4",
+    "30_0"
+  ],
+  "object": [
+    "27_0",
+    "6_0"
+  ],
+  "adverbial pronoun": [
+    "10_0"
+  ],
+  "reflexive object": [
+    "6_0"
+  ],
+  "reflexive ditransitive frame": [
+    "7_0"
+  ],
+  "semi colon": [
+    "5_0"
+  ],
+  "copulative arg": [
+    "27_0"
+  ],
+  "noun predicate frame": [
+    "21_0"
+  ],
+  "adverb": [
+    "10_0",
+    "10_4",
+    "30_0"
+  ],
+  "future particle": [
+    "10_3"
+  ],
+  "verb form mood": [
+    "2_0"
+  ],
+  "article": [
+    "10_2",
+    "10_4"
+  ],
+  "exclamative determiner": [
+    "10_2"
+  ],
+  "letter": [
+    "5_0"
+  ],
+  "transitive adverbial complement frame": [
+    "12_0"
+  ],
+  "modal": [
+    "10_3"
+  ],
+  "collective pronoun": [
+    "10_1"
+  ],
+  "intransitive nominal complement frame": [
+    "14_0"
+  ],
+  "question mark": [
+    "5_0"
+  ],
+  "bullet": [
+    "5_0"
+  ],
+  "RaisableArgument": [
+    "27_0"
+  ],
+  "noun pp frame": [
+    "21_0"
+  ],
+  "infinitive particle": [
+    "10_3"
+  ],
+  "impersonal frame": [
+    "14_0"
+  ],
+  "reflexive personal pronoun": [
+    "10_1"
+  ],
+  "case": [
+    "3_0"
+  ],
+  "comparative particle": [
+    "10_3"
+  ],
+  "dating": [
+    "39_0"
+  ],
+  "reflexive possessive pronoun": [
+    "10_1"
+  ],
+  "part of speech": [
+    "10_3",
+    "10_1",
+    "10_0",
+    "10_2",
+    "10_4"
+  ],
+  "intransitive infinitive rs frame": [
+    "14_0"
+  ],
+  "adjunct": [
+    "27_0",
+    "4_0"
+  ],
+  "affixed personal pronoun": [
+    "10_1"
+  ],
+  "interjection": [
+    "30_0"
+  ],
+  "presentative pronoun": [
+    "10_0"
+  ],
+  "indefinite ordinal numeral": [
+    "10_0"
+  ],
+  "adjective comparative frame": [
+    "16_0"
+  ],
+  "determiner": [
+    "10_4",
+    "10_2",
+    "10_1",
+    "30_0"
+  ],
+  "adjective impersonal frame": [
+    "16_0"
+  ],
+  "object control": [
+    "31_0"
+  ],
+  "subjectless transitive pp frame": [
+    "23_0"
+  ],
+  "relation noun": [
+    "10_2"
+  ],
+  "light verb": [
+    "10_3"
+  ],
+  "adjective dative post positive frame": [
+    "16_0"
+  ],
+  "past participle adjective": [
+    "10_1"
+  ],
+  "number": [
+    "15_0"
+  ],
+  "diminutive noun": [
+    "10_2"
+  ],
+  "indefinite pronoun": [
+    "10_0"
+  ],
+  "transitive interrogative frame": [
+    "14_0"
+  ],
+  "intransitive infinitive sc frame": [
+    "14_0"
+  ],
+  "predicative nominative": [
+    "27_0"
+  ],
+  "animacy": [
+    "41_0"
+  ],
+  "subject": [
+    "27_0"
+  ],
+  "genitive object": [
+    "6_0"
+  ],
+  "adjective pp frame": [
+    "16_0"
+  ],
+  "pronoun": [
+    "10_4",
+    "10_0",
+    "10_1",
+    "30_0"
+  ],
+  "adjectival complement frame": [
+    "14_0"
+  ],
+  "adjective post positive frame": [
+    "16_0"
+  ],
+  "common noun": [
+    "10_2"
+  ],
+  "transitive sentential frame": [
+    "14_0"
+  ],
+  "interrogative ordinal numeral": [
+    "10_0"
+  ],
+  "verb": [
+    "10_3",
+    "10_4",
+    "30_0"
+  ],
+  "transitive declarative frame": [
+    "0_0"
+  ],
+  "prepositional adverb": [
+    "10_0"
+  ],
+  "relative pronoun": [
+    "10_0"
+  ],
+  "possessive pronoun": [
+    "10_0"
+  ],
+  "cardinal numeral": [
+    "10_0"
+  ],
+  "ditransitive double accusative frame": [
+    "14_0"
+  ],
+  "weak personal pronoun": [
+    "10_1"
+  ],
+  "intransitive frame": [
+    "14_0"
+  ],
+  "exclamative pronoun": [
+    "10_1"
+  ],
+  "impersonal intransitive pp frame": [
+    "24_0"
+  ],
+  "subordinating conjunction": [
+    "10_2"
+  ],
+  "pronominal adverb": [
+    "10_0"
+  ],
+  "punctuation": [
+    "5_0"
+  ],
+  "auxiliary": [
+    "10_3"
+  ],
+  "reflexive dative transitive frame": [
+    "7_0"
+  ],
+  "prepositional interrogative frame": [
+    "14_0"
+  ],
+  "partitive article": [
+    "10_4"
+  ],
+  "impersonal transitive frame": [
+    "14_0"
+  ],
+  "negative pronoun": [
+    "10_0"
+  ],
+  "adjective attributive frame": [
+    "16_0"
+  ],
+  "interrogative pronoun": [
+    "10_1"
+  ],
+  "LexicalEntry": [
+    "37_0"
+  ],
+  "strong personal pronoun": [
+    "10_1"
+  ],
+  "comma": [
+    "5_0"
+  ],
+  "cliticness": [
+    "8_0"
+  ],
+  "interrogative infinitive frame": [
+    "14_0"
+  ],
+  "reciprocal pronoun": [
+    "10_0"
+  ],
+  "adjective-i": [
+    "10_1"
+  ],
+  "clausal arg": [
+    "27_0"
+  ],
+  "relative particle": [
+    "10_3"
+  ],
+  "present participle adjective": [
+    "10_1"
+  ],
+  "subject control": [
+    "31_0"
+  ],
+  "adjective frame": [
+    "16_0",
+    "44_0"
+  ],
+  "subjectless frame": [
+    "14_0"
+  ],
+  "transitive infinitive oc frame": [
+    "14_0"
+  ],
+  "distinctive particle": [
+    "10_3"
+  ],
+  "noun possessive frame": [
+    "21_0"
+  ],
+  "temporal qualifier": [
+    "36_0"
+  ],
+  "interrogative multiplicative numeral": [
+    "10_0"
+  ],
+  "Word": [
+    "30_0"
+  ],
+  "fused pronoun auxiliary": [
+    "10_1"
+  ]
+}
