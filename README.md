@@ -1,12 +1,13 @@
 
-<div>
-  <img 
-    src="images/logo.png" 
-    alt="LLMs4OL"
-    style="display: block; margin: 0 auto; width: 150px; height: auto;"
-  >
-  <h3 style="text-align: center; margin-top: 1em;">LLMs4OL: The Large Language Models for Ontology Learning Challenge</h3>
-</div>
+
+<p align="center">
+  <img src="images/logo.png" alt="LLMs4OL" width="150"/>
+</p>
+
+<p align="center">
+  <strong>LLMs4OL: The Large Language Models for Ontology Learning Challenge</strong>
+</p>
+
 
 
 Welcome to the official repository for the **LLMs4OL (Large Language Models for Ontology Learning) challenge**, a shared task series organized as part of the International Semantic Web Conference (ISWC).
