@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+2025/TaskA-Text2Onto/*/test/*   
+trash/*
 # C extensions
 *.so
 
