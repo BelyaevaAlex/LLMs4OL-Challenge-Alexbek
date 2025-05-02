@@ -23,7 +23,7 @@ Below is a list of the current and upcoming LLMs4OL challenge rounds, along with
 | 🏁 Challenge Round | 📄 GitHub Readme | 🌍 Conference | 🔗 Website |
 | :---:|:---:|:---:|:---:|
 | 1nd LLMs4OL | [2024/README.md](2024/README.md) | 23th ISWC at Baltimore, USA (November 11-15, 2024)| [https://sites.google.com/view/llms4ol](https://sites.google.com/view/llms4ol)|
-| 2nd LLMs4OL | [2025/README.md](2024/README.md) | 24th ISWC at Nara, Japan (November 2-6, 2025)|[https://sites.google.com/view/llms4ol2025](https://sites.google.com/view/llms4ol2025)|
+| 2nd LLMs4OL | [2025/README.md](2025/README.md) | 24th ISWC at Nara, Japan (November 2-6, 2025)|[https://sites.google.com/view/llms4ol2025](https://sites.google.com/view/llms4ol2025)|
 
 ## 📦 Repository Structure
 
