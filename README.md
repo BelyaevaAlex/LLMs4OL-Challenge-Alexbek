@@ -1,5 +1,13 @@
 
-# LLMs4OL: The Large Language Models for Ontology Learning Challenge
+<div>
+  <img 
+    src="images/logo.png" 
+    alt="LLMs4OL"
+    style="display: block; margin: 0 auto; width: 150px; height: auto;"
+  >
+  <h3 style="text-align: center; margin-top: 1em;">LLMs4OL: The Large Language Models for Ontology Learning Challenge</h3>
+</div>
+
 
 Welcome to the official repository for the **LLMs4OL (Large Language Models for Ontology Learning) challenge**, a shared task series organized as part of the International Semantic Web Conference (ISWC).
 
@@ -10,7 +18,6 @@ This repository serves as the central hub for datasets, tasks, documentation, an
 
 Below is a list of the current and upcoming LLMs4OL challenge rounds, along with links to their corresponding materials:
 
-🏁 Challenge Round	📄 GitHub README	📆 Year	🌍 Conference Venue
 
 | 🏁 Challenge Round | 📄 GitHub Readme | 🌍 Conference | 🔗 Website |
 | :---:|:---:|:---:|:---:|
