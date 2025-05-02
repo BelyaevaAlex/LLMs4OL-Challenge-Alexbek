@@ -1,0 +1,597 @@
+[
+  {
+    "id": "TT_778fb090",
+    "term": "kilogram",
+    "types": [
+      "mass unit"
+    ]
+  },
+  {
+    "id": "TT_30a06554",
+    "term": "pascal root meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_0f529528",
+    "term": "per meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_59cd3f71",
+    "term": "kJ/mol",
+    "types": [
+      "molar energy unit"
+    ]
+  },
+  {
+    "id": "TT_57dd933e",
+    "term": "unit_lux",
+    "types": [
+      "illuminance unit"
+    ]
+  },
+  {
+    "id": "TT_45bde25c",
+    "term": "radian per second squared",
+    "types": [
+      "angular acceleration unit"
+    ]
+  },
+  {
+    "id": "TT_0720443e",
+    "term": "kilogram per kilogram",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_2a5fd547",
+    "term": "weber",
+    "types": [
+      "magnetic flux unit"
+    ]
+  },
+  {
+    "id": "TT_6a031e6e",
+    "term": "'degree",
+    "types": [
+      "plane angle unit"
+    ]
+  },
+  {
+    "id": "TT_11273acb",
+    "term": "joule per kelvin",
+    "types": [
+      "entropy unit"
+    ]
+  },
+  {
+    "id": "TT_e4e7b7f2",
+    "term": "unit_ohm",
+    "types": [
+      "electric resistance unit"
+    ]
+  },
+  {
+    "id": "TT_e45431ca",
+    "term": "root meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_7942e2ca",
+    "term": "per squared meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_2efc0a52",
+    "term": "pascal per second",
+    "types": [
+      "dynamic viscosity unit"
+    ]
+  },
+  {
+    "id": "TT_ac7d07c9",
+    "term": "kilogram per cubic meter",
+    "types": [
+      "volume density unit"
+    ]
+  },
+  {
+    "id": "TT_8ed553c9",
+    "term": "candela per square meter",
+    "types": [
+      "luminance unit"
+    ]
+  },
+  {
+    "id": "TT_51290e8b",
+    "term": "kilogram per meter per second squared",
+    "types": [
+      "pressure unit"
+    ]
+  },
+  {
+    "id": "TT_4bbb6a87",
+    "term": "second cubed",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_2d035e8b",
+    "term": "m2·m-4·cd",
+    "types": [
+      "illuminance unit"
+    ]
+  },
+  {
+    "id": "TT_7679dc9d",
+    "term": "farad per meter",
+    "types": [
+      "permittivity unit"
+    ]
+  },
+  {
+    "id": "TT_e94e0a9f",
+    "term": "gray",
+    "types": [
+      "absorbed dose unit"
+    ]
+  },
+  {
+    "id": "TT_a0429d1c",
+    "term": "meter per second squared",
+    "types": [
+      "acceleration unit"
+    ]
+  },
+  {
+    "id": "TT_b24fd50d",
+    "term": "ampere squared",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_4574f1df",
+    "term": "unit_second_-3",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_12d0cc60",
+    "term": "cubic meter",
+    "types": [
+      "volume unit"
+    ]
+  },
+  {
+    "id": "TT_ea627c2f",
+    "term": "m2·kg·s-2·A-1",
+    "types": [
+      "magnetic flux unit"
+    ]
+  },
+  {
+    "id": "TT_a3cd5291",
+    "term": "meter kilogram per second squared",
+    "types": [
+      "force unit"
+    ]
+  },
+  {
+    "id": "TT_62d175d7",
+    "term": "coulomb",
+    "types": [
+      "electric charge unit"
+    ]
+  },
+  {
+    "id": "TT_958b9202",
+    "term": "m2·kg·s-2·A-2",
+    "types": [
+      "inductance unit"
+    ]
+  },
+  {
+    "id": "TT_58c483c9",
+    "term": "m2·s-2",
+    "types": [
+      "absorbed dose unit"
+    ]
+  },
+  {
+    "id": "TT_1df160b6",
+    "term": "hectopascal",
+    "types": [
+      "pressure unit"
+    ]
+  },
+  {
+    "id": "TT_ac853aad",
+    "term": "joule per cubic meter",
+    "types": [
+      "energy density unit"
+    ]
+  },
+  {
+    "id": "TT_04dcf03b",
+    "term": "steradian",
+    "types": [
+      "solid angle unit"
+    ]
+  },
+  {
+    "id": "TT_8b311fe6",
+    "term": "kilopascal",
+    "types": [
+      "pressure unit"
+    ]
+  },
+  {
+    "id": "TT_53eaf412",
+    "term": "meter per second",
+    "types": [
+      "velocity unit"
+    ]
+  },
+  {
+    "id": "TT_9835ee17",
+    "term": "m-2·kg-1·s3·A2",
+    "types": [
+      "electric conduction unit"
+    ]
+  },
+  {
+    "id": "TT_554d4205",
+    "term": "m2·kg·s-3·A-2",
+    "types": [
+      "electric resistance unit"
+    ]
+  },
+  {
+    "id": "TT_d3c815e7",
+    "term": "sievert",
+    "types": [
+      "dose equivalent unit"
+    ]
+  },
+  {
+    "id": "TT_90f97e65",
+    "term": "watt per steradian",
+    "types": [
+      "radiant intensity unit"
+    ]
+  },
+  {
+    "id": "TT_36aa8c18",
+    "term": "second ampere",
+    "types": [
+      "electric charge unit"
+    ]
+  },
+  {
+    "id": "TT_cccac23e",
+    "term": "per volt",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_f464e9a8",
+    "term": "g/cm3",
+    "types": [
+      "volume density unit"
+    ]
+  },
+  {
+    "id": "TT_c4432aee",
+    "term": "cubic angstrom",
+    "types": [
+      "volume unit"
+    ]
+  },
+  {
+    "id": "TT_6b9d0337",
+    "term": "ampere per meter",
+    "types": [
+      "magnetic field strength"
+    ]
+  },
+  {
+    "id": "TT_22a6863e",
+    "term": "henry",
+    "types": [
+      "inductance unit"
+    ]
+  },
+  {
+    "id": "TT_2ef3510f",
+    "term": "per second squared",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_a2190e08",
+    "term": "candela",
+    "types": [
+      "luminous intensity unit"
+    ]
+  },
+  {
+    "id": "TT_307a1fc2",
+    "term": "joule per kilogram",
+    "types": [
+      "specific energy unit"
+    ]
+  },
+  {
+    "id": "TT_fc75936c",
+    "term": "siemens",
+    "types": [
+      "electric conduction unit"
+    ]
+  },
+  {
+    "id": "TT_8918218e",
+    "term": "ampere",
+    "types": [
+      "electric current unit"
+    ]
+  },
+  {
+    "id": "TT_f7a1b19c",
+    "term": "per ampere squared",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_ac55b242",
+    "term": "g/mL",
+    "types": [
+      "volume density unit"
+    ]
+  },
+  {
+    "id": "TT_62dd1b02",
+    "term": "second",
+    "types": [
+      "time unit"
+    ]
+  },
+  {
+    "id": "TT_ac478cbf",
+    "term": "kg·s-2·A-1",
+    "types": [
+      "magnetic flux density unit"
+    ]
+  },
+  {
+    "id": "TT_97403c16",
+    "term": "per mole",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_53d113c0",
+    "term": "Bohr magneton",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_ce05750d",
+    "term": "unit_gram",
+    "types": [
+      "mass unit"
+    ]
+  },
+  {
+    "id": "TT_db230dd3",
+    "term": "kilogram squared meter per second squared",
+    "types": [
+      "energy unit"
+    ]
+  },
+  {
+    "id": "TT_13ef9af1",
+    "term": "per second squared",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_b509b2de",
+    "term": "per kilogram squared",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_715cdc32",
+    "term": "centimeter",
+    "types": [
+      "length unit"
+    ]
+  },
+  {
+    "id": "TT_fe95aceb",
+    "term": "watt per square meter per steradian",
+    "types": [
+      "radiance unit"
+    ]
+  },
+  {
+    "id": "TT_fd74efb5",
+    "term": "radian per second",
+    "types": [
+      "angular velocity unit"
+    ]
+  },
+  {
+    "id": "TT_e4207513",
+    "term": "m-2·kg-1·s4·A2",
+    "types": [
+      "capacitance unit"
+    ]
+  },
+  {
+    "id": "TT_5deb76b3",
+    "term": "katal per cubic meter",
+    "types": [
+      "catalytic concentration unit"
+    ]
+  },
+  {
+    "id": "TT_59713489",
+    "term": "per kilogram cubed",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_feed0b79",
+    "term": "kelvin",
+    "types": [
+      "temperature unit"
+    ]
+  },
+  {
+    "id": "TT_7ec0d704",
+    "term": "watt per square meter",
+    "types": [
+      "irradiance unit"
+    ]
+  },
+  {
+    "id": "TT_e644f6e7",
+    "term": "cubic meter per kilogram",
+    "types": [
+      "specific volume unit"
+    ]
+  },
+  {
+    "id": "TT_26503d22",
+    "term": "henry per meter",
+    "types": [
+      "permeability unit"
+    ]
+  },
+  {
+    "id": "TT_45fb5003",
+    "term": "katal",
+    "types": [
+      "catalytic activity unit"
+    ]
+  },
+  {
+    "id": "TT_0a39b1a5",
+    "term": "volt",
+    "types": [
+      "potential difference unit"
+    ]
+  },
+  {
+    "id": "TT_f283fecb",
+    "term": "bit",
+    "types": [
+      "information unit"
+    ]
+  },
+  {
+    "id": "TT_3946c33a",
+    "term": "per meter power 4",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_0d981bd3",
+    "term": "m2·kg·s-3·A-1",
+    "types": [
+      "potential difference unit"
+    ]
+  },
+  {
+    "id": "TT_9b0f29ec",
+    "term": "unit_milliliter",
+    "types": [
+      "volume unit"
+    ]
+  },
+  {
+    "id": "TT_4c8ddbb7",
+    "term": "volt per meter",
+    "types": [
+      "electric field strength unit"
+    ]
+  },
+  {
+    "id": "TT_8827409a",
+    "term": "celcius",
+    "types": [
+      "temperature unit"
+    ]
+  },
+  {
+    "id": "TT_4b7ca53c",
+    "term": "per cubic meter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_b0554ba4",
+    "term": "per cubic centimeter",
+    "types": [
+      "unit"
+    ]
+  },
+  {
+    "id": "TT_8dcfb809",
+    "term": "m2·m-2·cd",
+    "types": [
+      "luminous flux unit"
+    ]
+  },
+  {
+    "id": "TT_44f7c840",
+    "term": "pascal",
+    "types": [
+      "pressure unit"
+    ]
+  },
+  {
+    "id": "TT_ab7f77d0",
+    "term": "kilogram meter squared per second cubed",
+    "types": [
+      "power unit"
+    ]
+  },
+  {
+    "id": "TT_c02012d3",
+    "term": "mole",
+    "types": [
+      "amount of substance unit"
+    ]
+  },
+  {
+    "id": "TT_dcb721f9",
+    "term": "meter",
+    "types": [
+      "length unit"
+    ]
+  }
+]
