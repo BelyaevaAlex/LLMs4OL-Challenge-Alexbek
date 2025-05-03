@@ -8,6 +8,8 @@ __pycache__/
 2025/TaskB-TermTyping/*/test/* 
 2025/TaskB-TermTyping/*/all/* 
 
+2025/TaskD-NonTaxonomicRE/*/test/* 
+2025/TaskD-NonTaxonomicRE/*/all/* 
 
 trash/*
 # C extensions
