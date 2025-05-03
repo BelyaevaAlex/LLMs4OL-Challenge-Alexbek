@@ -1,0 +1,2162 @@
+[
+  {
+    "ID": "NR_f611a8f0",
+    "head": "diffuse",
+    "tail": "diffusion",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_0f48a6f1",
+    "head": "deform",
+    "tail": "deformation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_32e926c8",
+    "head": "reformat",
+    "tail": "reformatting",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a939eb75",
+    "head": "theoretical",
+    "tail": "theory",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_185e4d9d",
+    "head": "electricity",
+    "tail": "power source",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c36134fe",
+    "head": "pdi",
+    "tail": "palmer drought severity index",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d93b4668",
+    "head": "temporal reference",
+    "tail": "time reference",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_97171a45",
+    "head": "difference",
+    "tail": "subtraction",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ce46a1a9",
+    "head": "lip",
+    "tail": "large igneous province",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_61721725",
+    "head": "debye length",
+    "tail": "debye screening length",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_8050c8e1",
+    "head": "s wave",
+    "tail": "secondary wave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d45e744a",
+    "head": "laboratory environment",
+    "tail": "operational environment",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_489cf4d1",
+    "head": "smsa",
+    "tail": "standard metropolitan statistical area",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a1c38be7",
+    "head": "acid fog",
+    "tail": "acid haze",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fe5200f7",
+    "head": "ocean floor",
+    "tail": "sea floor",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f7da8250",
+    "head": "chemical compound",
+    "tail": "compound",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_0b9886cc",
+    "head": "drainage basin",
+    "tail": "watershed",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_dd615cd8",
+    "head": "interpolate",
+    "tail": "interpolation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_16d19e9d",
+    "head": "subaqueous volcano",
+    "tail": "submarine volcano",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e0c9480b",
+    "head": "access",
+    "tail": "accessing",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_0a5cd796",
+    "head": "deficit",
+    "tail": "excess",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_9d1fbb78",
+    "head": "gravitational wave",
+    "tail": "gravity wave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4477737b",
+    "head": "probability distribution function",
+    "tail": "cdf",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4d42844e",
+    "head": "multiplication",
+    "tail": "product",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_96c4361f",
+    "head": "convection zone",
+    "tail": "stellar core",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_7447cbaf",
+    "head": "c",
+    "tail": "temperate climate",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_44e68790",
+    "head": "benthic index",
+    "tail": "benthic index of biological integrity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_384c3c05",
+    "head": "crust mantle boundary",
+    "tail": "moho",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c7cd8319",
+    "head": "band limited",
+    "tail": "narrow spectrum",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_eb462576",
+    "head": "rim",
+    "tail": "top",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e548e884",
+    "head": "abyss",
+    "tail": "abyssal",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_68987a3a",
+    "head": "chemical",
+    "tail": "chemical substance",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_60ffa3d0",
+    "head": "noael",
+    "tail": "no observed adverse effect level",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3099ee51",
+    "head": "back arc",
+    "tail": "rear arc",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b77109d5",
+    "head": "phdi",
+    "tail": "palmer hydrological drought index",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e7905066",
+    "head": "disintegrate",
+    "tail": "disintegration",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_089d4c6a",
+    "head": "basal",
+    "tail": "bottom",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_911f3d94",
+    "head": "current",
+    "tail": "electric current",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_94ef31bb",
+    "head": "tidal wave",
+    "tail": "tsunami",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2d347f13",
+    "head": "rec",
+    "tail": "reference exposure concentration",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fd995c11",
+    "head": "suspended load",
+    "tail": "suspension load",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_065e8408",
+    "head": "measurement scale",
+    "tail": "scale",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b584117b",
+    "head": "b horizon",
+    "tail": "subsoil",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bf9f0136",
+    "head": "direction",
+    "tail": "inclination",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_60a913bd",
+    "head": "flipping point",
+    "tail": "tipping point",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_1692ebc7",
+    "head": "categorical scale",
+    "tail": "ordinal scale",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_ff002e55",
+    "head": "mackerel breeze",
+    "tail": "mackerel gale",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_17f591f8",
+    "head": "mesoscale eddy",
+    "tail": "mode eddy",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c21d9bf2",
+    "head": "observation",
+    "tail": "observe",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_008ab7d5",
+    "head": "parameterize",
+    "tail": "parameterization",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f0c0ee14",
+    "head": "tectonic force",
+    "tail": "tectonic process",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4a4384d0",
+    "head": "brine",
+    "tail": "saline water",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_fc1d0b57",
+    "head": "ionization energy",
+    "tail": "ionization potential",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7f661739",
+    "head": "optical depth",
+    "tail": "optical thickness",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f51280c7",
+    "head": "end to end environment",
+    "tail": "laboratory environment",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_a1ade4af",
+    "head": "fourier",
+    "tail": "fourier function",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d11d6017",
+    "head": "density",
+    "tail": "mass concentration",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7a916f9e",
+    "head": "akasofu epsilon",
+    "tail": "geomagnetic index",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c26ffa45",
+    "head": "fringe",
+    "tail": "periphery",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_76143246",
+    "head": "decrease",
+    "tail": "drop",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_567da7a1",
+    "head": "spherical harmonic",
+    "tail": "spherical harmonic function",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_298ddb43",
+    "head": "acoustic",
+    "tail": "acoustic wave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9482a99d",
+    "head": "consistence",
+    "tail": "consistency",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b5ae93d0",
+    "head": "alkaline",
+    "tail": "alkalinity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_829f33c2",
+    "head": "metal",
+    "tail": "metalloid",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_b13f99a5",
+    "head": "footwall",
+    "tail": "hanging wall",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_6fea7129",
+    "head": "elongation",
+    "tail": "stretch",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_cc28bd8f",
+    "head": "playa",
+    "tail": "salt lake",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_65f9ba0b",
+    "head": "a",
+    "tail": "tropical climate",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2256e5e8",
+    "head": "crude oil",
+    "tail": "petroleum",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_dd799a75",
+    "head": "animate",
+    "tail": "animation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_78c2f36b",
+    "head": "critical level",
+    "tail": "critical point",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_135619fe",
+    "head": "planetary wave",
+    "tail": "rossby wave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a901a0db",
+    "head": "cross section",
+    "tail": "cross sectional area",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b8d51d18",
+    "head": "component",
+    "tail": "coordinate",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_50c114e1",
+    "head": "unconfined aquifer",
+    "tail": "water table aquifer",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_aba978c4",
+    "head": "msa",
+    "tail": "metropolitan statistical area",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2077fd73",
+    "head": "bar",
+    "tail": "delta bar",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_988536f9",
+    "head": "scale factor",
+    "tail": "scaling",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_761456af",
+    "head": "palmer drought index",
+    "tail": "palmer drought severity index",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f7921f7a",
+    "head": "esdr",
+    "tail": "earth science data record",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ca079039",
+    "head": "l2",
+    "tail": "level2",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a74c8c69",
+    "head": "event",
+    "tail": "occurrence",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a56bcf6c",
+    "head": "monitor",
+    "tail": "monitoring",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fb406c75",
+    "head": "path",
+    "tail": "trajectory",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d3ab7a35",
+    "head": "normalization",
+    "tail": "normalize",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bc6da0c3",
+    "head": "instability",
+    "tail": "unstable",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9f5e2e8c",
+    "head": "inertia wave",
+    "tail": "inertial wave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6dbf1e9c",
+    "head": "orographic",
+    "tail": "orography",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_86e95018",
+    "head": "ionizing radiation",
+    "tail": "non ionizing radiation",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_b73a4c90",
+    "head": "georeference",
+    "tail": "georeferencing",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ceb379de",
+    "head": "high pressure",
+    "tail": "ridge",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_95be12b8",
+    "head": "dike",
+    "tail": "flood bank",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_63cb8da3",
+    "head": "land",
+    "tail": "surface region",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e284440b",
+    "head": "accretion",
+    "tail": "coalescence",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_22cff1bd",
+    "head": "ice crystal",
+    "tail": "ice particle",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_00155e35",
+    "head": "sar",
+    "tail": "special administration region",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f582f62a",
+    "head": "nsr",
+    "tail": "new source review",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d16c8616",
+    "head": "shore",
+    "tail": "shoreline",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ab8d95fa",
+    "head": "flux density",
+    "tail": "intensity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_5e4cd473",
+    "head": "geological phenomena",
+    "tail": "geosphere phenomena",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_26d661dd",
+    "head": "hc",
+    "tail": "hydrocarbon",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_36d93bb6",
+    "head": "aaqs",
+    "tail": "ambient air quality standard",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_70d07c78",
+    "head": "mpa",
+    "tail": "marine protected area",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_15df0ca3",
+    "head": "sic",
+    "tail": "standard industrial classification",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b58b6891",
+    "head": "balance equation",
+    "tail": "budget equation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4d8832ba",
+    "head": "fit",
+    "tail": "fitting",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ca7c59cb",
+    "head": "simulate",
+    "tail": "simulation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bd3cd3b1",
+    "head": "epi",
+    "tail": "environmental performance index",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_abe77408",
+    "head": "fault",
+    "tail": "fault line",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2f778ca7",
+    "head": "littoral drift",
+    "tail": "longshore drift",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_990d3138",
+    "head": "metal",
+    "tail": "nonmetal",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_0b75b90b",
+    "head": "base",
+    "tail": "bottom",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_06fe437c",
+    "head": "cme",
+    "tail": "coronal mass ejection",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_5799eda1",
+    "head": "a horizon",
+    "tail": "topsoil",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c60d4efe",
+    "head": "dew point",
+    "tail": "dew point temperature",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3ba7df2b",
+    "head": "fpar",
+    "tail": "fraction photosynthetic active radiation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e2e8b13e",
+    "head": "glacial process",
+    "tail": "obsolete periglaciation",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_9f423c72",
+    "head": "inner core",
+    "tail": "outer core",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_02cf251c",
+    "head": "dike",
+    "tail": "dyke",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a2e7744a",
+    "head": "park",
+    "tail": "parkland",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2bc2913e",
+    "head": "cryosol",
+    "tail": "gelisol",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_11451a15",
+    "head": "radiational cooling",
+    "tail": "radiative cooling",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fc9f8a6b",
+    "head": "quantitative property",
+    "tail": "quantity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_41bc9c15",
+    "head": "radiative cooling",
+    "tail": "radiative heating",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_2733b5b4",
+    "head": "duration",
+    "tail": "time interval",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_614de4f7",
+    "head": "categorical property",
+    "tail": "quantity",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_338aa9d7",
+    "head": "lake effect snow",
+    "tail": "lake effect snowstorm",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_86ab845a",
+    "head": "pore",
+    "tail": "pore space",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2d75ba34",
+    "head": "federal",
+    "tail": "federal governing body",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_dd4f4b4c",
+    "head": "tutt",
+    "tail": "tropical upper tropospheric trough",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b135b7cd",
+    "head": "configuration",
+    "tail": "spatial configuration",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e6fd5dcd",
+    "head": "composite volcano",
+    "tail": "compound volcano",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_88c9efff",
+    "head": "order",
+    "tail": "seq",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6560a696",
+    "head": "civil",
+    "tail": "civilian",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_eadd7a89",
+    "head": "l1",
+    "tail": "level1",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_8b97c2e8",
+    "head": "circuit",
+    "tail": "cycle",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3b002da0",
+    "head": "planetary surface",
+    "tail": "subsurface",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_71adba68",
+    "head": "cdr",
+    "tail": "climate data record",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c286c7e9",
+    "head": "body wave",
+    "tail": "surface wave",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_e8d2bc7d",
+    "head": "ordinal scale",
+    "tail": "quantitative scale",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_689f411a",
+    "head": "transformation",
+    "tail": "transforming",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4f2f0be4",
+    "head": "gps",
+    "tail": "global positioning system",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_1f246675",
+    "head": "lfc",
+    "tail": "level of free convection",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4d51987f",
+    "head": "hydrologic cycle",
+    "tail": "hydrological cycle",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_43024551",
+    "head": "bioindicator",
+    "tail": "indicator species",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_09df1233",
+    "head": "chinook wind",
+    "tail": "foehn",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fb893a25",
+    "head": "phreatic eruption",
+    "tail": "steam blast eruption",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_33ce0066",
+    "head": "inversion layer",
+    "tail": "temperature inversion layer",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_98f08036",
+    "head": "o horizon",
+    "tail": "organic matter",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_5d325c31",
+    "head": "littoral current",
+    "tail": "longshore current",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_319d5892",
+    "head": "inorganic substance",
+    "tail": "organic substance",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_57186550",
+    "head": "extensive property",
+    "tail": "intensive property",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_ccca4d2d",
+    "head": "climate",
+    "tail": "climate average",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6194573f",
+    "head": "contracting",
+    "tail": "expansion",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_5d7d3f4a",
+    "head": "climate",
+    "tail": "climatic average",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d7dd762b",
+    "head": "visualization",
+    "tail": "visualize",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3dc11e55",
+    "head": "walker cell",
+    "tail": "walker circulation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c7509c42",
+    "head": "decline",
+    "tail": "decrease",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f6e8e2c6",
+    "head": "train",
+    "tail": "training",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6cb019c0",
+    "head": "trl",
+    "tail": "technology readiness level",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_11139783",
+    "head": "alkalinity",
+    "tail": "basic",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d09b9e62",
+    "head": "qbo",
+    "tail": "quasi biennial oscillation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_540ad30c",
+    "head": "planetary science",
+    "tail": "planetology",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_0a42c605",
+    "head": "regrid",
+    "tail": "regridding",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e2017869",
+    "head": "geolocate",
+    "tail": "geolocation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a4bdaa65",
+    "head": "global planetary layer",
+    "tail": "planetary layer",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_48a2789b",
+    "head": "csa",
+    "tail": "combined statistical area",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3c360351",
+    "head": "emergence",
+    "tail": "emergent",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d1b1ce7c",
+    "head": "cooling",
+    "tail": "heating",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_073e8306",
+    "head": "dune",
+    "tail": "sand dune",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a37e3555",
+    "head": "continuity",
+    "tail": "continuous",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2c5ca12f",
+    "head": "apiculture",
+    "tail": "beekeeping",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2101c93e",
+    "head": "emergent",
+    "tail": "emergent phenomenon",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_930ecaa4",
+    "head": "htap",
+    "tail": "hemispheric transport of air pollutants",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a0c1f549",
+    "head": "auroral substorm",
+    "tail": "magnetic substorm",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7d347a57",
+    "head": "component",
+    "tail": "system component",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_405f7242",
+    "head": "love wave",
+    "tail": "lwave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_945d70ac",
+    "head": "nuee ardente eruption",
+    "tail": "peleean eruption",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_acf3a933",
+    "head": "receive",
+    "tail": "reception",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2c8d7fb3",
+    "head": "convergent boundary",
+    "tail": "convergent plate boundary",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_cac892eb",
+    "head": "flare",
+    "tail": "flaring",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_66a75756",
+    "head": "methane clathrate",
+    "tail": "methane ice",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f28af012",
+    "head": "expanding",
+    "tail": "expansion",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e73dc730",
+    "head": "black carbon",
+    "tail": "soot",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_abccbee6",
+    "head": "temporal range",
+    "tail": "time range",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4455ceb7",
+    "head": "granulation",
+    "tail": "granule",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_33df73c5",
+    "head": "discover",
+    "tail": "discovery",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_74980fa5",
+    "head": "decrease",
+    "tail": "reduction",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_70ecbe83",
+    "head": "pdo",
+    "tail": "pacific decadal oscillation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b177d94a",
+    "head": "calibrate",
+    "tail": "calibration",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_8d3e3d88",
+    "head": "cod",
+    "tail": "chemical oxygen demand",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3d3d5c86",
+    "head": "hydrologic cycle",
+    "tail": "water cycle",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bbfda139",
+    "head": "cfc",
+    "tail": "chlorofluorocarbon",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e5cf8840",
+    "head": "affine",
+    "tail": "linear",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c21f16fd",
+    "head": "riparian",
+    "tail": "riparian zone",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a6c79e33",
+    "head": "asthenosphere",
+    "tail": "upper mantle flowing",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_462e9579",
+    "head": "integral",
+    "tail": "integration",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d1fb0399",
+    "head": "cyclotron radius",
+    "tail": "gyroradius",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4935e47c",
+    "head": "air pressure",
+    "tail": "barometric pressure",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_89c10307",
+    "head": "duration",
+    "tail": "temporal entity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_567c2088",
+    "head": "weathering",
+    "tail": "erosion",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_5fe70965",
+    "head": "chemical element",
+    "tail": "element",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_601e15a2",
+    "head": "sustainability",
+    "tail": "sustainable",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_90298e22",
+    "head": "vertical",
+    "tail": "vertical coordinate",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_0a5e3371",
+    "head": "nsps",
+    "tail": "new source performance standard",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d2d97a9f",
+    "head": "coh",
+    "tail": "coefficient of haze",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_eb0bcb7d",
+    "head": "planetary surface",
+    "tail": "subaerial",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_efe2ab07",
+    "head": "format conversion",
+    "tail": "reformat",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3469d264",
+    "head": "drift ice",
+    "tail": "fast ice",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_70bf9ab7",
+    "head": "phase transition",
+    "tail": "state change",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2a9c1051",
+    "head": "manned",
+    "tail": "unmanned",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_455a7247",
+    "head": "continuous",
+    "tail": "discrete",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_d9051abd",
+    "head": "alkalic",
+    "tail": "alkalinity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fe9eb0ac",
+    "head": "broad spectrum",
+    "tail": "white light",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2c0ea611",
+    "head": "discontinuity",
+    "tail": "discontinuous",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_27fe14bb",
+    "head": "isostatic adjustment",
+    "tail": "isostatic rebound",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a7ee7ce7",
+    "head": "land",
+    "tail": "land surface",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_053a02e2",
+    "head": "alkalinity",
+    "tail": "basicity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e92a6900",
+    "head": "hra",
+    "tail": "health risk assessment",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_edb7bc19",
+    "head": "bact",
+    "tail": "best availabl control technology",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9938883c",
+    "head": "focii",
+    "tail": "focus",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ebe2ef9c",
+    "head": "cluster",
+    "tail": "clustering",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ef2c89a0",
+    "head": "negative feedback",
+    "tail": "positive feedback",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_9f82550e",
+    "head": "storage coefficient",
+    "tail": "storativity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2b383a44",
+    "head": "duration",
+    "tail": "duration description",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b10faff3",
+    "head": "glass",
+    "tail": "mineral",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_df3bd86c",
+    "head": "stability",
+    "tail": "unstable",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_be8f5521",
+    "head": "base unit",
+    "tail": "complex unit",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_620c72af",
+    "head": "transmission",
+    "tail": "transmit",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ff9b9e13",
+    "head": "algebraic function",
+    "tail": "transcendental function",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_e0d3cc07",
+    "head": "normal",
+    "tail": "normal distribution",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ae37bb2f",
+    "head": "solidity",
+    "tail": "solidness",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9377ae49",
+    "head": "noctilueent cloud",
+    "tail": "noctilucent cloud",
+    "relation": "seeAlso"
+  },
+  {
+    "ID": "NR_80eb03ac",
+    "head": "civil",
+    "tail": "military",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_37bc0879",
+    "head": "unsaturated zone",
+    "tail": "vadose zone",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_85cee578",
+    "head": "device",
+    "tail": "instrument",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ac887a0b",
+    "head": "chi square",
+    "tail": "chi square distribution",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_8e0c7784",
+    "head": "transform boundary",
+    "tail": "transform margin",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f5a29a92",
+    "head": "fiord",
+    "tail": "fjord",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_907e3619",
+    "head": "photodecomposition",
+    "tail": "photolysis",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ebddc319",
+    "head": "intertidal zone",
+    "tail": "littoral",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f690b470",
+    "head": "regolith",
+    "tail": "rock",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_c4c8f9b3",
+    "head": "acoustic wave",
+    "tail": "sound",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_213e3c97",
+    "head": "bottom",
+    "tail": "floor",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d96c6f10",
+    "head": "power spectrum",
+    "tail": "spectrum",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4d0e9d75",
+    "head": "ozone depletion",
+    "tail": "ozone hole",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d56a5423",
+    "head": "sea ice floe",
+    "tail": "ice floe",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7b2300d2",
+    "head": "gravitational force",
+    "tail": "gravity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_5567e55c",
+    "head": "land",
+    "tail": "land region",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2226d3c7",
+    "head": "radiation belt",
+    "tail": "van allen belt",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6e1a4367",
+    "head": "jet stream",
+    "tail": "jet stream wind",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f43085f6",
+    "head": "categorical scale",
+    "tail": "quantitative scale",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_e98515c9",
+    "head": "oxidation",
+    "tail": "reduction",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_99a8baf3",
+    "head": "derivative",
+    "tail": "differentiation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_333ce288",
+    "head": "boundary",
+    "tail": "face",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ac18f574",
+    "head": "cold front",
+    "tail": "warm front",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_e87b9e46",
+    "head": "nighttime",
+    "tail": "nocturnal",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d86928cd",
+    "head": "predict",
+    "tail": "prediction",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c6b8b673",
+    "head": "porosity",
+    "tail": "porousness",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6baa1bbf",
+    "head": "vertex",
+    "tail": "vertice",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_00dfc818",
+    "head": "glacier terminus",
+    "tail": "snout",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a979c5ab",
+    "head": "map",
+    "tail": "mapping",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bcaa594f",
+    "head": "cems",
+    "tail": "continous emission monitoring system",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_0e728136",
+    "head": "do",
+    "tail": "dissolved oxygen",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3b2212e3",
+    "head": "clathrate hydrate",
+    "tail": "gas hydrate",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fbf0e39d",
+    "head": "classification",
+    "tail": "classifier",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_198cb3f8",
+    "head": "in situ",
+    "tail": "on site",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9e50d234",
+    "head": "carbonate compensation level",
+    "tail": "water body boundary",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_eeb8b7ce",
+    "head": "highland",
+    "tail": "lowland",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_a327445c",
+    "head": "propagation",
+    "tail": "wave propagation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e9c18a37",
+    "head": "atmospheric boundary layer",
+    "tail": "boundary layer",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_aae19a8b",
+    "head": "attenuation",
+    "tail": "extinction",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9505302b",
+    "head": "dissolution",
+    "tail": "solvation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_319b36fd",
+    "head": "ibi",
+    "tail": "index of biological integrity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_0b573bd7",
+    "head": "algae",
+    "tail": "algal",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_fe5d4cd8",
+    "head": "node",
+    "tail": "vertex",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_4fa0b9d7",
+    "head": "glacial process",
+    "tail": "periglacial",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_39cb1fa3",
+    "head": "englacial",
+    "tail": "englacial process",
+    "relation": "seeAlso"
+  },
+  {
+    "ID": "NR_0dc26c4c",
+    "head": "altitude",
+    "tail": "elevation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_493ad0fd",
+    "head": "adi",
+    "tail": "acceptable daily intake",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_45c53ff4",
+    "head": "data mining",
+    "tail": "mining",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a9a9469b",
+    "head": "ccn",
+    "tail": "cloud condensation nuclei",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7e793997",
+    "head": "crust",
+    "tail": "skin layer",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e92d5f92",
+    "head": "rain",
+    "tail": "rainfall",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d6068a3d",
+    "head": "heat",
+    "tail": "thermal energy",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_896768c9",
+    "head": "outgoing",
+    "tail": "outward",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_37073f41",
+    "head": "granulation",
+    "tail": "supergranulation",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_6de63b51",
+    "head": "heat",
+    "tail": "heat energy",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6b2283e5",
+    "head": "communication",
+    "tail": "communications",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_8ac0533e",
+    "head": "shear stress",
+    "tail": "tensile stress",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_0beb6f6c",
+    "head": "nuclide",
+    "tail": "radioisotope",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7c29edab",
+    "head": "rate",
+    "tail": "tendency",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_97ba57e3",
+    "head": "decrease",
+    "tail": "fall",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_1b5bd897",
+    "head": "rel",
+    "tail": "reference exposure level",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_22f106bb",
+    "head": "biochemical oxygen demand",
+    "tail": "biological oxygen demand",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_55a6f86c",
+    "head": "molar concentration",
+    "tail": "mole concentration",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a4839aa8",
+    "head": "coriolis effect",
+    "tail": "coriolis force",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_be0d498e",
+    "head": "reference dose",
+    "tail": "rfd",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b3df8010",
+    "head": "temporal mean",
+    "tail": "time mean",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_25913a2f",
+    "head": "climate anomaly",
+    "tail": "climatic anomaly",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3241bc23",
+    "head": "reservoir",
+    "tail": "storage",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_94fa67bf",
+    "head": "internal wave",
+    "tail": "surface wave",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_827c6ec3",
+    "head": "l4",
+    "tail": "level4",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_85edf1ea",
+    "head": "absorption coefficient",
+    "tail": "opacity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_76b0009c",
+    "head": "non orographic",
+    "tail": "orographic",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_caae6b74",
+    "head": "finite resource",
+    "tail": "renewable resource",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_d43ea69a",
+    "head": "dosage",
+    "tail": "dose",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_d8d2c9cb",
+    "head": "weather",
+    "tail": "weather condition",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_ef473b5c",
+    "head": "stability",
+    "tail": "stable",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_651d37f9",
+    "head": "fresh water",
+    "tail": "salt water",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_ff4f1b0e",
+    "head": "pyroxine",
+    "tail": "pyroxene",
+    "relation": "seeAlso"
+  },
+  {
+    "ID": "NR_a3e97c49",
+    "head": "sar",
+    "tail": "sodium adsorption ratio",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_db82f9a4",
+    "head": "lift",
+    "tail": "lifting",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_df5f0735",
+    "head": "steam",
+    "tail": "water vapor",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6710cccb",
+    "head": "standing wave",
+    "tail": "traveling wave",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_c76ea394",
+    "head": "nao",
+    "tail": "north atlantic oscillation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_1a65e457",
+    "head": "freshwater ecosystem",
+    "tail": "marine ecosystem",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_d44d1655",
+    "head": "fault zone",
+    "tail": "fracture zone",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e09af77b",
+    "head": "wind chill",
+    "tail": "wind chill index",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7b65aa6d",
+    "head": "enso",
+    "tail": "southern oscillation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e9936b52",
+    "head": "profile",
+    "tail": "vertical profile",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_58b68a23",
+    "head": "climate",
+    "tail": "climatological average",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_558bee68",
+    "head": "foehn cloud",
+    "tail": "moazagotl",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a26bf7c6",
+    "head": "subside",
+    "tail": "subsidence",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bae5631c",
+    "head": "chemical process",
+    "tail": "chemical reaction",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_2dfe40d6",
+    "head": "electromagnetic induction",
+    "tail": "induction",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_261baa71",
+    "head": "gcm",
+    "tail": "general circulation model",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_aeec1106",
+    "head": "box car",
+    "tail": "square wave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a887502f",
+    "head": "atmospheric pressure",
+    "tail": "barometric pressure",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a99dbb33",
+    "head": "glacial",
+    "tail": "glaciation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_8404a76d",
+    "head": "bibi",
+    "tail": "benthic index",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_5e20c7e2",
+    "head": "narrow band",
+    "tail": "narrow spectrum",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9484e6b9",
+    "head": "categorical property",
+    "tail": "ordinal property",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_756ebbde",
+    "head": "intertidal",
+    "tail": "intertidal zone",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_77a5eb84",
+    "head": "anova",
+    "tail": "analysis of variance",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_9885b344",
+    "head": "enso",
+    "tail": "el nino southern oscillation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e90903a8",
+    "head": "binary mask",
+    "tail": "mask",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b667d1ca",
+    "head": "laboratory environment",
+    "tail": "mission tested environment",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_3de30c56",
+    "head": "reconstruct",
+    "tail": "reconstruction",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_01c62233",
+    "head": "digraph",
+    "tail": "directed graph",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_7f6a9ce8",
+    "head": "mantle plume",
+    "tail": "mantle thermal plume",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bb034668",
+    "head": "internal gravity wave",
+    "tail": "internal wave",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_39aa9b26",
+    "head": "temporal average",
+    "tail": "time mean",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_95d33add",
+    "head": "broad band",
+    "tail": "broad spectrum",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_a077b8e4",
+    "head": "swe",
+    "tail": "snow water equivalent",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bba8b203",
+    "head": "glacial moraine",
+    "tail": "moraine",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c2239f34",
+    "head": "normal stress",
+    "tail": "tensile stress",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_c209ff1f",
+    "head": "erode",
+    "tail": "erosion",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e8b1f5e2",
+    "head": "moho",
+    "tail": "mohorovicic discontinuity",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_b45acc84",
+    "head": "assimilate",
+    "tail": "assimilation",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_22cadedf",
+    "head": "temperature gradient",
+    "tail": "thermal gradient",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_eaf05d46",
+    "head": "aftershock",
+    "tail": "foreshock",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_2f78df37",
+    "head": "lbs",
+    "tail": "location based service",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_6f312a40",
+    "head": "marine science",
+    "tail": "oceanography",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_f85f8c47",
+    "head": "bod",
+    "tail": "biological oxygen demand",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_3afb059c",
+    "head": "back arc",
+    "tail": "retro arc",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_bb35f415",
+    "head": "boundary layer",
+    "tail": "planetary boundary layer",
+    "relation": "equivalentClass"
+  },
+  {
+    "ID": "NR_e33e502f",
+    "head": "dehydration",
+    "tail": "hydration",
+    "relation": "disjointWith"
+  },
+  {
+    "ID": "NR_2de57fe8",
+    "head": "mixed chemical substance",
+    "tail": "mixture",
+    "relation": "equivalentClass"
+  }
+]

@@ -1,0 +1,2838 @@
+Gnetum gnemon
+obsolete: pot marjoram plant
+obsolete: cachama
+obsolete: giant bamboo plant
+Pistacia vera
+Capra hircus
+Seriphus politus
+Opuntia
+obsolete: garbanzo bean (vegetable) food product
+Sebastes viviparus
+Paspalum scrobiculatum
+Pseudobatos percellens
+obsolete: european lobster
+obsolete: brushtooth lizardfish
+Quillaja saponaria
+obsolete: new zealand lemon sole
+obsolete: argentine queenfish
+obsolete: sandbar shark
+Malpighia glabra
+obsolete: greenland shark
+Merluccius albidus
+Trichilia emetica
+Merluccius capensis
+Panulirus cygnus
+wheat bread dough
+Misgurnus fossilis
+black cohosh supplement
+Ulva limnetica
+multi-component bean product
+obsolete: florida pompano
+Siniperca chuatsi
+NCBITaxon_687680
+obsolete: bombay duck
+Penaeus indicus
+Chenopodium pallidicaule
+Epinephelus chlorostigma
+obsolete: bog bilberry plant
+obsolete: ayu
+Barbus barbus
+Abramis brama
+obsolete: porcupine fish
+obsolete: beefburger (shaped)
+obsolete: muscovy duck
+Jasminum sambac
+Xanthosoma violaceum
+obsolete concentration of mannitol in material entity
+obsolete: cape hake
+Apsilus dentatus
+Amia calva
+obsolete: blacklip pearl oyster
+obsolete: black nightshade plant
+Valeriana edulis
+Bifidobacteriales
+Phoenix dactylifera
+Tachysurus fulvidraco
+common bean plant
+Rhodophyta
+seed
+Piaractus brachypomus
+Artemisia pontica
+obsolete: velvet scoter
+obsolete: caqui plant
+beet plant
+Hypericum perforatum
+clingstone peach tree
+obsolete: duck barnacle
+obsolete: sand seatrout
+langostino amarillo (raw)
+Bubalus bubalis
+Triticum turgidum subsp. durum
+obsolete: tadpole fish
+Allium canadense
+Peumus boldus
+donkey
+obsolete: golden goatfish
+Oreochromis niloticus
+infant formula (milk-based, liquid, canned)
+Lepidopsetta bilineata
+obsolete: muskox
+obsolete: kamchatka flounder
+Scomberomorus sinensis
+Dentex angolensis
+obsolete: siberian ginseng plant
+Pandalus borealis
+obsolete: longtail tuna
+obsolete: brewers yeast
+obsolete: dark green nori
+Rutilus rutilus
+Turnera diffusa
+obsolete: sweet potato plant
+Nypa fruticans
+melatonin supplement
+obsolete: northern shortfin squid
+obsolete concentration of phosphatidylinositol in material entity
+beverage base
+Lutjanus gibbus
+Mobula hypostoma
+Lophius americanus
+Echium plantagineum
+obsolete: australian round lime plant
+Pusa hispida
+obsolete: red grouper
+Diospyros virginiana
+obsolete: breadnut plant
+Strombus alatus
+obsolete: wuchang bream
+Kaempferia galanga
+obsolete: pink minnow
+DASH diet
+obsolete: rough ray
+Menticirrhus americanus
+Todaropsis eblanae
+Sebastes pinniger
+Durio zibethinus
+Tacca leontopetaloides
+obsolete: peruvian menhaden
+obsolete: partridge berry plant
+Cheilodactylus variegatus
+obsolete: worcesterberry plant
+Saccostrea cucullata
+obsolete: gray sole
+Sebastes paucispinis
+Solanum dulcamara
+Citrus australasica
+obsolete: pond apple plant
+Morone americana
+brown mustard plant
+obsolete: darkie charlie
+obsolete: ascomycetes
+obsolete: eel, freshwater
+obsolete: indian jujube plant
+obsolete: incense tree
+green algae
+Elymus repens
+obsolete: atlantic calico scallop
+Patinopecten caurinus
+Peprilus paru
+Thunnus thynnus
+Panulirus regius
+Esox reichertii
+obsolete: red deepsea crab
+Masturus lanceolatus
+Mullus barbatus
+Ostrea edulis
+Fusarium venenatum
+Lutjanus sebae
+Phaseolus vulgaris
+Mentha spicata
+Anseranas semipalmata
+obsolete: roman wormwood plant
+obsolete: black walnut tree
+Anabas testudineus
+Canarium ovatum
+Gadus ogac
+Homarinus capensis
+obsolete: canada goose
+Artemesia longinaris
+Annona reticulata
+avocado plant
+obsolete: field cress plant
+obsolete: pool frog
+Microstomus kitt
+obsolete: wild turkey
+Lutjanus purpureus
+obsolete: rat-tail anchovy
+Mullus auratus
+Vaccinium uliginosum
+obsolete: cape gooseberry plant
+obsolete: zhe berry plant
+Glechoma hederacea
+Allium cepa
+obsolete: blue skate
+obsolete: salad burnet plant
+obsolete: great burnet plant
+Maccullochella peelii
+obsolete: canestrini's goby
+obsolete: mexican ground cherry plant
+obsolete: indo-pacific king mackerel
+obsolete: slender tuna
+obsolete: raitt's sandeel
+macadamia nut (raw)
+Artemisia vulgaris
+obsolete: black currant plant
+obsolete: cowslip plant
+Raniceps raninus
+agency food product type
+Melicoccus bijugatus
+Malus pumila
+obsolete: kodo millet plant
+obsolete: gehakt
+Harengula jaguana
+Archosargus probatocephalus
+obsolete: atlantic wolffish
+obsolete: loquat plant
+almond tree
+obsolete: blue cod
+Ribes aureum
+obsolete: spotted grouper
+Artemisia absinthium
+obsolete: silver moonfish
+obsolete: cherry salmon
+Atriplex hortensis
+mallow plant
+obsolete: brazil cherry plant
+Haliotis rufescens
+Pachygrapsus crassipes
+obsolete: senegal date palm plant
+obsolete: west indian vanilla plant
+Hedychium coronarium
+obsolete: walnut tree
+Auxis rochei
+Chelydra serpentina
+obsolete: common carp
+edible frog
+carrot pieces (peeled, canned)
+Macrodon ancylodon
+Claytonia perfoliata
+Borago officinalis
+obsolete: wahoo
+Fagopyrum esculentum
+red algae
+Menippe mercenaria
+Musa acuminata AAA Group
+obsolete: atlantic mud shrimp
+Eugenia brasiliensis
+skeletal meat part, without bone and skin, without separable fat
+Atherina boyeri
+obsolete: wels catfish
+Illex cf. oxygonius DBC-2006
+Cucumis melo
+Vaccinium reticulatum
+obsolete: Crateva religiosa tree
+Hypsophrys nematopus
+Ammodytes tobianus
+obsolete: soursop plant
+Scomberomorus guttatus
+rural diet
+Galega officinalis
+obsolete: carambola tree
+Elaeis guineensis
+obsolete: african eggplant plant
+Trachinotus carolinus
+Cynoscion parvipinnis
+Colinus virginianus
+Digitaria exilis
+Leucoraja ocellata
+Solanum tuberosum
+obsolete: white river crayfish
+obsolete: american black bear
+obsolete: starry smooth-hound
+Sarda sarda
+obsolete: corn kernel
+Sardinops ocellatus
+obsolete: yelloweye rockfish
+Eutrigla gurnardus
+obsolete: red snapper
+obsolete: sea-grape plant
+obsolete: chili pepper
+Cochlearia officinalis
+Todarodes sagittatus
+obsolete: wheat bread dough
+Vigna unguiculata
+Clidoderma asperrimum
+Salvia sclarea
+Ruditapes philippinarum
+obsolete: dogfish
+obsolete: golden currant plant
+obsolete: golden grouper
+obsolete: brazil nut plant
+obsolete: egg shell, food contact surface
+obsolete: pigfish
+horse bean plant
+obsolete: bacteroidetes
+obsolete: nyala
+Carissa spinarum
+obsolete: neet (fish)
+Lactuca serriola
+obsolete: red rock crab
+obsolete: bilberry plant
+Nemipteridae
+concentration of cysteine in material entity
+obsolete: other chemical food source
+obsolete: alewife
+obsolete: mallard
+obsolete: brazilian pepper tree
+NCBITaxon_110569
+Gossypium herbaceum
+NCBITaxon_1072472
+obsolete: canary rockfish
+Cervus nippon
+beverage base, liquid
+Sardinops neopilchardus
+Metanephrops mozambicus
+obsolete: european hake
+Planchonella australis
+obsolete: production environment other
+obsolete: melatonin supplement
+Lotella rhacina
+obsolete: spanish lime plant
+obsolete: japanese eel
+Aerodramus fuciphagus
+obsolete: mioga ginger plant
+Trachurus trachurus
+infant as food consumer, 0 - 6 months
+Lutjanus buccanella
+obsolete: mycoplasmatales
+Fungi
+obsolete: red currant plant
+obsolete: large-eyed dentex
+obsolete: sword razor
+chicken breast (skinless, boneless)
+Metanephrops sagamiensis
+Labeo rohita
+obsolete: northern shrimp
+wheat food product
+Genypterus blacodes
+clown featherback
+Prunus tomentosa
+Squalius cephalus
+Lycium barbarum
+Sphyrna zygaena
+Pinus mugo
+obsolete: pollen
+Lepidopus caudatus
+Anethum graveolens
+obsolete: norway haddock
+Fumaria officinalis
+carrot plant
+obsolete: european flying squid
+obsolete: banteng
+obsolete: longan tree
+color of poultry meat
+obsolete: black carp
+obsolete: meat color, undesignated or unknown
+obsolete: atlantic pomfret
+Anguilla japonica
+Cantareus apertus
+pollen
+Citrus australis
+Psidium guajava
+obsolete: siamese crocodile
+Auricularia auricula-judae
+flaxseed oil supplement
+obsolete: greenland halibut
+obsolete: bush raisin plant
+chicken thigh
+obsolete: blue mussel
+obsolete: wellington flying squid
+obsolete: weathervane scallop
+obsolete: atlantic jackknife
+obsolete: buko plant
+Zizania palustris
+obsolete: nile tilapia
+Vaccinium macrocarpon
+tangerine (raw)
+Todarodes filippovae
+Labeo catla
+obsolete: european beech plant
+Delphinapterus leucas
+Parapercis colias
+Castanea dentata
+Ziziphus mauritiana
+obsolete: jackfruit tree
+Micropogonias furnieri
+Cervus elaphus
+Scomberomorus munroi
+somiviki
+Coelorinchus kaiyomaru
+Brama dussumieri
+Enteroctopus dofleini
+Prunus subcordata
+globalized diet
+Apostichopus californicus
+obsolete: great atlantic scallop
+obsolete: tonka bean plant
+Hippoglossoides platessoides
+obsolete: bar jack
+Anoplopoma fimbria
+obsolete: southern blue whiting
+Carya illinoinensis
+obsolete: chinese rhubarb plant
+Hippoglossus hippoglossus
+obsolete: dove
+Serenoa repens
+Acipenser sturio
+Trachurus novaezelandiae
+obsolete: hanasaki crab
+Phyllostachys edulis
+obsolete: cuban stone crab
+obsolete: mugo pine plant
+NCBITaxon_558553
+Faxonius limosus
+Cetraria islandica
+Chionoecetes angulatus
+Bos taurus
+obsolete: bactrian camel
+Macruronus novaezelandiae
+Seriolella caerulea
+peanut oil
+obsolete: gymnema plant
+obsolete: garbanzo bean (whole)
+obsolete: eyebright plant
+obsolete: japanese millet plant
+obsolete: dolly varden
+Esomus danrica
+Eriphia gonagra
+obsolete: pistachio plant
+Diodon hystrix
+Serripes groenlandicus
+obsolete: foxtail amaranth plant
+Chlorophyta incertae sedis
+Urophycis tenuis
+obsolete: arctic hare
+Procambarus acutus
+obsolete: color of fish flesh not known
+obsolete: mangosteen tree
+Cancer productus
+Rhombosolea leporina
+obsolete: grass goby
+obsolete: beef hamburger (raw)
+Carcharhinus obscurus
+obsolete: manna ash plant
+Lophius budegassa
+european filbert plant
+Coilia mystus
+obsolete: white pomfret
+Morone saxatilis
+obsolete: japanese quail
+Alaria esculenta
+Panulirus versicolor
+obsolete: lowfin pomfret
+obsolete: donkey
+Annona glabra
+obsolete: sloe plant
+Ambloplites rupestris
+obsolete: atlantic mudskipper
+obsolete: american shad
+obsolete: chinese pear plant
+obsolete: fruiting body
+obsolete: hog plum plant
+obsolete: infant formula (liquid, milk-based, canned)
+obsolete: noble crayfish
+obsolete: black kingklip
+NCBITaxon_436001
+Melissa officinalis
+obsolete: flathead grey mullet
+Linum usitatissimum
+obsolete: blood snapper
+obsolete: black cumin seed
+concentration of sodium chloride in material entity
+obsolete: greater burdock plant
+obsolete: apple (peeled)
+obsolete: benguela hake
+Hypophthalmichthys molitrix
+obsolete concentration of sodium chloride in material entity
+Rosa suffulta
+Rostroraja alba
+Alchemilla alpina
+Salvelinus fontinalis
+Syzygium paniculatum
+obsolete: elephant
+Ginkgo biloba
+Tropaeolum minus
+obsolete: black cohosh supplement
+obsolete: peppermint plant
+obsolete: chain pickerel
+obsolete: tarry skate
+obsolete: brush cherry plant
+alcoholic beverage
+Mercenaria mercenaria
+obsolete: south american silverside
+Prunus maritima
+Ficus thonningii
+foxtail millet plant
+obsolete: sea belt
+Chenopodium album
+obsolete: shiba shrimp
+Plecoglossus altivelis
+Scomberesox saurus
+Cyprinus carpio
+obsolete: pickled food 2
+Scyllarus arctus
+Odocoileus virginianus
+obsolete: golden goby
+obsolete: garden valerian plant
+obsolete: green rock lobster
+Ampelocissus acetosa
+obsolete: silkmoth
+Larus marinus
+obsolete: iceland scallop
+obsolete: horse-chestnut plant
+obsolete: paradise apple plant
+obsolete: citron plant
+obsolete: california mussel
+Diospyros lotus
+obsolete: durian tree (Durio zibethinus)
+obsolete: royal red shrimp
+Mugil curema
+pitaya plant
+Dipturus batis
+Epinephelus striatus
+obsolete: frog
+Carcharhinus perezii
+obsolete: dusky shark
+Loxodonta africana
+obsolete: mussel (common, raw)
+piki
+Argyrosomus hololepidotus
+infant as food consumer, 6 - 12 months
+Struthio camelus
+alcoholic beverage (distilled)
+Penaeus chinensis
+Polyprion americanus
+vegetarian diet
+obsolete: black snapper
+Limnophila aromatica
+Zingiber mioga
+obsolete: cape spiny lobster
+obsolete: dwarf elder plant
+Atherina presbyter
+obsolete: pickhandle barracuda
+Capsicum baccatum
+obsolete: teff plant
+Decapterus macrosoma
+obsolete: elephant fish
+Macrobrachium malcolmsonii
+obsolete: variegated scallop
+oat food product
+Epinephelus morio
+obsolete: gulper shark
+Brassica juncea subsp. integrifolia
+Vanilla pompona
+obsolete: spiny-tail skate
+obsolete: quinoa plant
+obsolete: pomelo plant
+obsolete: california sea cucumber
+obsolete: skilfish
+Pachira insignis
+obsolete: mango plant
+obsolete: bud
+Curcuma australasica
+Acanthocybium solandri
+obsolete: pronghorn spiny lobster
+obsolete: pork steak
+obsolete: red-eyed round herring
+obsolete: european roe deer
+obsolete: south american rock mussel
+Mercenaria campechiensis
+obsolete: nutmeg plant
+Citrullus lanatus
+obsolete: ratfish
+cinnamon plant
+Mytilus galloprovincialis
+Coturnix japonica
+Rachycentron canadum
+obsolete: chinese ginseng plant
+obsolete: blackjack plant
+Kunzea pomifera
+Manilkara kauki
+Cananga odorata
+Caranx caballus
+Odax pullus
+Etmopterus spinax
+Parkia speciosa
+Fagus sylvatica
+obsolete: dill plant
+obsolete: italian cornsalad plant
+plant structure
+Agaricus bisporus
+obsolete: levant cotton plant
+obsolete: muskellunge
+obsolete: rotund boesenbergia plant
+cassava flour
+obsolete: magpie goose
+not heat-treated
+obsolete: garland chrysanthemum plant
+obsolete: escolar
+obsolete: baker's yeast
+fish oil supplement
+obsolete: langsat plant
+obsolete: apricot tree
+obsolete: Flying barb fish
+apple (peeled)
+obsolete: european bittersweet
+Metanephrops japonicus
+Trinectes maculatus
+obsolete: rainbow runner
+obsolete: shortfin corvina
+obsolete: white sucker
+obsolete: strawberry tree
+obsolete: south pacific shellfish (raw)
+obsolete: semi-vegetarian dietary pattern
+obsolete: florida fighting conch
+obsolete: swordfish
+obsolete: actinobacteria
+Penaeus canaliculatus
+Menticirrhus undulatus
+Engraulis ringens
+Salvelinus malma
+guava plant
+Solanum centrale
+Cyttus australis
+obsolete: arabian jasmine plant
+obsolete: roughscale flounder
+obsolete: northern bobwhite
+obsolete: leatherjacket
+obsolete: fusarium venenatum
+obsolete: european sea bass
+obsolete: spot croaker
+obsolete: common verbena plant
+Prunus persica
+obsolete: parore
+Synsepalum dulcificum
+Prunus cerasus
+Allocyttus verrucosus
+black cumin seed
+Mora moro
+Cepphus grylle
+Anguilla dieffenbachii
+NCBITaxon_549450
+obsolete: governor's plum plant
+Pseudopodospermum hispanicum
+obsolete: pseudomonadales
+obsolete: white perch
+obsolete: bowhead whale
+obsolete: white guinea yam plant
+obsolete: arapaima
+obsolete: paddlefish
+Fraxinus ornus
+Merluccius australis
+obsolete: sweet clover plant
+obsolete: mexican flounder
+obsolete: siberian pine plant
+shelled egg
+Ovis aries
+obsolete: chicken
+threadfin bream family
+Pimpinella major
+Glyptocephalus zachirus
+obsolete: oheloberry plant
+obsolete: cluster mallow plant
+Merluccius polli
+Lamna nasus
+obsolete: greylag goose
+obsolete: garbanzo bean plant
+obsolete: sharptail shortfin squid
+obsolete: ethiopian eggplant plant
+obsolete: prairie turnip plant
+concentration of phosphatidylinositol in material entity
+obsolete: ide
+obsolete: natal plum plant
+Vaccinium myrtillus
+Fratercula corniculata
+Phaseolus coccineus
+Blighia sapida
+Pecten maximus
+obsolete: greenland cockle
+Thymus vulgaris
+Chionista fluctifraga
+obsolete: spotted chub mackerel
+ginger root
+infant as food consumer, 3 - 6 months
+Gossypium hirsutum
+obsolete: monkeyhead mushroom
+freestone peach tree
+Homarus gammarus
+chicken breast (skinless)
+Epinephelus aeneus
+Boesenbergia rotunda
+obsolete: land cress plant
+obsolete: maturity or ripeness unknown
+Molva dypterygia
+Lepidium campestre
+obsolete: algae (food product)
+obsolete: rural diet dietary pattern
+Flacourtia indica
+Marmota monax
+obsolete: mackerel scad
+obsolete: red drum
+obsolete: hoki
+obsolete: southern african pilchard
+Brassica oleracea
+obsolete: morrito plant
+obsolete: chaste tree
+Rupicapra rupicapra
+Rhombosolea plebeia
+Camelus dromedarius
+obsolete: goldsaddle goatfish
+avenasterol
+Aplodinotus grunniens
+Scomberomorus commerson
+obsolete: marble goby
+Stevia rebaudiana
+whale meat (fresh)
+obsolete: japanese lobster
+obsolete: welsh onion plant
+obsolete: mexican bush sage plant
+obsolete: caribbean spiny lobster
+Spondias purpurea
+obsolete: black rockfish
+Glebocarcinus amphioetus
+obsolete argentine hake
+obsolete concentration of polyol in material entity
+Valerianella eriocarpa
+obsolete: european centaury plant
+obsolete: green jack
+Pseudomonadales
+obsolete: sockeye salmon
+Mobula birostris
+Psettodes erumei
+concentration of methionine in material entity
+Spinacia oleracea
+Rheum officinale
+Trachyscorpia cristulata
+Carcharhinus porosus
+obsolete: filbert nut (whole, shell on, raw)
+Leucoraja naevus
+Piaractus mesopotamicus
+Knipowitschia panizzae
+Raja montagui
+Cyamopsis tetragonoloba
+obsolete: bastard trumpeter
+Syzygium aqueum
+obsolete: wolfberry plant
+scallop
+obsolete: red king crab
+obsolete: snake gourd plant
+frog
+obsolete: beverage alcohol
+obsolete: pearl millet plant
+obsolete: patagonian smooth-hound
+Artemia salina
+obsolete: sand flounder
+Cicer arietinum
+obsolete: sycamore fig plant
+obsolete: burbot
+Pollachius pollachius
+Greater Middle Eastern  (Middle Eastern or North African or Persian)
+obsolete: starch
+obsolete: dover sole
+Rangifer tarandus
+obsolete: pacific sierra
+semi-vegetarian diet
+Apium graveolens
+Punica granatum
+obsolete: dairy product analog (not further specified)
+obsolete: arrowroot plant
+obsolete: dwarf banana plant
+obsolete: yellowtail horse mackerel
+Salvia leucantha
+potassium chloride
+Carissa macrocarpa
+obsolete: bogue
+obsolete: pacific halibut
+Cololabis saira
+obsolete: blessed milkthistle plant
+obsolete: jew's ear
+obsolete: water mimosa plant
+Auxis thazard
+chicken
+shallot plant
+obsolete: giant oceanic manta ray
+obsolete: asiatic pennywort plant
+obsolete: sanddab
+Bunium bulbocastanum
+obsolete: blue whitefish
+Merluccius bilinearis
+Menidia menidia
+Bactris gasipaes
+Argopecten irradians
+Rubus ursinus
+ancestry category
+obsolete: sand tiger shark
+obsolete: cabezon
+obsolete: atlantic silverside
+food spread
+obsolete: coco plum plant
+obsolete: ruffe
+Molva molva
+Odontesthes regia
+Dioscorea esculenta
+Passiflora ligularis
+Sepiola atlantica
+Chondrus crispus
+obsolete: blue crab
+Carcharias taurus
+obsolete: siamese cassia plant
+Angelica sylvestris
+Schinus terebinthifolia
+Blue mussel (raw)
+obsolete: steller sea lion
+obsolete: canned fruit food product
+Erignathus barbatus
+Eragrostis tef
+Actinomycetes
+obsolete: eucalypt eugenia plant
+fruitbody
+obsolete: ylang-ylang plant
+obsolete: golden king crab
+obsolete: great pignut plant
+obsolete: west indian fighting conch
+Leucoraja fullonica
+obsolete: gummy shark
+obsolete: hemp plant
+Annona muricata
+obsolete: chilean strawberry plant
+Momordica charantia
+obsolete: smalltail shark
+Solanum nigrum
+obsolete: bearberry plant
+Pleuronectes platessa
+NCBITaxon_163129
+obsolete: gulf coney
+Cynoscion arenarius
+obsolete: sea beet plant
+obsolete: southern pink shrimp
+obsolete: black mulberry plant
+Silurus glanis
+fruit
+Menippe nodifrons
+skeletal meat part, with bone, without skin, without separable fat
+concentration of glycerol in material entity
+obsolete: klamath plum plant
+Panulirus argus
+cowpea plant
+obsolete: scrawled sole
+Hapalochlaena maculosa
+Pediomelum esculentum
+Haliotis sorenseni
+obsolete: mamey sapote plant
+Sebastes fasciatus
+obsolete: summer flounder
+obsolete: longfin smelt
+butchery cut of animal
+obsolete: ringed seal
+obsolete: common oat food product
+obsolete: american persimmon plant
+Maranta arundinacea
+Parachanna obscura
+mollusc shell
+Passiflora foetida
+obsolete: tope shark
+obsolete: highbush blueberry plant
+Camellia sinensis
+Salix pulchra
+obsolete: lemon balm plant
+Bertholletia excelsa
+Allothunnus fallai
+Columbina passerina
+Eriobotrya japonica
+Thespesia populnea
+obsolete concentration of sodium hydrogensulfite in material entity
+obsolete: prickly lettuce plant
+Bubo virginianus
+Paralichthys lethostigma
+Sarpa salpa
+Chaceon quinquedens
+Plantago indica
+Juglans cinerea
+Strongylura exilis
+Metanephrops formosanus
+obsolete: bigeye cardinalfish
+obsolete: catfish
+obsolete: chinese amaranth plant
+Trachurus picturatus
+obsolete: common dentex
+Ensis directus
+Tilia cordata
+obsolete: small scaled brown slickhead
+obsolete: horned puffin
+Country
+Pinus koraiensis
+obsolete: goosefish
+obsolete: red chokeberry plant
+obsolete: corn smut
+obsolete: lowbush blueberry plant
+Engraulis mordax
+Plantago lanceolata
+obsolete: bambara groundnut plant
+obsolete: yellow catfish
+Mitragyna speciosa
+obsolete: african mudfish
+obsolete: king threadfin
+elephant
+eggshell
+Brassica nigra
+Citrus hystrix
+obsolete: australian bonito
+Solanum macrocarpon
+Vitis rotundifolia
+Viburnum opulus
+obsolete: water python
+Muraenesox bagio
+obsolete: liza
+obsolete: european rowan plant
+Equisetum arvense
+obsolete: coho salmon
+obsolete: sutchi catfish
+obsolete: rice paddy herb plant
+obsolete: amur pike
+obsolete: northern wolffish
+partially heat-treated
+obsolete: kaiyomaru rattail
+obsolete: australian spiny lobster
+obsolete: river lamprey
+cocktail tomato plant
+obsolete: round scad
+obsolete: black pomfret
+Lutjanus vivanus
+Pseudechis porphyriacus
+Ursus maritimus
+obsolete: horse
+mace food product
+common cranberry plant
+obsolete: akiami paste shrimp
+obsolete: walrus
+obsolete: southern meagre
+Dipteryx odorata
+obsolete: arctic dock plant
+obsolete: bigeye tuna
+obsolete: cape lobster
+Solanum lycopersicum
+Macquaria ambigua
+obsolete: atlantic saury
+Meleagris ocellata
+obsolete: european john dory
+obsolete: yam, tropical (plant)
+obsolete: no packing medium used
+chili pepper
+Capreolus capreolus
+obsolete: arachis oil
+Penaeus stylirostris
+obsolete: warty dory
+Alepocephalus australis
+obsolete: hawksbill turtle
+Paullinia cupana
+obsolete: roquefort cheese
+obsolete: naranjilla plant
+obsolete: custard apple tree
+Pelophylax ridibundus
+Salacca zalacca
+obsolete: morocco dentex
+concentration of myo-inositol hexakisphosphate in material entity
+Empetrum nigrum
+obsolete: blue shrimp
+Nototodarus sloanii
+Capsicum annuum
+Sphyrna tudes
+Aequipecten opercularis
+obsolete: western king prawn
+obsolete: english holly plant
+obsolete: mammea africana tree
+Platichthys flesus
+Bembrops anatirostris
+Chelidonichthys kumu
+obsolete: bitter melon plant
+muscadine grape plant
+Palaemon vulgaris
+Sebastes diploproa
+Pampus cinereus
+Sarda australis
+obsolete: food made from wheat
+Morone chrysops
+obsolete: roughy
+obsolete: rock cod
+Osmunda regalis
+Thelesperma megapotamicum
+obsolete: woodcock
+Panulirus penicillatus
+obsolete: japanese spiny lobster
+Sprattus sprattus
+Kali turgidum
+Arctostaphylos uva-ursi
+Coregonus macrophthalmus
+Rubus chamaemorus
+obsolete: atlantic cod
+obsolete: ridge scaled rattail
+Cetengraulis edentulus
+Micromesistius poutassou
+obsolete: splitnose rockfish
+obsolete: common daisy plant
+sorghum kernel
+bottle or jar
+obsolete: sweet osmanthus plant
+Thunnus obesus
+Crocodylus acutus
+Chimaera monstrosa
+Alpinia officinarum
+Ribes rubrum
+Dimocarpus longan
+obsolete: large-bottom pollan
+obsolete: paprika
+Xiphias gladius
+fenugreek plant
+obsolete: prickly pear plant
+obsolete: speckled rockfish
+food production
+Pouteria sapota
+obsolete: corvina
+obsolete: mozambique tilapia
+obsolete: green garden snail
+obsolete: blue king crab
+Phoenix reclinata
+obsolete: true cinnamon plant
+Oncorhynchus kisutch
+Solanum muricatum
+ketogenic diet
+obsolete: white-tailed deer
+obsolete: skipjack tuna
+obsolete: sponge gourd plant
+obsolete: emperor snapper
+obsolete: soapbark plant
+Sarda chiliensis
+obsolete: lumpfish
+obsolete: green-back horse mackerel
+Lutjanus johnii
+Dinocardium robustum
+Sambucus ebulus
+Perna perna
+obsolete: flathead sole
+Merluccius productus
+Gobius paganellus
+Acipenser stellatus
+Monodactylus argenteus
+Prunus domestica
+Borassus aethiopum
+obsolete: red banana plant (Ensete ventricosum)
+obsolete: northern minke whale
+Echinacea pallida
+obsolete: pigeon
+Pangasius sanitwongsei
+Cinnamomum aromaticum
+Vaccinium oxycoccos
+obsolete: freshwater drum
+Papaver somniferum
+fat content <=10%
+fruit ripeness
+Katsuwonus pelamis
+obsolete: bifidobacteriales
+obsolete: beluga whale
+Channa micropeltes
+Juglans
+Sebastes melanops
+obsolete: pili tree
+obsolete: spanish plum plant
+obsolete: lignum-vitae plant
+skeletal meat part, without bone and skin, with separable fat
+NCBITaxon_6786
+Brevoortia tyrannus
+obsolete: king mackerel
+obsolete: yellowfin tuna
+Taraxacum officinale
+Dendrocalamus asper
+Clupea pallasii
+obsolete: redfinger rubble crab
+obsolete: new zealand butterfish
+obsolete: woodchuck
+obsolete: chilean pilchard
+Artocarpus altilis
+obsolete: snapping turtle
+Phoxinus phoxinus
+obsolete: bladder campion plant
+Coccinia grandis
+obsolete concentration of methionine in material entity
+obsolete: bocaccio
+Anguilla australis
+obsolete: date plum plant
+Aulopus filamentosus
+dairy product analog
+obsolete: little millet plant
+obsolete: turmeric plant
+obsolete: gould's goanna
+Columbidae
+Hippoglossina oblonga
+obsolete: muskmelon plant
+obsolete: european eel
+Hiodon alosoides
+Typha latifolia
+concentration of polyol in material entity
+Crocodylus niloticus
+obsolete: european dewberry plant
+obsolete: lacto-vegetarian dietary pattern
+Liasis fuscus
+obsolete: silver warehou
+obsolete: african fan palm plant
+Penaeus brasiliensis
+bean food product
+Centaurea benedicta
+obsolete: tasmanian nativehen
+Carcharhinus plumbeus
+Bellis perennis
+omega-3- fatty acid supplement
+obsolete: borage plant
+asparagus bean plant
+obsolete: blue ling
+Harengula clupeola
+obsolete: rock goby
+Eopsetta jordani
+food product contact surface
+obsolete concentration of myo-inositol hexakisphosphate in material entity
+pacific herring
+Dentex maroccanus
+obsolete: broad-barred king mackerel
+bouillon cube
+obsolete: mammea americana tree
+obsolete: american chestnut tree
+obsolete: florida stone crab
+obsolete: nettle plant
+obsolete: absinthe plant
+obsolete: java apple plant
+obsolete: japanese flying squid
+obsolete: marrow-stem kale plant
+obsolete: zander
+Isurus oxyrinchus
+obsolete: antarctic cutlerfish
+Oncorhynchus mykiss
+obsolete: tealeaf willow plant
+obsolete: spearmint plant
+Urophycis brasiliensis
+komatsuma plant
+obsolete: ginseng supplement
+pumpkin leaf (raw)
+obsolete: smooth rattail
+obsolete: idaho potato
+obsolete: hairy sponge crab
+obsolete: shagreen ray
+Fragaria vesca
+Pandalus montagui
+obsolete: narrow-barred mackerel
+obsolete: blunt snouted mullet
+obsolete: harvestfish
+Loxodonta cyclotis
+obsolete: chilean croaker
+obsolete: moonfish
+obsolete: rough redeye crab
+obsolete: striped weakfish
+obsolete: daggertooth pike-conger
+obsolete: long-finned eel
+Capreolus pygargus
+obsolete: peruvian peppertree
+Chanos chanos
+obsolete: margin jackknife
+obsolete: dietary supplement, other
+Sanguisorba officinalis
+obsolete: brasilian guava plant
+Squalus acanthias
+obsolete: northern wild rice plant
+Citrus medica
+obsolete: new zealand lobster
+Mimachlamys varia
+maltodextrin
+obsolete: sorghum plant
+obsolete: school shark
+Mycosarcoma maydis
+Euthynnus lineatus
+Pachyrhizus erosus
+Pagellus erythrinus
+obsolete: golden perch
+obsolete: golden-spoon plant
+Anarhichas lupus
+obsolete: ketogenic diet dietary pattern
+obsolete: northern anchovy
+Sphyraena jello
+obsolete: olive rockfish
+muscat grape plant
+obsolete: cut of meat not known
+obsolete: australian finger lime plant
+obsolete: mace
+obsolete: houting
+Althaea officinalis
+Anser anser
+Prunus armeniaca
+Osmanthus fragrans
+enteromorpha
+obsolete: weakfish
+obsolete: food source not known (deprecated)
+obsolete: unicorn filefish
+Pinus cembra
+Verbascum thapsus
+obsolete: tobacco root plant
+Senna siamea
+can (container)
+Nemadactylus douglasii
+obsolete: formosa lobster
+Vigna angularis
+Schilbe mystus
+Senna obtusifolia
+obsolete: american cranberry plant
+Lutjanus colorado
+Leptospron adenanthum
+Chenopodium quinoa
+Pachygrapsus transversus
+obsolete: anchoveta
+obsolete: product type, unknown
+obsolete: common ground dove
+obsolete: frigate tuna
+obsolete: redvein dock plant
+obsolete: northern sand lance
+obsolete: northern quahog
+phaseolus vulgaris, edible pod cultivar (plant)
+obsolete: miracle fruit
+obsolete: strawberry raspberry plant
+obsolete: potatobean plant
+infant as food consumer
+obsolete: pecan tree
+obsolete: bullet tuna
+obsolete: mule deer
+obsolete: rock bass
+Zeus faber
+obsolete: Indian prawn
+Citrus limonia
+obsolete: indian bullfrog
+obsolete: bowfin
+rice with husk
+obsolete: green tree ant
+obsolete: rock sole
+obsolete: short-finned eel
+obsolete: dietary food supplement
+obsolete: wild angelica plant
+obsolete: four-finger threadfin
+obsolete: saw palmetto plant
+pescetarian diet
+Paratrachichthys trailli
+obsolete: dwarf nasturtium plant
+obsolete: lake trout
+idaho russet potato
+obsolete: black skipjack
+obsolete: devil ray
+Aquarana catesbeiana
+obsolete: potato bush
+Castanea crenata
+Houttuynia cordata
+Boops boops
+Dentex gibbosus
+obsolete: long-fin squid
+mediterranean diet
+yellow plantain
+Citrus limetta
+Mylopharyngodon piceus
+obsolete: myrtle plant
+obsolete: common guitarfish
+Dioscorea cayenensis
+obsolete: polar bear
+obsolete: geographic place or region not known
+Varanus gouldii
+obsolete: mediterranean starry ray
+Eryngium foetidum
+Triticum spelta
+skeletal meat part, with bone, with skin
+Carassius carassius
+obsolete: buckwheat plant
+Polyodon spathula
+obsolete: salak palm plant
+Diplectrum formosum
+Selenicereus undatus
+Euphausia frigida
+Neptunia oleracea
+obsolete: portuguese oyster
+obsolete: crucian carp
+Anguilla nebulosa
+low fat diet
+geographical location
+diet by food organism
+obsolete: clam (cooked, canned)
+Echinacea purpurea
+phaseolus vulgaris, edible seed cultivar (plant)
+Lampris guttatus
+obsolete: european bison
+obsolete: kratom
+obsolete: african pearwood plant
+Ninnigobius canestrinii
+obsolete: watermelon plant
+obsolete: zebrafish
+Oligoplites saurus
+Scomber japonicus
+obsolete: chickasaw plum plant
+Rexea solandri
+Citrus junos
+concentration of xylitol in material entity
+arugula greens bunch
+Pangasianodon hypophthalmus
+Ferula assa-foetida
+Magallana gigas
+obsolete: five-lined snapper
+Salmo trutta
+Salsola soda
+Osteomugil engeli
+obsolete: silver catfish
+Zoarces viviparus
+Sardinella zunasi
+obsolete: aesop shrimp
+Metanephrops andamanicus
+obsolete: purplestem taro plant
+obsolete: atlantic anchoveta
+obsolete: lesser rhea
+obsolete: smooth venus
+obsolete: dugong
+PO_0000055
+italian prune plum plant
+obsolete: bream
+obsolete: indian gooseberry tree
+obsolete: european pollock
+Carassius auratus
+concentration of phosphatidylcholine in material entity
+obsolete: jack-bean plant
+obsolete: smooth redeye crab
+obsolete: winter cress plant
+Zia mays plant
+Bombyx mori
+Crocus sativus
+Zizania aquatica
+Petromyzon marinus
+Basella alba
+Vaccinium angustifolium
+obsolete: white mulberry plant
+Balaena mysticetus
+obsolete: wild custard apple plant
+obsolete: european pennyroyal plant
+obsolete: inconnu
+obsolete: clown featherback
+lentil (raw)
+Trachyspermum ammi
+obsolete: beverage base
+obsolete: otaheite gooseberry plant
+Oecophylla smaragdina
+Juglans nigra
+obsolete: short mackerel
+obsolete: distilled spirits
+obsolete: harp seal
+obsolete: royal spiny lobster
+obsolete: boldo plant
+Origanum onites
+obsolete: turkey meat (ground, raw)
+obsolete: prostrate knotweed plant
+Sphyrna mokarran
+Metanephrops velutinus
+obsolete: eastern king prawn
+obsolete: european oyster
+Lepomis gibbosus
+obsolete: chinese persimmon plant
+Opuntia polyacantha
+Psettichthys melanostictus
+Origanum syriacum
+Allium schoenoprasum
+barley plant
+obsolete concentration of cysteine in material entity
+obsolete: dusky smooth-hound
+Caltha palustris
+obsolete: swiss pine plant
+iodized claim
+Vigna umbellata
+Ammodytes marinus
+obsolete: white bass
+obsolete: common thyme plant
+obsolete: potato (whole, peeled, raw)
+Hippoglossoides elassodon
+Glyptocephalus cynoglossus
+Solanum ellipticum
+Mustelus antarcticus
+obsolete: pomegranate plant
+obsolete: groper
+obsolete: peach tree
+obsolete: jerusalem artichoke plant
+Citrus japonica
+Thyrsites atun
+sprat
+concentration of glucitol in material entity
+obsolete: queenfish
+obsolete concentration of iron(2+) sulfate (anhydrous) in material entity
+Scomberomorus semifasciatus
+Sebastes ruberrimus
+obsolete: chicken thigh
+Juniperus communis
+obsolete: pink dentex
+Cycas rumphii
+Eleutherococcus senticosus
+obsolete: mediterranean flagfin
+Jasus lalandii
+obsolete: spotted ray
+obsolete: doum palm plant
+obsolete: maca plant
+Mustelus canis
+obsolete: ostrich fern plant
+obsolete: sand sole
+Camelus bactrianus
+obsolete: seed (anatomical part)
+chicken breast (skinless, boneless, raw)
+Pyrus communis
+obsolete: bluefin tuna
+obsolete: chameleon-plant plant
+obsolete: silver linden plant
+obsolete: cobia
+Panulirus japonicus
+Carnegiea gigantea
+obsolete: nipa palm plant
+Colossoma macropomum
+obsolete: offshore silver hake
+Rumex sanguineus
+Modiolus modiolus
+obsolete: andaman lobster
+obsolete: potassium chloride
+obsolete: canadian wild rice plant
+obsolete: bilimbi plant
+obsolete european hake
+obsolete: southern bluefin tuna
+Anisotremus virginicus
+obsolete: owl limpet
+fruit (canned)
+Ananas comosus
+obsolete: rex sole
+obsolete: muskrat
+obsolete: spinach plant
+obsolete: common quince plant
+Rastrelliger brachysoma
+goat
+obsolete: greater kudu
+obsolete: potato bean plant
+obsolete: japanese quince plant
+Arbutus unedo
+obsolete: European rabbit
+obsolete: ground ivy plant
+obsolete: paulinia plant
+Caryocar brasiliense
+obsolete: black sea bass
+obsolete: artichoke (whole, raw)
+Sardinops sagax
+Illex illecebrosus
+Astacus astacus
+Oncorhynchus masou
+obsolete: ramie plant
+Aesculus hippocastanum
+stamen
+obsolete: urugavian lobster
+obsolete: basketweave cusk-eel
+Tragelaphus strepsiceros
+obsolete: yellowtail
+obsolete: cut of meat, other
+Centella asiatica
+color of fish flesh
+obsolete: atlantic bobtail
+obsolete: labrador redfish
+Phoca largha
+Morus alba
+Ulva prolifera
+Notacanthus chemnitzii
+obsolete: saskatoon plant
+fully heat-treated
+Polydactylus macrochir
+tilefish
+obsolete concentration of glycerol in material entity
+obsolete: sorghum seed (whole)
+Nemadactylus macropterus
+obsolete: nalta jute plant
+Sardina pilchardus
+skeletal meat part, with bone, without skin
+Primula veris
+obsolete: bigeye grunt
+Oxyeleotris marmorata
+Pentanemus quinquarius
+obsolete: lesser black-backed gull
+obsolete: devilfish
+obsolete: butter sole
+obsolete: opium poppy plant
+Meleagris gallopavo
+Averrhoa bilimbi
+obsolete: saguaro plant
+Cynara cardunculus var. scolymus
+obsolete: cornflower plant
+obsolete: fonio plant
+Ensis ensis
+Coccoloba uvifera
+Papaver rhoeas
+european strawberry plant
+Oncorhynchus keta
+Mustelus schmitti
+Metapenaeus joyneri
+obsolete: red huckleberry plant
+fat content >10%
+Decapterus punctatus
+obsolete: pygmy krill
+obsolete: scaled sardine
+obsolete: banana plant
+obsolete: megrim
+Lutjanus quinquelineatus
+obsolete: california yellowtail
+Gadus macrocephalus
+obsolete: new zealand long-finned eel
+Ethmidium maculatum
+obsolete: einkorn plant
+obsolete: arctic grayling
+Arapaima gigas
+obsolete: narrowfruit cornsalad plant
+Senna alexandrina
+obsolete: dietary pattern by type of food
+obsolete: smooth oreo dory
+Lonicera caerulea
+obsolete: kiwiberry
+arabica coffee plant
+Lannea edulis
+Macrourus carinatus
+Larimichthys crocea
+Trachurus japonicus
+Cancer pagurus
+obsolete: guelder-rose plant
+Lutjanus campechanus
+coenzyme Q10 supplement
+obsolete: witch prawn
+obsolete: gudgeon
+Chondrostoma nasus
+obsolete: cape aloe plant
+obsolete: celery plant
+obsolete: mandarin fish
+Picea abies
+grade of meat
+Vimba vimba
+obsolete: starry flounder
+Oncorhynchus nerka
+obsolete: tangerine (raw)
+obsolete: pumpkin leaf (whole, raw)
+Danio rerio
+Bidens pilosa
+obsolete: babassu palm plant
+obsolete: john's snapper
+Perca fluviatilis
+Alloteuthis media
+obsolete: golden shower tree
+obsolete: lentil (whole, raw)
+obsolete: annatto plant
+obsolete: siberian prawn
+Sebastes levis
+obsolete: common octopus
+Acipenser medirostris
+obsolete: round kumquat plant
+obsolete: velvet belly
+obsolete: shepherd's purse plant
+Scorpaenichthys marmoratus
+obsolete: edible-nest swiftlet
+obsolete: okra plant
+Brosimum alicastrum
+obsolete: grass shrimp
+Ameiurus catus
+Microstomus pacificus
+Isopsetta isolepis
+Silybum marianum
+obsolete: barbel
+Prunus spinosa
+obsolete: chilgoza pine plant
+Hippophae rhamnoides
+obsolete: boar fish
+Anchoa hepsetus
+Maclura tricuspidata
+food packing medium
+obsolete: blueback herring
+obsolete: elmleaf blackberry plant
+obsolete: spread for food
+obsolete: fetid passionflower
+Vicia faba
+obsolete: atlantic thread herring
+obsolete: new guinea crocodile
+obsolete: adzuki bean plant
+Cancer irroratus
+Balaenoptera acutorostrata
+Paralithodes brevipes
+obsolete: chicken egg white (raw)
+obsolete: java-almond plant
+obsolete: atlantic halibut
+obsolete: ahipa plant
+obsolete: american alligator
+Mitchella repens
+Trinectes inscriptus
+Anarhichas denticulatus
+obsolete: packing medium, other
+Prunus dulcis
+Polyprion oxygeneios
+obsolete: ocellated turkey
+Merluccius hubbsi
+obsolete: garden strawberry plant
+frankfurter (in bun)
+obsolete: perforate st. john's-wort plant
+Leukoma staminea
+obsolete: whale meat (not further specified)
+Coregonus wartmanni
+Phractolaemus ansorgii
+obsolete: chum salmon
+Passiflora quadrangularis
+chive plant
+Syzygium samarangense
+Dicentrarchus labrax
+obsolete: pacific cod
+obsolete: silver carp
+Tenualosa ilisha
+Pseudocaranx chilensis
+obsolete: smooth hammerhead
+obsolete: cattle
+Carangoides ruber
+obsolete: chicken breast (skinless)
+obsolete: muskmallow plant
+obsolete: agretti plant
+Alosa mediocris
+Capsicum chinense
+obsolete: mangrove cupped oyster
+obsolete: chickling vetch plant
+Panax ginseng
+obsolete: surinam cherry plant
+Annona senegalensis
+obsolete: softshell clam
+Esox niger
+obsolete: winged pea plant
+obsolete: high-carbohydrate diet dietary pattern
+gluten free diet
+obsolete: stalk celery plant
+obsolete: ribwort plantain plant
+obsolete: java-bean plant
+Tilia tomentosa
+obsolete: hartwort plant
+obsolete: arugula greens (raw)
+Paralichthys olivaceus
+obsolete: salema
+dandelion plant
+obsolete: hogchoker
+obsolete: great black-backed gull
+obsolete: pacific rock crab
+Lepus arcticus
+obsolete: proteobacteria
+Thunnus maccoyii
+Crescentia alata
+obsolete: african oil palm plant
+Hyporthodus acanthistius
+obsolete: peanut plant
+Vitex doniana
+Labrus viridis
+Mycteroperca venenosa
+Etrumeus teres
+obsolete: goldfish
+obsolete: american oil palm plant
+Penaeus latisulcatus
+obsolete: parsley plant
+sweet almond plant
+Arripis trutta
+NCBITaxon_66703
+Decapterus macarellus
+Sebastes saxicola
+obsolete: pepino plant
+Callinectes sapidus
+obsolete: sand perch
+Dioscorea
+Merluccius gayi
+obsolete: hickory shad
+obsolete: eastern oyster
+obsolete: small european locust lobster
+obsolete: silk snapper
+obsolete: blue ring octopus
+obsolete: sweet lime plant
+obsolete: spicy knight mushroom
+Vicia ervilia
+obsolete: nile crocodile
+obsolete: japanese pilchard
+obsolete: juniper plant
+chicory plant
+obsolete: eurasian perch
+obsolete: chub mackerel (Scomber japonicus)
+Hyperoglyphe antarctica
+obsolete: pointed gourd plant
+obsolete: pike perch
+obsolete: snakehead
+Leucoraja circularis
+obsolete: milkfish
+biscuit (quick bread)
+obsolete: prickly saltwort plant
+Acipenser gueldenstaedtii
+Oreochromis aureus
+obsolete: beaked hazel plant
+obsolete: guarana plant
+obsolete: yellow croaker
+Scylla paramamosain
+mammalian meat food product
+obsolete: moldavian dragonhead plant
+Ficus sycomorus
+Macrourus berglax
+obsolete: ivy gourd plant
+obsolete: royal fern plant
+obsolete: largemouth bass
+action specification
+cowpea (pulse) food product
+obsolete: atlantic giant cockle
+obsolete: goby flathead
+obsolete: iceland moss
+Thymallus thymallus
+Seriola lalandi
+Trichosanthes cucumerina
+Lepidium sativum
+obsolete: roseroot stonecrop plant
+Raja microocellata
+mammalian meat (ground)
+Tribonyx mortierii
+obsolete: siberian roe deer
+Citrus maxima
+Senna tora
+Cucumis melo var. inodorus
+obsolete: peach, clingstone (plant)
+Triticum monococcum
+obsolete: grains-of-paradise plant
+Beta vulgaris
+obsolete: caranda plant
+Artocarpus heterophyllus
+chicken egg yolk (raw)
+Callorhinchus milii
+Musa
+Momordica cochinchinensis
+obsolete: pineapple plant
+Rubus sorbifolius
+obsolete: white abalone
+Gymnocephalus cernua
+obsolete: moonsoon river prawn
+obsolete: littleleaf linden plant
+Selenicereus megalanthus
+Alosa sapidissima
+Pylodictis olivaris
+Carangoides bartholomaei
+obsolete: ampelocissus frutescens plant
+Canarium schweinfurthii
+Viola tricolor
+obsolete: dietary pattern by nutritional composition
+obsolete: acerola plant
+obsolete: small-spotted catshark
+Physalis philadelphica
+obsolete: virginia strawberry plant
+obsolete: sneep
+obsolete: atlantic rock crab
+Vigna subterranea
+obsolete: sword-bean plant
+Metanephrops challengeri
+obsolete: island mackerel
+obsolete: mollusc shell
+Polygonum aviculare
+Cestrum macrophyllum
+obsolete: southern tanner crab
+Setaria italica
+obsolete: cytophagales
+Lathyrus sativus
+obsolete: blue whiting
+Scolymus hispanicus
+obsolete: african rice plant
+Tropaeolum majus
+Saccharomyces pastorianus
+obsolete: reindeer
+Prunus serotina
+obsolete: nanking cherry plant
+obsolete: giant sea bass
+Ammodytes dubius
+obsolete: european flounder
+Sander vitreus
+obsolete: durum wheat plant
+Hericium erinaceus
+obsolete: greater burnet-saxifrage plant
+obsolete: picton herring
+Psidium guineense
+Doryteuthis pleii
+Homarus americanus
+Epinephelus analogus
+obsolete: boyer's sandsmelt
+obsolete: bay scallop
+obsolete: japanese littleneck clam
+Cilus gilberti
+Aloe ferox
+obsolete: fruit (whole)
+obsolete: yellow bedstraw plant
+obsolete: pacific geoduck
+Alburnus alburnus
+Fragaria chiloensis
+clam (canned)
+Tetragonia tetragonoides
+obsolete: meat (not further specified)
+Physalis peruviana
+obsolete: kegani crab
+Metanephrops armatus
+obsolete: black mustard plant
+obsolete: king weakfish
+Ribes divaricatum
+obsolete: flathead catfish species
+obsolete: giraffe
+obsolete: tarakihi
+Parupeneus cyclostomus
+dietary supplement
+obsolete: rough-head grenadier
+obsolete: atlantic mackerel
+Eleutheronema tetradactylum
+Nuphar lutea
+obsolete: australian ruff
+Sus scrofa
+Cynoscion regalis
+obsolete: japanese sardinella
+Penaeus californiensis
+obsolete: gulf stone crab
+obsolete: green sturgeon
+obsolete: norwegian krill
+Achillea millefolium
+Metanephrops rubellus
+Vitis vinifera
+Cyclopsetta chittendeni
+yellow cornmeal
+Crocodylus novaeguineae
+obsolete: wood cauliflower
+obsolete: manchurian wild rice plant
+obsolete: common spiny lobster
+obsolete: white grouper
+obsolete: guar plant
+obsolete: mugwort plant
+obsolete: yellow pitaya plant
+obsolete: parkia plant
+Arachis hypogaea
+Sardinella fimbriata
+obsolete: new zealand sole
+Crassostrea virginica
+obsolete: edible rock crab
+Micropterus salmoides
+obsolete: dietary pattern by food organism
+swine
+Dracocephalum moldavica
+Sisymbrium officinale
+Chlamys islandica
+obsolete: murray cod
+chicken egg white (raw)
+Baillonella toxisperma
+obsolete: alpine lady's mantle plant
+Carya
+obsolete: brown ray
+obsolete: chicken breast (skinless, boneless, raw)
+obsolete: striped anchovy
+obsolete: blue tilapia
+obsolete: green tiger prawn
+Sorbus aucuparia
+obsolete: grains-of-paradise
+obsolete: cellulose added 2
+Morus nigra
+obsolete: northern pink shrimp
+obsolete: lagoon goby
+obsolete: sandeel
+obsolete: blue catfish
+petal
+Gymnema sylvestre
+obsolete: grey gurnard
+Hibiscus sabdariffa
+obsolete: muskmelon, inodorus group (plant)
+obsolete: lesser galangal plant
+obsolete: alpine sweetvetch plant
+Epigonus telescopus
+obsolete: stamen
+obsolete: stevia plant
+Bos javanicus
+Pterocarpus santalinus
+Arctium lappa
+obsolete: scylla serrata
+obsolete: white catfish
+Monodon monoceros
+obsolete: brine shrimp
+Plantago major
+Rumex arcticus
+obsolete: St. John's wort supplement
+obsolete: garden rhubarb plant
+obsolete: ling
+Hedysarum alpinum
+Eriphia smithii
+obsolete: korean seerfish
+obsolete: great horned owl
+obsolete: indian fig plant
+Mytilus edulis
+Prunus angustifolia
+baby lima bean plant
+obsolete: sand shrimp
+obsolete: bigtooth rock crab
+obsolete: japanese anchovy
+obsolete: stripetail rockfish
+obsolete: walleye pike
+obsolete: olive flounder
+obsolete: west african pebber plant
+obsolete: pacific littleneck clam
+Pseudopleuronectes americanus
+obsolete: zombi pea plant
+obsolete: white warehou
+Luffa aegyptiaca
+Mentha x piperita
+Thunnus atlanticus
+obsolete: chinese lantern plant
+Saurida undosquamis
+Latridopsis ciliaris
+bell pepper plant
+Odocoileus hemionus
+Mangifera indica
+Cairina moschata
+obsolete: english walnut tree
+fordhook lima bean plant
+Alligator mississippiensis
+obsolete: african savannah elephant
+Lottia gigantea
+obsolete: smallmouth bass
+obsolete: breadfruit plant
+strawberry (frozen)
+brown bear
+obsolete: mutton snapper
+Saccharina latissima
+Ictalurus furcatus
+rye plant
+Eledone cirrhosa
+obsolete: iodized
+Sanguisorba minor
+Abelmoschus manihot
+Larus fuscus
+obsolete: akee plant
+Alces alces
+obsolete: sydney cupped oyster
+Brevoortia patronus
+Chrysobalanus icaco
+Somniosus microcephalus
+obsolete: redbellied black snake
+Coregonus peled
+obsolete: giant freshwater prawn
+avian animal
+obsolete: roach (fish)
+obsolete: chilipepper (fish)
+obsolete concentration of phosphatidylcholine in material entity
+obsolete: garbanzo bean flour
+obsolete: sea lamprey
+Prunus americana
+obsolete: pacu
+obsolete: royal threadfin
+filbert nut (raw)
+Juglans regia
+obsolete: bearded seal
+obsolete: tumble mustard plant
+Erimacrus isenbeckii
+obsolete: salmon shark
+Megalobrama amblycephala
+obsolete: african finger millet plant
+Erilepis zonifer
+Myzopsetta ferruginea
+obsolete: smelt
+obsolete: chinese seerfish
+obsolete: hilsa shad
+obsolete: little squid
+Corylus cornuta
+Malva verticillata
+Fragaria virginiana
+obsolete: rambutan tree
+blackeyed pea plant
+Myzopsetta proboscidea
+obsolete: ervil plant
+Giraffa
+obsolete: kaffir lime plant
+Oreochromis mossambicus
+Melanitta fusca
+obsolete: fringescale sardinella
+obsolete: chicken egg yolk (raw)
+obsolete: sweet granadilla plant
+obsolete: rice bean plant
+obsolete: roselle plant
+obsolete: eelpout
+obsolete: american plaice
+obsolete: southern quahog
+obsolete: offshore jack mackerel
+Hucho hucho
+chickpea food product
+obsolete: safflower plant
+Pangasius pangasius
+Dioscorea cayenensis subsp. rotundata
+concentration of mannitol in material entity
+Pinus sibirica
+Ursus arctos
+Ursus americanus
+obsolete: giant goby
+obsolete: american lobster
+obsolete: yak
+Trachurus declivis
+Pachyrhizus ahipa
+obsolete: tortoise shell bamboo plant
+obsolete: yellowbelly flounder
+Sebastes ovalis
+organism by alternate grouping
+Lama glama
+crowder pea plant
+food (liquid, low viscosity)
+obsolete: brownspotted rockcod
+obsolete: peruvian sea bass
+Leiostomus xanthurus
+Rheum palmatum
+obsolete: black sea bream
+Basidiomycota
+obsolete: mediterranean mussel
+obsolete: basidiomycetes
+obsolete: milk conch
+Scomberomorus sierra
+obsolete: garden orach plant
+Petroselinum
+obsolete: argentine stiletto shrimp
+obsolete: lesser flying squid
+obsolete: asafoetida plant
+Apium graveolens Dulce Group
+Panicum sumatrense
+Orthopristis chrysoptera
+obsolete: lemon sole
+obsolete: colorado snapper
+obsolete: fish cutlet (raw)
+obsolete: scurvy-grass plant
+obsolete: red abalone
+Saxidomus gigantea
+Sardinops melanosticta
+Bacteroidota
+concentration of sodium hydrogensulfite in material entity
+Catostomus commersonii
+Cucurbita maxima
+obsolete: yellow jack
+arrowleaf elephant ear plant
+Rana temporaria
+obsolete: sandsmelt
+Stenodus leucichthys
+obsolete: date plant
+obsolete: mushroom (whole organism)
+obsolete: humpback snapper
+Mammea americana
+Mya arenaria
+obsolete: green mud crab
+Lampetra fluviatilis
+Portunus pelagicus
+cellulose product
+obsolete: argentine sea bass
+obsolete: cupuaçu plant
+Sciaenops ocellatus
+Limanda limanda
+Penaeus duorarum
+Oncorhynchus clarkii
+Lithodes aequispinus
+obsolete: ancho pepper plant
+Euphrasia stricta
+starch
+obsolete: trifoliate orange plant
+obsolete: european plaice
+ground beef patty
+Angelica archangelica
+Pleoticus robustus
+Zizania latifolia
+Syzygium malaccense
+Hordeum vulgare
+obsolete: common chokeberry plant
+Cyttus traversi
+Mugil liza
+obsolete: north pacific hake
+obsolete: european sardine
+obsolete: ice krill
+Seriolella porosa
+Iris versicolor
+obsolete: carribean reef shark
+obsolete: porbeagle
+Callinectes danae
+obsolete: dana swimming crab
+obsolete: peach, freestone (plant)
+obsolete: night shark
+obsolete: beverage (alcoholic, distilled)
+Eleusine coracana subsp. africana
+Matteuccia struthiopteris
+obsolete: omega-3- fatty acid supplement
+obsolete: nassau grouper
+obsolete: squashberry plant
+obsolete: chinese banyan plant
+Sisymbrium altissimum
+obsolete: scallop
+obsolete: striped bass
+potato plant
+beverage base, dry
+obsolete: flatiron herring
+obsolete: speckled flounder
+Trigonella caerulea
+Ascomycota
+Clupea harengus
+obsolete: indian lettuce plant
+obsolete: dog
+obsolete: lesser kudu
+obsolete: common frog
+obsolete: meadowsweet plant
+obsolete: southern kingfish
+nutria
+Paullinia pinnata
+obsolete: hoary basil plant
+red kuri squash plant
+obsolete: korean pine plant
+Schinus molle
+obsolete: pinkspotted shrimp
+Solanum quitoense
+Sicyos edulis
+Sorghum bicolor
+obsolete: indian frankincense plant
+Leuciscus idus
+brown trout
+obsolete: geographic places and regions
+Penaeus merguiensis
+obsolete: vimba bream
+Coryphaena hippurus
+Paralichthys dentatus
+Opisthonema oglinum
+obsolete: jewish plum plant
+obsolete: yellowtail flounder
+Eugenia uniflora
+obsolete: curled octopus
+obsolete: california needlefish
+Canavalia ensiformis
+hancestro_0015
+obsolete: four-spot flounder
+obsolete: strawberry guava plant
+Glebionis coronaria
+obsolete: california blackberry plant
+Engraulis japonicus
+Canarium album
+Pelotretis flavilatus
+obsolete: cassava flour food product
+obsolete: giant pacific octopus
+obsolete: caramote prawn
+Micropterus dolomieu
+hubbard squash plant
+Myrtus communis
+Patagioenas fasciata
+obsolete: elk
+obsolete: soup cube
+obsolete: painted ray
+Emblica officinalis
+Reinhardtius hippoglossoides
+obsolete: smalleye hammerhead
+obsolete: banana prawn
+Paralichthys woolmani
+Galeorhinus galeus
+obsolete: badderlocks
+obsolete: pescetarian dietary pattern
+Daucus carota
+obsolete: white hake
+Canavalia gladiata
+thompson seedless grape plant
+artichoke head (raw)
+obsolete: painted spiny lobster
+Oncorhynchus gilae
+Brama brama
+obsolete: resveratrol supplement
+Crangon septemspinosa
+Abelmoschus esculentus
+Apios americana
+obsolete: oregano, syrian (plant)
+obsolete: ginkgo tree
+obsolete: ocean quahog
+Attalea speciosa
+Rubus caesius
+obsolete: mountain apple plant
+crab food product
+Silene vulgaris
+Esox lucius
+Todarodes pacificus
+Terminalia catappa
+Pyrus ussuriensis
+delta7-avenasterol
+algal food product
+Guaiacum officinale
+obsolete: red deer
+obsolete: moose
+Acipenser nudiventris
+obsolete: snake mackerel
+Ictalurus punctatus
+obsolete: american plum plant
+obsolete: goose barnacle
+obsolete: avian
+obsolete: sculpted lobster
+Mustelus asterias
+Spirochaetales
+Garcinia mangostana
+obsolete: indian mustard plant
+obsolete: low fat diet dietary pattern
+obsolete: butter clam
+obsolete: white mustard plant
+Odobenus rosmarus
+Arctogadus glacialis
+obsolete: abyssinian mustard plant
+obsolete: black cherry plant
+obsolete: canihua plant
+obsolete: gulf menhaden
+Dalatias licha
+Ficus benjamina
+obsolete: winter-purslane plant
+zebu
+Ameiurus natalis
+obsolete: giant snakehead
+Palinurus elephas
+obsolete: turkey berry plant
+Penaeus notialis
+Phaseolus lunatus
+obsolete: indian ocean flounder
+Elagatis bipinnulata
+Piper cubeba
+obsolete: shortfin mako shark
+obsolete: silver hake
+Penaeus semisulcatus
+Centropristis striata
+obsolete: irish moss
+Theobroma grandiflorum
+Bixa orellana
+obsolete: artichoke plant
+Malus baccata
+Centaurea cyanus
+obsolete: common cattail plant
+obsolete: antarctic flying squid
+Amelanchier alnifolia
+Harengula thrissina
+tree fern plant
+obsolete: butterbur plant
+Ilex aquifolium
+obsolete: kencur plant
+Citrus trifoliata
+Scomber scombrus
+Doryteuthis pealeii
+Menippe adina
+obsolete: prairie rose plant
+sausage casing
+obsolete: assai palm plant
+Platichthys stellatus
+obsolete: fringe-barbel sturgeon
+obsolete: peach palm plant
+obsolete: dietetic food
+Secale cereale
+Boehmeria nivea
+Penaeus kerathurus
+potato (peeled, raw)
+obsolete: mediterranean ling
+Girella tricuspidata
+egg (without shell)
+obsolete: kahawai
+Cydonia oblonga
+obsolete: great hammerhead
+Scomber australasicus
+Cyclopterus lumpus
+phaseolus vulgaris plant
+Pseudocaranx dentex
+Ensis siliqua
+Bos grunniens
+Sonchus oleraceus
+obsolete concentration of glucitol in material entity
+obsolete: arrow squid
+Crateva religiosa
+obsolete: white mullet
+obsolete: northern fulmar
+Cinnamomum burmanni
+Carcharhinus signatus
+Oryza glaberrima
+Arctica islandica
+obsolete: yellow guinea yam plant
+Pseudocyttus maculatus
+Xystreurys liolepis
+Mentha pulegium
+obsolete: sandy ray
+obsolete: eastern purple coneflower plant
+Paralithodes camtschaticus
+fish steak (raw)
+Trigonella foenum-graecum
+Cannabis sativa
+obsolete: golden kingklip
+obsolete: tilefish
+obsolete: atlantic seabob
+obsolete: black plum plant
+obsolete: hardshell clam
+obsolete: lamb's quarter plant
+obsolete: cultivated mushroom (organism)
+obsolete: giant pangasius
+Cinnamomum verum
+obsolete: black-bellied angler
+Barbarea vulgaris
+indian cress plant
+Euthynnus alletteratus
+obsolete: longnose spurdog
+Mytilus californianus
+Viburnum edule
+Pelophylax lessonae
+Brassica oleracea var. medullosa
+obsolete: pike-conger
+obsolete: marsh marigold plant
+obsolete: black guillemot
+Barbarea verna
+obsolete: cubeb plant
+obsolete: mottled shore crab
+obsolete: kanda
+obsolete: danube salmon
+Brassica juncea
+obsolete: dromedary camel
+Eumetopias jubatus
+Brassica carinata
+obsolete: angola dentex
+obsolete: silver scabbardfish
+obsolete: pacific anchoveta
+obsolete: carrot (peeled, pieces, canned)
+obsolete: mandarin lime plant
+Averrhoa carambola
+obsolete: red-brown ark
+Trichiurus lepturus
+Nephelium lappaceum
+obsolete: wild senna plant
+obsolete: black salsify plant
+Diospyros sintenisii
+Penaeus plebejus
+obsolete: dolphinfish
+caffeine
+obsolete: pangas catfish
+chokecherry plant
+Centrophorus granulosus
+St. John's wort supplement
+Valeriana officinalis
+obsolete: ostrich
+obsolete: sablefish
+obsolete: chinese white olive plant
+obsolete: arabian mummum plant
+obsolete: vitamin C
+atlantic horse mackerel
+chickpea flour
+obsolete: fleshy prawn
+Amaranthus caudatus
+Carthamus tinctorius
+obsolete: spiritweed plant
+common wheat plant
+catfish
+obsolete: european grape plant
+Lutjanus sanguineus
+obsolete: ginger root
+chickpea
+obsolete: white trevally
+Thymallus arcticus
+Lansium domesticum
+greater plantain plant
+Cucumis metuliferus
+Cyrtosperma merkusii
+turkey meat (ground, raw)
+obsolete: pandora
+Ensete ventricosum
+pork steak
+obsolete: false herring
+Melilotus officinalis
+infant as food consumer, 0 - 3 months
+obsolete: canadian onion plant
+Raja miraletus
+Gobio gobio
+obsolete: spinycheek crayfish
+obsolete: cardoon plant
+endive plant
+ginger plant
+Parastromateus niger
+Xanthosoma brasiliense
+obsolete: spotted seal
+obsolete: chilean hake
+obsolete: weatherfish
+beef (ground, raw)
+Persea americana
+obsolete: armoured lobster
+obsolete: brazilian codling
+obsolete: pirapitinga
+obsolete: sunset muskmallow plant
+Ophidion scrippsae
+obsolete: spot pangasius
+Lamna ditropis
+obsolete: spiny eel
+obsolete: jellied mint sauce
+Epinephelus fasciatus
+obsolete: escarole plant
+cowpea vegetable food product
+Micromesistius australis
+obsolete: grayling
+obsolete: european chub
+Panopea abrupta
+obsolete: clary sage plant
+Rhea pennata
+obsolete chilean hake
+obsolete: garden cress plant
+obsolete: red sandalwood plant
+Xanthosoma sagittifolium
+obsolete: american bullfrog
+matsutake mushroom
+obsolete: pacific ocean perch
+obsolete: part of plant
+obsolete: striped bonito
+Cynoscion striatus
+Chionoecetes bairdi
+obsolete: benjamin tree
+white pepper plant
+obsolete: crystal shrimp
+Lepas anatifera
+obsolete: butternut tree
+obsolete: needlefish
+obsolete: salvation jane plant
+Bison bison
+Rastrelliger faughni
+Vaccinium corymbosum
+Coelorinchus aspercephalus
+obsolete: white seabass
+obsolete: chicken breast (skinless, boneless)
+Lotus tetragonolobus
+obsolete: step specification
+obsolete: sowthistle plant
+obsolete: norway spruce plant
+obsolete: chinese cinnamon plant
+obsolete: catla
+Rheum rhabarbarum
+Alosa pseudoharengus
+Tragelaphus imberbis
+Rhinobatos rhinobatos
+obsolete: cutthroat trout
+obsolete: arctic char
+obsolete: ancestral group
+Ampelocissus frutescens
+obsolete: garlic plant
+Mammea africana
+obsolete: turbot
+obsolete: longlegged spiny lobster
+obsolete: malto dextrin
+Cichorium intybus
+food (liquid, high viscosity)
+Lepas anserifera
+obsolete: lake neuchâtel whitefish
+Fragaria x ananassa
+lacto-vegetarian diet
+Piper guineense
+obsolete: black stone crab
+obsolete: canistel plant
+obsolete: skim milk (sterilized)
+obsolete: black persimmon plant
+obsolete: greenland cod
+obsolete: yellow pond lily plant
+Etrumeus whiteheadi
+Squalus blainville
+obsolete: sugar beet plant
+obsolete: sevruga
+Corchorus olitorius
+obsolete: chola guitarfish
+skim milk (sterilized)
+NCBITaxon_387452
+Ipomoea aquatica
+Cytophagales
+Sinapis alba
+Sebastes mystinus
+obsolete: gila trout
+Prunus virginiana
+obsolete: muntry plant
+Pouteria campechiana
+Gobius cobitis
+Atheresthes evermanni
+obsolete: north european kelp
+obsolete: blueflag plant
+Sebastes goodei
+obsolete: water roseapple plant
+Opuntia ficus-indica
+Illex coindetii
+obsolete: white-mouth croaker
+Acetes japonicus
+obsolete: queen scallop
+Tragelaphus angasii
+Fulmarus glacialis
+obsolete: true senna plant
+obsolete: atlantic menhaden
+obsolete: juan fernandez trevally
+Pinus gerardiana
+Pomoxis annularis
+heat-treated
+Triticum aestivum
+Macrobrachium nipponense
+Salvelinus namaycush
+Byrsonima crassifolia
+Mycoplasmatales
+obsolete: rocotillo pepper plant
+obsolete: apple mint plant
+Scophthalmus maximus
+obsolete: ornate spiny lobster
+obsolete: argentine hake
+obsolete: food contact surface, other
+obsolete: whitehead's round herring
+Allium fistulosum
+obsolete: pumpkin-seed
+Chionoecetes tanneri
+obsolete: northern horse mussel
+Crocodylus siamensis
+Hippoglossus stenolepis
+obsolete: bitterblad
+Taraxacum kok-saghyz
+Saccharomyces cerevisiae
+Stereolepis gigas
+obsolete: big powan
+obsolete: striped shore crab
+obsolete: meditteranean diet dietary pattern
+Xiphopenaeus kroyeri
+obsolete: couch grass plant
+Abelmoschus moschatus
+obsolete: spelt plant
+obsolete: pacific bonito
+obsolete: pacific giant oyster
+pear plant
+Coregonus oxyrinchus
+high-carbohydrate diet
+Ovis aries musimon
+Paralabrax callaensis
+Paralithodes platypus
+Scomberomorus koreanus
+Rhodiola rosea
+food (pickled)
+Pseudomonadota
+Thunnus tonggol
+obsolete: plant based alcoholic beverage
+ginseng supplement
+obsolete: golden thistle plant
+obsolete: japanese jack mackerel
+Curcuma longa
+Actinidia arguta
+Raja asterias
+Capsicum pubescens
+obsolete: pale purple cone-flower plant
+Hyphaene thebaica
+Psidium cattleyanum
+obsolete: porkfish
+Penaeus brevirostris
+batavia cassia plant
+obsolete: new zealand spinach plant
+obsolete: shortfin scad
+Lateolabrax japonicus
+obsolete: pacific sardine
+tea biscuit
+obsolete: native turmeric plant
+Carissa carandas
+Allium sativum
+Aronia arbutifolia
+Ipomoea batatas
+obsolete: yellow corn meal
+obsolete: black crowberry plant
+obsolete: scarlet runner bean plant
+obsolete: sharptail mola
+obsolete: blackback flounder
+Zingiber officinale
+Jubaea chilensis
+obsolete: yellow bullhead
+obsolete: winter skate
+obsolete: japanese chestnut tree
+obsolete: johnny-jump-up plant
+obsolete: flaxseed oil supplement
+obsolete: triangle tanner crab
+Syzygium eucalyptoides
+Hoplobatrachus tigerinus
+Sander lucioperca
+obsolete concentration of xylitol in material entity
+Cassia fistula
+obsolete: ceylon sago palm plant
+obsolete: cuckoo ray
+Lota lota
+obsolete: silver gemfish
+Jasus tristani
+obsolete: petal
+obsolete: jicama plant
+Vaccinium parvifolium
+Periophthalmus barbarus
+obsolete: DASH diet dietary pattern
+obsolete: llama
+obsolete: cellulose
+Mugil cephalus
+obsolete: globalized diet dietary pattern
+diet by type of food
+Ondatra zibethicus
+Petasites japonicus
+obsolete: sea buckthorn plant
+Spondias mombin
+obsolete: common fumitory plant
+Vitis labrusca
+obsolete: goat's-rue plant
+Palmaria palmata
+Anas platyrhynchos
+Gadus morhua
+obsolete: caribbean red snapper
+Molva macrophthalma
+Spirinchus thaleichthys
+Amaranthus tricolor
+obsolete: upland cotton plant
+Sebastes alutus
+skeletal meat part, with bone, without skin, with separable fat
+Brachydeuterus auritus
+maize kernel
+vitamin C
+Lepidorhombus whiffiagonis
+obsolete: european sturgeon
+Scomberomorus cavalla
+Parapristipoma octolineatum
+obsolete: goldeye
+obsolete: duckbill flathead
+obsolete: japan sea bass
+obsolete: lookdown dory
+Sebastes serranoides
+obsolete: california corbina
+Euterpe oleracea
+kale plant
+Solanum aethiopicum
+obsolete caffeine
+Mobula mobular
+obsolete: atlantic bonito
+Vitex agnus-castus
+Helianthus tuberosus
+obsolete: sweet gourd plant
+obsolete: arctic cod
+obsolete: american crocodile
+Pangasius larnaudii
+Placopecten magellanicus
+obsolete: crab food product
+obsolete: tahitian spinach plant
+obsolete: blue swimming crab
+obsolete: atlantic herring
+obsolete: white skate
+obsolete: southern shortfin squid
+obsolete: greenthread plant
+obsolete: bluefin searobin
+Zosterisessor ophiocephalus
+Strongylura marina
+obsolete: saffron plant
+Amblyraja radiata
+Osphronemus goramy
+Salvia fruticosa
+Scolopax minor
+obsolete: blue fenugreek plant
+concord grape (plant)
+obsolete: atlantic cutlassfish
+obsolete: gluten free dietary pattern
+roquefort cheese
+Rubus ulmifolius
+obsolete: blue rockfish
+Verbena officinalis
+obsolete: sharpnose skate
+Argopecten gibbus
+obsolete: scup
+Bembrops gobioides
+obsolete: fish oil supplement
+obsolete: oriental river prawn
+Larimichthys polyactis
+obsolete: russian sturgeoun
+obsolete: southern hake
+obsolete: rocoto capsicum plant
+obsolete: beef hamburger patty
+obsolete: wrasse
+Cynara cardunculus
+Alkekengi officinarum
+Mentha suaveolens
+obsolete: tree fern plant
+obsolete: asian water buffalo
+obsolete: red porgy
+obsolete: damiana plant
+obsolete: hedge mustard plant
+obsolete: channel catfish
+Strombus pugilis
+obsolete: plumed scorpionfish
+Ribes nigrum
+obsolete: yellowfin grouper
+obsolete: indian threadfin
+obsolete: african forest elephant
+obsolete: coenzyme Q10 supplement
+obsolete: pacific saury
+obsolete: atlantic thornyhead
+Coregonus nasus
+obsolete: sausage casing not known
+Cetengraulis mysticetus
+obsolete: tropical almond plant
+obsolete: pachira tree
+Sarda orientalis
+Scorpaena grandicornis
+Anguillidae
+Dugong dugon
+obsolete: habanero pepper plant
+Peltorhamphus novaezeelandiae
+Parona signata
+obsolete: blackfin tuna
+Panulirus longipes
+Canis lupus familiaris
+obsolete: common marshmallow plant
+Glycymeris glycymeris
+obsolete: southern flounder
+obsolete: giant gourami
+Macrobrachium rosenbergii
+diet by nutritional composition
+Meganyctiphanes norvegica
+obsolete: mozambique lobster
+Zea mays
+obsolete: sea scallop
+obsolete: chayote plant
+corinth grape plant
+obsolete: portia tree
+Corylus avellana
+Valerianella dentata
+Aliger gigas
+Cicca acida
+obsolete: grade of meat not known
+Urtica dioica
+obsolete: pulaka plant
+obsolete: strawberry (frozen)
+obsolete: petrale sole
+obsolete: northern pike
+Echinochloa esculenta
+obsolete: yarrow plant
+Diospyros digyna
+obsolete: climbing perch
+obsolete: cloudberry plant
+obsolete: white crappie
+chemical food component
+Euphausia crystallorophias
+obsolete: sika deer
+Pinctada margaritifera
+obsolete: greek sage plant
+paprika (ground)
+obsolete: blessed thistle plant
+obsolete: filed horsetail plant
+Tilia platyphyllos
+hot dog
+Pagrus pagrus
+obsolete: plains pricklypear plant
+Scyliorhinus canicula
+obsolete: queen conch
+Solen marginatus
+Brassica rapa
+obsolete: pequi plant
+Acanthistius brasilianus
+Capsella bursa-pastoris
+Spondias dulcis
+obsolete: chile cocopalm plant
+sultana grape plant
+obsolete: ramsons plant
+Octopus vulgaris
+cauliflower fungus
+obsolete: corn poppy plant
+obsolete: cowcod
+Dentex dentex
+Tordylium apulum
+obsolete: morid cod
+obsolete: croceine croaker
+Panulirus ornatus
+obsolete: narwhal
+Stenotomus chrysops
+Bathyraja spinicauda
+obsolete: yellowleg shrimp
+Thunnus albacares
+Allium ursinum
+Crassostrea rhizophorae
+Solanum torvum
+obsolete: tibetian rhubarb plant
+obsolete: porae
+horse
+obsolete: dulse
+obsolete: chamois
+obsolete: brown durra plant
+obsolete: yuzu tree
+obsolete: brook trout
+obsolete: bigleaf linden plant
+Anguilla anguilla
+obsolete: bleak
+obsolete: spotted tunny
+obsolete: african striped grunt
+Esox masquinongy
+obsolete: polynesian arrowrrot plant
+Phoca groenlandica
+obsolete: european bittersweet plant
+obsolete: mafurra tree
+obsolete: horned melon plant
+obsolete: wild grape plant
+dietetic food product
+obsolete: american bison
+obsolete: longhead dab
+Chaenomeles japonica
+Lepidocybium flavobrunneum
+Scylla serrata
+obsolete: tristan rock lobster
+Eriphia sebana
+obsolete: hickory tree
+Oryctolagus cuniculus
+obsolete: african plantain plant
+obsolete: beach plum plant
+Trichosanthes dioica
+Centaurium erythraea
+obsolete: white ginger plant
+obsolete: spirochaetales
+Menticirrhus littoralis
+obsolete: flax plant
+obsolete: nutria
+Lutjanus analis
+obsolete: chinese crabapple plant
+obsolete: gulf kingfish
+Canarium pimela
+Muraenesox cinereus
+obsolete: grooved tanner crab
+Atherina hepsetus
+Gobius auratus
+obsolete: sheepshead
+obsolete: fantail sole
+Genypterus maculatus
+obsolete: pod razor
+Solenocera membranacea
+Palaemon modestus
+obsolete: velvet lobster
+Spondyliosoma cantharus
+obsolete: giant granadilla plant
+black pepper plant
+spinach food product
+Elaeis oleifera
+Aluterus monoceros
+obsolete: paddy rice
+Bison bonasus
+Ovibos moschatus
+toddler as food consumer, 12 months and onwards
+Raja radula
+Myristica fragrans
+Cenchrus americanus
+Atractoscion nobilis
+Salvelinus alpinus
+obsolete: rohu
+Branta canadensis
+mint jelly
+Alosa aestivalis
+Laminaria hyperborea
+Dentex macrophthalmus
+obsolete: country
+obsolete: wreckfish
+obsolete: garden angelica plant
+Merluccius merluccius
+Boswellia serrata
+obsolete: ajowan plant
+Ocimum americanum
+obsolete: pintadilla
+obsolete: deep sea cray (raw)
+obsolete: blue honeysuckle plant
+Galium verum
+Filipendula ulmaria
+Eretmochelys imbricata
+obsolete: vegetarian dietary pattern
+Vigna vexillata
+Lepidium meyenii
+Harpadon nehereus
+obsolete: rainbow trout
+resveratrol supplement
+obsolete: mullein plant
+obsolete: macadamia nut (raw)
+obsolete: australian spotted mackerel
+obsolete: blackfin snapper
+obsolete: lesser yam plant
