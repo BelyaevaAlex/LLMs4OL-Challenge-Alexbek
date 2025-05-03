@@ -1,0 +1,790 @@
+synthesizing function
+application
+environmental food contaminant
+process chemistry datum
+methanol
+quantitative systems description parameter
+Ostwald ripening
+oxoacid
+rhombohedral
+drug product filing milestone
+continuous distillation
+heterocyclic compound
+electron
+hydrogen acceptor
+carboxylic acid
+steam distillation
+AFRL_0000424
+p-block element atom
+organic heterocyclic compound
+cyanides
+polymorph and solvate screening design
+redox reaction property
+ditrigonal-dipyramidal
+tetartoidal
+ultraviolet filter
+rhombic-pyramidal
+eukaryotic metabolite
+organooxygen compound
+iron(3+) chelator
+generically dependent continuant
+polyatomic monoanion
+Good's buffer substance
+cold finger
+Frederichs condensor
+quality specification
+AFRL_0000364
+propanones
+AFRL_0000249
+point symmetry
+drug product approval milestone
+annulene
+solution pH datum
+chemical role
+chemical product
+object aggregate
+DNA polymerase complex
+risk assessment
+role
+secondary fatty alcohol
+process
+ICH Q11 Guidance for Development and Manufacture of Drug Substances
+chromatography column
+data set of predicted values according to fitted curve
+luciferin
+AFRL_0000085
+fatty acid anion
+hexagonal-pyrimidal
+methyl ketone
+carbonyl compound
+butan-2-one
+AFP_0003551
+value specification
+material flow profile in synthesis process
+PCR product
+realizable entity
+physical blending
+critical quality attribute
+prokaryotic metabolite
+drum drying
+Erlenmeyer flask
+diploidal
+food component
+dioxane
+overall reaction order
+membrane extraction
+organic ion
+assessed volatility purge factor
+triclinic unit cell
+integral kinetic measurement
+acyl group
+saturated organic heteromonocyclic parent
+affinity precipitation
+concentrating
+prismatic
+oxolanes
+dihexagonal-dipyramidal
+foam fractionation
+AFRL_0000366
+nucleon
+gas molecular entity
+hydrocarbon
+solubility screening design
+chain carrier
+evaporation
+hexoctahedral
+crucible
+non-centrosymmetric achiral symmetry
+AFRL_0000221
+reaction intermediate
+aromatic compound
+polymer
+experiment
+concomitant polymorphs
+acetone
+textual entity
+solid–liquid extraction
+detergent
+carbon oxoacid
+planned process
+AFRL_0000289
+multi-parallel experimentation
+solvent evaporation
+one-carbon compound
+onium compound
+process monitoring
+protective agent
+AFRL_0000344
+mammalian metabolite
+solvent extraction
+stirring
+ditrigonal-pyramidal
+tetragonal-trapezohedral
+AFRL_0000362
+AFRL_0000425
+crystalline state
+product approval milestone
+formamide
+Verneuil process
+route specification
+electron donor
+CQA specification
+CTA Section 3.2.S.2.2 Description of Manufacturing Process and Process Controls
+monovalent inorganic cation
+electron acceptor
+AFM_0001038
+molecular complex
+method of initial rates
+buffer
+AFRL_0000510
+AFP_0003359
+organic acid
+calculated datum
+supercritical antisolvent technique
+preferred IUPAC name
+antibacterial agent
+nuclear particle
+trigonal-trapezohedral
+organic anion
+objective specification
+plan specification
+AFQ_0000250
+Plackett–Burman design
+stir rate profile
+biophysical role
+algorithm
+freeze drying
+formic acid
+state
+molecule
+specifically dependent continuant
+AFP_0003348
+assay objective
+ageing
+organic heteromonocyclic compound
+methylbenzene
+pnictogen
+ditetragonal-pyramidal
+aromatic annulene
+EC 1.9.3.* (oxidoreductase acting on donor heme group, oxygen as acceptor) inhibitor
+AFP_0003306
+unit cell Z' value
+measurement unit label
+ionic salt
+molecular entity
+unit cell alpha internal angle
+supercritical fluid method
+ammonia
+direct drying
+ionothermal synthesis
+hydrogen isocyanide
+process excellence index
+purge factor
+biological role
+pharmacological role
+reagent
+hydrides
+protophilic solvent
+dioxanes
+carbon atom
+AFRL_0000420
+carbonyl group
+baryon
+solid solution
+AFRL_0000020
+written name
+oxolane
+AFRL_0000363
+suction filtration
+pseudohalide anion
+supercritical drying
+sample heating
+ICH Q6A Class 1 Solvent
+centrifugal evaporation
+vacuum sublimation
+macromolecule
+organodiyl group
+chemical impurity
+homogenisation
+unit cell a-axis length
+propan-2-ol
+amplified DNA
+process profile specification
+neurotransmitter agent
+assessed solubility purge factor
+CHEBI_24870
+laboratory notebook
+organic cyclic compound
+EC 1.* (oxidoreductase) inhibitor
+CTA Section 3.2.S.1.2 Structure
+flask
+experimental design
+centrifugation
+pre-exponential factor
+hydroxy group
+polar point symmetry
+volatile organic compound
+polyatomic ion
+chromatography
+rate measurement datum
+AFQ_0000256
+X-Ray diffractivity
+screening design
+liquid-assisted grinding
+material processing
+ether
+oxide
+fermion
+amino acid
+impurity
+CTA Section 3.2.S.3.2 Impurities
+route development optimization
+scalar measurement datum
+nucleophilic reagent
+AFRL_0000231
+antioxidant
+CTA Section 3.2.S.2.1 Manufacturers
+crystalline solid
+reaction screening design
+reprecipitation
+organochalcogen compound
+Liebig condenser
+critical process parameter specification
+fluorescence quencher
+pressurised-fluid extraction
+AFRL_0000365
+AFR_0000923
+carboacyl group
+organic group
+hydracid
+pnictogen molecular entity
+organic univalent group
+heteromonocyclic compound
+method of flooding
+enzymatic amplification
+chalcogen
+route validation
+oxygen atom
+critical process parameter
+synthesis flow chart
+saturated organic heterocyclic parent
+trigonal-dipyramidal
+drug
+oxoacid derivative
+sequential centrifugation
+transferring device
+main group element atom
+fractional sublimation
+protic solvent
+main group molecular entity
+co-precipitation
+spray drying
+GMP specification of synthetic process
+domatic
+temperature measurement
+simple distillation
+organic aromatic compound
+Graham condensor
+pressure measurement
+charging material
+photochemical role
+benzene
+carbamic acid
+donor
+nitric oxide donor
+AFFN_0000014
+Gibbs free energy of activation
+AFRL_0000427
+EC 3.5.1.4 (amidase) inhibitor
+inorganic acid
+ball milling
+biochemical role
+design space
+toluene
+AFFN_0000127
+monocarboxylic acid
+organic molecule
+chemical abstracts number
+scalar value specification
+inorganic hydride
+fractionation
+portion of material
+ammonium
+atom
+syringe pump
+process validation
+trigonal unit cell
+divalent inorganic anion
+bulk substance quality
+occurrent
+chemical process development
+solid dispersion
+liquid–liquid extraction
+inhibitor
+fungal metabolite
+symbol
+explosion
+degassing
+batch manufacturing record
+reverse osmosis
+vacuum distillation
+AFE_0000407
+reaction property
+solvate
+supercritical carbon dioxide drying
+tetragonal-dipyramidal
+high-speed ball milling
+AFRL_0000367
+anion
+EC 3.* (hydrolase) inhibitor
+enzyme
+ICH Q6A Class 2 Solvent
+route related process
+document
+in-silico modeling
+beaker
+material entity
+kinetic order
+filtration
+enantiomorphic point symmetry
+formamides
+ultra-filtration
+nucleic acid template role
+carcinogenic agent
+inorganic ion
+AFP_0003620
+hextetrahedral
+mutagenic impurity
+pseudohalo group
+redox potential change
+organic fundamental parent
+amide
+carbamoyl group
+polymerase chain reaction
+hydridonitrate(2-)
+wet grinding
+heating mantle
+competency question
+grinding
+thermodynamic reaction property
+aliphatic nitrile
+cyanide
+environmental contaminant
+AFFN_0000055
+AFP_0003563
+metabolite
+temporal region
+greenhouse gas
+AFQ_0000111
+data item
+nutrient
+process chemistry workflow plan
+entity
+AFRL_0000512
+hexagonal-dipyrimidal
+AFRL_0000421
+AFRL_0000229
+AFP_0003486
+coil condenser
+unit cell beta internal angle
+concentration of
+aliphatic alcohol
+drawing a conclusion based on data
+shake-flask extraction
+factor
+ICH Q6A Class 3 Solvent
+lipid
+EC 3.5.* (hydrolases acting on non-peptide C-N bonds) inhibitor
+azanide
+documenting
+route selection milestone
+process analytical technology
+Lewis acid
+continuant
+EC 1.9.* (oxidoreductase acting on donor heme group) inhibitor
+EC 1.9.3.1 (cytochrome c oxidase) inhibitor
+peptide
+s-block molecular entity
+respiratory-chain inhibitor
+kinetic constant
+crystallization
+CTA Section 3.2.S.3.1 Elucidation of Structure and other Characteristics
+supported liquid membrane extraction
+separation method
+distillation
+temporal measure
+information content entity
+AFE_0000354
+assessed ionisability purge factor
+data set
+sandwich sublimation
+photobiochemical role
+organonitrogen compound
+polar aprotic solvent
+GLP synthetic process
+monoanion
+vacuum drying
+polyatomic anion
+carboximidic acid
+AFQ_0000115
+food preservative
+hadron
+curation status specification
+sample sublimation
+waste stream
+Bunsen burner
+nitrile
+ICH Q3D Guidance for Elemental Impurities
+organic molecular entity
+organic amino compound
+AFQ_0000279
+assessed reactivity purge factor
+displacement chromatography
+hydrate
+AFRL_0000361
+MCASE Mutagen Prediction
+precipitation with compressed antisolvent
+identifier
+mononuclear parent hydride
+AFRL_0000359
+trigonal-pyramidal
+crystal structure predictions
+dielectric drying
+Lewis base
+AFRL_0000351
+steady-state approximation analysis
+recrystallisation
+AFRL_0000426
+gyroidal
+planning
+unit operation in chemical processing
+tetragonal-disphenoidal
+Snyder column
+nano-filtration
+rate equation
+arene
+length
+carboxy group
+oxygen molecular entity
+route scouting
+effective catalytic rate
+subatomic particle
+tetragonal unit cell
+cyano group
+postprecipitation
+mitochondrial respiratory-chain inhibitor
+Q7 Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients
+enzyme inhibitor
+monocyclic arene
+process chemistry filing
+p-block molecular entity
+differential kinetic measurement
+processed material
+ketone
+formate
+prior art
+sample solidification
+AFRL_0000216
+hydrogen molecular entity
+assay
+nitrogen atom
+sideramine
+neurotoxin
+liquid-solid extraction
+intermediate material for synthesis
+eutectic
+AFRL_0000360
+Escherichia coli metabolite
+organic hydroxy compound
+monocyclic compound
+micro-filtration
+organic hydride
+centrosymmetric point symmetry
+material component separation
+iron ionophore
+freeze distillation
+document part
+data transformation
+end reaction monitoring
+process mass intensity
+blow drying
+deionisation method
+mechanistic and kinetic determination
+Bronsted base
+aprotic solvent
+symmetry
+amphiprotic solvent
+food additive
+fatty acid derivative
+composite particle
+GMP synthetic process
+fiat object part
+CTA Section 3.2.S.1.1 Nomenclature
+methoxide
+process environmental factor
+onium cation
+hepatotoxic agent
+cofactor
+cubic unit cell
+purification
+aetiopathogenetic role
+carboxamide
+primary amide
+crystallisation
+monocyclic hydrocarbon
+physiological role
+synthetic step specification
+column chromatography
+mixing
+benzenoid aromatic compound
+inorganic group
+monocarboxylic acid amide
+rate constant
+organyl group
+route selection
+hydrogen cyanide
+non-polar solvent
+pathway inhibitor
+quality
+crystalline solid thermodynamic phase
+ICH Q3A Impurities in New Drug Substances
+unit cell
+chalcogen molecular entity
+AFRL_0000511
+iron chelator
+electron-transport chain inhibitor
+AFP_0003312
+condensor
+inorganic cation
+lepton
+reducing agent
+half-life
+organic divalent group
+thermodynamic phase
+heteroorganic entity
+butanone
+cholinergic antagonist
+AFRL_0000345
+pinacoidal
+pharmaceutical
+alkyl alcohol
+dialkyl ketone
+AFR_0000916
+carbon group molecular entity
+ICH M7 Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals To Limit Potential Carcinogenic Risk
+monocarboxylic acid anion
+action specification
+alkylbenzene
+refrigerant
+pnictogen hydride
+synthesis reaction time
+exponential time constant
+product stream
+batch distillation
+benzenes
+toluenes
+non-centrosymmetric point symmetry
+process boundary
+acceptor
+function
+process safety
+carboxylic acid anion
+alcohol
+copper chelator
+oxoanion
+Gibbs free energy change
+evaluant role
+polar solvent
+group
+certificate of analysis
+azane
+AFRL_0000428
+formimidic acid
+heteroatomic molecular entity
+Mycoplasma genitalium metabolite
+volumetric flask
+factorial analysis
+AFM_0001034
+film-forming compound
+datum label
+nucleic acid
+molecular quality
+crystal growth method
+nonmetal atom
+base
+acid
+tetragonal-pyramidal
+ICH Guideline
+chemical entity
+half-life of an exponential decay
+nonionic surfactant
+inorganic molecular entity
+process profile
+AFQ_0000168
+data transformation objective
+common technical document
+organic oxo compound
+molecular distillation
+low-speed centrifugation
+AFR_0000992
+OBI_0000571
+molecular formula
+purification objective
+AFFN_0000111
+residual solvent impurity
+dihexagonal-pyramidal
+conclusion based on data
+fuel additive
+filtering
+Lely method
+starting material for synthesis
+induction period
+chemical drawing
+solvothermal synthesis
+sphenoidal
+pedial
+mother liquor role
+ligand
+seeded sublimation
+flow rate
+protein
+AFRL_0000217
+s-block element atom
+bolaamphiphile
+oxo group
+imidic acid
+deoxyribonucleic acid
+hydroxides
+inorganic anion
+ketone body
+univalent carboacyl group
+data about an ontology part
+graphical rate equation
+food emulsifier
+co-crystal
+chelator
+sample deposition
+primary alcohol
+bacterial metabolite
+surfactant
+carbocyclic compound
+AFRL_0000244
+unit cell volume
+unit cell c-axis length
+AFFN_0000137
+DEREK Mutagen Prediction
+sample drying
+equation
+AFRL_0000430
+habit
+investigation
+food antioxidant
+CTA Section 3.2.S.1.3 General Properties
+directive information entity
+precipitate role
+pipette
+cocrystallisation
+calculation
+electrophilic reagent
+coextraction
+chemical structure
+AFE_0001128
+animal metabolite
+oxacycle
+protocol
+substoichiometric extraction
+chemometrics
+tetragonal-scalenohedral
+study design
+overall assessed purge factor
+carbamate
+fractional distillation
+fundamental particle
+fractionating column
+rhombic-dipyramidal
+measurement datum
+heterocyclic organic fundamental parent
+cyclic ether
+laboratory notebook experiment identifier
+unit cell quality
+EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor
+morphology
+ditrigonal-scalenohedral
+centrally registered identifier symbol
+kinetic reaction property
+reactive oxygen species generator
+ionophore
+cyclic compound
+fermentation
+atomic nucleus
+quality service level
+impurity fate and purge determination
+product filing milestone
+device
+siderophore
+extraction
+membrane transport modulator
+phytosiderophore
+monovalent inorganic anion
+Bronsted acid
+cyclic hydrocarbon
+molecular_function
+AFFN_0000128
+high-vacuum sublimation
+solvent
+polyatomic entity
+cation
+double-stranded DNA
+solubility
+point group symmetry
+synthesis method
+carbon group element atom
+antimicrobial agent
+corrosion inhibitor
+centrally registered identifier
+reagent role
+AFRL_0000167
+poison
+independent continuant
+astringent
+magnetic stirring
+amino-acid anion
+sequestrant
+CTA Section 3.2.S.2.4 Controls of Critical Steps and Intermediates
+fatty acid
+AFRL_0000223
+diffusion coefficient
+Dimroth condenser
+adsorption chromatography
+1,4-dioxane
+oven drying
+supercritical fluid extraction
+orthorhombic unit cell
+space group
+secondary alcohol
+hydrogen atom
+disposition
+precipitation
+rhombic-disphenoidal
+acetonitrile
+environmental control device
+unit cell Z value
+reference substance role
+fatty alcohol
+Saccharomyces cerevisiae metabolite
+specific rotation datum
+mass
+concentration profile
+protein-containing complex
+Czochralski process
+nitrogen molecular entity
+nitrogen hydride
+gas antisolvent technique
+fate of impurity
+international nonproprietary name
+Powder Indexing
+ditetragonal-dipyramidal
+quality process profile
+hexagonal-trapezohedral
+cholinergic drug
+synthetic chemical process

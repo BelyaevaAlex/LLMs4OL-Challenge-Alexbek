@@ -1,0 +1,6567 @@
+[
+  {
+    "ID": "TR_ad6670cf",
+    "parent": "AFE_0001128",
+    "child": "Bunsen burner"
+  },
+  {
+    "ID": "TR_a990a3ed",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.2.4 Controls of Critical Steps and Intermediates"
+  },
+  {
+    "ID": "TR_cca21ca5",
+    "parent": "electron acceptor",
+    "child": "hydrogen acceptor"
+  },
+  {
+    "ID": "TR_515d09c1",
+    "parent": "distillation",
+    "child": "simple distillation"
+  },
+  {
+    "ID": "TR_0696fbe0",
+    "parent": "directive information entity",
+    "child": "plan specification"
+  },
+  {
+    "ID": "TR_6a073eae",
+    "parent": "function",
+    "child": "synthesizing function"
+  },
+  {
+    "ID": "TR_9c4e8bfc",
+    "parent": "planned process",
+    "child": "assay"
+  },
+  {
+    "ID": "TR_a6f76d5f",
+    "parent": "point group symmetry",
+    "child": "trigonal-dipyramidal"
+  },
+  {
+    "ID": "TR_e717c192",
+    "parent": "formamides",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_3b525624",
+    "parent": "organic amino compound",
+    "child": "amino acid"
+  },
+  {
+    "ID": "TR_0affebdd",
+    "parent": "protophilic solvent",
+    "child": "amphiprotic solvent"
+  },
+  {
+    "ID": "TR_1bc1d9cc",
+    "parent": "molecular complex",
+    "child": "co-crystal"
+  },
+  {
+    "ID": "TR_25c1c9de",
+    "parent": "point group symmetry",
+    "child": "diploidal"
+  },
+  {
+    "ID": "TR_952829e4",
+    "parent": "planned process",
+    "child": "synthetic chemical process"
+  },
+  {
+    "ID": "TR_689bae16",
+    "parent": "fractionation",
+    "child": "foam fractionation"
+  },
+  {
+    "ID": "TR_b215e7ed",
+    "parent": "heteroorganic entity",
+    "child": "organonitrogen compound"
+  },
+  {
+    "ID": "TR_72608f0c",
+    "parent": "sample drying",
+    "child": "freeze drying"
+  },
+  {
+    "ID": "TR_f818698a",
+    "parent": "molecular quality",
+    "child": "chemical structure"
+  },
+  {
+    "ID": "TR_f93a3ec3",
+    "parent": "fatty acid derivative",
+    "child": "ketone body"
+  },
+  {
+    "ID": "TR_52738bda",
+    "parent": "material processing",
+    "child": "deionisation method"
+  },
+  {
+    "ID": "TR_1b2c7481",
+    "parent": "hydracid",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_8d0d8add",
+    "parent": "hydracid",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_22b466ea",
+    "parent": "AFP_0003348",
+    "child": "AFP_0003312"
+  },
+  {
+    "ID": "TR_d3c0cf6e",
+    "parent": "volatile organic compound",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_d9cbccc5",
+    "parent": "organochalcogen compound",
+    "child": "organooxygen compound"
+  },
+  {
+    "ID": "TR_56f64a0f",
+    "parent": "formamides",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_e5b99763",
+    "parent": "process chemistry workflow plan",
+    "child": "screening design"
+  },
+  {
+    "ID": "TR_c3a35060",
+    "parent": "AFP_0003620",
+    "child": "AFP_0003348"
+  },
+  {
+    "ID": "TR_965a0ca7",
+    "parent": "thermodynamic phase",
+    "child": "crystalline solid thermodynamic phase"
+  },
+  {
+    "ID": "TR_8dfecb92",
+    "parent": "mononuclear parent hydride",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_77bdfcf2",
+    "parent": "pnictogen hydride",
+    "child": "nitrogen hydride"
+  },
+  {
+    "ID": "TR_2b3f66e0",
+    "parent": "chromatography",
+    "child": "adsorption chromatography"
+  },
+  {
+    "ID": "TR_cc3ba744",
+    "parent": "deoxyribonucleic acid",
+    "child": "double-stranded DNA"
+  },
+  {
+    "ID": "TR_1d48c06b",
+    "parent": "monovalent inorganic anion",
+    "child": "azanide"
+  },
+  {
+    "ID": "TR_6d5207ce",
+    "parent": "oxoanion",
+    "child": "carboxylic acid anion"
+  },
+  {
+    "ID": "TR_4ea0bc5e",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_c1f63991",
+    "parent": "secondary fatty alcohol",
+    "child": "propan-2-ol"
+  },
+  {
+    "ID": "TR_c221fae4",
+    "parent": "mechanistic and kinetic determination",
+    "child": "steady-state approximation analysis"
+  },
+  {
+    "ID": "TR_06f45692",
+    "parent": "dioxane",
+    "child": "1,4-dioxane"
+  },
+  {
+    "ID": "TR_1cd974a4",
+    "parent": "onium cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_823af1ee",
+    "parent": "residual solvent impurity",
+    "child": "ICH Q6A Class 2 Solvent"
+  },
+  {
+    "ID": "TR_798daed7",
+    "parent": "unit cell quality",
+    "child": "unit cell volume"
+  },
+  {
+    "ID": "TR_5641b2c2",
+    "parent": "nonmetal atom",
+    "child": "hydrogen atom"
+  },
+  {
+    "ID": "TR_da1f8c46",
+    "parent": "heteroatomic molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_3d89707b",
+    "parent": "chalcogen molecular entity",
+    "child": "organochalcogen compound"
+  },
+  {
+    "ID": "TR_d0f518d0",
+    "parent": "process chemistry datum",
+    "child": "process mass intensity"
+  },
+  {
+    "ID": "TR_701a0822",
+    "parent": "chalcogen molecular entity",
+    "child": "oxygen molecular entity"
+  },
+  {
+    "ID": "TR_009b054a",
+    "parent": "methyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_20708100",
+    "parent": "onium cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_fe20f26f",
+    "parent": "condensor",
+    "child": "Liebig condenser"
+  },
+  {
+    "ID": "TR_09f5c69c",
+    "parent": "experimental design",
+    "child": "Plackett–Burman design"
+  },
+  {
+    "ID": "TR_59b31eb9",
+    "parent": "gas molecular entity",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_0682909d",
+    "parent": "pnictogen molecular entity",
+    "child": "nitrogen molecular entity"
+  },
+  {
+    "ID": "TR_cc2d7b10",
+    "parent": "base",
+    "child": "Lewis base"
+  },
+  {
+    "ID": "TR_7c739f2e",
+    "parent": "chromatography",
+    "child": "column chromatography"
+  },
+  {
+    "ID": "TR_5ac3b5e2",
+    "parent": "nitrogen hydride",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_2285ec63",
+    "parent": "butanone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_fa53353b",
+    "parent": "AFRL_0000365",
+    "child": "AFRL_0000366"
+  },
+  {
+    "ID": "TR_e9a2f929",
+    "parent": "quality",
+    "child": "morphology"
+  },
+  {
+    "ID": "TR_102df616",
+    "parent": "planned process",
+    "child": "synthetic chemical process"
+  },
+  {
+    "ID": "TR_e17f5a75",
+    "parent": "process",
+    "child": "AFP_0003620"
+  },
+  {
+    "ID": "TR_d8655188",
+    "parent": "extraction",
+    "child": "solvent extraction"
+  },
+  {
+    "ID": "TR_631ad42d",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.1.2 Structure"
+  },
+  {
+    "ID": "TR_c1bd1dda",
+    "parent": "one-carbon compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_9dbfaa23",
+    "parent": "AFE_0000354",
+    "child": "transferring device"
+  },
+  {
+    "ID": "TR_ce998a45",
+    "parent": "AFR_0000992",
+    "child": "chemical drawing"
+  },
+  {
+    "ID": "TR_d776726c",
+    "parent": "chemical role",
+    "child": "impurity"
+  },
+  {
+    "ID": "TR_3083d084",
+    "parent": "molecular quality",
+    "child": "AFQ_0000256"
+  },
+  {
+    "ID": "TR_16095b39",
+    "parent": "inorganic hydride",
+    "child": "pnictogen hydride"
+  },
+  {
+    "ID": "TR_05bf52fe",
+    "parent": "process chemistry workflow plan",
+    "child": "mechanistic and kinetic determination"
+  },
+  {
+    "ID": "TR_cf90246a",
+    "parent": "separation method",
+    "child": "purification"
+  },
+  {
+    "ID": "TR_12422cbb",
+    "parent": "AFRL_0000428",
+    "child": "AFRL_0000367"
+  },
+  {
+    "ID": "TR_fd200286",
+    "parent": "purification",
+    "child": "sample sublimation"
+  },
+  {
+    "ID": "TR_8d626d48",
+    "parent": "carboxamide",
+    "child": "formamides"
+  },
+  {
+    "ID": "TR_25365f89",
+    "parent": "directive information entity",
+    "child": "plan specification"
+  },
+  {
+    "ID": "TR_405a11da",
+    "parent": "quantitative systems description parameter",
+    "child": "kinetic constant"
+  },
+  {
+    "ID": "TR_4be3bbda",
+    "parent": "pseudohalide anion",
+    "child": "cyanide"
+  },
+  {
+    "ID": "TR_cc84e08b",
+    "parent": "unit operation in chemical processing",
+    "child": "fractionation"
+  },
+  {
+    "ID": "TR_33e6105d",
+    "parent": "aliphatic nitrile",
+    "child": "acetonitrile"
+  },
+  {
+    "ID": "TR_6fbaacc6",
+    "parent": "planned process",
+    "child": "assay"
+  },
+  {
+    "ID": "TR_88a23bb2",
+    "parent": "toluenes",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_1c308092",
+    "parent": "redox reaction property",
+    "child": "redox potential change"
+  },
+  {
+    "ID": "TR_2baeb6dd",
+    "parent": "solvent extraction",
+    "child": "liquid–liquid extraction"
+  },
+  {
+    "ID": "TR_b7d45c21",
+    "parent": "kinetic constant",
+    "child": "exponential time constant"
+  },
+  {
+    "ID": "TR_53efde09",
+    "parent": "point group symmetry",
+    "child": "tetartoidal"
+  },
+  {
+    "ID": "TR_9dbeee86",
+    "parent": "amplified DNA",
+    "child": "PCR product"
+  },
+  {
+    "ID": "TR_5a2f6ac7",
+    "parent": "Bronsted acid",
+    "child": "protic solvent"
+  },
+  {
+    "ID": "TR_9eb2cc84",
+    "parent": "nitrogen hydride",
+    "child": "hydridonitrate(2-)"
+  },
+  {
+    "ID": "TR_9c9a6269",
+    "parent": "monocarboxylic acid anion",
+    "child": "formate"
+  },
+  {
+    "ID": "TR_2e5e9679",
+    "parent": "chemical entity",
+    "child": "intermediate material for synthesis"
+  },
+  {
+    "ID": "TR_0c6156e8",
+    "parent": "material processing",
+    "child": "concentrating"
+  },
+  {
+    "ID": "TR_422080a1",
+    "parent": "ICH Guideline",
+    "child": "ICH Q3D Guidance for Elemental Impurities"
+  },
+  {
+    "ID": "TR_52b26679",
+    "parent": "organonitrogen compound",
+    "child": "carboximidic acid"
+  },
+  {
+    "ID": "TR_02440528",
+    "parent": "mononuclear parent hydride",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_909f98da",
+    "parent": "oxygen molecular entity",
+    "child": "oxide"
+  },
+  {
+    "ID": "TR_84f23643",
+    "parent": "AFRL_0000085",
+    "child": "AFRL_0000216"
+  },
+  {
+    "ID": "TR_4e1f9280",
+    "parent": "formamides",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_6393c7f7",
+    "parent": "AFP_0003620",
+    "child": "AFP_0003359"
+  },
+  {
+    "ID": "TR_4814d9cf",
+    "parent": "AFE_0000354",
+    "child": "fractionating column"
+  },
+  {
+    "ID": "TR_2f3ea872",
+    "parent": "alkyl alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_b5e33cf4",
+    "parent": "reagent role",
+    "child": "AFRL_0000229"
+  },
+  {
+    "ID": "TR_b21aa026",
+    "parent": "p-block element atom",
+    "child": "carbon group element atom"
+  },
+  {
+    "ID": "TR_ffc2ddf7",
+    "parent": "pseudohalo group",
+    "child": "cyano group"
+  },
+  {
+    "ID": "TR_f7375095",
+    "parent": "solvent evaporation",
+    "child": "centrifugal evaporation"
+  },
+  {
+    "ID": "TR_ab4720bb",
+    "parent": "data item",
+    "child": "process chemistry datum"
+  },
+  {
+    "ID": "TR_21a63a8d",
+    "parent": "point group symmetry",
+    "child": "tetragonal-pyramidal"
+  },
+  {
+    "ID": "TR_d56ca61e",
+    "parent": "organic molecular entity",
+    "child": "organic fundamental parent"
+  },
+  {
+    "ID": "TR_5f2b6c37",
+    "parent": "AFRL_0000365",
+    "child": "AFRL_0000367"
+  },
+  {
+    "ID": "TR_cc5f20eb",
+    "parent": "purge factor",
+    "child": "assessed volatility purge factor"
+  },
+  {
+    "ID": "TR_be3f3b02",
+    "parent": "aetiopathogenetic role",
+    "child": "hepatotoxic agent"
+  },
+  {
+    "ID": "TR_3c44c96a",
+    "parent": "equation",
+    "child": "rate equation"
+  },
+  {
+    "ID": "TR_09e23261",
+    "parent": "point group symmetry",
+    "child": "hextetrahedral"
+  },
+  {
+    "ID": "TR_66096550",
+    "parent": "portion of material",
+    "child": "device"
+  },
+  {
+    "ID": "TR_25e93aca",
+    "parent": "organic group",
+    "child": "organic univalent group"
+  },
+  {
+    "ID": "TR_c54c2b52",
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_a9cd87b9",
+    "parent": "reference substance role",
+    "child": "nucleic acid template role"
+  },
+  {
+    "ID": "TR_7c1184cf",
+    "parent": "point group symmetry",
+    "child": "trigonal-pyramidal"
+  },
+  {
+    "ID": "TR_4ecc01de",
+    "parent": "iron ionophore",
+    "child": "phytosiderophore"
+  },
+  {
+    "ID": "TR_e6f95e5d",
+    "parent": "thermodynamic reaction property",
+    "child": "Gibbs free energy change"
+  },
+  {
+    "ID": "TR_2e935e13",
+    "parent": "organic univalent group",
+    "child": "organyl group"
+  },
+  {
+    "ID": "TR_8c9fd30d",
+    "parent": "heterocyclic compound",
+    "child": "organic heterocyclic compound"
+  },
+  {
+    "ID": "TR_6b576034",
+    "parent": "centrally registered identifier",
+    "child": "chemical abstracts number"
+  },
+  {
+    "ID": "TR_8791bf86",
+    "parent": "chemical role",
+    "child": "reactive oxygen species generator"
+  },
+  {
+    "ID": "TR_de2c6ee9",
+    "parent": "butanone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_d0b9a3a4",
+    "parent": "lipid",
+    "child": "fatty acid"
+  },
+  {
+    "ID": "TR_782dde0e",
+    "parent": "mixing",
+    "child": "homogenisation"
+  },
+  {
+    "ID": "TR_c3376017",
+    "parent": "volatile organic compound",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_9df2deb9",
+    "parent": "methylbenzene",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_53a9faf4",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.1.1 Nomenclature"
+  },
+  {
+    "ID": "TR_06af270a",
+    "parent": "plan specification",
+    "child": "experimental design"
+  },
+  {
+    "ID": "TR_b345d765",
+    "parent": "volatile organic compound",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_b4aa89c3",
+    "parent": "volatile organic compound",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_efaaeece",
+    "parent": "ionophore",
+    "child": "iron ionophore"
+  },
+  {
+    "ID": "TR_86af662f",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_10cdd2f3",
+    "parent": "carbon oxoacid",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_64414b6b",
+    "parent": "chemical entity",
+    "child": "chemical impurity"
+  },
+  {
+    "ID": "TR_0b2e3f92",
+    "parent": "AFRL_0000231",
+    "child": "AFRL_0000420"
+  },
+  {
+    "ID": "TR_748e645e",
+    "parent": "point group symmetry",
+    "child": "hexagonal-trapezohedral"
+  },
+  {
+    "ID": "TR_11294b05",
+    "parent": "hydrogen molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_26fbc0e4",
+    "parent": "screening design",
+    "child": "reaction screening design"
+  },
+  {
+    "ID": "TR_6cb09b5f",
+    "parent": "one-carbon compound",
+    "child": "formimidic acid"
+  },
+  {
+    "ID": "TR_b31ad568",
+    "parent": "oxoanion",
+    "child": "carboxylic acid anion"
+  },
+  {
+    "ID": "TR_23ce12af",
+    "parent": "point group symmetry",
+    "child": "pinacoidal"
+  },
+  {
+    "ID": "TR_18b21e97",
+    "parent": "volatile organic compound",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_b178cbfe",
+    "parent": "screening design",
+    "child": "solubility screening design"
+  },
+  {
+    "ID": "TR_6abc7021",
+    "parent": "one-carbon compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_a393933e",
+    "parent": "planned process",
+    "child": "fermentation"
+  },
+  {
+    "ID": "TR_e300ff36",
+    "parent": "Bronsted base",
+    "child": "protophilic solvent"
+  },
+  {
+    "ID": "TR_bfb847a7",
+    "parent": "one-carbon compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_9c8ded40",
+    "parent": "polyatomic monoanion",
+    "child": "pseudohalide anion"
+  },
+  {
+    "ID": "TR_7b3043b4",
+    "parent": "quality",
+    "child": "quality"
+  },
+  {
+    "ID": "TR_9a728e83",
+    "parent": "AFRL_0000289",
+    "child": "AFRL_0000020"
+  },
+  {
+    "ID": "TR_b36160f2",
+    "parent": "planned process",
+    "child": "investigation"
+  },
+  {
+    "ID": "TR_f0a8fa26",
+    "parent": "cyclic ether",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_708e36fb",
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_e3faf5fd",
+    "parent": "processed material",
+    "child": "amplified DNA"
+  },
+  {
+    "ID": "TR_d659fa7d",
+    "parent": "nonmetal atom",
+    "child": "nitrogen atom"
+  },
+  {
+    "ID": "TR_48e613e5",
+    "parent": "oxoacid derivative",
+    "child": "imidic acid"
+  },
+  {
+    "ID": "TR_a1011e35",
+    "parent": "surfactant",
+    "child": "detergent"
+  },
+  {
+    "ID": "TR_be05e835",
+    "parent": "organic molecule",
+    "child": "volatile organic compound"
+  },
+  {
+    "ID": "TR_32536f41",
+    "parent": "point group symmetry",
+    "child": "ditetragonal-dipyramidal"
+  },
+  {
+    "ID": "TR_d3f22482",
+    "parent": "role",
+    "child": "reference substance role"
+  },
+  {
+    "ID": "TR_b35b9aff",
+    "parent": "planned process",
+    "child": "chemical process development"
+  },
+  {
+    "ID": "TR_6e4d835a",
+    "parent": "unit cell",
+    "child": "cubic unit cell"
+  },
+  {
+    "ID": "TR_9831183e",
+    "parent": "symbol",
+    "child": "centrally registered identifier symbol"
+  },
+  {
+    "ID": "TR_6882026a",
+    "parent": "residual solvent impurity",
+    "child": "ICH Q6A Class 3 Solvent"
+  },
+  {
+    "ID": "TR_4adf3156",
+    "parent": "organic heteromonocyclic compound",
+    "child": "saturated organic heteromonocyclic parent"
+  },
+  {
+    "ID": "TR_345c93a5",
+    "parent": "EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor",
+    "child": "EC 3.5.1.4 (amidase) inhibitor"
+  },
+  {
+    "ID": "TR_d2b16c35",
+    "parent": "heteroorganic entity",
+    "child": "organochalcogen compound"
+  },
+  {
+    "ID": "TR_16e13dbf",
+    "parent": "EC 1.* (oxidoreductase) inhibitor",
+    "child": "EC 1.9.* (oxidoreductase acting on donor heme group) inhibitor"
+  },
+  {
+    "ID": "TR_1268593e",
+    "parent": "application",
+    "child": "solvent"
+  },
+  {
+    "ID": "TR_b3419b43",
+    "parent": "dioxanes",
+    "child": "dioxane"
+  },
+  {
+    "ID": "TR_3bd5a7fb",
+    "parent": "information content entity",
+    "child": "document part"
+  },
+  {
+    "ID": "TR_b0553ae7",
+    "parent": "process monitoring",
+    "child": "end reaction monitoring"
+  },
+  {
+    "ID": "TR_b6f51690",
+    "parent": "acyl group",
+    "child": "carboacyl group"
+  },
+  {
+    "ID": "TR_bcae1c02",
+    "parent": "butanone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_5471a043",
+    "parent": "ketone body",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_327ab98c",
+    "parent": "oxygen molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_917f3b11",
+    "parent": "nitrogen hydride",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_09d5b18c",
+    "parent": "surfactant",
+    "child": "detergent"
+  },
+  {
+    "ID": "TR_9ce936fe",
+    "parent": "role",
+    "child": "AFRL_0000085"
+  },
+  {
+    "ID": "TR_8617da03",
+    "parent": "document",
+    "child": "batch manufacturing record"
+  },
+  {
+    "ID": "TR_c4336ae9",
+    "parent": "monocarboxylic acid anion",
+    "child": "fatty acid anion"
+  },
+  {
+    "ID": "TR_b181f4b6",
+    "parent": "hadron",
+    "child": "baryon"
+  },
+  {
+    "ID": "TR_929008d6",
+    "parent": "annulene",
+    "child": "aromatic annulene"
+  },
+  {
+    "ID": "TR_22620e4f",
+    "parent": "material processing",
+    "child": "grinding"
+  },
+  {
+    "ID": "TR_4e766212",
+    "parent": "AFE_0000407",
+    "child": "beaker"
+  },
+  {
+    "ID": "TR_964b2ffc",
+    "parent": "point group symmetry",
+    "child": "dihexagonal-pyramidal"
+  },
+  {
+    "ID": "TR_1dac365c",
+    "parent": "molecule",
+    "child": "organic molecule"
+  },
+  {
+    "ID": "TR_fba686b2",
+    "parent": "organooxygen compound",
+    "child": "ether"
+  },
+  {
+    "ID": "TR_a766479c",
+    "parent": "polyatomic anion",
+    "child": "oxoanion"
+  },
+  {
+    "ID": "TR_542c5fd0",
+    "parent": "cyclic compound",
+    "child": "organic cyclic compound"
+  },
+  {
+    "ID": "TR_5852f716",
+    "parent": "AFRL_0000345",
+    "child": "AFRL_0000351"
+  },
+  {
+    "ID": "TR_9e2db595",
+    "parent": "written name",
+    "child": "international nonproprietary name"
+  },
+  {
+    "ID": "TR_adc4d10a",
+    "parent": "heteroatomic molecular entity",
+    "child": "onium compound"
+  },
+  {
+    "ID": "TR_565109bf",
+    "parent": "hydracid",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_f61c4ea5",
+    "parent": "planned process",
+    "child": "investigation"
+  },
+  {
+    "ID": "TR_de01a3a1",
+    "parent": "heteroorganic entity",
+    "child": "organochalcogen compound"
+  },
+  {
+    "ID": "TR_1220c961",
+    "parent": "occurrent",
+    "child": "process"
+  },
+  {
+    "ID": "TR_2c9af755",
+    "parent": "quality",
+    "child": "morphology"
+  },
+  {
+    "ID": "TR_e9ba77ec",
+    "parent": "application",
+    "child": "refrigerant"
+  },
+  {
+    "ID": "TR_1655bd17",
+    "parent": "aromatic annulene",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_38646d4b",
+    "parent": "morphology",
+    "child": "length"
+  },
+  {
+    "ID": "TR_dcf6b831",
+    "parent": "symmetry",
+    "child": "space group"
+  },
+  {
+    "ID": "TR_53f6672f",
+    "parent": "organic oxo compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "ID": "TR_a172a671",
+    "parent": "reagent role",
+    "child": "AFRL_0000231"
+  },
+  {
+    "ID": "TR_6e96d45e",
+    "parent": "organic acid",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_6cdf0c63",
+    "parent": "hydrocarbon",
+    "child": "cyclic hydrocarbon"
+  },
+  {
+    "ID": "TR_9bdef209",
+    "parent": "one-carbon compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_a84d3411",
+    "parent": "p-block molecular entity",
+    "child": "chalcogen molecular entity"
+  },
+  {
+    "ID": "TR_3649c8fb",
+    "parent": "carboxylic acid",
+    "child": "amino acid"
+  },
+  {
+    "ID": "TR_f8c58ebc",
+    "parent": "organic molecular entity",
+    "child": "organic molecule"
+  },
+  {
+    "ID": "TR_0b8b460b",
+    "parent": "unit cell quality",
+    "child": "unit cell Z value"
+  },
+  {
+    "ID": "TR_35960c27",
+    "parent": "material processing",
+    "child": "fermentation"
+  },
+  {
+    "ID": "TR_14b0c828",
+    "parent": "base",
+    "child": "Bronsted base"
+  },
+  {
+    "ID": "TR_b223989b",
+    "parent": "carbonyl compound",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_7d17fd3a",
+    "parent": "AFRL_0000427",
+    "child": "AFRL_0000366"
+  },
+  {
+    "ID": "TR_4f3dd13a",
+    "parent": "macromolecule",
+    "child": "nucleic acid"
+  },
+  {
+    "ID": "TR_fbaf8ae3",
+    "parent": "pharmaceutical",
+    "child": "drug"
+  },
+  {
+    "ID": "TR_5da44a6a",
+    "parent": "material processing",
+    "child": "sample drying"
+  },
+  {
+    "ID": "TR_54e00aaf",
+    "parent": "process chemistry datum",
+    "child": "process environmental factor"
+  },
+  {
+    "ID": "TR_2a61e943",
+    "parent": "carbocyclic compound",
+    "child": "cyclic hydrocarbon"
+  },
+  {
+    "ID": "TR_5c37b254",
+    "parent": "quality",
+    "child": "mass"
+  },
+  {
+    "ID": "TR_1b598874",
+    "parent": "carbonyl compound",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_d16c9b25",
+    "parent": "food component",
+    "child": "environmental food contaminant"
+  },
+  {
+    "ID": "TR_83cb7450",
+    "parent": "material processing",
+    "child": "sample solidification"
+  },
+  {
+    "ID": "TR_8851529a",
+    "parent": "planned process",
+    "child": "in-silico modeling"
+  },
+  {
+    "ID": "TR_0008e964",
+    "parent": "CHEBI_24870",
+    "child": "polyatomic ion"
+  },
+  {
+    "ID": "TR_82fff729",
+    "parent": "AFRL_0000249",
+    "child": "reagent role"
+  },
+  {
+    "ID": "TR_35c2189b",
+    "parent": "process chemistry workflow plan",
+    "child": "screening design"
+  },
+  {
+    "ID": "TR_61b0364c",
+    "parent": "planned process",
+    "child": "assay"
+  },
+  {
+    "ID": "TR_240d44ae",
+    "parent": "fatty acid derivative",
+    "child": "ketone body"
+  },
+  {
+    "ID": "TR_f643e7e8",
+    "parent": "hydrogen molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_4f469333",
+    "parent": "extraction",
+    "child": "membrane extraction"
+  },
+  {
+    "ID": "TR_14b1aa75",
+    "parent": "ICH Guideline",
+    "child": "Q7 Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients"
+  },
+  {
+    "ID": "TR_d27f3b51",
+    "parent": "heteroatomic molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_40956d70",
+    "parent": "methyl ketone",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_d008956b",
+    "parent": "biological role",
+    "child": "biochemical role"
+  },
+  {
+    "ID": "TR_5254d3e6",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.2.2 Description of Manufacturing Process and Process Controls"
+  },
+  {
+    "ID": "TR_88228ae8",
+    "parent": "process",
+    "child": "molecular_function"
+  },
+  {
+    "ID": "TR_e774442f",
+    "parent": "material entity",
+    "child": "protein-containing complex"
+  },
+  {
+    "ID": "TR_1c0e6c94",
+    "parent": "point group symmetry",
+    "child": "pinacoidal"
+  },
+  {
+    "ID": "TR_d577deb9",
+    "parent": "point group symmetry",
+    "child": "prismatic"
+  },
+  {
+    "ID": "TR_08171536",
+    "parent": "role",
+    "child": "AFRL_0000221"
+  },
+  {
+    "ID": "TR_876149d1",
+    "parent": "eukaryotic metabolite",
+    "child": "fungal metabolite"
+  },
+  {
+    "ID": "TR_cd0d445b",
+    "parent": "subatomic particle",
+    "child": "composite particle"
+  },
+  {
+    "ID": "TR_2eb8c762",
+    "parent": "oxide",
+    "child": "oxoanion"
+  },
+  {
+    "ID": "TR_e03864c8",
+    "parent": "in-silico modeling",
+    "child": "chemometrics"
+  },
+  {
+    "ID": "TR_aeb395e6",
+    "parent": "point symmetry",
+    "child": "non-centrosymmetric point symmetry"
+  },
+  {
+    "ID": "TR_9354d8c0",
+    "parent": "AFRL_0000364",
+    "child": "AFRL_0000424"
+  },
+  {
+    "ID": "TR_c1122b58",
+    "parent": "iron(3+) chelator",
+    "child": "siderophore"
+  },
+  {
+    "ID": "TR_2350f3bd",
+    "parent": "methyl ketone",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_ad39eaa6",
+    "parent": "point group symmetry",
+    "child": "sphenoidal"
+  },
+  {
+    "ID": "TR_caaa2bef",
+    "parent": "written name",
+    "child": "preferred IUPAC name"
+  },
+  {
+    "ID": "TR_d2b87aca",
+    "parent": "baryon",
+    "child": "nucleon"
+  },
+  {
+    "ID": "TR_4741721a",
+    "parent": "volatile organic compound",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_eb2ae203",
+    "parent": "gas molecular entity",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_a8162961",
+    "parent": "organonitrogen compound",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_97f82282",
+    "parent": "grinding",
+    "child": "liquid-assisted grinding"
+  },
+  {
+    "ID": "TR_a0cc0434",
+    "parent": "flask",
+    "child": "Erlenmeyer flask"
+  },
+  {
+    "ID": "TR_1614b497",
+    "parent": "supercritical antisolvent technique",
+    "child": "precipitation with compressed antisolvent"
+  },
+  {
+    "ID": "TR_60374610",
+    "parent": "planned process",
+    "child": "drawing a conclusion based on data"
+  },
+  {
+    "ID": "TR_1c5d7718",
+    "parent": "unit operation in chemical processing",
+    "child": "deionisation method"
+  },
+  {
+    "ID": "TR_9a224515",
+    "parent": "biological role",
+    "child": "inhibitor"
+  },
+  {
+    "ID": "TR_ed9ee4e2",
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_413438b8",
+    "parent": "organonitrogen compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_089db921",
+    "parent": "gas molecular entity",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_cea6a45e",
+    "parent": "s-block element atom",
+    "child": "hydrogen atom"
+  },
+  {
+    "ID": "TR_595f5770",
+    "parent": "unit cell quality",
+    "child": "unit cell a-axis length"
+  },
+  {
+    "ID": "TR_2c42549a",
+    "parent": "grinding",
+    "child": "wet grinding"
+  },
+  {
+    "ID": "TR_d89cd39c",
+    "parent": "nitrogen hydride",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_79080bd7",
+    "parent": "portion of material",
+    "child": "product stream"
+  },
+  {
+    "ID": "TR_22ceaf76",
+    "parent": "organic hydride",
+    "child": "organic fundamental parent"
+  },
+  {
+    "ID": "TR_418eb71d",
+    "parent": "ICH Guideline",
+    "child": "ICH Q11 Guidance for Development and Manufacture of Drug Substances"
+  },
+  {
+    "ID": "TR_511b56b9",
+    "parent": "monocarboxylic acid",
+    "child": "formic acid"
+  },
+  {
+    "ID": "TR_b7b521f9",
+    "parent": "differential kinetic measurement",
+    "child": "method of initial rates"
+  },
+  {
+    "ID": "TR_e8877fc2",
+    "parent": "neurotransmitter agent",
+    "child": "cholinergic drug"
+  },
+  {
+    "ID": "TR_cbf4b089",
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_fda28f6f",
+    "parent": "purification",
+    "child": "filtration"
+  },
+  {
+    "ID": "TR_b2f1d0d8",
+    "parent": "alcohol",
+    "child": "fatty alcohol"
+  },
+  {
+    "ID": "TR_deb96fc8",
+    "parent": "screening design",
+    "child": "solubility screening design"
+  },
+  {
+    "ID": "TR_a7d9a454",
+    "parent": "material processing",
+    "child": "sample solidification"
+  },
+  {
+    "ID": "TR_3548e564",
+    "parent": "directive information entity",
+    "child": "common technical document"
+  },
+  {
+    "ID": "TR_4e1e6248",
+    "parent": "AFRL_0000364",
+    "child": "AFRL_0000427"
+  },
+  {
+    "ID": "TR_8df12c50",
+    "parent": "identifier",
+    "child": "centrally registered identifier"
+  },
+  {
+    "ID": "TR_61485188",
+    "parent": "AFRL_0000365",
+    "child": "AFRL_0000366"
+  },
+  {
+    "ID": "TR_82bd9210",
+    "parent": "anion",
+    "child": "inorganic anion"
+  },
+  {
+    "ID": "TR_98b56a6b",
+    "parent": "donor",
+    "child": "nitric oxide donor"
+  },
+  {
+    "ID": "TR_226365f9",
+    "parent": "point group symmetry",
+    "child": "rhombic-disphenoidal"
+  },
+  {
+    "ID": "TR_d6e53fdc",
+    "parent": "point group symmetry",
+    "child": "tetragonal-scalenohedral"
+  },
+  {
+    "ID": "TR_bf452e19",
+    "parent": "pnictogen",
+    "child": "nitrogen atom"
+  },
+  {
+    "ID": "TR_d967e769",
+    "parent": "donor",
+    "child": "Lewis base"
+  },
+  {
+    "ID": "TR_c345c123",
+    "parent": "nitrogen hydride",
+    "child": "azanide"
+  },
+  {
+    "ID": "TR_efbce7a2",
+    "parent": "planned process",
+    "child": "documenting"
+  },
+  {
+    "ID": "TR_96c17059",
+    "parent": "role",
+    "child": "application"
+  },
+  {
+    "ID": "TR_d632cc46",
+    "parent": "planned process",
+    "child": "calculation"
+  },
+  {
+    "ID": "TR_4dcdb414",
+    "parent": "inhibitor",
+    "child": "enzyme inhibitor"
+  },
+  {
+    "ID": "TR_6dfb762c",
+    "parent": "carbonyl compound",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_48c95b71",
+    "parent": "directive information entity",
+    "child": "quality specification"
+  },
+  {
+    "ID": "TR_97bdb373",
+    "parent": "Lewis acid",
+    "child": "electrophilic reagent"
+  },
+  {
+    "ID": "TR_63208b23",
+    "parent": "polar solvent",
+    "child": "protophilic solvent"
+  },
+  {
+    "ID": "TR_efefbb22",
+    "parent": "chemical entity",
+    "child": "chemical product"
+  },
+  {
+    "ID": "TR_1d1cf7d3",
+    "parent": "role",
+    "child": "chemical role"
+  },
+  {
+    "ID": "TR_384eefb4",
+    "parent": "symmetry",
+    "child": "space group"
+  },
+  {
+    "ID": "TR_cf746f2f",
+    "parent": "CHEBI_24870",
+    "child": "anion"
+  },
+  {
+    "ID": "TR_b01b736d",
+    "parent": "chemical role",
+    "child": "antioxidant"
+  },
+  {
+    "ID": "TR_fe5e8abe",
+    "parent": "cofactor",
+    "child": "siderophore"
+  },
+  {
+    "ID": "TR_b65153e3",
+    "parent": "volatile organic compound",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_14e80e26",
+    "parent": "screening design",
+    "child": "reaction screening design"
+  },
+  {
+    "ID": "TR_11ba5a4e",
+    "parent": "group",
+    "child": "inorganic group"
+  },
+  {
+    "ID": "TR_b9ca3a39",
+    "parent": "benzenes",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_488d9a9e",
+    "parent": "monocarboxylic acid anion",
+    "child": "formate"
+  },
+  {
+    "ID": "TR_d06eb765",
+    "parent": "organooxygen compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "ID": "TR_24002e14",
+    "parent": "methyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_270545e5",
+    "parent": "route related process",
+    "child": "route scouting"
+  },
+  {
+    "ID": "TR_eb9cbfec",
+    "parent": "role",
+    "child": "evaluant role"
+  },
+  {
+    "ID": "TR_31c24d2e",
+    "parent": "planned process",
+    "child": "process monitoring"
+  },
+  {
+    "ID": "TR_2c4b6d38",
+    "parent": "ICH Guideline",
+    "child": "ICH Q3A Impurities in New Drug Substances"
+  },
+  {
+    "ID": "TR_04f10aae",
+    "parent": "siderophore",
+    "child": "sideramine"
+  },
+  {
+    "ID": "TR_e2e8d101",
+    "parent": "point group symmetry",
+    "child": "tetragonal-pyramidal"
+  },
+  {
+    "ID": "TR_78fe9c58",
+    "parent": "continuant",
+    "child": "generically dependent continuant"
+  },
+  {
+    "ID": "TR_f013b9e8",
+    "parent": "toluenes",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_1b910742",
+    "parent": "organonitrogen compound",
+    "child": "carboximidic acid"
+  },
+  {
+    "ID": "TR_0d2a0708",
+    "parent": "organic molecular entity",
+    "child": "organic hydroxy compound"
+  },
+  {
+    "ID": "TR_f5d65119",
+    "parent": "organic cyclic compound",
+    "child": "organic aromatic compound"
+  },
+  {
+    "ID": "TR_45966bd3",
+    "parent": "filtration",
+    "child": "micro-filtration"
+  },
+  {
+    "ID": "TR_b49d61c5",
+    "parent": "material processing",
+    "child": "supercritical fluid method"
+  },
+  {
+    "ID": "TR_8feb8127",
+    "parent": "point group symmetry",
+    "child": "pedial"
+  },
+  {
+    "ID": "TR_a6d06a32",
+    "parent": "nitrogen hydride",
+    "child": "azanide"
+  },
+  {
+    "ID": "TR_f54b280b",
+    "parent": "information content entity",
+    "child": "AFR_0000992"
+  },
+  {
+    "ID": "TR_1514df30",
+    "parent": "base",
+    "child": "Bronsted base"
+  },
+  {
+    "ID": "TR_8da69f9a",
+    "parent": "material processing",
+    "child": "ageing"
+  },
+  {
+    "ID": "TR_d0b77078",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_6f8ab75e",
+    "parent": "monocarboxylic acid anion",
+    "child": "formate"
+  },
+  {
+    "ID": "TR_1625b26a",
+    "parent": "information content entity",
+    "child": "data item"
+  },
+  {
+    "ID": "TR_0657000f",
+    "parent": "chemical role",
+    "child": "acceptor"
+  },
+  {
+    "ID": "TR_d4a6bb98",
+    "parent": "photochemical role",
+    "child": "ultraviolet filter"
+  },
+  {
+    "ID": "TR_02db0b79",
+    "parent": "chemical role",
+    "child": "acid"
+  },
+  {
+    "ID": "TR_9579af7f",
+    "parent": "material entity",
+    "child": "chemical entity"
+  },
+  {
+    "ID": "TR_fa9e9f21",
+    "parent": "organodiyl group",
+    "child": "carbonyl group"
+  },
+  {
+    "ID": "TR_06710961",
+    "parent": "chemical role",
+    "child": "reaction intermediate"
+  },
+  {
+    "ID": "TR_57a2b54e",
+    "parent": "nuclear particle",
+    "child": "nucleon"
+  },
+  {
+    "ID": "TR_e632d9a3",
+    "parent": "material processing",
+    "child": "ageing"
+  },
+  {
+    "ID": "TR_e3955295",
+    "parent": "role",
+    "child": "AFRL_0000511"
+  },
+  {
+    "ID": "TR_396cd279",
+    "parent": "directive information entity",
+    "child": "objective specification"
+  },
+  {
+    "ID": "TR_35d13616",
+    "parent": "symmetry",
+    "child": "point symmetry"
+  },
+  {
+    "ID": "TR_525b4418",
+    "parent": "identifier",
+    "child": "centrally registered identifier"
+  },
+  {
+    "ID": "TR_30f80cd9",
+    "parent": "food component",
+    "child": "nutrient"
+  },
+  {
+    "ID": "TR_37525c76",
+    "parent": "onium cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_f74ab067",
+    "parent": "acceptor",
+    "child": "electron acceptor"
+  },
+  {
+    "ID": "TR_f89b1ba5",
+    "parent": "organic anion",
+    "child": "carboxylic acid anion"
+  },
+  {
+    "ID": "TR_a5269108",
+    "parent": "in-silico modeling",
+    "child": "crystal structure predictions"
+  },
+  {
+    "ID": "TR_41fcafd4",
+    "parent": "solvent extraction",
+    "child": "shake-flask extraction"
+  },
+  {
+    "ID": "TR_6020dcf0",
+    "parent": "organyl group",
+    "child": "carboxy group"
+  },
+  {
+    "ID": "TR_2d7d4178",
+    "parent": "point group symmetry",
+    "child": "trigonal-trapezohedral"
+  },
+  {
+    "ID": "TR_2a3dc49d",
+    "parent": "lipid",
+    "child": "fatty alcohol"
+  },
+  {
+    "ID": "TR_482d010d",
+    "parent": "unit cell quality",
+    "child": "unit cell beta internal angle"
+  },
+  {
+    "ID": "TR_d118123e",
+    "parent": "point group symmetry",
+    "child": "ditrigonal-scalenohedral"
+  },
+  {
+    "ID": "TR_275c24ec",
+    "parent": "photobiochemical role",
+    "child": "luciferin"
+  },
+  {
+    "ID": "TR_fe25b83a",
+    "parent": "volatile organic compound",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_c76ef609",
+    "parent": "in-silico modeling",
+    "child": "crystal structure predictions"
+  },
+  {
+    "ID": "TR_50adb4ea",
+    "parent": "carbon oxoacid",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_0e6829f6",
+    "parent": "mixing",
+    "child": "physical blending"
+  },
+  {
+    "ID": "TR_c1e6de56",
+    "parent": "organonitrogen compound",
+    "child": "organic amino compound"
+  },
+  {
+    "ID": "TR_c4adb036",
+    "parent": "methyl ketone",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_d7f58557",
+    "parent": "volatile organic compound",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_b747ff9b",
+    "parent": "acid",
+    "child": "Bronsted acid"
+  },
+  {
+    "ID": "TR_8b8edb04",
+    "parent": "alcohol",
+    "child": "aliphatic alcohol"
+  },
+  {
+    "ID": "TR_fbd919c7",
+    "parent": "dialkyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_57d2cb1a",
+    "parent": "inorganic hydride",
+    "child": "pnictogen hydride"
+  },
+  {
+    "ID": "TR_9e27b5ea",
+    "parent": "imidic acid",
+    "child": "carboximidic acid"
+  },
+  {
+    "ID": "TR_77bceb3e",
+    "parent": "document part",
+    "child": "laboratory notebook experiment identifier"
+  },
+  {
+    "ID": "TR_f5707bab",
+    "parent": "pseudohalide anion",
+    "child": "cyanide"
+  },
+  {
+    "ID": "TR_5ed44487",
+    "parent": "photochemical role",
+    "child": "photobiochemical role"
+  },
+  {
+    "ID": "TR_8d14bfc8",
+    "parent": "heterocyclic compound",
+    "child": "organic heterocyclic compound"
+  },
+  {
+    "ID": "TR_2a8c1fd2",
+    "parent": "point group symmetry",
+    "child": "rhombohedral"
+  },
+  {
+    "ID": "TR_4408025c",
+    "parent": "one-carbon compound",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_2164461b",
+    "parent": "unit cell quality",
+    "child": "space group"
+  },
+  {
+    "ID": "TR_f7b1f8b7",
+    "parent": "vacuum distillation",
+    "child": "molecular distillation"
+  },
+  {
+    "ID": "TR_a7f2b129",
+    "parent": "ligand",
+    "child": "chelator"
+  },
+  {
+    "ID": "TR_73292d49",
+    "parent": "filtration",
+    "child": "suction filtration"
+  },
+  {
+    "ID": "TR_f86df91d",
+    "parent": "data about an ontology part",
+    "child": "competency question"
+  },
+  {
+    "ID": "TR_ab811f1c",
+    "parent": "unit operation in chemical processing",
+    "child": "sample drying"
+  },
+  {
+    "ID": "TR_dcd7aaa7",
+    "parent": "chemical role",
+    "child": "buffer"
+  },
+  {
+    "ID": "TR_1ed6aba8",
+    "parent": "organonitrogen compound",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_5ce0deb0",
+    "parent": "nonmetal atom",
+    "child": "hydrogen atom"
+  },
+  {
+    "ID": "TR_4af32466",
+    "parent": "liquid–liquid extraction",
+    "child": "pressurised-fluid extraction"
+  },
+  {
+    "ID": "TR_4f327677",
+    "parent": "polyatomic anion",
+    "child": "polyatomic monoanion"
+  },
+  {
+    "ID": "TR_099472fd",
+    "parent": "AFFN_0000127",
+    "child": "AFFN_0000128"
+  },
+  {
+    "ID": "TR_56541ef1",
+    "parent": "chelator",
+    "child": "sequestrant"
+  },
+  {
+    "ID": "TR_98b477c2",
+    "parent": "inhibitor",
+    "child": "enzyme inhibitor"
+  },
+  {
+    "ID": "TR_1100be9b",
+    "parent": "kinetic constant",
+    "child": "diffusion coefficient"
+  },
+  {
+    "ID": "TR_e18b11e4",
+    "parent": "organic molecule",
+    "child": "organic cyclic compound"
+  },
+  {
+    "ID": "TR_27f51bba",
+    "parent": "quality",
+    "child": "flow rate"
+  },
+  {
+    "ID": "TR_1a3509e0",
+    "parent": "role",
+    "child": "OBI_0000571"
+  },
+  {
+    "ID": "TR_569bcf70",
+    "parent": "inorganic molecular entity",
+    "child": "inorganic ion"
+  },
+  {
+    "ID": "TR_1f3297a8",
+    "parent": "nitrogen hydride",
+    "child": "azanide"
+  },
+  {
+    "ID": "TR_714e7599",
+    "parent": "primary amide",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_0d9b22dc",
+    "parent": "monoanion",
+    "child": "polyatomic monoanion"
+  },
+  {
+    "ID": "TR_3352f40a",
+    "parent": "process",
+    "child": "state"
+  },
+  {
+    "ID": "TR_fd428c70",
+    "parent": "point group symmetry",
+    "child": "sphenoidal"
+  },
+  {
+    "ID": "TR_45407958",
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_282103d0",
+    "parent": "s-block molecular entity",
+    "child": "hydrogen molecular entity"
+  },
+  {
+    "ID": "TR_ca9ad7b3",
+    "parent": "device",
+    "child": "pipette"
+  },
+  {
+    "ID": "TR_dee744cc",
+    "parent": "protic solvent",
+    "child": "amphiprotic solvent"
+  },
+  {
+    "ID": "TR_8241c75e",
+    "parent": "protic solvent",
+    "child": "amphiprotic solvent"
+  },
+  {
+    "ID": "TR_843fdf15",
+    "parent": "point group symmetry",
+    "child": "hextetrahedral"
+  },
+  {
+    "ID": "TR_9b12b7b2",
+    "parent": "heteroatomic molecular entity",
+    "child": "oxide"
+  },
+  {
+    "ID": "TR_f4d267e3",
+    "parent": "synthesis method",
+    "child": "solvothermal synthesis"
+  },
+  {
+    "ID": "TR_375e0c0d",
+    "parent": "fractionating column",
+    "child": "Snyder column"
+  },
+  {
+    "ID": "TR_631b15c6",
+    "parent": "nitrogen molecular entity",
+    "child": "nitrogen hydride"
+  },
+  {
+    "ID": "TR_69cc217a",
+    "parent": "synthesis method",
+    "child": "ionothermal synthesis"
+  },
+  {
+    "ID": "TR_bf3568fd",
+    "parent": "donor",
+    "child": "Bronsted acid"
+  },
+  {
+    "ID": "TR_f774fd19",
+    "parent": "organic molecular entity",
+    "child": "organic amino compound"
+  },
+  {
+    "ID": "TR_756e7c5b",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_711c826c",
+    "parent": "organic molecular entity",
+    "child": "one-carbon compound"
+  },
+  {
+    "ID": "TR_9b5a2b94",
+    "parent": "material processing",
+    "child": "sample heating"
+  },
+  {
+    "ID": "TR_7bf8d883",
+    "parent": "one-carbon compound",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_ef18a764",
+    "parent": "objective specification",
+    "child": "data transformation objective"
+  },
+  {
+    "ID": "TR_1333aeb2",
+    "parent": "physiological role",
+    "child": "food component"
+  },
+  {
+    "ID": "TR_b6f8092c",
+    "parent": "heteroatomic molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_1d46d88d",
+    "parent": "information content entity",
+    "child": "AFR_0000923"
+  },
+  {
+    "ID": "TR_786e3278",
+    "parent": "information content entity",
+    "child": "symbol"
+  },
+  {
+    "ID": "TR_9fc121be",
+    "parent": "carbon group molecular entity",
+    "child": "organic molecular entity"
+  },
+  {
+    "ID": "TR_3426a4e6",
+    "parent": "ketone body",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_496a30be",
+    "parent": "unit operation in chemical processing",
+    "child": "concentrating"
+  },
+  {
+    "ID": "TR_119c4def",
+    "parent": "oxoacid",
+    "child": "carbon oxoacid"
+  },
+  {
+    "ID": "TR_ae9fd99a",
+    "parent": "polyatomic entity",
+    "child": "polyatomic ion"
+  },
+  {
+    "ID": "TR_3d920c82",
+    "parent": "monocarboxylic acid amide",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_07f7ff7c",
+    "parent": "point group symmetry",
+    "child": "trigonal-dipyramidal"
+  },
+  {
+    "ID": "TR_c9a3a9c0",
+    "parent": "polar solvent",
+    "child": "protic solvent"
+  },
+  {
+    "ID": "TR_2d0a9c47",
+    "parent": "portion of material",
+    "child": "waste stream"
+  },
+  {
+    "ID": "TR_4f0f81f3",
+    "parent": "monocyclic arene",
+    "child": "alkylbenzene"
+  },
+  {
+    "ID": "TR_c0aaff97",
+    "parent": "kinetic constant",
+    "child": "kinetic order"
+  },
+  {
+    "ID": "TR_b438fc9b",
+    "parent": "planned process",
+    "child": "unit operation in chemical processing"
+  },
+  {
+    "ID": "TR_8138b3f1",
+    "parent": "one-carbon compound",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_82372975",
+    "parent": "point group symmetry",
+    "child": "ditrigonal-dipyramidal"
+  },
+  {
+    "ID": "TR_0ef583ea",
+    "parent": "fermion",
+    "child": "lepton"
+  },
+  {
+    "ID": "TR_d1ab62b6",
+    "parent": "hydroxides",
+    "child": "oxoacid"
+  },
+  {
+    "ID": "TR_8bf18632",
+    "parent": "methyl ketone",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_1cb8fe3e",
+    "parent": "cofactor",
+    "child": "siderophore"
+  },
+  {
+    "ID": "TR_2e90e7da",
+    "parent": "organic heterocyclic compound",
+    "child": "organic heteromonocyclic compound"
+  },
+  {
+    "ID": "TR_2e80d1e1",
+    "parent": "symbol",
+    "child": "centrally registered identifier symbol"
+  },
+  {
+    "ID": "TR_c775c147",
+    "parent": "data item",
+    "child": "measurement datum"
+  },
+  {
+    "ID": "TR_64666f40",
+    "parent": "hydrogen molecular entity",
+    "child": "hydrides"
+  },
+  {
+    "ID": "TR_a286b389",
+    "parent": "information content entity",
+    "child": "directive information entity"
+  },
+  {
+    "ID": "TR_4c274aec",
+    "parent": "donor",
+    "child": "Bronsted acid"
+  },
+  {
+    "ID": "TR_a4c180d3",
+    "parent": "organonitrogen compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_5e3d7cf9",
+    "parent": "kinetic constant",
+    "child": "effective catalytic rate"
+  },
+  {
+    "ID": "TR_f415e77f",
+    "parent": "gas molecular entity",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_f03bf2bb",
+    "parent": "organooxygen compound",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_370733d4",
+    "parent": "AFE_0000354",
+    "child": "transferring device"
+  },
+  {
+    "ID": "TR_1ab918b5",
+    "parent": "crystal growth method",
+    "child": "Czochralski process"
+  },
+  {
+    "ID": "TR_59966056",
+    "parent": "quality",
+    "child": "morphology"
+  },
+  {
+    "ID": "TR_bff1bfbc",
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_5eea48ee",
+    "parent": "function",
+    "child": "AFFN_0000014"
+  },
+  {
+    "ID": "TR_dc63a5b0",
+    "parent": "chemical role",
+    "child": "reducing agent"
+  },
+  {
+    "ID": "TR_f0976ecd",
+    "parent": "Bronsted acid",
+    "child": "inorganic acid"
+  },
+  {
+    "ID": "TR_0420a27b",
+    "parent": "AFQ_0000250",
+    "child": "AFQ_0000279"
+  },
+  {
+    "ID": "TR_75f9bde9",
+    "parent": "metabolite",
+    "child": "eukaryotic metabolite"
+  },
+  {
+    "ID": "TR_fa8fa457",
+    "parent": "EC 1.9.3.* (oxidoreductase acting on donor heme group, oxygen as acceptor) inhibitor",
+    "child": "EC 1.9.3.1 (cytochrome c oxidase) inhibitor"
+  },
+  {
+    "ID": "TR_d8df077f",
+    "parent": "methyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_61625523",
+    "parent": "acyl group",
+    "child": "carboacyl group"
+  },
+  {
+    "ID": "TR_b572bd64",
+    "parent": "directive information entity",
+    "child": "process profile specification"
+  },
+  {
+    "ID": "TR_8a9e8b15",
+    "parent": "one-carbon compound",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_064f7e9d",
+    "parent": "chemical role",
+    "child": "ligand"
+  },
+  {
+    "ID": "TR_8eb685d7",
+    "parent": "anion",
+    "child": "organic anion"
+  },
+  {
+    "ID": "TR_6c05f8ec",
+    "parent": "reaction property",
+    "child": "kinetic reaction property"
+  },
+  {
+    "ID": "TR_40de2b27",
+    "parent": "organic molecular entity",
+    "child": "organic ion"
+  },
+  {
+    "ID": "TR_e25c8521",
+    "parent": "reaction property",
+    "child": "thermodynamic reaction property"
+  },
+  {
+    "ID": "TR_27e6572c",
+    "parent": "organic cyclic compound",
+    "child": "carbocyclic compound"
+  },
+  {
+    "ID": "TR_24d56d90",
+    "parent": "document",
+    "child": "risk assessment"
+  },
+  {
+    "ID": "TR_6794ac39",
+    "parent": "material processing",
+    "child": "fractionation"
+  },
+  {
+    "ID": "TR_bf25c2f3",
+    "parent": "AFFN_0000137",
+    "child": "AFFN_0000055"
+  },
+  {
+    "ID": "TR_b78fa404",
+    "parent": "planned process",
+    "child": "documenting"
+  },
+  {
+    "ID": "TR_8bca7f62",
+    "parent": "AFP_0003359",
+    "child": "AFP_0003486"
+  },
+  {
+    "ID": "TR_0e5d5ae1",
+    "parent": "polyatomic entity",
+    "child": "heteroatomic molecular entity"
+  },
+  {
+    "ID": "TR_9d78ecb1",
+    "parent": "volatile organic compound",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_e96f75a3",
+    "parent": "organonitrogen compound",
+    "child": "amino-acid anion"
+  },
+  {
+    "ID": "TR_26128bdb",
+    "parent": "mononuclear parent hydride",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_1dba9014",
+    "parent": "volatile organic compound",
+    "child": "acetonitrile"
+  },
+  {
+    "ID": "TR_41929638",
+    "parent": "unit cell",
+    "child": "orthorhombic unit cell"
+  },
+  {
+    "ID": "TR_596c4298",
+    "parent": "monovalent inorganic anion",
+    "child": "azanide"
+  },
+  {
+    "ID": "TR_b7bfd9a6",
+    "parent": "extraction",
+    "child": "liquid-solid extraction"
+  },
+  {
+    "ID": "TR_8a1c125a",
+    "parent": "quality",
+    "child": "bulk substance quality"
+  },
+  {
+    "ID": "TR_3edc03e6",
+    "parent": "material entity",
+    "child": "processed material"
+  },
+  {
+    "ID": "TR_f4b8341c",
+    "parent": "AFRL_0000167",
+    "child": "AFRL_0000020"
+  },
+  {
+    "ID": "TR_94313d66",
+    "parent": "independent continuant",
+    "child": "material entity"
+  },
+  {
+    "ID": "TR_ded063d7",
+    "parent": "AFE_0000354",
+    "child": "AFE_0000407"
+  },
+  {
+    "ID": "TR_c839c87b",
+    "parent": "biochemical role",
+    "child": "photobiochemical role"
+  },
+  {
+    "ID": "TR_4ba834f4",
+    "parent": "AFM_0001038",
+    "child": "AFM_0001034"
+  },
+  {
+    "ID": "TR_95a6adaa",
+    "parent": "material processing",
+    "child": "separation method"
+  },
+  {
+    "ID": "TR_e1200bb1",
+    "parent": "data about an ontology part",
+    "child": "curation status specification"
+  },
+  {
+    "ID": "TR_dd75a01a",
+    "parent": "AFRL_0000216",
+    "child": "AFRL_0000510"
+  },
+  {
+    "ID": "TR_c13f7a77",
+    "parent": "role",
+    "child": "biological role"
+  },
+  {
+    "ID": "TR_6b91006f",
+    "parent": "nuclear particle",
+    "child": "atomic nucleus"
+  },
+  {
+    "ID": "TR_4d75c774",
+    "parent": "one-carbon compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_ada6f1eb",
+    "parent": "role",
+    "child": "AFRL_0000289"
+  },
+  {
+    "ID": "TR_611c66e6",
+    "parent": "AFP_0003348",
+    "child": "AFP_0003312"
+  },
+  {
+    "ID": "TR_ac55c26a",
+    "parent": "plan specification",
+    "child": "algorithm"
+  },
+  {
+    "ID": "TR_b559c527",
+    "parent": "univalent carboacyl group",
+    "child": "carbamoyl group"
+  },
+  {
+    "ID": "TR_c7e2688c",
+    "parent": "double-stranded DNA",
+    "child": "PCR product"
+  },
+  {
+    "ID": "TR_611d03b4",
+    "parent": "arene",
+    "child": "monocyclic arene"
+  },
+  {
+    "ID": "TR_7f991ad5",
+    "parent": "AFRL_0000364",
+    "child": "AFRL_0000425"
+  },
+  {
+    "ID": "TR_cfc6ca04",
+    "parent": "chemical role",
+    "child": "environmental contaminant"
+  },
+  {
+    "ID": "TR_6a423467",
+    "parent": "acceptor",
+    "child": "Bronsted base"
+  },
+  {
+    "ID": "TR_ef1d496f",
+    "parent": "dioxane",
+    "child": "1,4-dioxane"
+  },
+  {
+    "ID": "TR_554c03a9",
+    "parent": "monocarboxylic acid",
+    "child": "formic acid"
+  },
+  {
+    "ID": "TR_f2017697",
+    "parent": "organic molecular entity",
+    "child": "organic amino compound"
+  },
+  {
+    "ID": "TR_2f61132f",
+    "parent": "morphology",
+    "child": "symmetry"
+  },
+  {
+    "ID": "TR_11732d6a",
+    "parent": "point group symmetry",
+    "child": "trigonal-dipyramidal"
+  },
+  {
+    "ID": "TR_37d64db9",
+    "parent": "dioxanes",
+    "child": "dioxane"
+  },
+  {
+    "ID": "TR_4b22847e",
+    "parent": "metabolite",
+    "child": "prokaryotic metabolite"
+  },
+  {
+    "ID": "TR_0ababa81",
+    "parent": "AFQ_0000111",
+    "child": "AFQ_0000115"
+  },
+  {
+    "ID": "TR_66226c32",
+    "parent": "toluenes",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_91106d9c",
+    "parent": "portion of material",
+    "child": "unit cell"
+  },
+  {
+    "ID": "TR_1664201c",
+    "parent": "crystalline solid",
+    "child": "eutectic"
+  },
+  {
+    "ID": "TR_95b5ebcc",
+    "parent": "crystal growth method",
+    "child": "Lely method"
+  },
+  {
+    "ID": "TR_4b726abf",
+    "parent": "environmental contaminant",
+    "child": "environmental food contaminant"
+  },
+  {
+    "ID": "TR_44824b51",
+    "parent": "process validation",
+    "child": "impurity fate and purge determination"
+  },
+  {
+    "ID": "TR_67f57426",
+    "parent": "investigation",
+    "child": "multi-parallel experimentation"
+  },
+  {
+    "ID": "TR_dbc992b1",
+    "parent": "processed material",
+    "child": "device"
+  },
+  {
+    "ID": "TR_ba2cefff",
+    "parent": "carbon group element atom",
+    "child": "carbon atom"
+  },
+  {
+    "ID": "TR_bbb3d813",
+    "parent": "food additive",
+    "child": "food emulsifier"
+  },
+  {
+    "ID": "TR_c836e09e",
+    "parent": "one-carbon compound",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_f341c7eb",
+    "parent": "chemical role",
+    "child": "fuel additive"
+  },
+  {
+    "ID": "TR_760d500e",
+    "parent": "plan specification",
+    "child": "process chemistry workflow plan"
+  },
+  {
+    "ID": "TR_ac97a6a2",
+    "parent": "benzenes",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_62cfb46b",
+    "parent": "directive information entity",
+    "child": "action specification"
+  },
+  {
+    "ID": "TR_452bab91",
+    "parent": "molecular quality",
+    "child": "solubility"
+  },
+  {
+    "ID": "TR_ef25a5e2",
+    "parent": "enzymatic amplification",
+    "child": "polymerase chain reaction"
+  },
+  {
+    "ID": "TR_317d637f",
+    "parent": "nonmetal atom",
+    "child": "oxygen atom"
+  },
+  {
+    "ID": "TR_4737135f",
+    "parent": "chemical role",
+    "child": "corrosion inhibitor"
+  },
+  {
+    "ID": "TR_9b79dd82",
+    "parent": "unit cell",
+    "child": "triclinic unit cell"
+  },
+  {
+    "ID": "TR_d94b53ad",
+    "parent": "data item",
+    "child": "calculated datum"
+  },
+  {
+    "ID": "TR_82075936",
+    "parent": "state",
+    "child": "AFP_0003563"
+  },
+  {
+    "ID": "TR_293083a3",
+    "parent": "half-life",
+    "child": "half-life of an exponential decay"
+  },
+  {
+    "ID": "TR_04a779f1",
+    "parent": "precipitation",
+    "child": "reprecipitation"
+  },
+  {
+    "ID": "TR_e7b640ce",
+    "parent": "investigation",
+    "child": "experiment"
+  },
+  {
+    "ID": "TR_129831bf",
+    "parent": "acceptor",
+    "child": "Lewis acid"
+  },
+  {
+    "ID": "TR_1df32e79",
+    "parent": "iron(3+) chelator",
+    "child": "siderophore"
+  },
+  {
+    "ID": "TR_e95006d5",
+    "parent": "enzyme inhibitor",
+    "child": "EC 3.* (hydrolase) inhibitor"
+  },
+  {
+    "ID": "TR_f8d1b948",
+    "parent": "enzyme",
+    "child": "DNA polymerase complex"
+  },
+  {
+    "ID": "TR_d2d3a34c",
+    "parent": "information content entity",
+    "child": "quantitative systems description parameter"
+  },
+  {
+    "ID": "TR_75fe0ed7",
+    "parent": "sample solidification",
+    "child": "crystallisation"
+  },
+  {
+    "ID": "TR_fb65d6b0",
+    "parent": "Bronsted acid",
+    "child": "protic solvent"
+  },
+  {
+    "ID": "TR_d2126666",
+    "parent": "aprotic solvent",
+    "child": "polar aprotic solvent"
+  },
+  {
+    "ID": "TR_bfbafa9f",
+    "parent": "AFP_0003620",
+    "child": "AFP_0003348"
+  },
+  {
+    "ID": "TR_9ed792ce",
+    "parent": "action specification",
+    "child": "synthetic step specification"
+  },
+  {
+    "ID": "TR_9b8991f9",
+    "parent": "carbon group element atom",
+    "child": "carbon atom"
+  },
+  {
+    "ID": "TR_696a3b1d",
+    "parent": "filtration",
+    "child": "nano-filtration"
+  },
+  {
+    "ID": "TR_b2b4d818",
+    "parent": "primary amide",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_04fe0952",
+    "parent": "application",
+    "child": "food additive"
+  },
+  {
+    "ID": "TR_239c798e",
+    "parent": "aliphatic alcohol",
+    "child": "alkyl alcohol"
+  },
+  {
+    "ID": "TR_8d09aec9",
+    "parent": "food preservative",
+    "child": "sequestrant"
+  },
+  {
+    "ID": "TR_7ba27531",
+    "parent": "planned process",
+    "child": "investigation"
+  },
+  {
+    "ID": "TR_fe2a6a3e",
+    "parent": "objective specification",
+    "child": "competency question"
+  },
+  {
+    "ID": "TR_96aca1ac",
+    "parent": "aromatic annulene",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_1c005477",
+    "parent": "process chemistry workflow plan",
+    "child": "process analytical technology"
+  },
+  {
+    "ID": "TR_3552f9d1",
+    "parent": "material processing",
+    "child": "evaporation"
+  },
+  {
+    "ID": "TR_0c3d7163",
+    "parent": "material processing",
+    "child": "extraction"
+  },
+  {
+    "ID": "TR_4a25778e",
+    "parent": "quality",
+    "child": "AFQ_0000250"
+  },
+  {
+    "ID": "TR_27a4a763",
+    "parent": "heteromonocyclic compound",
+    "child": "organic heteromonocyclic compound"
+  },
+  {
+    "ID": "TR_ee5b1df0",
+    "parent": "unit operation in chemical processing",
+    "child": "fractionation"
+  },
+  {
+    "ID": "TR_02d20891",
+    "parent": "onium cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_e16024d8",
+    "parent": "AFFN_0000111",
+    "child": "AFFN_0000127"
+  },
+  {
+    "ID": "TR_7d1686ce",
+    "parent": "nitrogen hydride",
+    "child": "hydridonitrate(2-)"
+  },
+  {
+    "ID": "TR_2b95e6d3",
+    "parent": "unit operation in chemical processing",
+    "child": "deionisation method"
+  },
+  {
+    "ID": "TR_cf9efc3f",
+    "parent": "chemical role",
+    "child": "donor"
+  },
+  {
+    "ID": "TR_49b587c9",
+    "parent": "AFRL_0000085",
+    "child": "AFRL_0000216"
+  },
+  {
+    "ID": "TR_2615ac3e",
+    "parent": "volatile organic compound",
+    "child": "1,4-dioxane"
+  },
+  {
+    "ID": "TR_040bf630",
+    "parent": "hydracid",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_203379ef",
+    "parent": "solvent extraction",
+    "child": "solid–liquid extraction"
+  },
+  {
+    "ID": "TR_f482a7c9",
+    "parent": "point group symmetry",
+    "child": "ditrigonal-scalenohedral"
+  },
+  {
+    "ID": "TR_4c306a7e",
+    "parent": "stirring",
+    "child": "magnetic stirring"
+  },
+  {
+    "ID": "TR_3c951df8",
+    "parent": "reference substance role",
+    "child": "nucleic acid template role"
+  },
+  {
+    "ID": "TR_411dbd9c",
+    "parent": "material processing",
+    "child": "mixing"
+  },
+  {
+    "ID": "TR_5346cf37",
+    "parent": "information content entity",
+    "child": "document"
+  },
+  {
+    "ID": "TR_125ba52b",
+    "parent": "acid",
+    "child": "Lewis acid"
+  },
+  {
+    "ID": "TR_1a36f3e7",
+    "parent": "nonmetal atom",
+    "child": "oxygen atom"
+  },
+  {
+    "ID": "TR_c35a9097",
+    "parent": "donor",
+    "child": "electron donor"
+  },
+  {
+    "ID": "TR_5c12d13e",
+    "parent": "s-block element atom",
+    "child": "hydrogen atom"
+  },
+  {
+    "ID": "TR_9f491a94",
+    "parent": "macromolecule",
+    "child": "peptide"
+  },
+  {
+    "ID": "TR_db4dcfc8",
+    "parent": "biological role",
+    "child": "biophysical role"
+  },
+  {
+    "ID": "TR_81c96e7a",
+    "parent": "p-block molecular entity",
+    "child": "carbon group molecular entity"
+  },
+  {
+    "ID": "TR_8c8fdf11",
+    "parent": "process chemistry datum",
+    "child": "fate of impurity"
+  },
+  {
+    "ID": "TR_c3c33ee0",
+    "parent": "reagent",
+    "child": "nucleophilic reagent"
+  },
+  {
+    "ID": "TR_a8a2b6d2",
+    "parent": "alkyl alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_b51c7d14",
+    "parent": "EC 1.9.* (oxidoreductase acting on donor heme group) inhibitor",
+    "child": "EC 1.9.3.* (oxidoreductase acting on donor heme group, oxygen as acceptor) inhibitor"
+  },
+  {
+    "ID": "TR_2494363a",
+    "parent": "cyclic hydrocarbon",
+    "child": "arene"
+  },
+  {
+    "ID": "TR_f10f1888",
+    "parent": "organic molecular entity",
+    "child": "heteroorganic entity"
+  },
+  {
+    "ID": "TR_c123cb04",
+    "parent": "oxolanes",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_8f37f771",
+    "parent": "in-silico modeling",
+    "child": "Powder Indexing"
+  },
+  {
+    "ID": "TR_d5355b23",
+    "parent": "nitrogen molecular entity",
+    "child": "organonitrogen compound"
+  },
+  {
+    "ID": "TR_130a122c",
+    "parent": "cyclic ether",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_f67e1cf1",
+    "parent": "benzenoid aromatic compound",
+    "child": "benzenes"
+  },
+  {
+    "ID": "TR_76624bd1",
+    "parent": "organooxygen compound",
+    "child": "carbon oxoacid"
+  },
+  {
+    "ID": "TR_f3b8bba7",
+    "parent": "sample drying",
+    "child": "dielectric drying"
+  },
+  {
+    "ID": "TR_21588962",
+    "parent": "sample solidification",
+    "child": "precipitation"
+  },
+  {
+    "ID": "TR_b26ef546",
+    "parent": "aetiopathogenetic role",
+    "child": "carcinogenic agent"
+  },
+  {
+    "ID": "TR_9ebfc85a",
+    "parent": "organooxygen compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "ID": "TR_6be4a455",
+    "parent": "one-carbon compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_886b9306",
+    "parent": "carboxylic acid",
+    "child": "monocarboxylic acid"
+  },
+  {
+    "ID": "TR_1eaee54a",
+    "parent": "directive information entity",
+    "child": "process profile specification"
+  },
+  {
+    "ID": "TR_3040d45c",
+    "parent": "gas molecular entity",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_78f9cd97",
+    "parent": "carbocyclic compound",
+    "child": "benzenoid aromatic compound"
+  },
+  {
+    "ID": "TR_23037d65",
+    "parent": "dialkyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_21065d27",
+    "parent": "cyclic ether",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_0a681473",
+    "parent": "monoanion",
+    "child": "polyatomic monoanion"
+  },
+  {
+    "ID": "TR_df3897ac",
+    "parent": "heterocyclic compound",
+    "child": "heteromonocyclic compound"
+  },
+  {
+    "ID": "TR_1fe1ff5b",
+    "parent": "unit cell quality",
+    "child": "unit cell c-axis length"
+  },
+  {
+    "ID": "TR_f300e44b",
+    "parent": "role",
+    "child": "evaluant role"
+  },
+  {
+    "ID": "TR_01b9238e",
+    "parent": "directive information entity",
+    "child": "plan specification"
+  },
+  {
+    "ID": "TR_ef250e3a",
+    "parent": "unit cell",
+    "child": "trigonal unit cell"
+  },
+  {
+    "ID": "TR_a16d58ef",
+    "parent": "process monitoring",
+    "child": "pressure measurement"
+  },
+  {
+    "ID": "TR_1f30bdb0",
+    "parent": "product filing milestone",
+    "child": "drug product filing milestone"
+  },
+  {
+    "ID": "TR_27db6ad1",
+    "parent": "hydrides",
+    "child": "organic hydride"
+  },
+  {
+    "ID": "TR_510eb257",
+    "parent": "AFP_0003551",
+    "child": "AFP_0003306"
+  },
+  {
+    "ID": "TR_1cbb4dcc",
+    "parent": "carbonyl compound",
+    "child": "ketone body"
+  },
+  {
+    "ID": "TR_2074838b",
+    "parent": "divalent inorganic anion",
+    "child": "hydridonitrate(2-)"
+  },
+  {
+    "ID": "TR_1f65d630",
+    "parent": "nitrile",
+    "child": "aliphatic nitrile"
+  },
+  {
+    "ID": "TR_3e48a7cb",
+    "parent": "nonmetal atom",
+    "child": "nitrogen atom"
+  },
+  {
+    "ID": "TR_603442a8",
+    "parent": "generically dependent continuant",
+    "child": "information content entity"
+  },
+  {
+    "ID": "TR_0b89e03a",
+    "parent": "function",
+    "child": "AFFN_0000137"
+  },
+  {
+    "ID": "TR_95a16b77",
+    "parent": "role",
+    "child": "AFRL_0000344"
+  },
+  {
+    "ID": "TR_b255bd1a",
+    "parent": "organic molecular entity",
+    "child": "organic amino compound"
+  },
+  {
+    "ID": "TR_6424f0f5",
+    "parent": "carbonyl compound",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_8c3270f7",
+    "parent": "AFR_0000992",
+    "child": "synthesis flow chart"
+  },
+  {
+    "ID": "TR_7a41a234",
+    "parent": "onium cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_59924769",
+    "parent": "organonitrogen compound",
+    "child": "organic amino compound"
+  },
+  {
+    "ID": "TR_9351bccd",
+    "parent": "non-centrosymmetric point symmetry",
+    "child": "non-centrosymmetric achiral symmetry"
+  },
+  {
+    "ID": "TR_4e72c46b",
+    "parent": "mononuclear parent hydride",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_f1584f4c",
+    "parent": "formamides",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_1666b30e",
+    "parent": "molecular entity",
+    "child": "polyatomic entity"
+  },
+  {
+    "ID": "TR_c795b3a9",
+    "parent": "chemical entity",
+    "child": "atom"
+  },
+  {
+    "ID": "TR_c761a706",
+    "parent": "nitrogen hydride",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_8dc3bd62",
+    "parent": "centrally registered identifier",
+    "child": "laboratory notebook experiment identifier"
+  },
+  {
+    "ID": "TR_74d8f590",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_7cd406c8",
+    "parent": "centrifugation",
+    "child": "sequential centrifugation"
+  },
+  {
+    "ID": "TR_ac2ff31f",
+    "parent": "sample drying",
+    "child": "spray drying"
+  },
+  {
+    "ID": "TR_49a90c7f",
+    "parent": "cation",
+    "child": "inorganic cation"
+  },
+  {
+    "ID": "TR_4f9b799b",
+    "parent": "AFRL_0000427",
+    "child": "AFRL_0000366"
+  },
+  {
+    "ID": "TR_a8ed21fc",
+    "parent": "aetiopathogenetic role",
+    "child": "neurotoxin"
+  },
+  {
+    "ID": "TR_ff080497",
+    "parent": "chemical entity",
+    "child": "molecular entity"
+  },
+  {
+    "ID": "TR_0912eb57",
+    "parent": "chalcogen molecular entity",
+    "child": "oxygen molecular entity"
+  },
+  {
+    "ID": "TR_372d1518",
+    "parent": "process",
+    "child": "planning"
+  },
+  {
+    "ID": "TR_012d54bb",
+    "parent": "point group symmetry",
+    "child": "rhombic-pyramidal"
+  },
+  {
+    "ID": "TR_fc83afdd",
+    "parent": "device",
+    "child": "chromatography column"
+  },
+  {
+    "ID": "TR_7429c318",
+    "parent": "heteroatomic molecular entity",
+    "child": "oxoacid derivative"
+  },
+  {
+    "ID": "TR_1332c83e",
+    "parent": "point group symmetry",
+    "child": "dihexagonal-pyramidal"
+  },
+  {
+    "ID": "TR_c449d32f",
+    "parent": "dioxane",
+    "child": "1,4-dioxane"
+  },
+  {
+    "ID": "TR_fd6d816c",
+    "parent": "reagent",
+    "child": "electrophilic reagent"
+  },
+  {
+    "ID": "TR_1344ab42",
+    "parent": "planned process",
+    "child": "drawing a conclusion based on data"
+  },
+  {
+    "ID": "TR_cd8a8a1a",
+    "parent": "point group symmetry",
+    "child": "ditetragonal-dipyramidal"
+  },
+  {
+    "ID": "TR_3918ef42",
+    "parent": "organic hydride",
+    "child": "organic fundamental parent"
+  },
+  {
+    "ID": "TR_989048e1",
+    "parent": "mononuclear parent hydride",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_ac19c329",
+    "parent": "EC 3.* (hydrolase) inhibitor",
+    "child": "EC 3.5.* (hydrolases acting on non-peptide C-N bonds) inhibitor"
+  },
+  {
+    "ID": "TR_80704293",
+    "parent": "kinetic constant",
+    "child": "pre-exponential factor"
+  },
+  {
+    "ID": "TR_28d7e7b4",
+    "parent": "unit operation in chemical processing",
+    "child": "evaporation"
+  },
+  {
+    "ID": "TR_f0ca2584",
+    "parent": "point group symmetry",
+    "child": "ditrigonal-pyramidal"
+  },
+  {
+    "ID": "TR_7ca1a495",
+    "parent": "point group symmetry",
+    "child": "tetragonal-scalenohedral"
+  },
+  {
+    "ID": "TR_68a7b8e7",
+    "parent": "cyclic compound",
+    "child": "monocyclic compound"
+  },
+  {
+    "ID": "TR_dc6c34da",
+    "parent": "AFRL_0000364",
+    "child": "mutagenic impurity"
+  },
+  {
+    "ID": "TR_5cbade1a",
+    "parent": "extraction",
+    "child": "coextraction"
+  },
+  {
+    "ID": "TR_6dcda28c",
+    "parent": "antioxidant",
+    "child": "food antioxidant"
+  },
+  {
+    "ID": "TR_e4e73ba7",
+    "parent": "biological role",
+    "child": "poison"
+  },
+  {
+    "ID": "TR_2996d13b",
+    "parent": "secondary alcohol",
+    "child": "propan-2-ol"
+  },
+  {
+    "ID": "TR_cbfddef3",
+    "parent": "organic aromatic compound",
+    "child": "arene"
+  },
+  {
+    "ID": "TR_67e037b4",
+    "parent": "solvent",
+    "child": "polar solvent"
+  },
+  {
+    "ID": "TR_30bd8215",
+    "parent": "organic molecule",
+    "child": "organic oxo compound"
+  },
+  {
+    "ID": "TR_19b7258e",
+    "parent": "iron chelator",
+    "child": "iron(3+) chelator"
+  },
+  {
+    "ID": "TR_da62931a",
+    "parent": "organic heteromonocyclic compound",
+    "child": "dioxanes"
+  },
+  {
+    "ID": "TR_0a1f043f",
+    "parent": "molecular entity",
+    "child": "subatomic particle"
+  },
+  {
+    "ID": "TR_1b75fdf0",
+    "parent": "chemical role",
+    "child": "chain carrier"
+  },
+  {
+    "ID": "TR_17a45e45",
+    "parent": "volatile organic compound",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_602e0160",
+    "parent": "centrally registered identifier",
+    "child": "laboratory notebook experiment identifier"
+  },
+  {
+    "ID": "TR_7bd40801",
+    "parent": "planned process",
+    "child": "data transformation"
+  },
+  {
+    "ID": "TR_55c48062",
+    "parent": "Lewis acid",
+    "child": "electrophilic reagent"
+  },
+  {
+    "ID": "TR_6b7050fa",
+    "parent": "supercritical drying",
+    "child": "supercritical carbon dioxide drying"
+  },
+  {
+    "ID": "TR_dd074f25",
+    "parent": "information content entity",
+    "child": "conclusion based on data"
+  },
+  {
+    "ID": "TR_901d36aa",
+    "parent": "organic acid",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_4cc76bcc",
+    "parent": "material processing",
+    "child": "synthesis method"
+  },
+  {
+    "ID": "TR_19b4ed24",
+    "parent": "EC 1.9.3.* (oxidoreductase acting on donor heme group, oxygen as acceptor) inhibitor",
+    "child": "EC 1.9.3.1 (cytochrome c oxidase) inhibitor"
+  },
+  {
+    "ID": "TR_06dfb5bf",
+    "parent": "quality",
+    "child": "critical quality attribute"
+  },
+  {
+    "ID": "TR_717f38d5",
+    "parent": "plan specification",
+    "child": "protocol"
+  },
+  {
+    "ID": "TR_b430a0e7",
+    "parent": "carboxylic acid anion",
+    "child": "amino-acid anion"
+  },
+  {
+    "ID": "TR_ed821d66",
+    "parent": "food additive",
+    "child": "food preservative"
+  },
+  {
+    "ID": "TR_b05f8de3",
+    "parent": "carbonyl compound",
+    "child": "ketone body"
+  },
+  {
+    "ID": "TR_d6f9fa6e",
+    "parent": "group",
+    "child": "organic group"
+  },
+  {
+    "ID": "TR_10b582a9",
+    "parent": "organic molecule",
+    "child": "organic cyclic compound"
+  },
+  {
+    "ID": "TR_95102e1a",
+    "parent": "organooxygen compound",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_2f8015a7",
+    "parent": "point group symmetry",
+    "child": "tetragonal-pyramidal"
+  },
+  {
+    "ID": "TR_a92674c9",
+    "parent": "synthesis method",
+    "child": "sample deposition"
+  },
+  {
+    "ID": "TR_3e8a94de",
+    "parent": "fractionation",
+    "child": "freeze distillation"
+  },
+  {
+    "ID": "TR_89f21580",
+    "parent": "hydrides",
+    "child": "inorganic hydride"
+  },
+  {
+    "ID": "TR_912136ba",
+    "parent": "process profile specification",
+    "child": "critical process parameter specification"
+  },
+  {
+    "ID": "TR_5ee71221",
+    "parent": "nitrogen hydride",
+    "child": "hydridonitrate(2-)"
+  },
+  {
+    "ID": "TR_078b4224",
+    "parent": "saturated organic heteromonocyclic parent",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_06903737",
+    "parent": "iron ionophore",
+    "child": "siderophore"
+  },
+  {
+    "ID": "TR_3d94ef79",
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_10c103b4",
+    "parent": "methyl ketone",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_66064f0f",
+    "parent": "portion of material",
+    "child": "thermodynamic phase"
+  },
+  {
+    "ID": "TR_a2d4e535",
+    "parent": "process validation",
+    "child": "route validation"
+  },
+  {
+    "ID": "TR_5a04bf6d",
+    "parent": "methylbenzene",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_98b31b28",
+    "parent": "fatty alcohol",
+    "child": "secondary fatty alcohol"
+  },
+  {
+    "ID": "TR_90ae9f91",
+    "parent": "AFRL_0000365",
+    "child": "AFRL_0000430"
+  },
+  {
+    "ID": "TR_75d92301",
+    "parent": "carboxylic acid anion",
+    "child": "amino-acid anion"
+  },
+  {
+    "ID": "TR_2ccf16b7",
+    "parent": "document",
+    "child": "certificate of analysis"
+  },
+  {
+    "ID": "TR_d7889617",
+    "parent": "blow drying",
+    "child": "direct drying"
+  },
+  {
+    "ID": "TR_944de7c4",
+    "parent": "crystallisation",
+    "child": "recrystallisation"
+  },
+  {
+    "ID": "TR_a3ab6a70",
+    "parent": "heteroorganic entity",
+    "child": "organonitrogen compound"
+  },
+  {
+    "ID": "TR_4813d171",
+    "parent": "AFFN_0000014",
+    "child": "AFFN_0000127"
+  },
+  {
+    "ID": "TR_e7be1273",
+    "parent": "subatomic particle",
+    "child": "fermion"
+  },
+  {
+    "ID": "TR_59e6d841",
+    "parent": "vacuum sublimation",
+    "child": "high-vacuum sublimation"
+  },
+  {
+    "ID": "TR_1c992bae",
+    "parent": "condensor",
+    "child": "Dimroth condenser"
+  },
+  {
+    "ID": "TR_83562dd2",
+    "parent": "saturated organic heteromonocyclic parent",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_85584563",
+    "parent": "material entity",
+    "child": "object aggregate"
+  },
+  {
+    "ID": "TR_aa77973d",
+    "parent": "enzyme",
+    "child": "DNA polymerase complex"
+  },
+  {
+    "ID": "TR_a3965cab",
+    "parent": "respiratory-chain inhibitor",
+    "child": "mitochondrial respiratory-chain inhibitor"
+  },
+  {
+    "ID": "TR_b07dac84",
+    "parent": "point group symmetry",
+    "child": "gyroidal"
+  },
+  {
+    "ID": "TR_cc5c8d9f",
+    "parent": "planned process",
+    "child": "calculation"
+  },
+  {
+    "ID": "TR_fda12ceb",
+    "parent": "annulene",
+    "child": "aromatic annulene"
+  },
+  {
+    "ID": "TR_ee93fd35",
+    "parent": "unit cell quality",
+    "child": "unit cell alpha internal angle"
+  },
+  {
+    "ID": "TR_93b66031",
+    "parent": "volatile organic compound",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_b32775db",
+    "parent": "continuant",
+    "child": "independent continuant"
+  },
+  {
+    "ID": "TR_6b05caf3",
+    "parent": "p-block element atom",
+    "child": "pnictogen"
+  },
+  {
+    "ID": "TR_ef402622",
+    "parent": "alkyl alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_47f84c8c",
+    "parent": "nonmetal atom",
+    "child": "carbon atom"
+  },
+  {
+    "ID": "TR_f46c70d0",
+    "parent": "carbon group element atom",
+    "child": "carbon atom"
+  },
+  {
+    "ID": "TR_e3e7adf2",
+    "parent": "point group symmetry",
+    "child": "domatic"
+  },
+  {
+    "ID": "TR_6b4ceef0",
+    "parent": "volatile organic compound",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_52d98030",
+    "parent": "benzenes",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_457b936c",
+    "parent": "solvent",
+    "child": "non-polar solvent"
+  },
+  {
+    "ID": "TR_2c9b575d",
+    "parent": "nitrogen hydride",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_872afe1b",
+    "parent": "process profile",
+    "child": "reaction property"
+  },
+  {
+    "ID": "TR_0ba908f2",
+    "parent": "oxygen molecular entity",
+    "child": "oxide"
+  },
+  {
+    "ID": "TR_04cd2ffe",
+    "parent": "mass",
+    "child": "AFQ_0000256"
+  },
+  {
+    "ID": "TR_4635fc0a",
+    "parent": "carbon oxoacid",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_57311593",
+    "parent": "centrally registered identifier",
+    "child": "laboratory notebook experiment identifier"
+  },
+  {
+    "ID": "TR_e5ee3e86",
+    "parent": "monocyclic compound",
+    "child": "heteromonocyclic compound"
+  },
+  {
+    "ID": "TR_10cd2fab",
+    "parent": "aromatic compound",
+    "child": "organic aromatic compound"
+  },
+  {
+    "ID": "TR_00a2071b",
+    "parent": "in-silico modeling",
+    "child": "MCASE Mutagen Prediction"
+  },
+  {
+    "ID": "TR_8a525308",
+    "parent": "process",
+    "child": "planned process"
+  },
+  {
+    "ID": "TR_1ef23d13",
+    "parent": "nitrogen hydride",
+    "child": "azanide"
+  },
+  {
+    "ID": "TR_59c86a63",
+    "parent": "enzyme",
+    "child": "DNA polymerase complex"
+  },
+  {
+    "ID": "TR_56572f93",
+    "parent": "in-silico modeling",
+    "child": "DEREK Mutagen Prediction"
+  },
+  {
+    "ID": "TR_c2ada9bc",
+    "parent": "oxacycle",
+    "child": "oxolanes"
+  },
+  {
+    "ID": "TR_f53ab8a4",
+    "parent": "organic molecular entity",
+    "child": "organic ion"
+  },
+  {
+    "ID": "TR_ae4d39ea",
+    "parent": "unit operation in chemical processing",
+    "child": "filtering"
+  },
+  {
+    "ID": "TR_bd8dd80e",
+    "parent": "information content entity",
+    "child": "centrally registered identifier"
+  },
+  {
+    "ID": "TR_e1ae36ff",
+    "parent": "volatile organic compound",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_da98c0c8",
+    "parent": "volatile organic compound",
+    "child": "acetonitrile"
+  },
+  {
+    "ID": "TR_52dc59c5",
+    "parent": "mitochondrial respiratory-chain inhibitor",
+    "child": "EC 1.9.3.1 (cytochrome c oxidase) inhibitor"
+  },
+  {
+    "ID": "TR_6f646a0c",
+    "parent": "prokaryotic metabolite",
+    "child": "bacterial metabolite"
+  },
+  {
+    "ID": "TR_2dd71715",
+    "parent": "process profile",
+    "child": "assessed reactivity purge factor"
+  },
+  {
+    "ID": "TR_cb6c74e2",
+    "parent": "organooxygen compound",
+    "child": "oxacycle"
+  },
+  {
+    "ID": "TR_7afbad8e",
+    "parent": "value specification",
+    "child": "scalar value specification"
+  },
+  {
+    "ID": "TR_506374f3",
+    "parent": "condensor",
+    "child": "Graham condensor"
+  },
+  {
+    "ID": "TR_e7e99848",
+    "parent": "organic heterocyclic compound",
+    "child": "oxacycle"
+  },
+  {
+    "ID": "TR_ceb845f9",
+    "parent": "divalent inorganic anion",
+    "child": "hydridonitrate(2-)"
+  },
+  {
+    "ID": "TR_be6aa2c4",
+    "parent": "AFRL_0000360",
+    "child": "AFRL_0000361"
+  },
+  {
+    "ID": "TR_01143486",
+    "parent": "chemical entity",
+    "child": "atom"
+  },
+  {
+    "ID": "TR_eed7fa74",
+    "parent": "textual entity",
+    "child": "written name"
+  },
+  {
+    "ID": "TR_2434cb83",
+    "parent": "acid",
+    "child": "Bronsted acid"
+  },
+  {
+    "ID": "TR_f86de090",
+    "parent": "mononuclear parent hydride",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_62e2981a",
+    "parent": "condensor",
+    "child": "cold finger"
+  },
+  {
+    "ID": "TR_c761726b",
+    "parent": "cation",
+    "child": "inorganic cation"
+  },
+  {
+    "ID": "TR_1be5c981",
+    "parent": "hydracid",
+    "child": "hydrogen isocyanide"
+  },
+  {
+    "ID": "TR_c7666bce",
+    "parent": "fundamental particle",
+    "child": "lepton"
+  },
+  {
+    "ID": "TR_3bc899e1",
+    "parent": "chemical role",
+    "child": "solvent"
+  },
+  {
+    "ID": "TR_3e11af70",
+    "parent": "purge factor",
+    "child": "assessed solubility purge factor"
+  },
+  {
+    "ID": "TR_c3f48d81",
+    "parent": "nonmetal atom",
+    "child": "carbon atom"
+  },
+  {
+    "ID": "TR_0373a17d",
+    "parent": "unit operation in chemical processing",
+    "child": "separation method"
+  },
+  {
+    "ID": "TR_21d7de4d",
+    "parent": "inorganic anion",
+    "child": "monovalent inorganic anion"
+  },
+  {
+    "ID": "TR_9843f1c0",
+    "parent": "supercritical fluid method",
+    "child": "gas antisolvent technique"
+  },
+  {
+    "ID": "TR_07944eab",
+    "parent": "point group symmetry",
+    "child": "dihexagonal-dipyramidal"
+  },
+  {
+    "ID": "TR_198e75fa",
+    "parent": "one-carbon compound",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_a22bf44f",
+    "parent": "kinetic constant",
+    "child": "exponential time constant"
+  },
+  {
+    "ID": "TR_b164e4b6",
+    "parent": "mononuclear parent hydride",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_8f4264dc",
+    "parent": "unit operation in chemical processing",
+    "child": "crystallization"
+  },
+  {
+    "ID": "TR_b1c208a3",
+    "parent": "sample drying",
+    "child": "blow drying"
+  },
+  {
+    "ID": "TR_14de0c7b",
+    "parent": "point group symmetry",
+    "child": "trigonal-pyramidal"
+  },
+  {
+    "ID": "TR_0fe88756",
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_50d5f126",
+    "parent": "toluenes",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_9270acf5",
+    "parent": "one-carbon compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_853b15c7",
+    "parent": "main group molecular entity",
+    "child": "s-block molecular entity"
+  },
+  {
+    "ID": "TR_6413b0c8",
+    "parent": "biological role",
+    "child": "physiological role"
+  },
+  {
+    "ID": "TR_861020ef",
+    "parent": "unit operation in chemical processing",
+    "child": "mixing"
+  },
+  {
+    "ID": "TR_f6bbc46c",
+    "parent": "amplified DNA",
+    "child": "PCR product"
+  },
+  {
+    "ID": "TR_56aa20a9",
+    "parent": "drug",
+    "child": "protective agent"
+  },
+  {
+    "ID": "TR_bc7d936a",
+    "parent": "point group symmetry",
+    "child": "tetragonal-disphenoidal"
+  },
+  {
+    "ID": "TR_4bdc8d36",
+    "parent": "AFP_0003563",
+    "child": "AFP_0003551"
+  },
+  {
+    "ID": "TR_cb0f5320",
+    "parent": "pnictogen molecular entity",
+    "child": "nitrogen molecular entity"
+  },
+  {
+    "ID": "TR_aab93c0f",
+    "parent": "benzenes",
+    "child": "alkylbenzene"
+  },
+  {
+    "ID": "TR_fd34f9db",
+    "parent": "volatile organic compound",
+    "child": "1,4-dioxane"
+  },
+  {
+    "ID": "TR_21862842",
+    "parent": "planned process",
+    "child": "assay"
+  },
+  {
+    "ID": "TR_0cfda79d",
+    "parent": "sample drying",
+    "child": "oven drying"
+  },
+  {
+    "ID": "TR_1d5c1c0e",
+    "parent": "oxoacid",
+    "child": "carbon oxoacid"
+  },
+  {
+    "ID": "TR_70adc3ce",
+    "parent": "AFM_0001034",
+    "child": "concomitant polymorphs"
+  },
+  {
+    "ID": "TR_beaafbf7",
+    "parent": "polyatomic anion",
+    "child": "polyatomic monoanion"
+  },
+  {
+    "ID": "TR_4da530a1",
+    "parent": "AFRL_0000344",
+    "child": "AFRL_0000364"
+  },
+  {
+    "ID": "TR_29396ee4",
+    "parent": "solvent",
+    "child": "aprotic solvent"
+  },
+  {
+    "ID": "TR_cadfe722",
+    "parent": "screening design",
+    "child": "polymorph and solvate screening design"
+  },
+  {
+    "ID": "TR_d2221b3d",
+    "parent": "chemometrics",
+    "child": "factorial analysis"
+  },
+  {
+    "ID": "TR_8d8f09ce",
+    "parent": "methyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_8a8b1166",
+    "parent": "biochemical role",
+    "child": "enzyme inhibitor"
+  },
+  {
+    "ID": "TR_4beffe1e",
+    "parent": "organic heterocyclic compound",
+    "child": "oxacycle"
+  },
+  {
+    "ID": "TR_2550c1a2",
+    "parent": "material processing",
+    "child": "distillation"
+  },
+  {
+    "ID": "TR_fc583bf6",
+    "parent": "distillation",
+    "child": "continuous distillation"
+  },
+  {
+    "ID": "TR_659a0b0d",
+    "parent": "temporal region",
+    "child": "synthesis reaction time"
+  },
+  {
+    "ID": "TR_93327c43",
+    "parent": "unit operation in chemical processing",
+    "child": "grinding"
+  },
+  {
+    "ID": "TR_abb8471b",
+    "parent": "secondary alcohol",
+    "child": "propan-2-ol"
+  },
+  {
+    "ID": "TR_dd4b2b03",
+    "parent": "chemical entity",
+    "child": "starting material for synthesis"
+  },
+  {
+    "ID": "TR_d6627213",
+    "parent": "onium compound",
+    "child": "onium cation"
+  },
+  {
+    "ID": "TR_16fe67cc",
+    "parent": "carboximidic acid",
+    "child": "formimidic acid"
+  },
+  {
+    "ID": "TR_330410eb",
+    "parent": "carbon oxoacid",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_ae13ff2d",
+    "parent": "cyanides",
+    "child": "nitrile"
+  },
+  {
+    "ID": "TR_3597793c",
+    "parent": "heteroatomic molecular entity",
+    "child": "hydrides"
+  },
+  {
+    "ID": "TR_43006012",
+    "parent": "in-silico modeling",
+    "child": "MCASE Mutagen Prediction"
+  },
+  {
+    "ID": "TR_70a15123",
+    "parent": "solid solution",
+    "child": "ionic salt"
+  },
+  {
+    "ID": "TR_85bb7588",
+    "parent": "poison",
+    "child": "neurotoxin"
+  },
+  {
+    "ID": "TR_701acca4",
+    "parent": "volatile organic compound",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_f8ba25f8",
+    "parent": "molecular quality",
+    "child": "concentration of"
+  },
+  {
+    "ID": "TR_3fabf79c",
+    "parent": "saturated organic heteromonocyclic parent",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_d0a17bf4",
+    "parent": "synthetic chemical process",
+    "child": "GMP synthetic process"
+  },
+  {
+    "ID": "TR_0dcb4e4c",
+    "parent": "inorganic group",
+    "child": "hydroxy group"
+  },
+  {
+    "ID": "TR_0da7b25b",
+    "parent": "monovalent inorganic cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_27e7707a",
+    "parent": "molecular quality",
+    "child": "molecular formula"
+  },
+  {
+    "ID": "TR_df7768aa",
+    "parent": "molecular entity",
+    "child": "macromolecule"
+  },
+  {
+    "ID": "TR_75b2adda",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.3.1 Elucidation of Structure and other Characteristics"
+  },
+  {
+    "ID": "TR_d3a381bc",
+    "parent": "oxygen molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_d2d31f80",
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_87358474",
+    "parent": "aromatic annulene",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_7ab22dc0",
+    "parent": "molecular entity",
+    "child": "main group molecular entity"
+  },
+  {
+    "ID": "TR_0d06f993",
+    "parent": "carbon oxoacid",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_19ae0170",
+    "parent": "nitrogen hydride",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_1995ecbf",
+    "parent": "nitrogen molecular entity",
+    "child": "nitrogen hydride"
+  },
+  {
+    "ID": "TR_5a26447a",
+    "parent": "AFE_0000354",
+    "child": "AFE_0001128"
+  },
+  {
+    "ID": "TR_aab17762",
+    "parent": "precipitation",
+    "child": "postprecipitation"
+  },
+  {
+    "ID": "TR_03777dbd",
+    "parent": "process chemistry datum",
+    "child": "process excellence index"
+  },
+  {
+    "ID": "TR_7cd1363c",
+    "parent": "monocarboxylic acid",
+    "child": "fatty acid"
+  },
+  {
+    "ID": "TR_d4442cfc",
+    "parent": "inorganic molecular entity",
+    "child": "inorganic hydride"
+  },
+  {
+    "ID": "TR_d75777ad",
+    "parent": "application",
+    "child": "detergent"
+  },
+  {
+    "ID": "TR_ae87609c",
+    "parent": "unit operation in chemical processing",
+    "child": "extraction"
+  },
+  {
+    "ID": "TR_c96c21bd",
+    "parent": "peptide",
+    "child": "protein"
+  },
+  {
+    "ID": "TR_f5ba7d80",
+    "parent": "information content entity",
+    "child": "datum label"
+  },
+  {
+    "ID": "TR_d328342c",
+    "parent": "carboxylic acid anion",
+    "child": "monocarboxylic acid anion"
+  },
+  {
+    "ID": "TR_75c2bfcb",
+    "parent": "route related process",
+    "child": "route selection"
+  },
+  {
+    "ID": "TR_dc4738a1",
+    "parent": "propanones",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_8090d67a",
+    "parent": "information content entity",
+    "child": "centrally registered identifier"
+  },
+  {
+    "ID": "TR_9b16c152",
+    "parent": "point group symmetry",
+    "child": "hexagonal-dipyrimidal"
+  },
+  {
+    "ID": "TR_a97a42a1",
+    "parent": "toluenes",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_c02ec877",
+    "parent": "organonitrogen compound",
+    "child": "amino-acid anion"
+  },
+  {
+    "ID": "TR_9b7dc5b5",
+    "parent": "acceptor",
+    "child": "Bronsted base"
+  },
+  {
+    "ID": "TR_4a73aa07",
+    "parent": "organic anion",
+    "child": "carboxylic acid anion"
+  },
+  {
+    "ID": "TR_45ac3d33",
+    "parent": "AFM_0001034",
+    "child": "eutectic"
+  },
+  {
+    "ID": "TR_a6155fc7",
+    "parent": "volatile organic compound",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_4af88b2e",
+    "parent": "filtration",
+    "child": "ultra-filtration"
+  },
+  {
+    "ID": "TR_d7823f07",
+    "parent": "data item",
+    "child": "calculated datum"
+  },
+  {
+    "ID": "TR_d074917e",
+    "parent": "propanones",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_e24690a6",
+    "parent": "AFRL_0000344",
+    "child": "AFRL_0000249"
+  },
+  {
+    "ID": "TR_a8ddc39e",
+    "parent": "poison",
+    "child": "neurotoxin"
+  },
+  {
+    "ID": "TR_aabb82f6",
+    "parent": "unit operation in chemical processing",
+    "child": "distillation"
+  },
+  {
+    "ID": "TR_70f50e94",
+    "parent": "imidic acid",
+    "child": "carboximidic acid"
+  },
+  {
+    "ID": "TR_e9b09179",
+    "parent": "AFE_0000354",
+    "child": "environmental control device"
+  },
+  {
+    "ID": "TR_845e28d8",
+    "parent": "data item",
+    "child": "data about an ontology part"
+  },
+  {
+    "ID": "TR_d949f4f7",
+    "parent": "iron(3+) chelator",
+    "child": "phytosiderophore"
+  },
+  {
+    "ID": "TR_65353f97",
+    "parent": "monovalent inorganic cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_c373aa4e",
+    "parent": "supercritical fluid method",
+    "child": "supercritical antisolvent technique"
+  },
+  {
+    "ID": "TR_5f5f49c3",
+    "parent": "oxoacid derivative",
+    "child": "imidic acid"
+  },
+  {
+    "ID": "TR_9847ac71",
+    "parent": "food additive",
+    "child": "food emulsifier"
+  },
+  {
+    "ID": "TR_dd30de5e",
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_07a43f4b",
+    "parent": "main group molecular entity",
+    "child": "s-block molecular entity"
+  },
+  {
+    "ID": "TR_cd0c5897",
+    "parent": "molecular entity",
+    "child": "inorganic molecular entity"
+  },
+  {
+    "ID": "TR_a31b02ec",
+    "parent": "benzenes",
+    "child": "toluenes"
+  },
+  {
+    "ID": "TR_6e8f0311",
+    "parent": "cyanides",
+    "child": "nitrile"
+  },
+  {
+    "ID": "TR_43144cfe",
+    "parent": "alcohol",
+    "child": "secondary alcohol"
+  },
+  {
+    "ID": "TR_a90e69ad",
+    "parent": "quantitative systems description parameter",
+    "child": "temporal measure"
+  },
+  {
+    "ID": "TR_956591a0",
+    "parent": "atom",
+    "child": "nonmetal atom"
+  },
+  {
+    "ID": "TR_1c4bf34a",
+    "parent": "material entity",
+    "child": "fiat object part"
+  },
+  {
+    "ID": "TR_fe646133",
+    "parent": "amide",
+    "child": "primary amide"
+  },
+  {
+    "ID": "TR_2e411a04",
+    "parent": "monovalent inorganic cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_01e21abf",
+    "parent": "point group symmetry",
+    "child": "ditrigonal-dipyramidal"
+  },
+  {
+    "ID": "TR_f7764004",
+    "parent": "aromatic annulene",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_6d9ead27",
+    "parent": "p-block element atom",
+    "child": "chalcogen"
+  },
+  {
+    "ID": "TR_a0f6efd6",
+    "parent": "CHEBI_24870",
+    "child": "inorganic ion"
+  },
+  {
+    "ID": "TR_b5ecce0f",
+    "parent": "carboacyl group",
+    "child": "univalent carboacyl group"
+  },
+  {
+    "ID": "TR_d05ea014",
+    "parent": "pathway inhibitor",
+    "child": "electron-transport chain inhibitor"
+  },
+  {
+    "ID": "TR_293e203f",
+    "parent": "chelator",
+    "child": "sequestrant"
+  },
+  {
+    "ID": "TR_773b4323",
+    "parent": "chemical role",
+    "child": "greenhouse gas"
+  },
+  {
+    "ID": "TR_0f305ec2",
+    "parent": "reaction property",
+    "child": "redox reaction property"
+  },
+  {
+    "ID": "TR_b445da2c",
+    "parent": "food preservative",
+    "child": "food antioxidant"
+  },
+  {
+    "ID": "TR_ef600892",
+    "parent": "butanone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_82c237c8",
+    "parent": "product approval milestone",
+    "child": "drug product approval milestone"
+  },
+  {
+    "ID": "TR_cea94e8e",
+    "parent": "secondary alcohol",
+    "child": "propan-2-ol"
+  },
+  {
+    "ID": "TR_f6b57e58",
+    "parent": "reagent role",
+    "child": "AFRL_0000217"
+  },
+  {
+    "ID": "TR_fe699e0c",
+    "parent": "organic cyclic compound",
+    "child": "organic aromatic compound"
+  },
+  {
+    "ID": "TR_fdc6db09",
+    "parent": "divalent inorganic anion",
+    "child": "hydridonitrate(2-)"
+  },
+  {
+    "ID": "TR_0004f3a6",
+    "parent": "sample drying",
+    "child": "vacuum drying"
+  },
+  {
+    "ID": "TR_62de6ed0",
+    "parent": "heteroatomic molecular entity",
+    "child": "hydrides"
+  },
+  {
+    "ID": "TR_3f651b00",
+    "parent": "atom",
+    "child": "main group element atom"
+  },
+  {
+    "ID": "TR_8f48492e",
+    "parent": "data item",
+    "child": "measurement datum"
+  },
+  {
+    "ID": "TR_653be73e",
+    "parent": "organonitrogen compound",
+    "child": "amino-acid anion"
+  },
+  {
+    "ID": "TR_68faa7d2",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.3.2 Impurities"
+  },
+  {
+    "ID": "TR_55e6646b",
+    "parent": "information content entity",
+    "child": "equation"
+  },
+  {
+    "ID": "TR_da4d9609",
+    "parent": "AFRL_0000289",
+    "child": "AFRL_0000223"
+  },
+  {
+    "ID": "TR_6c28b765",
+    "parent": "planned process",
+    "child": "process chemistry filing"
+  },
+  {
+    "ID": "TR_cd09cb84",
+    "parent": "separation method",
+    "child": "purification"
+  },
+  {
+    "ID": "TR_0c966e51",
+    "parent": "point group symmetry",
+    "child": "ditrigonal-scalenohedral"
+  },
+  {
+    "ID": "TR_7b17f885",
+    "parent": "hydrogen molecular entity",
+    "child": "hydracid"
+  },
+  {
+    "ID": "TR_d745a83e",
+    "parent": "monocyclic arene",
+    "child": "aromatic annulene"
+  },
+  {
+    "ID": "TR_9d15d648",
+    "parent": "point group symmetry",
+    "child": "trigonal-trapezohedral"
+  },
+  {
+    "ID": "TR_ba646c16",
+    "parent": "entity",
+    "child": "occurrent"
+  },
+  {
+    "ID": "TR_1bcf2cc2",
+    "parent": "organonitrogen compound",
+    "child": "organic amino compound"
+  },
+  {
+    "ID": "TR_3a4edd73",
+    "parent": "oxide",
+    "child": "oxoanion"
+  },
+  {
+    "ID": "TR_0a5f1a26",
+    "parent": "point group symmetry",
+    "child": "ditetragonal-pyramidal"
+  },
+  {
+    "ID": "TR_16f00ed4",
+    "parent": "route related process",
+    "child": "route development optimization"
+  },
+  {
+    "ID": "TR_261df031",
+    "parent": "heteroorganic entity",
+    "child": "organic heterocyclic compound"
+  },
+  {
+    "ID": "TR_afb68f08",
+    "parent": "AFRL_0000428",
+    "child": "AFRL_0000367"
+  },
+  {
+    "ID": "TR_b6004e0f",
+    "parent": "propanones",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_f0ab1e48",
+    "parent": "organic molecular entity",
+    "child": "lipid"
+  },
+  {
+    "ID": "TR_4d24a2f9",
+    "parent": "route specification",
+    "child": "GMP specification of synthetic process"
+  },
+  {
+    "ID": "TR_068a5c63",
+    "parent": "process chemistry datum",
+    "child": "quality service level"
+  },
+  {
+    "ID": "TR_5eb5df5e",
+    "parent": "process boundary",
+    "child": "route selection milestone"
+  },
+  {
+    "ID": "TR_57983793",
+    "parent": "plan specification",
+    "child": "study design"
+  },
+  {
+    "ID": "TR_20e46d99",
+    "parent": "one-carbon compound",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_ee4af44d",
+    "parent": "residual solvent impurity",
+    "child": "ICH Q6A Class 1 Solvent"
+  },
+  {
+    "ID": "TR_e74f0158",
+    "parent": "alkylbenzene",
+    "child": "methylbenzene"
+  },
+  {
+    "ID": "TR_143929d6",
+    "parent": "alkyl alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_37e8cbc7",
+    "parent": "reagent role",
+    "child": "AFRL_0000421"
+  },
+  {
+    "ID": "TR_1f5c7130",
+    "parent": "material processing",
+    "child": "material component separation"
+  },
+  {
+    "ID": "TR_6c81194d",
+    "parent": "environmental contaminant",
+    "child": "environmental food contaminant"
+  },
+  {
+    "ID": "TR_94e889f7",
+    "parent": "information content entity",
+    "child": "prior art"
+  },
+  {
+    "ID": "TR_6cf9f491",
+    "parent": "buffer",
+    "child": "Good's buffer substance"
+  },
+  {
+    "ID": "TR_1933a62a",
+    "parent": "point group symmetry",
+    "child": "hexagonal-pyrimidal"
+  },
+  {
+    "ID": "TR_8b95952c",
+    "parent": "photochemical role",
+    "child": "photobiochemical role"
+  },
+  {
+    "ID": "TR_eb4529f5",
+    "parent": "molecular entity",
+    "child": "polyatomic entity"
+  },
+  {
+    "ID": "TR_29005b76",
+    "parent": "scalar measurement datum",
+    "child": "specific rotation datum"
+  },
+  {
+    "ID": "TR_2e69cb1c",
+    "parent": "fermion",
+    "child": "baryon"
+  },
+  {
+    "ID": "TR_585bdc2f",
+    "parent": "process boundary",
+    "child": "product filing milestone"
+  },
+  {
+    "ID": "TR_cbbe0921",
+    "parent": "cyclic hydrocarbon",
+    "child": "monocyclic hydrocarbon"
+  },
+  {
+    "ID": "TR_6c916603",
+    "parent": "quality",
+    "child": "bulk substance quality"
+  },
+  {
+    "ID": "TR_9fa012cd",
+    "parent": "methyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_f52e03c5",
+    "parent": "carbon oxoacid",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_165cef5c",
+    "parent": "information content entity",
+    "child": "conclusion based on data"
+  },
+  {
+    "ID": "TR_ecc8ec55",
+    "parent": "chemical role",
+    "child": "base"
+  },
+  {
+    "ID": "TR_ed80f67a",
+    "parent": "kinetic constant",
+    "child": "rate constant"
+  },
+  {
+    "ID": "TR_c2ca7001",
+    "parent": "point symmetry",
+    "child": "polar point symmetry"
+  },
+  {
+    "ID": "TR_51b46a1a",
+    "parent": "toluenes",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_32afef81",
+    "parent": "point group symmetry",
+    "child": "tetragonal-disphenoidal"
+  },
+  {
+    "ID": "TR_b9f88fb4",
+    "parent": "mixing",
+    "child": "stirring"
+  },
+  {
+    "ID": "TR_8535500d",
+    "parent": "application",
+    "child": "solvent"
+  },
+  {
+    "ID": "TR_0a6882d1",
+    "parent": "material entity",
+    "child": "molecular entity"
+  },
+  {
+    "ID": "TR_f9e256a2",
+    "parent": "saturated organic heterocyclic parent",
+    "child": "saturated organic heteromonocyclic parent"
+  },
+  {
+    "ID": "TR_dd04f67c",
+    "parent": "oxacycle",
+    "child": "cyclic ether"
+  },
+  {
+    "ID": "TR_0538c300",
+    "parent": "sample sublimation",
+    "child": "vacuum sublimation"
+  },
+  {
+    "ID": "TR_da9a4a8a",
+    "parent": "one-carbon compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_5cb99eb8",
+    "parent": "process monitoring",
+    "child": "temperature measurement"
+  },
+  {
+    "ID": "TR_bd5af14f",
+    "parent": "point group symmetry",
+    "child": "ditrigonal-pyramidal"
+  },
+  {
+    "ID": "TR_8e22c48f",
+    "parent": "organic heterocyclic compound",
+    "child": "organic heteromonocyclic compound"
+  },
+  {
+    "ID": "TR_e398a5d2",
+    "parent": "point group symmetry",
+    "child": "hexoctahedral"
+  },
+  {
+    "ID": "TR_c1e6b21b",
+    "parent": "hydroxides",
+    "child": "organic hydroxy compound"
+  },
+  {
+    "ID": "TR_a3776a3d",
+    "parent": "process validation",
+    "child": "route validation"
+  },
+  {
+    "ID": "TR_0061c76d",
+    "parent": "material processing",
+    "child": "extraction"
+  },
+  {
+    "ID": "TR_d2cd1655",
+    "parent": "Lewis base",
+    "child": "nucleophilic reagent"
+  },
+  {
+    "ID": "TR_a901f536",
+    "parent": "thermodynamic reaction property",
+    "child": "redox potential change"
+  },
+  {
+    "ID": "TR_bb79d678",
+    "parent": "processed material",
+    "child": "device"
+  },
+  {
+    "ID": "TR_096465a1",
+    "parent": "route related process",
+    "child": "route scouting"
+  },
+  {
+    "ID": "TR_d203db80",
+    "parent": "distillation",
+    "child": "steam distillation"
+  },
+  {
+    "ID": "TR_010fe302",
+    "parent": "point group symmetry",
+    "child": "trigonal-pyramidal"
+  },
+  {
+    "ID": "TR_beb69874",
+    "parent": "organonitrogen compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_7bac9369",
+    "parent": "AFRL_0000244",
+    "child": "AFRL_0000363"
+  },
+  {
+    "ID": "TR_e9bb50e0",
+    "parent": "organic aromatic compound",
+    "child": "benzenoid aromatic compound"
+  },
+  {
+    "ID": "TR_61cbce36",
+    "parent": "enzyme inhibitor",
+    "child": "pathway inhibitor"
+  },
+  {
+    "ID": "TR_cbe00855",
+    "parent": "monovalent inorganic cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_f119e8dc",
+    "parent": "quality process profile",
+    "child": "stir rate profile"
+  },
+  {
+    "ID": "TR_42b67b17",
+    "parent": "hydrides",
+    "child": "inorganic hydride"
+  },
+  {
+    "ID": "TR_17f481e2",
+    "parent": "antimicrobial agent",
+    "child": "antibacterial agent"
+  },
+  {
+    "ID": "TR_c59fab64",
+    "parent": "AFRL_0000344",
+    "child": "AFRL_0000360"
+  },
+  {
+    "ID": "TR_865da029",
+    "parent": "point group symmetry",
+    "child": "pedial"
+  },
+  {
+    "ID": "TR_b7eaeab1",
+    "parent": "unit cell",
+    "child": "tetragonal unit cell"
+  },
+  {
+    "ID": "TR_5ff7f9a0",
+    "parent": "molecule",
+    "child": "organic molecule"
+  },
+  {
+    "ID": "TR_8e53002c",
+    "parent": "nonmetal atom",
+    "child": "hydrogen atom"
+  },
+  {
+    "ID": "TR_57e5b7ef",
+    "parent": "unit operation in chemical processing",
+    "child": "distillation"
+  },
+  {
+    "ID": "TR_bc536319",
+    "parent": "process boundary",
+    "child": "product approval milestone"
+  },
+  {
+    "ID": "TR_57df7106",
+    "parent": "concentration of",
+    "child": "AFQ_0000168"
+  },
+  {
+    "ID": "TR_bca23258",
+    "parent": "measurement datum",
+    "child": "scalar measurement datum"
+  },
+  {
+    "ID": "TR_c0357982",
+    "parent": "measurement datum",
+    "child": "scalar measurement datum"
+  },
+  {
+    "ID": "TR_e95124ec",
+    "parent": "monocarboxylic acid",
+    "child": "fatty acid"
+  },
+  {
+    "ID": "TR_67d2dba8",
+    "parent": "unit cell quality",
+    "child": "unit cell Z' value"
+  },
+  {
+    "ID": "TR_f40ebc76",
+    "parent": "carbon group molecular entity",
+    "child": "organic molecular entity"
+  },
+  {
+    "ID": "TR_cd3cee66",
+    "parent": "AFE_0000354",
+    "child": "AFE_0001128"
+  },
+  {
+    "ID": "TR_5787f186",
+    "parent": "AFRL_0000344",
+    "child": "AFRL_0000359"
+  },
+  {
+    "ID": "TR_6617a862",
+    "parent": "benzenes",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_6a78729d",
+    "parent": "point group symmetry",
+    "child": "diploidal"
+  },
+  {
+    "ID": "TR_3df92513",
+    "parent": "bacterial metabolite",
+    "child": "Escherichia coli metabolite"
+  },
+  {
+    "ID": "TR_8ccdc3a3",
+    "parent": "written name",
+    "child": "international nonproprietary name"
+  },
+  {
+    "ID": "TR_625c9c53",
+    "parent": "one-carbon compound",
+    "child": "formimidic acid"
+  },
+  {
+    "ID": "TR_6ef3752e",
+    "parent": "purge factor",
+    "child": "overall assessed purge factor"
+  },
+  {
+    "ID": "TR_51a44b58",
+    "parent": "information content entity",
+    "child": "textual entity"
+  },
+  {
+    "ID": "TR_5bd1e8d0",
+    "parent": "pharmacological role",
+    "child": "neurotransmitter agent"
+  },
+  {
+    "ID": "TR_85cb18ba",
+    "parent": "AFM_0001034",
+    "child": "solid dispersion"
+  },
+  {
+    "ID": "TR_fd382a28",
+    "parent": "volatile organic compound",
+    "child": "acetonitrile"
+  },
+  {
+    "ID": "TR_746f1cfc",
+    "parent": "alkyl alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_f9059455",
+    "parent": "chemical role",
+    "child": "mother liquor role"
+  },
+  {
+    "ID": "TR_015c55ec",
+    "parent": "membrane extraction",
+    "child": "supported liquid membrane extraction"
+  },
+  {
+    "ID": "TR_dce4ee6b",
+    "parent": "nuclear particle",
+    "child": "atomic nucleus"
+  },
+  {
+    "ID": "TR_661f9a1d",
+    "parent": "document",
+    "child": "common technical document"
+  },
+  {
+    "ID": "TR_5db1db2e",
+    "parent": "inorganic molecular entity",
+    "child": "hydrogen atom"
+  },
+  {
+    "ID": "TR_c265bdb6",
+    "parent": "centrally registered identifier",
+    "child": "international nonproprietary name"
+  },
+  {
+    "ID": "TR_85b46490",
+    "parent": "hydrogen molecular entity",
+    "child": "hydracid"
+  },
+  {
+    "ID": "TR_8f2b4696",
+    "parent": "gas molecular entity",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_5874568a",
+    "parent": "disposition",
+    "child": "fate of impurity"
+  },
+  {
+    "ID": "TR_452ed750",
+    "parent": "volatile organic compound",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_0c7ecadc",
+    "parent": "extraction",
+    "child": "substoichiometric extraction"
+  },
+  {
+    "ID": "TR_f4b1d189",
+    "parent": "directive information entity",
+    "child": "common technical document"
+  },
+  {
+    "ID": "TR_8971111e",
+    "parent": "AFRL_0000344",
+    "child": "AFRL_0000345"
+  },
+  {
+    "ID": "TR_07992407",
+    "parent": "alkyl alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_37be7501",
+    "parent": "organic molecular entity",
+    "child": "organic hydroxy compound"
+  },
+  {
+    "ID": "TR_784ae857",
+    "parent": "point group symmetry",
+    "child": "dihexagonal-dipyramidal"
+  },
+  {
+    "ID": "TR_879edd68",
+    "parent": "environmental control device",
+    "child": "heating mantle"
+  },
+  {
+    "ID": "TR_2dab479b",
+    "parent": "biochemical role",
+    "child": "enzyme inhibitor"
+  },
+  {
+    "ID": "TR_de4dd493",
+    "parent": "main group element atom",
+    "child": "p-block element atom"
+  },
+  {
+    "ID": "TR_b5d0bf9f",
+    "parent": "secondary fatty alcohol",
+    "child": "propan-2-ol"
+  },
+  {
+    "ID": "TR_d2bd426f",
+    "parent": "point group symmetry",
+    "child": "rhombic-dipyramidal"
+  },
+  {
+    "ID": "TR_16f3183d",
+    "parent": "fatty acid derivative",
+    "child": "ketone body"
+  },
+  {
+    "ID": "TR_13fe951f",
+    "parent": "AFRL_0000344",
+    "child": "AFRL_0000216"
+  },
+  {
+    "ID": "TR_adae4ad9",
+    "parent": "process chemistry datum",
+    "child": "purge factor"
+  },
+  {
+    "ID": "TR_ef8ea315",
+    "parent": "point group symmetry",
+    "child": "tetragonal-trapezohedral"
+  },
+  {
+    "ID": "TR_cc12d5b3",
+    "parent": "volatile organic compound",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_d97e2b98",
+    "parent": "cyclic hydrocarbon",
+    "child": "arene"
+  },
+  {
+    "ID": "TR_a507ee5a",
+    "parent": "condensor",
+    "child": "coil condenser"
+  },
+  {
+    "ID": "TR_b38bbdb6",
+    "parent": "membrane transport modulator",
+    "child": "ionophore"
+  },
+  {
+    "ID": "TR_d3848915",
+    "parent": "precipitation",
+    "child": "co-precipitation"
+  },
+  {
+    "ID": "TR_accef3e5",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_18236290",
+    "parent": "planned process",
+    "child": "process validation"
+  },
+  {
+    "ID": "TR_601a7554",
+    "parent": "AFRL_0000511",
+    "child": "AFRL_0000510"
+  },
+  {
+    "ID": "TR_d76d438e",
+    "parent": "aetiopathogenetic role",
+    "child": "neurotoxin"
+  },
+  {
+    "ID": "TR_f0794e0e",
+    "parent": "material processing",
+    "child": "grinding"
+  },
+  {
+    "ID": "TR_52d60362",
+    "parent": "heterocyclic compound",
+    "child": "organic heterocyclic compound"
+  },
+  {
+    "ID": "TR_885b40a1",
+    "parent": "role",
+    "child": "reagent role"
+  },
+  {
+    "ID": "TR_57bbff1b",
+    "parent": "oxacycle",
+    "child": "dioxanes"
+  },
+  {
+    "ID": "TR_aac4e1d1",
+    "parent": "value specification",
+    "child": "scalar value specification"
+  },
+  {
+    "ID": "TR_eca4de61",
+    "parent": "benzenes",
+    "child": "alkylbenzene"
+  },
+  {
+    "ID": "TR_0bdaf964",
+    "parent": "realizable entity",
+    "child": "disposition"
+  },
+  {
+    "ID": "TR_62ee0bca",
+    "parent": "inorganic molecular entity",
+    "child": "inorganic hydride"
+  },
+  {
+    "ID": "TR_3f8b2fdc",
+    "parent": "cyclic ether",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_ae41b102",
+    "parent": "propanones",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_9864e552",
+    "parent": "point group symmetry",
+    "child": "rhombohedral"
+  },
+  {
+    "ID": "TR_3dfd95b0",
+    "parent": "benzenes",
+    "child": "alkylbenzene"
+  },
+  {
+    "ID": "TR_d466e41e",
+    "parent": "AFQ_0000250",
+    "child": "X-Ray diffractivity"
+  },
+  {
+    "ID": "TR_3c010648",
+    "parent": "material processing",
+    "child": "separation method"
+  },
+  {
+    "ID": "TR_ae755ac9",
+    "parent": "disposition",
+    "child": "fate of impurity"
+  },
+  {
+    "ID": "TR_f11c1298",
+    "parent": "data item",
+    "child": "factor"
+  },
+  {
+    "ID": "TR_6a0c4565",
+    "parent": "onium cation",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_2842db21",
+    "parent": "chemical role",
+    "child": "fluorescence quencher"
+  },
+  {
+    "ID": "TR_0d563826",
+    "parent": "document",
+    "child": "common technical document"
+  },
+  {
+    "ID": "TR_b0c7d4ee",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.2.1 Manufacturers"
+  },
+  {
+    "ID": "TR_7bfde986",
+    "parent": "condensor",
+    "child": "Frederichs condensor"
+  },
+  {
+    "ID": "TR_f8bbe6ec",
+    "parent": "organic anion",
+    "child": "methoxide"
+  },
+  {
+    "ID": "TR_1fdda743",
+    "parent": "protein-containing complex",
+    "child": "DNA polymerase complex"
+  },
+  {
+    "ID": "TR_d7d038aa",
+    "parent": "monocarboxylic acid amide",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_644215ef",
+    "parent": "unit cell quality",
+    "child": "space group"
+  },
+  {
+    "ID": "TR_81411cc0",
+    "parent": "monocarboxylic acid",
+    "child": "formic acid"
+  },
+  {
+    "ID": "TR_10fef273",
+    "parent": "synthetic chemical process",
+    "child": "GMP synthetic process"
+  },
+  {
+    "ID": "TR_57612bc1",
+    "parent": "amino-acid anion",
+    "child": "carbamate"
+  },
+  {
+    "ID": "TR_f14f0c53",
+    "parent": "hydroxides",
+    "child": "oxoacid"
+  },
+  {
+    "ID": "TR_67d6a6d1",
+    "parent": "information content entity",
+    "child": "AFR_0000916"
+  },
+  {
+    "ID": "TR_6aec87b9",
+    "parent": "mass",
+    "child": "AFQ_0000256"
+  },
+  {
+    "ID": "TR_fc8ea54d",
+    "parent": "organic oxo compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "ID": "TR_603f7caf",
+    "parent": "AFR_0000992",
+    "child": "graphical rate equation"
+  },
+  {
+    "ID": "TR_2ad89e2a",
+    "parent": "s-block molecular entity",
+    "child": "hydrogen molecular entity"
+  },
+  {
+    "ID": "TR_a821c3fb",
+    "parent": "object aggregate",
+    "child": "molecular complex"
+  },
+  {
+    "ID": "TR_5140e372",
+    "parent": "purge factor",
+    "child": "assessed reactivity purge factor"
+  },
+  {
+    "ID": "TR_babc37ec",
+    "parent": "process profile",
+    "child": "assessed reactivity purge factor"
+  },
+  {
+    "ID": "TR_5508e3d5",
+    "parent": "value specification",
+    "child": "scalar value specification"
+  },
+  {
+    "ID": "TR_bbdea66e",
+    "parent": "crystallisation",
+    "child": "cocrystallisation"
+  },
+  {
+    "ID": "TR_19e80e48",
+    "parent": "ICH Guideline",
+    "child": "ICH M7 Assessment and Control of DNA Reactive (Mutagenic) Impurities in Pharmaceuticals To Limit Potential Carcinogenic Risk"
+  },
+  {
+    "ID": "TR_525e31e6",
+    "parent": "methylbenzene",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_e2a7b103",
+    "parent": "deoxyribonucleic acid",
+    "child": "amplified DNA"
+  },
+  {
+    "ID": "TR_a4739ab2",
+    "parent": "s-block element atom",
+    "child": "hydrogen atom"
+  },
+  {
+    "ID": "TR_0f2a4f20",
+    "parent": "unit operation in chemical processing",
+    "child": "extraction"
+  },
+  {
+    "ID": "TR_a26aeef5",
+    "parent": "flask",
+    "child": "volumetric flask"
+  },
+  {
+    "ID": "TR_bd6c5175",
+    "parent": "document",
+    "child": "laboratory notebook"
+  },
+  {
+    "ID": "TR_583979a1",
+    "parent": "sample sublimation",
+    "child": "fractional sublimation"
+  },
+  {
+    "ID": "TR_216df283",
+    "parent": "polyatomic entity",
+    "child": "molecule"
+  },
+  {
+    "ID": "TR_e1bfa163",
+    "parent": "point group symmetry",
+    "child": "dihexagonal-dipyramidal"
+  },
+  {
+    "ID": "TR_9a045ec6",
+    "parent": "material processing",
+    "child": "fractionation"
+  },
+  {
+    "ID": "TR_accdfa1a",
+    "parent": "non-centrosymmetric point symmetry",
+    "child": "enantiomorphic point symmetry"
+  },
+  {
+    "ID": "TR_26221ee3",
+    "parent": "lipid",
+    "child": "fatty alcohol"
+  },
+  {
+    "ID": "TR_2bef7ffe",
+    "parent": "anion",
+    "child": "monoanion"
+  },
+  {
+    "ID": "TR_b6b3ce61",
+    "parent": "directive information entity",
+    "child": "design space"
+  },
+  {
+    "ID": "TR_a6881b71",
+    "parent": "information content entity",
+    "child": "centrally registered identifier"
+  },
+  {
+    "ID": "TR_fa08cdfe",
+    "parent": "chalcogen",
+    "child": "oxygen atom"
+  },
+  {
+    "ID": "TR_1cc06848",
+    "parent": "centrifugation",
+    "child": "low-speed centrifugation"
+  },
+  {
+    "ID": "TR_504d9083",
+    "parent": "chromatography",
+    "child": "displacement chromatography"
+  },
+  {
+    "ID": "TR_ae0d8404",
+    "parent": "main group molecular entity",
+    "child": "p-block molecular entity"
+  },
+  {
+    "ID": "TR_f9e6647c",
+    "parent": "hydrogen molecular entity",
+    "child": "hydroxides"
+  },
+  {
+    "ID": "TR_f8fedb59",
+    "parent": "hydrogen molecular entity",
+    "child": "hydrides"
+  },
+  {
+    "ID": "TR_f0f117bc",
+    "parent": "sample drying",
+    "child": "drum drying"
+  },
+  {
+    "ID": "TR_730bad8c",
+    "parent": "seeded sublimation",
+    "child": "sandwich sublimation"
+  },
+  {
+    "ID": "TR_6346d029",
+    "parent": "process profile",
+    "child": "quality process profile"
+  },
+  {
+    "ID": "TR_0ca55137",
+    "parent": "unit operation in chemical processing",
+    "child": "ageing"
+  },
+  {
+    "ID": "TR_e65a1350",
+    "parent": "point group symmetry",
+    "child": "tetragonal-trapezohedral"
+  },
+  {
+    "ID": "TR_d8d6e64d",
+    "parent": "unit operation in chemical processing",
+    "child": "evaporation"
+  },
+  {
+    "ID": "TR_a31b4891",
+    "parent": "planned process",
+    "child": "material processing"
+  },
+  {
+    "ID": "TR_ea5bbbfc",
+    "parent": "precipitation",
+    "child": "affinity precipitation"
+  },
+  {
+    "ID": "TR_811cf0e9",
+    "parent": "scalar measurement datum",
+    "child": "solution pH datum"
+  },
+  {
+    "ID": "TR_3e2d0617",
+    "parent": "point symmetry",
+    "child": "centrosymmetric point symmetry"
+  },
+  {
+    "ID": "TR_dcbb092a",
+    "parent": "planned process",
+    "child": "process safety"
+  },
+  {
+    "ID": "TR_c8eea1ff",
+    "parent": "mechanistic and kinetic determination",
+    "child": "differential kinetic measurement"
+  },
+  {
+    "ID": "TR_60b66675",
+    "parent": "document part",
+    "child": "CTA Section 3.2.S.1.3 General Properties"
+  },
+  {
+    "ID": "TR_a64541d6",
+    "parent": "purge factor",
+    "child": "assessed ionisability purge factor"
+  },
+  {
+    "ID": "TR_9dd1f9c5",
+    "parent": "point group symmetry",
+    "child": "gyroidal"
+  },
+  {
+    "ID": "TR_fcd74cd8",
+    "parent": "carbon oxoacid",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_b4f67742",
+    "parent": "organic ion",
+    "child": "organic anion"
+  },
+  {
+    "ID": "TR_64c7c9ed",
+    "parent": "drug",
+    "child": "astringent"
+  },
+  {
+    "ID": "TR_2b071c62",
+    "parent": "transferring device",
+    "child": "syringe pump"
+  },
+  {
+    "ID": "TR_d490251e",
+    "parent": "chemical entity",
+    "child": "group"
+  },
+  {
+    "ID": "TR_e6424c19",
+    "parent": "pnictogen",
+    "child": "nitrogen atom"
+  },
+  {
+    "ID": "TR_c03aea03",
+    "parent": "organonitrogen compound",
+    "child": "cyanides"
+  },
+  {
+    "ID": "TR_89d4d432",
+    "parent": "Bronsted base",
+    "child": "protophilic solvent"
+  },
+  {
+    "ID": "TR_11a98ca3",
+    "parent": "unit operation in chemical processing",
+    "child": "supercritical fluid method"
+  },
+  {
+    "ID": "TR_2cef7b17",
+    "parent": "fungal metabolite",
+    "child": "Saccharomyces cerevisiae metabolite"
+  },
+  {
+    "ID": "TR_0f8b94c2",
+    "parent": "hydracid",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_0e3d0359",
+    "parent": "aliphatic nitrile",
+    "child": "acetonitrile"
+  },
+  {
+    "ID": "TR_12a06a2b",
+    "parent": "univalent carboacyl group",
+    "child": "carbamoyl group"
+  },
+  {
+    "ID": "TR_7c90f376",
+    "parent": "food component",
+    "child": "environmental food contaminant"
+  },
+  {
+    "ID": "TR_8b39f7a4",
+    "parent": "solvate",
+    "child": "hydrate"
+  },
+  {
+    "ID": "TR_a17de2ee",
+    "parent": "organic heteromonocyclic compound",
+    "child": "saturated organic heteromonocyclic parent"
+  },
+  {
+    "ID": "TR_fd6d2c4e",
+    "parent": "in-silico modeling",
+    "child": "DEREK Mutagen Prediction"
+  },
+  {
+    "ID": "TR_da150c45",
+    "parent": "datum label",
+    "child": "measurement unit label"
+  },
+  {
+    "ID": "TR_4ef0feb9",
+    "parent": "alkyl alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_b0d6c384",
+    "parent": "morphology",
+    "child": "AFQ_0000111"
+  },
+  {
+    "ID": "TR_cec5f93b",
+    "parent": "hadron",
+    "child": "baryon"
+  },
+  {
+    "ID": "TR_9450255b",
+    "parent": "chemical entity",
+    "child": "crystalline solid"
+  },
+  {
+    "ID": "TR_4db458f2",
+    "parent": "unit operation in chemical processing",
+    "child": "Ostwald ripening"
+  },
+  {
+    "ID": "TR_7b92e6b9",
+    "parent": "volatile organic compound",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_bc6cfd1f",
+    "parent": "organic hydroxy compound",
+    "child": "alcohol"
+  },
+  {
+    "ID": "TR_c32d60c4",
+    "parent": "quality process profile",
+    "child": "material flow profile in synthesis process"
+  },
+  {
+    "ID": "TR_0c3336ec",
+    "parent": "role",
+    "child": "reference substance role"
+  },
+  {
+    "ID": "TR_d8dec69b",
+    "parent": "group",
+    "child": "pseudohalo group"
+  },
+  {
+    "ID": "TR_edb323ba",
+    "parent": "directive information entity",
+    "child": "quality specification"
+  },
+  {
+    "ID": "TR_dccfa5a7",
+    "parent": "inorganic ion",
+    "child": "inorganic cation"
+  },
+  {
+    "ID": "TR_1389602d",
+    "parent": "bacterial metabolite",
+    "child": "Mycoplasma genitalium metabolite"
+  },
+  {
+    "ID": "TR_b2b27821",
+    "parent": "chelator",
+    "child": "iron chelator"
+  },
+  {
+    "ID": "TR_a1d5ad8c",
+    "parent": "organonitrogen compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_e35da6a7",
+    "parent": "nitrogen molecular entity",
+    "child": "imidic acid"
+  },
+  {
+    "ID": "TR_eba85ed9",
+    "parent": "benzenes",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_395480e5",
+    "parent": "application",
+    "child": "reagent"
+  },
+  {
+    "ID": "TR_2dd6285a",
+    "parent": "point group symmetry",
+    "child": "sphenoidal"
+  },
+  {
+    "ID": "TR_4ff00c5e",
+    "parent": "unit operation in chemical processing",
+    "child": "sample solidification"
+  },
+  {
+    "ID": "TR_85f91a85",
+    "parent": "organic oxo compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "ID": "TR_7c83226b",
+    "parent": "anion",
+    "child": "inorganic anion"
+  },
+  {
+    "ID": "TR_45007745",
+    "parent": "document part",
+    "child": "laboratory notebook experiment identifier"
+  },
+  {
+    "ID": "TR_1bcecec0",
+    "parent": "organic fundamental parent",
+    "child": "heterocyclic organic fundamental parent"
+  },
+  {
+    "ID": "TR_e0da113c",
+    "parent": "aromatic compound",
+    "child": "organic aromatic compound"
+  },
+  {
+    "ID": "TR_a5a1af6d",
+    "parent": "temporal region",
+    "child": "induction period"
+  },
+  {
+    "ID": "TR_f9474f74",
+    "parent": "iron ionophore",
+    "child": "siderophore"
+  },
+  {
+    "ID": "TR_2fc9676a",
+    "parent": "pnictogen",
+    "child": "nitrogen atom"
+  },
+  {
+    "ID": "TR_7f0a9f42",
+    "parent": "morphology",
+    "child": "habit"
+  },
+  {
+    "ID": "TR_51a889cc",
+    "parent": "carbon oxoacid",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_152744ca",
+    "parent": "quality process profile",
+    "child": "stir rate profile"
+  },
+  {
+    "ID": "TR_1e9dcca9",
+    "parent": "benzenes",
+    "child": "benzene"
+  },
+  {
+    "ID": "TR_6922106e",
+    "parent": "hydroxides",
+    "child": "organic hydroxy compound"
+  },
+  {
+    "ID": "TR_f8b1b75e",
+    "parent": "monocyclic arene",
+    "child": "alkylbenzene"
+  },
+  {
+    "ID": "TR_27c26bed",
+    "parent": "volatile organic compound",
+    "child": "acetonitrile"
+  },
+  {
+    "ID": "TR_2d93ddcd",
+    "parent": "carbon oxoacid",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_152f891d",
+    "parent": "dialkyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_a2590440",
+    "parent": "specifically dependent continuant",
+    "child": "quality"
+  },
+  {
+    "ID": "TR_753c9705",
+    "parent": "role",
+    "child": "AFRL_0000362"
+  },
+  {
+    "ID": "TR_1f5f1366",
+    "parent": "organooxygen compound",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_06704b0f",
+    "parent": "material entity",
+    "child": "portion of material"
+  },
+  {
+    "ID": "TR_654d6753",
+    "parent": "fundamental particle",
+    "child": "lepton"
+  },
+  {
+    "ID": "TR_429e2cfd",
+    "parent": "chemical role",
+    "child": "solvent"
+  },
+  {
+    "ID": "TR_a6d583dd",
+    "parent": "objective specification",
+    "child": "assay objective"
+  },
+  {
+    "ID": "TR_28484f7f",
+    "parent": "carboximidic acid",
+    "child": "formimidic acid"
+  },
+  {
+    "ID": "TR_d5ff8f8a",
+    "parent": "volatile organic compound",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_f53b9e51",
+    "parent": "carbonyl compound",
+    "child": "carboxylic acid"
+  },
+  {
+    "ID": "TR_c6977338",
+    "parent": "point group symmetry",
+    "child": "prismatic"
+  },
+  {
+    "ID": "TR_86992ac5",
+    "parent": "chelator",
+    "child": "copper chelator"
+  },
+  {
+    "ID": "TR_fc3debbc",
+    "parent": "heteroorganic entity",
+    "child": "organic heterocyclic compound"
+  },
+  {
+    "ID": "TR_0d2f04a0",
+    "parent": "portion of material",
+    "child": "device"
+  },
+  {
+    "ID": "TR_bc4ce61f",
+    "parent": "Lewis base",
+    "child": "nucleophilic reagent"
+  },
+  {
+    "ID": "TR_b3e32807",
+    "parent": "volatile organic compound",
+    "child": "1,4-dioxane"
+  },
+  {
+    "ID": "TR_2f92dea2",
+    "parent": "role",
+    "child": "reagent role"
+  },
+  {
+    "ID": "TR_865ee783",
+    "parent": "polyatomic ion",
+    "child": "polyatomic anion"
+  },
+  {
+    "ID": "TR_4e2b6869",
+    "parent": "organic divalent group",
+    "child": "organodiyl group"
+  },
+  {
+    "ID": "TR_aa44fe61",
+    "parent": "grinding",
+    "child": "ball milling"
+  },
+  {
+    "ID": "TR_b7d30dd4",
+    "parent": "hydracid",
+    "child": "hydrogen cyanide"
+  },
+  {
+    "ID": "TR_98f456a4",
+    "parent": "AFFN_0000111",
+    "child": "AFFN_0000127"
+  },
+  {
+    "ID": "TR_d8833def",
+    "parent": "information content entity",
+    "child": "conclusion based on data"
+  },
+  {
+    "ID": "TR_dd8a09b0",
+    "parent": "animal metabolite",
+    "child": "mammalian metabolite"
+  },
+  {
+    "ID": "TR_d810270c",
+    "parent": "mitochondrial respiratory-chain inhibitor",
+    "child": "EC 1.9.3.1 (cytochrome c oxidase) inhibitor"
+  },
+  {
+    "ID": "TR_a52a63cd",
+    "parent": "ketone",
+    "child": "dialkyl ketone"
+  },
+  {
+    "ID": "TR_81d85251",
+    "parent": "one-carbon compound",
+    "child": "formimidic acid"
+  },
+  {
+    "ID": "TR_0c1bd06f",
+    "parent": "AFRL_0000511",
+    "child": "AFRL_0000512"
+  },
+  {
+    "ID": "TR_278ff0ff",
+    "parent": "application",
+    "child": "detergent"
+  },
+  {
+    "ID": "TR_e2f00909",
+    "parent": "main group molecular entity",
+    "child": "gas molecular entity"
+  },
+  {
+    "ID": "TR_322a1817",
+    "parent": "dialkyl ketone",
+    "child": "butan-2-one"
+  },
+  {
+    "ID": "TR_0a411670",
+    "parent": "acid",
+    "child": "Lewis acid"
+  },
+  {
+    "ID": "TR_e39f908f",
+    "parent": "inorganic molecular entity",
+    "child": "inorganic ion"
+  },
+  {
+    "ID": "TR_32712c34",
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_387f961a",
+    "parent": "iron(3+) chelator",
+    "child": "siderophore"
+  },
+  {
+    "ID": "TR_47f281a0",
+    "parent": "AFQ_0000250",
+    "child": "X-Ray diffractivity"
+  },
+  {
+    "ID": "TR_77c2b0a6",
+    "parent": "ketone body",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_ace97571",
+    "parent": "point group symmetry",
+    "child": "pinacoidal"
+  },
+  {
+    "ID": "TR_ec7331bd",
+    "parent": "fermion",
+    "child": "lepton"
+  },
+  {
+    "ID": "TR_2fa91308",
+    "parent": "unit operation in chemical processing",
+    "child": "charging material"
+  },
+  {
+    "ID": "TR_0c593bd2",
+    "parent": "AFE_0000407",
+    "child": "crucible"
+  },
+  {
+    "ID": "TR_6ca3be25",
+    "parent": "planned process",
+    "child": "investigation"
+  },
+  {
+    "ID": "TR_b01a6d7e",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_f00df11f",
+    "parent": "chemometrics",
+    "child": "factorial analysis"
+  },
+  {
+    "ID": "TR_ac037b7c",
+    "parent": "nitrogen hydride",
+    "child": "azane"
+  },
+  {
+    "ID": "TR_3eeb611e",
+    "parent": "volatile organic compound",
+    "child": "toluene"
+  },
+  {
+    "ID": "TR_08907e6f",
+    "parent": "polyatomic anion",
+    "child": "oxoanion"
+  },
+  {
+    "ID": "TR_45bf89a7",
+    "parent": "disposition",
+    "child": "function"
+  },
+  {
+    "ID": "TR_5368452f",
+    "parent": "AFRL_0000364",
+    "child": "AFRL_0000365"
+  },
+  {
+    "ID": "TR_dee57898",
+    "parent": "quality specification",
+    "child": "CQA specification"
+  },
+  {
+    "ID": "TR_890bf62e",
+    "parent": "oxolanes",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_fc5db403",
+    "parent": "monocyclic arene",
+    "child": "alkylbenzene"
+  },
+  {
+    "ID": "TR_873b5561",
+    "parent": "organooxygen compound",
+    "child": "carboxamide"
+  },
+  {
+    "ID": "TR_ae109a80",
+    "parent": "process",
+    "child": "planning"
+  },
+  {
+    "ID": "TR_67c690ad",
+    "parent": "pseudohalo group",
+    "child": "cyano group"
+  },
+  {
+    "ID": "TR_793d7df7",
+    "parent": "organonitrogen compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_d86d0c65",
+    "parent": "thermodynamic reaction property",
+    "child": "Gibbs free energy of activation"
+  },
+  {
+    "ID": "TR_59f49fd5",
+    "parent": "fermion",
+    "child": "baryon"
+  },
+  {
+    "ID": "TR_4a0b63c7",
+    "parent": "heterocyclic organic fundamental parent",
+    "child": "saturated organic heterocyclic parent"
+  },
+  {
+    "ID": "TR_baf75de8",
+    "parent": "process profile",
+    "child": "critical process parameter"
+  },
+  {
+    "ID": "TR_7175fdfb",
+    "parent": "quality process profile",
+    "child": "concentration profile"
+  },
+  {
+    "ID": "TR_c26987c2",
+    "parent": "aprotic solvent",
+    "child": "polar aprotic solvent"
+  },
+  {
+    "ID": "TR_176d6304",
+    "parent": "lepton",
+    "child": "electron"
+  },
+  {
+    "ID": "TR_2e79b973",
+    "parent": "material entity",
+    "child": "AFE_0000354"
+  },
+  {
+    "ID": "TR_d652dd45",
+    "parent": "surfactant",
+    "child": "nonionic surfactant"
+  },
+  {
+    "ID": "TR_9abd6abe",
+    "parent": "organic molecular entity",
+    "child": "organic acid"
+  },
+  {
+    "ID": "TR_60c21267",
+    "parent": "plan specification",
+    "child": "study design"
+  },
+  {
+    "ID": "TR_6bff0ff5",
+    "parent": "identifier",
+    "child": "centrally registered identifier"
+  },
+  {
+    "ID": "TR_6dd2aeec",
+    "parent": "point group symmetry",
+    "child": "hexagonal-pyrimidal"
+  },
+  {
+    "ID": "TR_eaaa4542",
+    "parent": "crystal growth method",
+    "child": "Verneuil process"
+  },
+  {
+    "ID": "TR_1493922f",
+    "parent": "process",
+    "child": "explosion"
+  },
+  {
+    "ID": "TR_7bc12c41",
+    "parent": "filtration",
+    "child": "reverse osmosis"
+  },
+  {
+    "ID": "TR_b7951d6c",
+    "parent": "baryon",
+    "child": "nucleon"
+  },
+  {
+    "ID": "TR_fde78537",
+    "parent": "organonitrogen compound",
+    "child": "cyanides"
+  },
+  {
+    "ID": "TR_a2b16b51",
+    "parent": "ball milling",
+    "child": "high-speed ball milling"
+  },
+  {
+    "ID": "TR_bec2b12e",
+    "parent": "surfactant",
+    "child": "bolaamphiphile"
+  },
+  {
+    "ID": "TR_23d1d633",
+    "parent": "chemical role",
+    "child": "film-forming compound"
+  },
+  {
+    "ID": "TR_53bd21b1",
+    "parent": "information content entity",
+    "child": "identifier"
+  },
+  {
+    "ID": "TR_7b8c7c01",
+    "parent": "ketone body",
+    "child": "acetone"
+  },
+  {
+    "ID": "TR_c13173c1",
+    "parent": "organic cyclic compound",
+    "child": "organic heterocyclic compound"
+  },
+  {
+    "ID": "TR_300db64a",
+    "parent": "monocarboxylic acid amide",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_3f89f69e",
+    "parent": "distillation",
+    "child": "fractional distillation"
+  },
+  {
+    "ID": "TR_72fd49e7",
+    "parent": "AFRL_0000364",
+    "child": "AFRL_0000426"
+  },
+  {
+    "ID": "TR_f4e20618",
+    "parent": "organic anion",
+    "child": "carboxylic acid anion"
+  },
+  {
+    "ID": "TR_b674a1fb",
+    "parent": "kinetic constant",
+    "child": "half-life"
+  },
+  {
+    "ID": "TR_a478fb9a",
+    "parent": "anion",
+    "child": "polyatomic anion"
+  },
+  {
+    "ID": "TR_bc78e2ce",
+    "parent": "enzymatic amplification",
+    "child": "polymerase chain reaction"
+  },
+  {
+    "ID": "TR_b85fdfb4",
+    "parent": "organic anion",
+    "child": "methoxide"
+  },
+  {
+    "ID": "TR_250542a4",
+    "parent": "scalar measurement datum",
+    "child": "rate measurement datum"
+  },
+  {
+    "ID": "TR_ce3e20f8",
+    "parent": "nitrogen hydride",
+    "child": "ammonium"
+  },
+  {
+    "ID": "TR_0bbbe386",
+    "parent": "material processing",
+    "child": "deionisation method"
+  },
+  {
+    "ID": "TR_a53d0a53",
+    "parent": "synthetic chemical process",
+    "child": "GLP synthetic process"
+  },
+  {
+    "ID": "TR_785d9713",
+    "parent": "chemical entity",
+    "child": "polymer"
+  },
+  {
+    "ID": "TR_a6c73c37",
+    "parent": "point group symmetry",
+    "child": "tetragonal-dipyramidal"
+  },
+  {
+    "ID": "TR_6d12c0ed",
+    "parent": "atom",
+    "child": "s-block element atom"
+  },
+  {
+    "ID": "TR_65aa0de2",
+    "parent": "organic aromatic compound",
+    "child": "arene"
+  },
+  {
+    "ID": "TR_4352d742",
+    "parent": "entity",
+    "child": "continuant"
+  },
+  {
+    "ID": "TR_d9846781",
+    "parent": "kinetic order",
+    "child": "overall reaction order"
+  },
+  {
+    "ID": "TR_cf83c27f",
+    "parent": "carboxylic acid",
+    "child": "amino acid"
+  },
+  {
+    "ID": "TR_2265c82a",
+    "parent": "organooxygen compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "ID": "TR_31380fd7",
+    "parent": "planned process",
+    "child": "drawing a conclusion based on data"
+  },
+  {
+    "ID": "TR_1174ff86",
+    "parent": "point group symmetry",
+    "child": "tetragonal-disphenoidal"
+  },
+  {
+    "ID": "TR_1a04a5e9",
+    "parent": "organic molecular entity",
+    "child": "organic molecule"
+  },
+  {
+    "ID": "TR_b5dd1c54",
+    "parent": "inorganic group",
+    "child": "oxo group"
+  },
+  {
+    "ID": "TR_338e4bf7",
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_966d7dc7",
+    "parent": "quality process profile",
+    "child": "material flow profile in synthesis process"
+  },
+  {
+    "ID": "TR_3fceab1a",
+    "parent": "monocarboxylic acid",
+    "child": "fatty acid"
+  },
+  {
+    "ID": "TR_b138aa99",
+    "parent": "oxacycle",
+    "child": "oxolanes"
+  },
+  {
+    "ID": "TR_55b568df",
+    "parent": "chemical role",
+    "child": "precipitate role"
+  },
+  {
+    "ID": "TR_307137a3",
+    "parent": "temporal measure",
+    "child": "half-life"
+  },
+  {
+    "ID": "TR_351c9460",
+    "parent": "material processing",
+    "child": "fermentation"
+  },
+  {
+    "ID": "TR_c6fee59e",
+    "parent": "primary alcohol",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_6ca5a399",
+    "parent": "enzyme inhibitor",
+    "child": "EC 1.* (oxidoreductase) inhibitor"
+  },
+  {
+    "ID": "TR_874e48c4",
+    "parent": "volatile organic compound",
+    "child": "oxolane"
+  },
+  {
+    "ID": "TR_e5c4f787",
+    "parent": "carbocyclic compound",
+    "child": "benzenoid aromatic compound"
+  },
+  {
+    "ID": "TR_0aef28f7",
+    "parent": "unit operation in chemical processing",
+    "child": "sample drying"
+  },
+  {
+    "ID": "TR_1d3afa9f",
+    "parent": "one-carbon compound",
+    "child": "formamide"
+  },
+  {
+    "ID": "TR_a123fba4",
+    "parent": "one-carbon compound",
+    "child": "carbamic acid"
+  },
+  {
+    "ID": "TR_a1697f87",
+    "parent": "directive information entity",
+    "child": "ICH Guideline"
+  },
+  {
+    "ID": "TR_e95712b8",
+    "parent": "objective specification",
+    "child": "purification objective"
+  },
+  {
+    "ID": "TR_88ce6394",
+    "parent": "azane",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_e5019119",
+    "parent": "application",
+    "child": "pharmaceutical"
+  },
+  {
+    "ID": "TR_a5fdcf43",
+    "parent": "solvent extraction",
+    "child": "supercritical fluid extraction"
+  },
+  {
+    "ID": "TR_23cdb3a1",
+    "parent": "crystalline solid",
+    "child": "concomitant polymorphs"
+  },
+  {
+    "ID": "TR_3ab5d289",
+    "parent": "role",
+    "child": "AFRL_0000167"
+  },
+  {
+    "ID": "TR_09a24d96",
+    "parent": "AFM_0001034",
+    "child": "eutectic"
+  },
+  {
+    "ID": "TR_cfba1009",
+    "parent": "subatomic particle",
+    "child": "fundamental particle"
+  },
+  {
+    "ID": "TR_dd0274a7",
+    "parent": "carboximidic acid",
+    "child": "formimidic acid"
+  },
+  {
+    "ID": "TR_8609d54d",
+    "parent": "evaporation",
+    "child": "solvent evaporation"
+  },
+  {
+    "ID": "TR_7af6e02e",
+    "parent": "process",
+    "child": "process profile"
+  },
+  {
+    "ID": "TR_709624f2",
+    "parent": "data set",
+    "child": "data set of predicted values according to fitted curve"
+  },
+  {
+    "ID": "TR_575a0bb4",
+    "parent": "gas molecular entity",
+    "child": "ammonia"
+  },
+  {
+    "ID": "TR_8c10f0f9",
+    "parent": "unit operation in chemical processing",
+    "child": "degassing"
+  },
+  {
+    "ID": "TR_e7fd1b45",
+    "parent": "volatile organic compound",
+    "child": "methanol"
+  },
+  {
+    "ID": "TR_7f1b0067",
+    "parent": "AFQ_0000250",
+    "child": "crystalline state"
+  },
+  {
+    "ID": "TR_be1662be",
+    "parent": "integral kinetic measurement",
+    "child": "method of flooding"
+  },
+  {
+    "ID": "TR_f2cc6892",
+    "parent": "ether",
+    "child": "cyclic ether"
+  },
+  {
+    "ID": "TR_abd11548",
+    "parent": "point group symmetry",
+    "child": "pedial"
+  },
+  {
+    "ID": "TR_67ca00e9",
+    "parent": "deoxyribonucleic acid",
+    "child": "amplified DNA"
+  },
+  {
+    "ID": "TR_8b628ee8",
+    "parent": "cholinergic drug",
+    "child": "cholinergic antagonist"
+  },
+  {
+    "ID": "TR_105b31a9",
+    "parent": "distillation",
+    "child": "batch distillation"
+  },
+  {
+    "ID": "TR_4f7a7e1d",
+    "parent": "monocarboxylic acid",
+    "child": "formic acid"
+  },
+  {
+    "ID": "TR_60cf641f",
+    "parent": "data item",
+    "child": "data set"
+  },
+  {
+    "ID": "TR_eb8997ac",
+    "parent": "antioxidant",
+    "child": "food antioxidant"
+  }
+]

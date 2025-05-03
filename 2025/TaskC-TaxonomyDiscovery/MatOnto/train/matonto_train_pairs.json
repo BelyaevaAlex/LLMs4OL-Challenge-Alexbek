@@ -1,0 +1,4202 @@
+[
+  {
+    "ID": "TR_7e0265b4",
+    "parent": "measured property",
+    "child": "area"
+  },
+  {
+    "ID": "TR_75953334",
+    "parent": "element",
+    "child": "Lanthanum"
+  },
+  {
+    "ID": "TR_ffd73cfe",
+    "parent": "measured property",
+    "child": "molecular mass"
+  },
+  {
+    "ID": "TR_8f425977",
+    "parent": "measured property",
+    "child": "frequency"
+  },
+  {
+    "ID": "TR_69a9e06b",
+    "parent": "element",
+    "child": "Europium"
+  },
+  {
+    "ID": "TR_a7a4a682",
+    "parent": "unit",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "ID": "TR_8a6b8f2c",
+    "parent": "electromagnetic radiation unit",
+    "child": "irradiance unit"
+  },
+  {
+    "ID": "TR_db854ee2",
+    "parent": "measured property",
+    "child": "molar energy"
+  },
+  {
+    "ID": "TR_1a0f4259",
+    "parent": "scaled unit",
+    "child": "exa scaled unit"
+  },
+  {
+    "ID": "TR_47cf1b47",
+    "parent": "chemical substance",
+    "child": "Base"
+  },
+  {
+    "ID": "TR_c4ef0366",
+    "parent": "unit",
+    "child": "molar entropy unit"
+  },
+  {
+    "ID": "TR_ef5bbeee",
+    "parent": "measured property",
+    "child": "potential difference"
+  },
+  {
+    "ID": "TR_9b656693",
+    "parent": "chemical reaction pathway",
+    "child": "ChemicalDegradationPathway"
+  },
+  {
+    "ID": "TR_1d02de85",
+    "parent": "acyl halide group",
+    "child": "acyl chloride group"
+  },
+  {
+    "ID": "TR_0208af8e",
+    "parent": "measured property",
+    "child": "specific volume"
+  },
+  {
+    "ID": "TR_f7fc0ec7",
+    "parent": "density unit",
+    "child": "linear density unit"
+  },
+  {
+    "ID": "TR_76923eaf",
+    "parent": "Product",
+    "child": "precipitate"
+  },
+  {
+    "ID": "TR_70b115b9",
+    "parent": "electromagnetic radation",
+    "child": "radiant intensity"
+  },
+  {
+    "ID": "TR_55f1683a",
+    "parent": "atom",
+    "child": "Cobalt Atom"
+  },
+  {
+    "ID": "TR_96b16c0a",
+    "parent": "non polar addition reaction",
+    "child": "free radical addition"
+  },
+  {
+    "ID": "TR_e6bf9dc0",
+    "parent": "MoleculeComponentCount",
+    "child": "isotopic atom count"
+  },
+  {
+    "ID": "TR_21db65c6",
+    "parent": "organic group",
+    "child": "ketone group"
+  },
+  {
+    "ID": "TR_a972e2e5",
+    "parent": "chemical interaction",
+    "child": "electronic interaction"
+  },
+  {
+    "ID": "TR_8d12992e",
+    "parent": "unit",
+    "child": "specific volume unit"
+  },
+  {
+    "ID": "TR_176dbaa2",
+    "parent": "unit",
+    "child": "molar energy unit"
+  },
+  {
+    "ID": "TR_11929c9f",
+    "parent": "element",
+    "child": "Gold"
+  },
+  {
+    "ID": "TR_d3059e36",
+    "parent": "electromagnetic radiation unit",
+    "child": "luminance unit"
+  },
+  {
+    "ID": "TR_2233b352",
+    "parent": "element",
+    "child": "Einsteinium"
+  },
+  {
+    "ID": "TR_ca2ef83a",
+    "parent": "measured property",
+    "child": "area"
+  },
+  {
+    "ID": "TR_124569a6",
+    "parent": "unit",
+    "child": "dynamic viscosity unit"
+  },
+  {
+    "ID": "TR_7c259f3c",
+    "parent": "concentration unit",
+    "child": "amount of substance concentration unit"
+  },
+  {
+    "ID": "TR_09e29ede",
+    "parent": "continuant",
+    "child": "spatial_region"
+  },
+  {
+    "ID": "TR_b07f887c",
+    "parent": "organic group",
+    "child": "organic phosphate group"
+  },
+  {
+    "ID": "TR_6bd446b7",
+    "parent": "organic group",
+    "child": "carbonyl group"
+  },
+  {
+    "ID": "TR_1abd2cc0",
+    "parent": "measured property",
+    "child": "MolecularQuality"
+  },
+  {
+    "ID": "TR_37bedc39",
+    "parent": "uncommon chemical phase",
+    "child": "ferromagnetic phase"
+  },
+  {
+    "ID": "TR_bcc28576",
+    "parent": "unit",
+    "child": "catalytic activity unit"
+  },
+  {
+    "ID": "TR_ff0224d8",
+    "parent": "measured property",
+    "child": "electric flux density"
+  },
+  {
+    "ID": "TR_b6225bfa",
+    "parent": "polar addition reaction",
+    "child": "nucleophilic addition reaction"
+  },
+  {
+    "ID": "TR_0e3d42f7",
+    "parent": "element",
+    "child": "Phosphorus"
+  },
+  {
+    "ID": "TR_c5313f94",
+    "parent": "unit",
+    "child": "inductance unit"
+  },
+  {
+    "ID": "TR_3ea31711",
+    "parent": "series element",
+    "child": "chalcogen"
+  },
+  {
+    "ID": "TR_7c7fae22",
+    "parent": "atom",
+    "child": "Erbium Atom"
+  },
+  {
+    "ID": "TR_b15e56e8",
+    "parent": "atom",
+    "child": "Palladium Atom"
+  },
+  {
+    "ID": "TR_f0bbee9e",
+    "parent": "element",
+    "child": "Radium"
+  },
+  {
+    "ID": "TR_b70e81b9",
+    "parent": "atom",
+    "child": "Fermium Atom"
+  },
+  {
+    "ID": "TR_f3acd0e5",
+    "parent": "organic group",
+    "child": "carboxylic acid group"
+  },
+  {
+    "ID": "TR_33584871",
+    "parent": "measured property",
+    "child": "electric charge"
+  },
+  {
+    "ID": "TR_9345200d",
+    "parent": "organic compound",
+    "child": "aldehyde"
+  },
+  {
+    "ID": "TR_64b6a6d6",
+    "parent": "measured property",
+    "child": "magnetic field strength"
+  },
+  {
+    "ID": "TR_6ff38cb7",
+    "parent": "uncommon chemical phase",
+    "child": "plasma phase"
+  },
+  {
+    "ID": "TR_0d07e96e",
+    "parent": "intensive property",
+    "child": "flexural modulus"
+  },
+  {
+    "ID": "TR_ccc598cb",
+    "parent": "ring",
+    "child": "homo cyclic ring"
+  },
+  {
+    "ID": "TR_1e6e3d53",
+    "parent": "atom",
+    "child": "Helium Atom"
+  },
+  {
+    "ID": "TR_c82557b4",
+    "parent": "unit",
+    "child": "force unit"
+  },
+  {
+    "ID": "TR_b19869e2",
+    "parent": "element",
+    "child": "Selenium"
+  },
+  {
+    "ID": "TR_1ccfe7ef",
+    "parent": "Temperature Range",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "ID": "TR_5a5062e1",
+    "parent": "measured property",
+    "child": "specific energy"
+  },
+  {
+    "ID": "TR_c2fcdff9",
+    "parent": "density unit",
+    "child": "area density unit"
+  },
+  {
+    "ID": "TR_cbd28543",
+    "parent": "atom property",
+    "child": "implicit valence"
+  },
+  {
+    "ID": "TR_c108fd1f",
+    "parent": "connected_spatiotemporal_region",
+    "child": "spatiotemporal_instant"
+  },
+  {
+    "ID": "TR_e18fbede",
+    "parent": "molecular geometry",
+    "child": "trigonal pyramidal molecular geometry"
+  },
+  {
+    "ID": "TR_18ee4094",
+    "parent": "measured property",
+    "child": "acceleration"
+  },
+  {
+    "ID": "TR_7d7f1bb8",
+    "parent": "measured property",
+    "child": "electric flux density"
+  },
+  {
+    "ID": "TR_fe4b8141",
+    "parent": "carbon group",
+    "child": "methyl group"
+  },
+  {
+    "ID": "TR_e1d34838",
+    "parent": "element",
+    "child": "Lithium"
+  },
+  {
+    "ID": "TR_14cb37af",
+    "parent": "scaled unit",
+    "child": "centi scaled unit"
+  },
+  {
+    "ID": "TR_38e0f97b",
+    "parent": "organic group",
+    "child": "imine group"
+  },
+  {
+    "ID": "TR_4e74f2d3",
+    "parent": "unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "ID": "TR_af67f353",
+    "parent": "intensive property",
+    "child": "flexural modulus"
+  },
+  {
+    "ID": "TR_f677b4cf",
+    "parent": "unit",
+    "child": "volume unit"
+  },
+  {
+    "ID": "TR_7194cb60",
+    "parent": "unit",
+    "child": "wavenumber unit"
+  },
+  {
+    "ID": "TR_a84545ee",
+    "parent": "group element",
+    "child": "group 16 element"
+  },
+  {
+    "ID": "TR_9357e4f8",
+    "parent": "aromaticity",
+    "child": "non aromatic"
+  },
+  {
+    "ID": "TR_3be44ebd",
+    "parent": "measured property",
+    "child": "wavenumber"
+  },
+  {
+    "ID": "TR_fc3581b3",
+    "parent": "unit raised to power",
+    "child": "unit raised to power of negative two"
+  },
+  {
+    "ID": "TR_d826f741",
+    "parent": "unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "ID": "TR_9f2aec2a",
+    "parent": "measured property",
+    "child": "molar energy"
+  },
+  {
+    "ID": "TR_e6ce422f",
+    "parent": "measured property",
+    "child": "catalytic activity"
+  },
+  {
+    "ID": "TR_5d95b686",
+    "parent": "process",
+    "child": "chemical interaction"
+  },
+  {
+    "ID": "TR_a4026b81",
+    "parent": "thermodynamic system",
+    "child": "isolated thermodynamic system"
+  },
+  {
+    "ID": "TR_be9c0805",
+    "parent": "radiation",
+    "child": "absorbed dose"
+  },
+  {
+    "ID": "TR_50d4495e",
+    "parent": "element",
+    "child": "Cerium"
+  },
+  {
+    "ID": "TR_26674ec9",
+    "parent": "atom",
+    "child": "Ununtrium Atom"
+  },
+  {
+    "ID": "TR_ccdadf49",
+    "parent": "element",
+    "child": "Molybdenum"
+  },
+  {
+    "ID": "TR_da56bfba",
+    "parent": "element",
+    "child": "Iron"
+  },
+  {
+    "ID": "TR_744dcfe4",
+    "parent": "series element",
+    "child": "non metal"
+  },
+  {
+    "ID": "TR_ae357f20",
+    "parent": "unit",
+    "child": "permeability unit"
+  },
+  {
+    "ID": "TR_77707d5d",
+    "parent": "unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "ID": "TR_147cc094",
+    "parent": "atom",
+    "child": "Rubidium Atom"
+  },
+  {
+    "ID": "TR_96c14273",
+    "parent": "chemical agent",
+    "child": "reducing agent"
+  },
+  {
+    "ID": "TR_d92cb4dc",
+    "parent": "electromagnetic radation",
+    "child": "illuminance"
+  },
+  {
+    "ID": "TR_e8e9d928",
+    "parent": "MoleculeComponentCount",
+    "child": "hydrogen bond donor count"
+  },
+  {
+    "ID": "TR_ae64a5e1",
+    "parent": "scaled unit",
+    "child": "peta scaled unit"
+  },
+  {
+    "ID": "TR_012b272c",
+    "parent": "chemical conformation",
+    "child": "gauche conformation"
+  },
+  {
+    "ID": "TR_e4138129",
+    "parent": "periodic block",
+    "child": "f-block element"
+  },
+  {
+    "ID": "TR_e22d9fda",
+    "parent": "process",
+    "child": "bond"
+  },
+  {
+    "ID": "TR_b98e2414",
+    "parent": "group element",
+    "child": "group 7 element"
+  },
+  {
+    "ID": "TR_52052abc",
+    "parent": "measured property",
+    "child": "permittivity"
+  },
+  {
+    "ID": "TR_bb1fdf8c",
+    "parent": "process",
+    "child": "chemical reaction"
+  },
+  {
+    "ID": "TR_e7d53444",
+    "parent": "measured property",
+    "child": "catalytic activity"
+  },
+  {
+    "ID": "TR_60b0171e",
+    "parent": "conduction unit",
+    "child": "thermal conduction unit"
+  },
+  {
+    "ID": "TR_e861f69f",
+    "parent": "Solution",
+    "child": "racemic mixture"
+  },
+  {
+    "ID": "TR_97329816",
+    "parent": "radiation unit",
+    "child": "radioactivity activity"
+  },
+  {
+    "ID": "TR_0b9d2bf4",
+    "parent": "element",
+    "child": "Cadmium"
+  },
+  {
+    "ID": "TR_6095cc39",
+    "parent": "radiation unit",
+    "child": "dose equivalent unit"
+  },
+  {
+    "ID": "TR_29b742c4",
+    "parent": "measured property",
+    "child": "radiation"
+  },
+  {
+    "ID": "TR_98113dae",
+    "parent": "measured property",
+    "child": "inductance"
+  },
+  {
+    "ID": "TR_008fca7f",
+    "parent": "element",
+    "child": "Curium"
+  },
+  {
+    "ID": "TR_336290ea",
+    "parent": "organic group",
+    "child": "sulfoxide group"
+  },
+  {
+    "ID": "TR_94bcbec6",
+    "parent": "material quality",
+    "child": "Structure Type"
+  },
+  {
+    "ID": "TR_ef9e8fc4",
+    "parent": "element",
+    "child": "Ununnilium"
+  },
+  {
+    "ID": "TR_cf917fe2",
+    "parent": "Temperature Range",
+    "child": "Temperature Range Lower Bound"
+  },
+  {
+    "ID": "TR_56b97e0d",
+    "parent": "inorganic reaction",
+    "child": "decomposition reaction"
+  },
+  {
+    "ID": "TR_324017c7",
+    "parent": "atom",
+    "child": "Thallium Atom"
+  },
+  {
+    "ID": "TR_94c61dfc",
+    "parent": "group element",
+    "child": "group 4 element"
+  },
+  {
+    "ID": "TR_4fd7319c",
+    "parent": "element",
+    "child": "Californium"
+  },
+  {
+    "ID": "TR_152573bc",
+    "parent": "unit",
+    "child": "specific energy unit"
+  },
+  {
+    "ID": "TR_00e3a514",
+    "parent": "unit",
+    "child": "potential difference unit"
+  },
+  {
+    "ID": "TR_1731c859",
+    "parent": "unit",
+    "child": "conduction unit"
+  },
+  {
+    "ID": "TR_ed042410",
+    "parent": "electromagnetic radation",
+    "child": "luminous intensity"
+  },
+  {
+    "ID": "TR_ae0664ca",
+    "parent": "measured property",
+    "child": "time"
+  },
+  {
+    "ID": "TR_c844665d",
+    "parent": "radiation",
+    "child": "absorbed dose"
+  },
+  {
+    "ID": "TR_3ae80e58",
+    "parent": "chemical interaction",
+    "child": "electrostatic interaction"
+  },
+  {
+    "ID": "TR_a0a6b857",
+    "parent": "concentration unit",
+    "child": "amount of substance concentration unit"
+  },
+  {
+    "ID": "TR_7b4d7d5b",
+    "parent": "measured property",
+    "child": "specific entropy"
+  },
+  {
+    "ID": "TR_29e67949",
+    "parent": "unit",
+    "child": "conduction unit"
+  },
+  {
+    "ID": "TR_0bd6f97e",
+    "parent": "measured property",
+    "child": "length"
+  },
+  {
+    "ID": "TR_eb567948",
+    "parent": "measured property",
+    "child": "density"
+  },
+  {
+    "ID": "TR_a507ebc3",
+    "parent": "compound",
+    "child": "molecule"
+  },
+  {
+    "ID": "TR_07a07668",
+    "parent": "chemical interaction",
+    "child": "bond"
+  },
+  {
+    "ID": "TR_3e087880",
+    "parent": "process",
+    "child": "bond"
+  },
+  {
+    "ID": "TR_f5f32f80",
+    "parent": "atom",
+    "child": "Iridium Atom"
+  },
+  {
+    "ID": "TR_6cbc990f",
+    "parent": "atom",
+    "child": "Hydrogen Atom"
+  },
+  {
+    "ID": "TR_5cb8ea71",
+    "parent": "radiation unit",
+    "child": "absorbed dose unit"
+  },
+  {
+    "ID": "TR_022ccae6",
+    "parent": "energy",
+    "child": "Helmholtz free energy"
+  },
+  {
+    "ID": "TR_3ebd37bb",
+    "parent": "covalent bond",
+    "child": "disulfide bond"
+  },
+  {
+    "ID": "TR_ab63b6f6",
+    "parent": "radiation unit",
+    "child": "dose equivalent unit"
+  },
+  {
+    "ID": "TR_a6bf8a20",
+    "parent": "density unit",
+    "child": "area density unit"
+  },
+  {
+    "ID": "TR_4499172a",
+    "parent": "element",
+    "child": "Ruthenium"
+  },
+  {
+    "ID": "TR_abb8e2eb",
+    "parent": "DerivedUnit",
+    "child": "shifted unit"
+  },
+  {
+    "ID": "TR_86e432e1",
+    "parent": "measured property",
+    "child": "velocity"
+  },
+  {
+    "ID": "TR_bcbcf703",
+    "parent": "unit",
+    "child": "enthalpy unit"
+  },
+  {
+    "ID": "TR_54b122c3",
+    "parent": "unit",
+    "child": "power unit"
+  },
+  {
+    "ID": "TR_5296c000",
+    "parent": "measured property",
+    "child": "band gap"
+  },
+  {
+    "ID": "TR_e9115a1b",
+    "parent": "atom",
+    "child": "Manganese Atom"
+  },
+  {
+    "ID": "TR_59ca8e47",
+    "parent": "measured property",
+    "child": "time"
+  },
+  {
+    "ID": "TR_bac56bb5",
+    "parent": "compound",
+    "child": "radical"
+  },
+  {
+    "ID": "TR_09d8312b",
+    "parent": "D or L isomer",
+    "child": "D isomer"
+  },
+  {
+    "ID": "TR_caeb7b0e",
+    "parent": "measured property",
+    "child": "surface tension"
+  },
+  {
+    "ID": "TR_1427b946",
+    "parent": "unit",
+    "child": "capacitance unit"
+  },
+  {
+    "ID": "TR_833109a1",
+    "parent": "atom",
+    "child": "Gallium Atom"
+  },
+  {
+    "ID": "TR_a6c66ba9",
+    "parent": "Concentration",
+    "child": "amount of substance concentration"
+  },
+  {
+    "ID": "TR_906ded37",
+    "parent": "atom",
+    "child": "Americium Atom"
+  },
+  {
+    "ID": "TR_d994d018",
+    "parent": "period element",
+    "child": "period 4 element"
+  },
+  {
+    "ID": "TR_1cb83b94",
+    "parent": "Ion",
+    "child": "anion"
+  },
+  {
+    "ID": "TR_e4d1e330",
+    "parent": "MolecularQuality",
+    "child": "molecular mass"
+  },
+  {
+    "ID": "TR_08cda7e4",
+    "parent": "unit",
+    "child": "electric flux density unit"
+  },
+  {
+    "ID": "TR_3fcb6b9f",
+    "parent": "organic compound",
+    "child": "ketone"
+  },
+  {
+    "ID": "TR_b56509a0",
+    "parent": "uncommon chemical phase",
+    "child": "super solid phase"
+  },
+  {
+    "ID": "TR_09531cb5",
+    "parent": "measured property",
+    "child": "partition coefficient"
+  },
+  {
+    "ID": "TR_d9c61847",
+    "parent": "series element",
+    "child": "halogen"
+  },
+  {
+    "ID": "TR_c0b85cf4",
+    "parent": "Concentration",
+    "child": "pH"
+  },
+  {
+    "ID": "TR_e2b6bb11",
+    "parent": "Temperature Range",
+    "child": "Temperature Range Lower Bound"
+  },
+  {
+    "ID": "TR_218d2195",
+    "parent": "measured property",
+    "child": "Melting Point"
+  },
+  {
+    "ID": "TR_6e082afe",
+    "parent": "material category",
+    "child": "glasses"
+  },
+  {
+    "ID": "TR_50a84835",
+    "parent": "measured property",
+    "child": "specific volume"
+  },
+  {
+    "ID": "TR_574caf4d",
+    "parent": "element",
+    "child": "Sodium"
+  },
+  {
+    "ID": "TR_f564c127",
+    "parent": "unit",
+    "child": "mass unit"
+  },
+  {
+    "ID": "TR_54643381",
+    "parent": "radiation",
+    "child": "radioactivity activity"
+  },
+  {
+    "ID": "TR_b6429e8d",
+    "parent": "radiation",
+    "child": "absorbed dose rate"
+  },
+  {
+    "ID": "TR_deade759",
+    "parent": "density unit",
+    "child": "volume density unit"
+  },
+  {
+    "ID": "TR_2a28d074",
+    "parent": "measured property",
+    "child": "Hardness"
+  },
+  {
+    "ID": "TR_b765ee82",
+    "parent": "atom",
+    "child": "Iron Atom"
+  },
+  {
+    "ID": "TR_163c2515",
+    "parent": "unit",
+    "child": "energy density unit"
+  },
+  {
+    "ID": "TR_9c00abba",
+    "parent": "element",
+    "child": "Ununoctium"
+  },
+  {
+    "ID": "TR_211145a9",
+    "parent": "density",
+    "child": "area density"
+  },
+  {
+    "ID": "TR_ed127f98",
+    "parent": "atom",
+    "child": "Mercury Atom"
+  },
+  {
+    "ID": "TR_f89d8d97",
+    "parent": "angle",
+    "child": "solid angle"
+  },
+  {
+    "ID": "TR_f684d932",
+    "parent": "material category",
+    "child": "composites"
+  },
+  {
+    "ID": "TR_b16a9210",
+    "parent": "atom",
+    "child": "Ununnilium Atom"
+  },
+  {
+    "ID": "TR_52cacb71",
+    "parent": "homogeneous mixture",
+    "child": "Solution"
+  },
+  {
+    "ID": "TR_82a2ccfb",
+    "parent": "organic compound",
+    "child": "organic sulfur compound"
+  },
+  {
+    "ID": "TR_c4a13b01",
+    "parent": "measured property",
+    "child": "enthalpy"
+  },
+  {
+    "ID": "TR_5d2ad941",
+    "parent": "measured property",
+    "child": "wavenumber"
+  },
+  {
+    "ID": "TR_24d8196e",
+    "parent": "group element",
+    "child": "boron group element"
+  },
+  {
+    "ID": "TR_06894603",
+    "parent": "Concentration",
+    "child": "catalytic concentration"
+  },
+  {
+    "ID": "TR_fe63537e",
+    "parent": "occurrent",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "ID": "TR_b007a312",
+    "parent": "measured property",
+    "child": "fracture toughness"
+  },
+  {
+    "ID": "TR_66eed1b7",
+    "parent": "organic group",
+    "child": "organic nitrogen group"
+  },
+  {
+    "ID": "TR_e83f8e73",
+    "parent": "conduction unit",
+    "child": "electric conduction unit"
+  },
+  {
+    "ID": "TR_de8b35dd",
+    "parent": "element",
+    "child": "Promethium"
+  },
+  {
+    "ID": "TR_73d16e8a",
+    "parent": "element",
+    "child": "Holmium"
+  },
+  {
+    "ID": "TR_2dce5734",
+    "parent": "group element",
+    "child": "group 14 element"
+  },
+  {
+    "ID": "TR_34a36c21",
+    "parent": "entity",
+    "child": "occurrent"
+  },
+  {
+    "ID": "TR_939d04c6",
+    "parent": "radiation unit",
+    "child": "absorbed dose rate unit"
+  },
+  {
+    "ID": "TR_2ce11561",
+    "parent": "unit",
+    "child": "force unit"
+  },
+  {
+    "ID": "TR_91c29210",
+    "parent": "molecular center",
+    "child": "radical center"
+  },
+  {
+    "ID": "TR_4f52b3c2",
+    "parent": "measured property",
+    "child": "angular acceleration"
+  },
+  {
+    "ID": "TR_4f49216e",
+    "parent": "chemical quality",
+    "child": "electric charge"
+  },
+  {
+    "ID": "TR_c900e6a6",
+    "parent": "organic compound",
+    "child": "acyl compound"
+  },
+  {
+    "ID": "TR_f2434d2d",
+    "parent": "polar bond",
+    "child": "hydrogen bond"
+  },
+  {
+    "ID": "TR_336d543a",
+    "parent": "object",
+    "child": "molecule"
+  },
+  {
+    "ID": "TR_9f09090d",
+    "parent": "chemical reaction",
+    "child": "catalyzed reaction"
+  },
+  {
+    "ID": "TR_31a17136",
+    "parent": "unit raised to power",
+    "child": "unit raised to power of negative three"
+  },
+  {
+    "ID": "TR_daa5096a",
+    "parent": "atom",
+    "child": "HalogenAtom"
+  },
+  {
+    "ID": "TR_b7a55570",
+    "parent": "organic compound",
+    "child": "carbonyl compound"
+  },
+  {
+    "ID": "TR_d1f696b0",
+    "parent": "electromagnetic radation",
+    "child": "luminance"
+  },
+  {
+    "ID": "TR_11d75bf4",
+    "parent": "quality",
+    "child": "atom property"
+  },
+  {
+    "ID": "TR_5344e15e",
+    "parent": "concentration unit",
+    "child": "parts per notation"
+  },
+  {
+    "ID": "TR_4a4885ab",
+    "parent": "chemical substance",
+    "child": "acid"
+  },
+  {
+    "ID": "TR_f2abcdd3",
+    "parent": "measured property",
+    "child": "volume"
+  },
+  {
+    "ID": "TR_a97d0e8e",
+    "parent": "material category",
+    "child": "polymers"
+  },
+  {
+    "ID": "TR_d1dd262e",
+    "parent": "concentration unit",
+    "child": "molality unit"
+  },
+  {
+    "ID": "TR_8efe8720",
+    "parent": "unit",
+    "child": "power unit"
+  },
+  {
+    "ID": "TR_676d7a29",
+    "parent": "concentration unit",
+    "child": "amount of substance concentration unit"
+  },
+  {
+    "ID": "TR_fbb816bb",
+    "parent": "unit",
+    "child": "surface tension unit"
+  },
+  {
+    "ID": "TR_9bad705a",
+    "parent": "chemical phase",
+    "child": "uncommon chemical phase"
+  },
+  {
+    "ID": "TR_0793068d",
+    "parent": "atom",
+    "child": "Astatine Atom"
+  },
+  {
+    "ID": "TR_2f38ed0d",
+    "parent": "group element",
+    "child": "nitrogen group element"
+  },
+  {
+    "ID": "TR_51846758",
+    "parent": "atom",
+    "child": "Unununium Atom"
+  },
+  {
+    "ID": "TR_f740efb8",
+    "parent": "identifier",
+    "child": "molecular formula"
+  },
+  {
+    "ID": "TR_585440e0",
+    "parent": "atom",
+    "child": "Ununquadium Atom"
+  },
+  {
+    "ID": "TR_54c47cf3",
+    "parent": "scaled unit",
+    "child": "hecto scaled unit"
+  },
+  {
+    "ID": "TR_a17fb2ec",
+    "parent": "element",
+    "child": "Osmium"
+  },
+  {
+    "ID": "TR_e00000fe",
+    "parent": "element",
+    "child": "Ununbium"
+  },
+  {
+    "ID": "TR_7176f37d",
+    "parent": "Solution",
+    "child": "Alloy"
+  },
+  {
+    "ID": "TR_fb33af32",
+    "parent": "element",
+    "child": "Radon"
+  },
+  {
+    "ID": "TR_23d1bb07",
+    "parent": "conduction unit",
+    "child": "thermal conduction unit"
+  },
+  {
+    "ID": "TR_de2eb93b",
+    "parent": "atom",
+    "child": "Rhenium Atom"
+  },
+  {
+    "ID": "TR_addc8428",
+    "parent": "measured property",
+    "child": "velocity"
+  },
+  {
+    "ID": "TR_6d36c38c",
+    "parent": "electronic interaction",
+    "child": "dipole-dipole interaction"
+  },
+  {
+    "ID": "TR_2876287e",
+    "parent": "measured property",
+    "child": "elastic modulus"
+  },
+  {
+    "ID": "TR_0ef3e782",
+    "parent": "atom",
+    "child": "Krypton Atom"
+  },
+  {
+    "ID": "TR_e80b0c36",
+    "parent": "unit",
+    "child": "permittivity unit"
+  },
+  {
+    "ID": "TR_d81893a8",
+    "parent": "period element",
+    "child": "period 7 element"
+  },
+  {
+    "ID": "TR_82af7670",
+    "parent": "organic compound",
+    "child": "amine"
+  },
+  {
+    "ID": "TR_7a24c412",
+    "parent": "unit",
+    "child": "area unit"
+  },
+  {
+    "ID": "TR_6b510725",
+    "parent": "Concentration",
+    "child": "pH"
+  },
+  {
+    "ID": "TR_f9b6f99a",
+    "parent": "intensive property",
+    "child": "specific heat"
+  },
+  {
+    "ID": "TR_afa6b58a",
+    "parent": "object",
+    "child": "organic group"
+  },
+  {
+    "ID": "TR_442a1d9c",
+    "parent": "measured property",
+    "child": "molar entropy"
+  },
+  {
+    "ID": "TR_bb116d62",
+    "parent": "radiation",
+    "child": "absorbed dose rate"
+  },
+  {
+    "ID": "TR_4ef90662",
+    "parent": "measured property",
+    "child": "radiation"
+  },
+  {
+    "ID": "TR_22f7a9c9",
+    "parent": "unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "ID": "TR_14319936",
+    "parent": "element",
+    "child": "Boron"
+  },
+  {
+    "ID": "TR_daabff3b",
+    "parent": "scaled unit",
+    "child": "deci scaled unit"
+  },
+  {
+    "ID": "TR_7133fe87",
+    "parent": "element",
+    "child": "Hafnium"
+  },
+  {
+    "ID": "TR_5760a148",
+    "parent": "unit raised to power",
+    "child": "unit raised to power of two"
+  },
+  {
+    "ID": "TR_c703274c",
+    "parent": "atom",
+    "child": "Ununbium Atom"
+  },
+  {
+    "ID": "TR_98d083c6",
+    "parent": "atom property",
+    "child": "hybridization"
+  },
+  {
+    "ID": "TR_979c4552",
+    "parent": "electromagnetic radation",
+    "child": "radiant intensity"
+  },
+  {
+    "ID": "TR_93639134",
+    "parent": "atom",
+    "child": "Thulium Atom"
+  },
+  {
+    "ID": "TR_5e60255a",
+    "parent": "element",
+    "child": "Lead"
+  },
+  {
+    "ID": "TR_3e835141",
+    "parent": "electromagnetic radation",
+    "child": "luminous flux"
+  },
+  {
+    "ID": "TR_bcc97948",
+    "parent": "thermodynamic system",
+    "child": "closed thermodynamic system"
+  },
+  {
+    "ID": "TR_23f439fa",
+    "parent": "measured property",
+    "child": "capacitance"
+  },
+  {
+    "ID": "TR_21e3e962",
+    "parent": "cyclicity",
+    "child": "cyclic"
+  },
+  {
+    "ID": "TR_c3fc4da5",
+    "parent": "Hardness Range",
+    "child": "Hardness Range Lower Bound"
+  },
+  {
+    "ID": "TR_9928f4a5",
+    "parent": "diastereomer",
+    "child": "conformer"
+  },
+  {
+    "ID": "TR_40107e9b",
+    "parent": "space group property",
+    "child": "space group number"
+  },
+  {
+    "ID": "TR_3b2004be",
+    "parent": "group element",
+    "child": "group 1 element"
+  },
+  {
+    "ID": "TR_42a0687b",
+    "parent": "polymers",
+    "child": "elastomers"
+  },
+  {
+    "ID": "TR_51476535",
+    "parent": "acyl halide",
+    "child": "acyl chloride"
+  },
+  {
+    "ID": "TR_a055e35b",
+    "parent": "electromagnetic radation",
+    "child": "illuminance"
+  },
+  {
+    "ID": "TR_022aab66",
+    "parent": "R or S isomer",
+    "child": "S isomer"
+  },
+  {
+    "ID": "TR_e44a697f",
+    "parent": "atom",
+    "child": "Tellurium Atom"
+  },
+  {
+    "ID": "TR_f48c3ea3",
+    "parent": "measured property",
+    "child": "surface tension"
+  },
+  {
+    "ID": "TR_d6888f02",
+    "parent": "measured property",
+    "child": "mass"
+  },
+  {
+    "ID": "TR_2faa958a",
+    "parent": "Concentration",
+    "child": "parts per notation"
+  },
+  {
+    "ID": "TR_4cd2799e",
+    "parent": "measured property",
+    "child": "Stress"
+  },
+  {
+    "ID": "TR_3b38e4eb",
+    "parent": "chemical substance",
+    "child": "compound"
+  },
+  {
+    "ID": "TR_feece693",
+    "parent": "density",
+    "child": "linear density"
+  },
+  {
+    "ID": "TR_a9b6a505",
+    "parent": "unit",
+    "child": "specific volume unit"
+  },
+  {
+    "ID": "TR_75dabc12",
+    "parent": "unit",
+    "child": "molar mass unit"
+  },
+  {
+    "ID": "TR_17a83963",
+    "parent": "electromagnetic radiation unit",
+    "child": "radiance unit"
+  },
+  {
+    "ID": "TR_c9c2e406",
+    "parent": "electromagnetic radation",
+    "child": "irradiance"
+  },
+  {
+    "ID": "TR_a8f7bcbc",
+    "parent": "measured property",
+    "child": "flexural strength"
+  },
+  {
+    "ID": "TR_b9d66ebc",
+    "parent": "measured property",
+    "child": "electric resistance"
+  },
+  {
+    "ID": "TR_07505990",
+    "parent": "unit",
+    "child": "energy unit"
+  },
+  {
+    "ID": "TR_afb89920",
+    "parent": "measured property",
+    "child": "electric current density"
+  },
+  {
+    "ID": "TR_e41fbdfe",
+    "parent": "organic group",
+    "child": "tertiary amine group"
+  },
+  {
+    "ID": "TR_198c763f",
+    "parent": "measured property",
+    "child": "partition coefficient"
+  },
+  {
+    "ID": "TR_828e5046",
+    "parent": "unit",
+    "child": "molar entropy unit"
+  },
+  {
+    "ID": "TR_97ea0495",
+    "parent": "density",
+    "child": "mass density"
+  },
+  {
+    "ID": "TR_ec63a23e",
+    "parent": "atom",
+    "child": "Selenium Atom"
+  },
+  {
+    "ID": "TR_472f6047",
+    "parent": "atom",
+    "child": "Polonium Atom"
+  },
+  {
+    "ID": "TR_ee8a3306",
+    "parent": "measured property",
+    "child": "angular velocity"
+  },
+  {
+    "ID": "TR_c4be39ec",
+    "parent": "scaled unit",
+    "child": "kilo scaled unit"
+  },
+  {
+    "ID": "TR_b6bee2c7",
+    "parent": "inorganic reaction",
+    "child": "synthesis reaction"
+  },
+  {
+    "ID": "TR_ebcd3ba1",
+    "parent": "electronic interaction",
+    "child": "cation pi interaction"
+  },
+  {
+    "ID": "TR_699a0d78",
+    "parent": "conduction",
+    "child": "thermal conduction"
+  },
+  {
+    "ID": "TR_431ff37b",
+    "parent": "element",
+    "child": "Rutherfordium"
+  },
+  {
+    "ID": "TR_3fc371e6",
+    "parent": "conduction",
+    "child": "thermal conduction"
+  },
+  {
+    "ID": "TR_9369522e",
+    "parent": "measured property",
+    "child": "permittivity"
+  },
+  {
+    "ID": "TR_22c7ad4c",
+    "parent": "element",
+    "child": "Tin"
+  },
+  {
+    "ID": "TR_5a9f498a",
+    "parent": "atom",
+    "child": "Lithium Atom"
+  },
+  {
+    "ID": "TR_560b30f9",
+    "parent": "unit",
+    "child": "acceleration unit"
+  },
+  {
+    "ID": "TR_44646a59",
+    "parent": "chemical interaction",
+    "child": "intermolecular interaction"
+  },
+  {
+    "ID": "TR_d71822f3",
+    "parent": "addition reaction",
+    "child": "polar addition reaction"
+  },
+  {
+    "ID": "TR_6562e51c",
+    "parent": "atom",
+    "child": "Holmium Atom"
+  },
+  {
+    "ID": "TR_afd9e830",
+    "parent": "element",
+    "child": "Uranium"
+  },
+  {
+    "ID": "TR_a432c30c",
+    "parent": "Reagent",
+    "child": "Product"
+  },
+  {
+    "ID": "TR_1a722e71",
+    "parent": "Chemical Formula",
+    "child": "Molecular Formula"
+  },
+  {
+    "ID": "TR_f5baa9d5",
+    "parent": "measured property",
+    "child": "ultimate tensile strength"
+  },
+  {
+    "ID": "TR_7d79d6c3",
+    "parent": "group element",
+    "child": "group 15 element"
+  },
+  {
+    "ID": "TR_b45ea30d",
+    "parent": "unit",
+    "child": "density unit"
+  },
+  {
+    "ID": "TR_cb083862",
+    "parent": "concentration unit",
+    "child": "pH unit"
+  },
+  {
+    "ID": "TR_0335b6b5",
+    "parent": "measured property",
+    "child": "moment of force"
+  },
+  {
+    "ID": "TR_f815bf88",
+    "parent": "chemical reaction",
+    "child": "acid-base reaction"
+  },
+  {
+    "ID": "TR_eead9dd9",
+    "parent": "connected_temporal_region",
+    "child": "temporal_interval"
+  },
+  {
+    "ID": "TR_524e2de3",
+    "parent": "series element",
+    "child": "alkali metal"
+  },
+  {
+    "ID": "TR_e5723823",
+    "parent": "conduction",
+    "child": "electric conduction"
+  },
+  {
+    "ID": "TR_497a896a",
+    "parent": "element",
+    "child": "Scandium"
+  },
+  {
+    "ID": "TR_dae52379",
+    "parent": "measured property",
+    "child": "force"
+  },
+  {
+    "ID": "TR_531ce4c2",
+    "parent": "density",
+    "child": "linear density"
+  },
+  {
+    "ID": "TR_55306092",
+    "parent": "unit",
+    "child": "electric flux density unit"
+  },
+  {
+    "ID": "TR_1f9a70e7",
+    "parent": "uncommon chemical phase",
+    "child": "crystalline phase"
+  },
+  {
+    "ID": "TR_2eab146d",
+    "parent": "period element",
+    "child": "period 1 element"
+  },
+  {
+    "ID": "TR_e254e152",
+    "parent": "organic group",
+    "child": "carbon group"
+  },
+  {
+    "ID": "TR_abeed5ad",
+    "parent": "unit",
+    "child": "entropy unit"
+  },
+  {
+    "ID": "TR_204c1839",
+    "parent": "cyclic",
+    "child": "homocyclic"
+  },
+  {
+    "ID": "TR_6cacf657",
+    "parent": "atom",
+    "child": "Magnesium Atom"
+  },
+  {
+    "ID": "TR_e43573a2",
+    "parent": "element",
+    "child": "Ununtrium"
+  },
+  {
+    "ID": "TR_ffdd5881",
+    "parent": "scaled unit",
+    "child": "giga scaled unit"
+  },
+  {
+    "ID": "TR_b961ebba",
+    "parent": "measured property",
+    "child": "velocity"
+  },
+  {
+    "ID": "TR_42e6ee1a",
+    "parent": "electromagnetic radiation unit",
+    "child": "luminous flux unit"
+  },
+  {
+    "ID": "TR_509cb236",
+    "parent": "element",
+    "child": "Sulfur"
+  },
+  {
+    "ID": "TR_57e6c81c",
+    "parent": "atom",
+    "child": "Bismuth Atom"
+  },
+  {
+    "ID": "TR_92e9563a",
+    "parent": "measured property",
+    "child": "temperature"
+  },
+  {
+    "ID": "TR_dfeef725",
+    "parent": "stereo bond",
+    "child": "stereo hash bond"
+  },
+  {
+    "ID": "TR_901afc52",
+    "parent": "unit",
+    "child": "electric resistance unit"
+  },
+  {
+    "ID": "TR_aad5754f",
+    "parent": "atom",
+    "child": "Ununhexium Atom"
+  },
+  {
+    "ID": "TR_8143b7ef",
+    "parent": "periodic block",
+    "child": "d-block element"
+  },
+  {
+    "ID": "TR_f38cdbab",
+    "parent": "chemical conformation",
+    "child": "periplanar conformation"
+  },
+  {
+    "ID": "TR_6a750cd0",
+    "parent": "unit",
+    "child": "length unit"
+  },
+  {
+    "ID": "TR_d24580c8",
+    "parent": "atom",
+    "child": "Caesium Atom"
+  },
+  {
+    "ID": "TR_40ad1764",
+    "parent": "measured property",
+    "child": "angular acceleration"
+  },
+  {
+    "ID": "TR_fd3bc80c",
+    "parent": "unit",
+    "child": "angular acceleration unit"
+  },
+  {
+    "ID": "TR_09845430",
+    "parent": "unit",
+    "child": "angular velocity unit"
+  },
+  {
+    "ID": "TR_68c6ed9b",
+    "parent": "unit",
+    "child": "velocity unit"
+  },
+  {
+    "ID": "TR_05000f70",
+    "parent": "atom",
+    "child": "Tungsten Atom"
+  },
+  {
+    "ID": "TR_32619478",
+    "parent": "measured property",
+    "child": "molar mass"
+  },
+  {
+    "ID": "TR_bc9b2a32",
+    "parent": "radiation",
+    "child": "exposure"
+  },
+  {
+    "ID": "TR_8a0775f9",
+    "parent": "measured property",
+    "child": "molecular mass"
+  },
+  {
+    "ID": "TR_d2d1090e",
+    "parent": "measured property",
+    "child": "intensive property"
+  },
+  {
+    "ID": "TR_d4ff3508",
+    "parent": "element",
+    "child": "Vanadium"
+  },
+  {
+    "ID": "TR_0bc9c985",
+    "parent": "electronic interaction",
+    "child": "hydrophobic interaction"
+  },
+  {
+    "ID": "TR_5c966b52",
+    "parent": "carbon group",
+    "child": "methyl group"
+  },
+  {
+    "ID": "TR_ac6413fc",
+    "parent": "measured property",
+    "child": "electromagnetic radation"
+  },
+  {
+    "ID": "TR_66a83908",
+    "parent": "space group property",
+    "child": "crystal system"
+  },
+  {
+    "ID": "TR_e531053c",
+    "parent": "atom",
+    "child": "Cadmium Atom"
+  },
+  {
+    "ID": "TR_91a732ba",
+    "parent": "carbon allotrope",
+    "child": "fullerene"
+  },
+  {
+    "ID": "TR_c1d1d759",
+    "parent": "chemical reaction",
+    "child": "inorganic reaction"
+  },
+  {
+    "ID": "TR_a8e3ced9",
+    "parent": "OpticalIsomer",
+    "child": "D or L isomer"
+  },
+  {
+    "ID": "TR_f2e71c88",
+    "parent": "atom",
+    "child": "Curium Atom"
+  },
+  {
+    "ID": "TR_547e15d8",
+    "parent": "compound",
+    "child": "complex"
+  },
+  {
+    "ID": "TR_5fdcfad2",
+    "parent": "organic group",
+    "child": "amide group"
+  },
+  {
+    "ID": "TR_d13f1181",
+    "parent": "processual_entity",
+    "child": "process_aggregate"
+  },
+  {
+    "ID": "TR_b1f4810b",
+    "parent": "scaled unit",
+    "child": "femto scaled unit"
+  },
+  {
+    "ID": "TR_88637d41",
+    "parent": "compound",
+    "child": "binary compound"
+  },
+  {
+    "ID": "TR_368a18d1",
+    "parent": "unit",
+    "child": "permittivity unit"
+  },
+  {
+    "ID": "TR_075f7812",
+    "parent": "independent_continuant",
+    "child": "object_boundary"
+  },
+  {
+    "ID": "TR_903b64de",
+    "parent": "quality",
+    "child": "measured property"
+  },
+  {
+    "ID": "TR_79678d08",
+    "parent": "radiation",
+    "child": "exposure"
+  },
+  {
+    "ID": "TR_3f4706cb",
+    "parent": "radiation unit",
+    "child": "absorbed dose rate unit"
+  },
+  {
+    "ID": "TR_994a961b",
+    "parent": "element",
+    "child": "Krypton"
+  },
+  {
+    "ID": "TR_e2a551f0",
+    "parent": "measured property",
+    "child": "Stress"
+  },
+  {
+    "ID": "TR_a36af601",
+    "parent": "mixture",
+    "child": "homogeneous mixture"
+  },
+  {
+    "ID": "TR_7dcfdcab",
+    "parent": "element",
+    "child": "Germanium"
+  },
+  {
+    "ID": "TR_c3815386",
+    "parent": "unit",
+    "child": "angular velocity unit"
+  },
+  {
+    "ID": "TR_ab69d567",
+    "parent": "measured property",
+    "child": "permittivity"
+  },
+  {
+    "ID": "TR_89e5fe7b",
+    "parent": "molecular complex formation",
+    "child": "molecular complex assembly"
+  },
+  {
+    "ID": "TR_8e47c704",
+    "parent": "measured property",
+    "child": "Melting Point"
+  },
+  {
+    "ID": "TR_c2ae8816",
+    "parent": "unit",
+    "child": "enthalpy unit"
+  },
+  {
+    "ID": "TR_059cc82c",
+    "parent": "unit",
+    "child": "electric charge density unit"
+  },
+  {
+    "ID": "TR_0bd9a20e",
+    "parent": "acyl halide group",
+    "child": "AcylBromideGroup"
+  },
+  {
+    "ID": "TR_b762aa8c",
+    "parent": "measured property",
+    "child": "angle"
+  },
+  {
+    "ID": "TR_caa5bf1c",
+    "parent": "element",
+    "child": "Praseodymium"
+  },
+  {
+    "ID": "TR_bd5e30ae",
+    "parent": "name",
+    "child": "systematic name"
+  },
+  {
+    "ID": "TR_271027c3",
+    "parent": "unit",
+    "child": "moment of force unit"
+  },
+  {
+    "ID": "TR_0686ade7",
+    "parent": "unit",
+    "child": "specific energy unit"
+  },
+  {
+    "ID": "TR_501869e0",
+    "parent": "chemical conformation",
+    "child": "anti conformation"
+  },
+  {
+    "ID": "TR_87bc74ee",
+    "parent": "intermolecular interaction",
+    "child": "molecular complex formation"
+  },
+  {
+    "ID": "TR_e1b54a3d",
+    "parent": "element",
+    "child": "Lutetium"
+  },
+  {
+    "ID": "TR_5909d142",
+    "parent": "atom",
+    "child": "Europium Atom"
+  },
+  {
+    "ID": "TR_e785ac08",
+    "parent": "independent_continuant",
+    "child": "site"
+  },
+  {
+    "ID": "TR_06e72a39",
+    "parent": "chemical substance",
+    "child": "Reagent"
+  },
+  {
+    "ID": "TR_753e89a9",
+    "parent": "energy",
+    "child": "internal energy"
+  },
+  {
+    "ID": "TR_420b3d2c",
+    "parent": "hydrophobicity",
+    "child": "hydrophobic"
+  },
+  {
+    "ID": "TR_89e11efb",
+    "parent": "electromagnetic radiation unit",
+    "child": "irradiance unit"
+  },
+  {
+    "ID": "TR_7058c85b",
+    "parent": "unit",
+    "child": "concentration unit"
+  },
+  {
+    "ID": "TR_683341a8",
+    "parent": "conduction",
+    "child": "electric conduction"
+  },
+  {
+    "ID": "TR_28045c07",
+    "parent": "measured property",
+    "child": "pressure"
+  },
+  {
+    "ID": "TR_840206a9",
+    "parent": "measured property",
+    "child": "molar entropy"
+  },
+  {
+    "ID": "TR_85665153",
+    "parent": "series element",
+    "child": "noble gas"
+  },
+  {
+    "ID": "TR_ee9154ff",
+    "parent": "periodic table element",
+    "child": "periodic block"
+  },
+  {
+    "ID": "TR_34fa102d",
+    "parent": "unit",
+    "child": "acceleration unit"
+  },
+  {
+    "ID": "TR_94c46bdf",
+    "parent": "atom",
+    "child": "Francium Atom"
+  },
+  {
+    "ID": "TR_4e56d65b",
+    "parent": "unit",
+    "child": "concentration unit"
+  },
+  {
+    "ID": "TR_078bae9d",
+    "parent": "chemical quality",
+    "child": "material quality"
+  },
+  {
+    "ID": "TR_7435fefd",
+    "parent": "measured property",
+    "child": "time"
+  },
+  {
+    "ID": "TR_84c775bd",
+    "parent": "period element",
+    "child": "period 2 element"
+  },
+  {
+    "ID": "TR_38360047",
+    "parent": "pure substance",
+    "child": "allotrope"
+  },
+  {
+    "ID": "TR_4725f8db",
+    "parent": "atom",
+    "child": "Indium Atom"
+  },
+  {
+    "ID": "TR_31bfb9a7",
+    "parent": "group element",
+    "child": "group 11 element"
+  },
+  {
+    "ID": "TR_f6938364",
+    "parent": "molar energy",
+    "child": "Gibbs free energy"
+  },
+  {
+    "ID": "TR_86f932db",
+    "parent": "chemical reaction",
+    "child": "redox reaction"
+  },
+  {
+    "ID": "TR_1209c79c",
+    "parent": "Temperature Range",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "ID": "TR_8ed7eb3e",
+    "parent": "atom",
+    "child": "Strontium Atom"
+  },
+  {
+    "ID": "TR_bab3606e",
+    "parent": "measured property",
+    "child": "wavenumber"
+  },
+  {
+    "ID": "TR_c8d159df",
+    "parent": "organic group",
+    "child": "organic sulfur group"
+  },
+  {
+    "ID": "TR_ca2c54eb",
+    "parent": "unit",
+    "child": "magnetic flux unit"
+  },
+  {
+    "ID": "TR_263c733c",
+    "parent": "bond",
+    "child": "double bond"
+  },
+  {
+    "ID": "TR_aac40744",
+    "parent": "unit",
+    "child": "pressure unit"
+  },
+  {
+    "ID": "TR_f404c6f6",
+    "parent": "Concentration",
+    "child": "catalytic concentration"
+  },
+  {
+    "ID": "TR_47429746",
+    "parent": "atom",
+    "child": "Yttrium Atom"
+  },
+  {
+    "ID": "TR_53a49779",
+    "parent": "aromaticity",
+    "child": "aromatic"
+  },
+  {
+    "ID": "TR_61447049",
+    "parent": "MoleculeComponentCount",
+    "child": "hydrogen bond acceptor count"
+  },
+  {
+    "ID": "TR_a18bf5f5",
+    "parent": "unit",
+    "child": "molar mass unit"
+  },
+  {
+    "ID": "TR_eeeeb752",
+    "parent": "period element",
+    "child": "period 5 element"
+  },
+  {
+    "ID": "TR_d2f704df",
+    "parent": "unit",
+    "child": "potential difference unit"
+  },
+  {
+    "ID": "TR_797d4e17",
+    "parent": "unit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "ID": "TR_9511d6ea",
+    "parent": "atom",
+    "child": "Radium Atom"
+  },
+  {
+    "ID": "TR_ed751c5b",
+    "parent": "Reagent",
+    "child": "catalyst"
+  },
+  {
+    "ID": "TR_338045be",
+    "parent": "concentration unit",
+    "child": "molality unit"
+  },
+  {
+    "ID": "TR_d9caf379",
+    "parent": "measured property",
+    "child": "molar mass"
+  },
+  {
+    "ID": "TR_1f01aa40",
+    "parent": "unit",
+    "child": "angular acceleration unit"
+  },
+  {
+    "ID": "TR_05cb3136",
+    "parent": "MoleculeComponentCount",
+    "child": "defined stereo bond count"
+  },
+  {
+    "ID": "TR_6167d581",
+    "parent": "angle",
+    "child": "plane angle"
+  },
+  {
+    "ID": "TR_9de075d6",
+    "parent": "object",
+    "child": "atom"
+  },
+  {
+    "ID": "TR_ce5d966c",
+    "parent": "polar bond",
+    "child": "hydrogen bond"
+  },
+  {
+    "ID": "TR_bb3193a7",
+    "parent": "electromagnetic radiation unit",
+    "child": "illuminance unit"
+  },
+  {
+    "ID": "TR_c9986380",
+    "parent": "unit",
+    "child": "electric resistance unit"
+  },
+  {
+    "ID": "TR_8bbadef4",
+    "parent": "bond",
+    "child": "aromatic bond"
+  },
+  {
+    "ID": "TR_56a78b6b",
+    "parent": "element",
+    "child": "Seaborgium"
+  },
+  {
+    "ID": "TR_96720ecb",
+    "parent": "chemical reaction",
+    "child": "isomerization"
+  },
+  {
+    "ID": "TR_5a29b28e",
+    "parent": "MolecularQuality",
+    "child": "polar surface area"
+  },
+  {
+    "ID": "TR_4cf9c91b",
+    "parent": "measured property",
+    "child": "force"
+  },
+  {
+    "ID": "TR_014d687c",
+    "parent": "element",
+    "child": "Palladium"
+  },
+  {
+    "ID": "TR_42ffed2f",
+    "parent": "chemical reaction pathway",
+    "child": "ChemicalSynthesisPathway"
+  },
+  {
+    "ID": "TR_c5d5137c",
+    "parent": "Hardness Range",
+    "child": "Hardness Range Lower Bound"
+  },
+  {
+    "ID": "TR_f442aac9",
+    "parent": "unit",
+    "child": "electric current unit"
+  },
+  {
+    "ID": "TR_b4c0f18b",
+    "parent": "measured property",
+    "child": "enthalpy"
+  },
+  {
+    "ID": "TR_60fb3454",
+    "parent": "chemical conformation",
+    "child": "Wikipedia"
+  },
+  {
+    "ID": "TR_1c175c21",
+    "parent": "Concentration",
+    "child": "molality"
+  },
+  {
+    "ID": "TR_5b0f7e8e",
+    "parent": "measured property",
+    "child": "magnetic flux"
+  },
+  {
+    "ID": "TR_3f855f55",
+    "parent": "unit",
+    "child": "acceleration unit"
+  },
+  {
+    "ID": "TR_c01ce11d",
+    "parent": "electromagnetic radiation unit",
+    "child": "radiant intensity unit"
+  },
+  {
+    "ID": "TR_010cce8f",
+    "parent": "atom",
+    "child": "HeteroAtom"
+  },
+  {
+    "ID": "TR_4311df06",
+    "parent": "measured property",
+    "child": "magnetic flux"
+  },
+  {
+    "ID": "TR_31d4b931",
+    "parent": "chemical phase",
+    "child": "common chemical phase"
+  },
+  {
+    "ID": "TR_b7647850",
+    "parent": "measured property",
+    "child": "electric current"
+  },
+  {
+    "ID": "TR_b7870b34",
+    "parent": "compound",
+    "child": "isomer"
+  },
+  {
+    "ID": "TR_3c384a13",
+    "parent": "element",
+    "child": "Calcium"
+  },
+  {
+    "ID": "TR_ac660679",
+    "parent": "element",
+    "child": "Magnesium"
+  },
+  {
+    "ID": "TR_e1cfc9e9",
+    "parent": "polar addition reaction",
+    "child": "electrophilic addition reaction"
+  },
+  {
+    "ID": "TR_0dc23ce5",
+    "parent": "element",
+    "child": "Darmstadtium"
+  },
+  {
+    "ID": "TR_91c14a40",
+    "parent": "material category",
+    "child": "refactory"
+  },
+  {
+    "ID": "TR_8a044276",
+    "parent": "unit",
+    "child": "permeability unit"
+  },
+  {
+    "ID": "TR_88b3160d",
+    "parent": "electrostatic interaction",
+    "child": "polar bond"
+  },
+  {
+    "ID": "TR_b2a73054",
+    "parent": "carbon allotrope",
+    "child": "chaoite"
+  },
+  {
+    "ID": "TR_ac64869b",
+    "parent": "periodic table element",
+    "child": "group element"
+  },
+  {
+    "ID": "TR_cf9de64c",
+    "parent": "object",
+    "child": "atom"
+  },
+  {
+    "ID": "TR_02aaa686",
+    "parent": "measured property",
+    "child": "length"
+  },
+  {
+    "ID": "TR_d4c342f1",
+    "parent": "uncommon chemical phase",
+    "child": "paramagnetic phase"
+  },
+  {
+    "ID": "TR_ac36c070",
+    "parent": "measured property",
+    "child": "conduction"
+  },
+  {
+    "ID": "TR_de162094",
+    "parent": "element",
+    "child": "Plutonium"
+  },
+  {
+    "ID": "TR_212034b8",
+    "parent": "measured property",
+    "child": "volume"
+  },
+  {
+    "ID": "TR_20e21fe8",
+    "parent": "material",
+    "child": "Ceramic Material"
+  },
+  {
+    "ID": "TR_12606344",
+    "parent": "atom",
+    "child": "Praseodymium Atom"
+  },
+  {
+    "ID": "TR_2be7f030",
+    "parent": "MolecularQuality",
+    "child": "partition coefficient"
+  },
+  {
+    "ID": "TR_e5692396",
+    "parent": "element",
+    "child": "Yttrium"
+  },
+  {
+    "ID": "TR_0f6a70e0",
+    "parent": "common chemical phase",
+    "child": "solid phase"
+  },
+  {
+    "ID": "TR_f75997bb",
+    "parent": "electromagnetic radation",
+    "child": "luminous flux"
+  },
+  {
+    "ID": "TR_7893d52a",
+    "parent": "element",
+    "child": "Fluorine"
+  },
+  {
+    "ID": "TR_f84ca45c",
+    "parent": "measured property",
+    "child": "weibull modulus"
+  },
+  {
+    "ID": "TR_3dbe849c",
+    "parent": "scaled unit",
+    "child": "tera scaled unit"
+  },
+  {
+    "ID": "TR_546ca7c1",
+    "parent": "measured property",
+    "child": "electric charge"
+  },
+  {
+    "ID": "TR_057d1a7d",
+    "parent": "radiation unit",
+    "child": "dose equivalent unit"
+  },
+  {
+    "ID": "TR_f8ac8ef1",
+    "parent": "atom",
+    "child": "Ununseptium Atom"
+  },
+  {
+    "ID": "TR_b35362c8",
+    "parent": "displacement reaction",
+    "child": "single displacement reaction"
+  },
+  {
+    "ID": "TR_f004e444",
+    "parent": "DerivedUnit",
+    "child": "scaled unit"
+  },
+  {
+    "ID": "TR_44b82a1f",
+    "parent": "atom",
+    "child": "Arsenic Atom"
+  },
+  {
+    "ID": "TR_e368d532",
+    "parent": "unit",
+    "child": "density unit"
+  },
+  {
+    "ID": "TR_0fdfa4e5",
+    "parent": "organic compound",
+    "child": "imine"
+  },
+  {
+    "ID": "TR_8f67f958",
+    "parent": "chemical interaction",
+    "child": "bond"
+  },
+  {
+    "ID": "TR_9cb67b6a",
+    "parent": "unit",
+    "child": "potential difference unit"
+  },
+  {
+    "ID": "TR_c0ceeccf",
+    "parent": "measured property",
+    "child": "frequency"
+  },
+  {
+    "ID": "TR_3ebd413b",
+    "parent": "measured property",
+    "child": "electric current density"
+  },
+  {
+    "ID": "TR_ddf159f8",
+    "parent": "Chemical Formula",
+    "child": "Empirical Formula"
+  },
+  {
+    "ID": "TR_27138b59",
+    "parent": "radiation",
+    "child": "equivalent dose"
+  },
+  {
+    "ID": "TR_1a1bb7da",
+    "parent": "OpticalIsomer",
+    "child": "R or S isomer"
+  },
+  {
+    "ID": "TR_e2e42d75",
+    "parent": "electromagnetic radation",
+    "child": "radiance"
+  },
+  {
+    "ID": "TR_19e1df6f",
+    "parent": "electromagnetic radation",
+    "child": "luminous flux"
+  },
+  {
+    "ID": "TR_649b4bee",
+    "parent": "MoleculeComponentCount",
+    "child": "component count"
+  },
+  {
+    "ID": "TR_69685551",
+    "parent": "spatiotemporal_region",
+    "child": "connected_spatiotemporal_region"
+  },
+  {
+    "ID": "TR_1f3d5b77",
+    "parent": "atom",
+    "child": "Tantalum Atom"
+  },
+  {
+    "ID": "TR_350ed012",
+    "parent": "chemical quality",
+    "child": "acidity"
+  },
+  {
+    "ID": "TR_f470f9b2",
+    "parent": "bond",
+    "child": "ionic bond"
+  },
+  {
+    "ID": "TR_6a012db3",
+    "parent": "object",
+    "child": "ring"
+  },
+  {
+    "ID": "TR_a7285ce9",
+    "parent": "unit",
+    "child": "electric current density unit"
+  },
+  {
+    "ID": "TR_d222f2e3",
+    "parent": "series element",
+    "child": "transition metal"
+  },
+  {
+    "ID": "TR_14129736",
+    "parent": "density",
+    "child": "area density"
+  },
+  {
+    "ID": "TR_3c66a367",
+    "parent": "measured property",
+    "child": "surface tension"
+  },
+  {
+    "ID": "TR_5737f810",
+    "parent": "scaled unit",
+    "child": "yocto scaled unit"
+  },
+  {
+    "ID": "TR_35700450",
+    "parent": "unit",
+    "child": "energy density unit"
+  },
+  {
+    "ID": "TR_466bf6a3",
+    "parent": "organic group",
+    "child": "thiol group"
+  },
+  {
+    "ID": "TR_accc78ac",
+    "parent": "unit raised to power",
+    "child": "unit raised to power of three"
+  },
+  {
+    "ID": "TR_b400c83d",
+    "parent": "name",
+    "child": "traditional name"
+  },
+  {
+    "ID": "TR_77cea78c",
+    "parent": "MoleculeComponentCount",
+    "child": "tautomer count"
+  },
+  {
+    "ID": "TR_c7e0f251",
+    "parent": "measured property",
+    "child": "Thermal Expansion"
+  },
+  {
+    "ID": "TR_a558c47b",
+    "parent": "unit",
+    "child": "power unit"
+  },
+  {
+    "ID": "TR_d18045b5",
+    "parent": "element",
+    "child": "Gadolinium"
+  },
+  {
+    "ID": "TR_cb131998",
+    "parent": "radiation unit",
+    "child": "exposure unit"
+  },
+  {
+    "ID": "TR_b8bfcc56",
+    "parent": "unit",
+    "child": "molar entropy unit"
+  },
+  {
+    "ID": "TR_ed7f8f1d",
+    "parent": "spatial_region",
+    "child": "three_dimensional_region"
+  },
+  {
+    "ID": "TR_23a0f942",
+    "parent": "measured property",
+    "child": "grain size"
+  },
+  {
+    "ID": "TR_bef1d6c6",
+    "parent": "unit",
+    "child": "magnetic field strength"
+  },
+  {
+    "ID": "TR_29ec9efa",
+    "parent": "independent_continuant",
+    "child": "fiat_object_part"
+  },
+  {
+    "ID": "TR_51dee492",
+    "parent": "unit",
+    "child": "force unit"
+  },
+  {
+    "ID": "TR_e9fd0854",
+    "parent": "measured property",
+    "child": "angular velocity"
+  },
+  {
+    "ID": "TR_eea3ee5e",
+    "parent": "intensive property",
+    "child": "flexural modulus"
+  },
+  {
+    "ID": "TR_ce977e88",
+    "parent": "element",
+    "child": "Bromine"
+  },
+  {
+    "ID": "TR_3aac040b",
+    "parent": "atom",
+    "child": "Tin Atom"
+  },
+  {
+    "ID": "TR_8cb334f2",
+    "parent": "element",
+    "child": "Oxygen"
+  },
+  {
+    "ID": "TR_d0655ffd",
+    "parent": "chemical agent",
+    "child": "oxidizing agent"
+  },
+  {
+    "ID": "TR_138e15d7",
+    "parent": "complex",
+    "child": "metal complex"
+  },
+  {
+    "ID": "TR_b673fe15",
+    "parent": "Reagent",
+    "child": "Reactant"
+  },
+  {
+    "ID": "TR_f0d7b54e",
+    "parent": "continuant",
+    "child": "independent_continuant"
+  },
+  {
+    "ID": "TR_51f43f6e",
+    "parent": "acyl halide",
+    "child": "acyl bromide"
+  },
+  {
+    "ID": "TR_087fa93c",
+    "parent": "element",
+    "child": "Silver"
+  },
+  {
+    "ID": "TR_3e5294db",
+    "parent": "measured property",
+    "child": "entropy"
+  },
+  {
+    "ID": "TR_c620baaf",
+    "parent": "atom",
+    "child": "Rhodium Atom"
+  },
+  {
+    "ID": "TR_4fb150c0",
+    "parent": "chemical quality",
+    "child": "electric charge"
+  },
+  {
+    "ID": "TR_687fc7e3",
+    "parent": "period element",
+    "child": "period 6 element"
+  },
+  {
+    "ID": "TR_a155c990",
+    "parent": "measured property",
+    "child": "elastic modulus"
+  },
+  {
+    "ID": "TR_6b299bf5",
+    "parent": "measured property",
+    "child": "Temperature Range"
+  },
+  {
+    "ID": "TR_59b7c87d",
+    "parent": "atom",
+    "child": "Ytterbium Atom"
+  },
+  {
+    "ID": "TR_50abcb16",
+    "parent": "measured property",
+    "child": "inductance"
+  },
+  {
+    "ID": "TR_bdee7764",
+    "parent": "measured property",
+    "child": "Hardness"
+  },
+  {
+    "ID": "TR_9487ccc6",
+    "parent": "organic group",
+    "child": "aryl"
+  },
+  {
+    "ID": "TR_8ea5e95d",
+    "parent": "cyclicity",
+    "child": "acyclic"
+  },
+  {
+    "ID": "TR_0d4cc54e",
+    "parent": "unit",
+    "child": "magnetic flux unit"
+  },
+  {
+    "ID": "TR_5cc9e07e",
+    "parent": "binary compound",
+    "child": "ionic compound"
+  },
+  {
+    "ID": "TR_14e6536c",
+    "parent": "unit",
+    "child": "dynamic viscosity unit"
+  },
+  {
+    "ID": "TR_cf48c5e7",
+    "parent": "complex",
+    "child": "topological complex"
+  },
+  {
+    "ID": "TR_04bc89de",
+    "parent": "atom",
+    "child": "Samarium Atom"
+  },
+  {
+    "ID": "TR_3b3a9708",
+    "parent": "unit raised to power",
+    "child": "unit raised to power of one"
+  },
+  {
+    "ID": "TR_775a0101",
+    "parent": "series element",
+    "child": "metalloid"
+  },
+  {
+    "ID": "TR_e33af413",
+    "parent": "polarity",
+    "child": "non polar"
+  },
+  {
+    "ID": "TR_62925a9c",
+    "parent": "measured property",
+    "child": "Concentration"
+  },
+  {
+    "ID": "TR_b9b5fcda",
+    "parent": "electromagnetic radation",
+    "child": "irradiance"
+  },
+  {
+    "ID": "TR_1a90f986",
+    "parent": "three_dimensional_region",
+    "child": "thermodynamic system"
+  },
+  {
+    "ID": "TR_0fa6e64c",
+    "parent": "measured property",
+    "child": "atom property"
+  },
+  {
+    "ID": "TR_95e775d2",
+    "parent": "series element",
+    "child": "lanthanide"
+  },
+  {
+    "ID": "TR_4a312ddb",
+    "parent": "measured property",
+    "child": "viscosity"
+  },
+  {
+    "ID": "TR_5480a278",
+    "parent": "atom",
+    "child": "Germanium Atom"
+  },
+  {
+    "ID": "TR_5cf5e236",
+    "parent": "continuant",
+    "child": "dependent_continuant"
+  },
+  {
+    "ID": "TR_3eaef767",
+    "parent": "element",
+    "child": "Rubidium"
+  },
+  {
+    "ID": "TR_802bde54",
+    "parent": "quality",
+    "child": "chemical quality"
+  },
+  {
+    "ID": "TR_71a5e035",
+    "parent": "measured property",
+    "child": "electric current"
+  },
+  {
+    "ID": "TR_c496c28f",
+    "parent": "scaled unit",
+    "child": "atto scaled unit"
+  },
+  {
+    "ID": "TR_c4227c97",
+    "parent": "Concentration",
+    "child": "catalytic concentration"
+  },
+  {
+    "ID": "TR_69aec8b2",
+    "parent": "spatial_region",
+    "child": "two_dimensional_region"
+  },
+  {
+    "ID": "TR_9f3c7545",
+    "parent": "element",
+    "child": "Strontium"
+  },
+  {
+    "ID": "TR_9ad5f3ed",
+    "parent": "atom",
+    "child": "Potassium Atom"
+  },
+  {
+    "ID": "TR_c3bccaa0",
+    "parent": "radiation",
+    "child": "equivalent dose"
+  },
+  {
+    "ID": "TR_6ed9834a",
+    "parent": "spatial_region",
+    "child": "zero_dimensional_region"
+  },
+  {
+    "ID": "TR_6930afb6",
+    "parent": "scaled unit",
+    "child": "zepto scaled unit"
+  },
+  {
+    "ID": "TR_3dd73377",
+    "parent": "measured property",
+    "child": "count"
+  },
+  {
+    "ID": "TR_b75edc92",
+    "parent": "measured property",
+    "child": "potential difference"
+  },
+  {
+    "ID": "TR_31b585f5",
+    "parent": "Concentration",
+    "child": "parts per notation"
+  },
+  {
+    "ID": "TR_f5679ceb",
+    "parent": "Hardness Range",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "ID": "TR_1c72741f",
+    "parent": "angle unit",
+    "child": "solid angle unit"
+  },
+  {
+    "ID": "TR_ef46418f",
+    "parent": "measured property",
+    "child": "specific entropy"
+  },
+  {
+    "ID": "TR_1d34c27d",
+    "parent": "molecular geometry",
+    "child": "octahedral molecular geometry"
+  },
+  {
+    "ID": "TR_1d3d4f38",
+    "parent": "atom",
+    "child": "Ununpentium Atom"
+  },
+  {
+    "ID": "TR_373f8842",
+    "parent": "electromagnetic radation",
+    "child": "irradiance"
+  },
+  {
+    "ID": "TR_3bf603f3",
+    "parent": "unit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "ID": "TR_3f20ec78",
+    "parent": "dependent_continuant",
+    "child": "quality"
+  },
+  {
+    "ID": "TR_e5e306e2",
+    "parent": "electromagnetic radiation unit",
+    "child": "radiance unit"
+  },
+  {
+    "ID": "TR_c1a25249",
+    "parent": "measured property",
+    "child": "conduction"
+  },
+  {
+    "ID": "TR_9624bb17",
+    "parent": "carbon allotrope",
+    "child": "lonsdaleite"
+  },
+  {
+    "ID": "TR_42abd3df",
+    "parent": "chemical quality",
+    "child": "hydrophobicity"
+  },
+  {
+    "ID": "TR_7e637d37",
+    "parent": "scaled unit",
+    "child": "milli scaled unit"
+  },
+  {
+    "ID": "TR_82575a4a",
+    "parent": "measured property",
+    "child": "temperature"
+  },
+  {
+    "ID": "TR_4ebc87e7",
+    "parent": "chemical quality",
+    "child": "molecular geometry"
+  },
+  {
+    "ID": "TR_f0336854",
+    "parent": "covalent bond",
+    "child": "disulfide bond"
+  },
+  {
+    "ID": "TR_b4b6d8f4",
+    "parent": "group element",
+    "child": "group 13 element"
+  },
+  {
+    "ID": "TR_c7d0832c",
+    "parent": "molecular complex formation",
+    "child": "molecular complex disassociation"
+  },
+  {
+    "ID": "TR_06cb48f9",
+    "parent": "unit",
+    "child": "energy unit"
+  },
+  {
+    "ID": "TR_13c5a82d",
+    "parent": "measured property",
+    "child": "frequency"
+  },
+  {
+    "ID": "TR_a9020478",
+    "parent": "identifier",
+    "child": "isomeric smiles"
+  },
+  {
+    "ID": "TR_77f70754",
+    "parent": "connected_temporal_region",
+    "child": "temporal_instant"
+  },
+  {
+    "ID": "TR_adf5a0af",
+    "parent": "chemical quality",
+    "child": "Chemical Formula"
+  },
+  {
+    "ID": "TR_1cf9fac7",
+    "parent": "unit",
+    "child": "magnetic flux unit"
+  },
+  {
+    "ID": "TR_2d025bd0",
+    "parent": "unit",
+    "child": "molar entropy unit"
+  },
+  {
+    "ID": "TR_8e229506",
+    "parent": "atom",
+    "child": "Vanadium Atom"
+  },
+  {
+    "ID": "TR_bdf410fe",
+    "parent": "unit",
+    "child": "frequency unit"
+  },
+  {
+    "ID": "TR_8c83ce94",
+    "parent": "quality",
+    "child": "space group property"
+  },
+  {
+    "ID": "TR_16cf7d51",
+    "parent": "measured property",
+    "child": "molar mass"
+  },
+  {
+    "ID": "TR_f91ed596",
+    "parent": "measured property",
+    "child": "electric current density"
+  },
+  {
+    "ID": "TR_6f2d624a",
+    "parent": "unit",
+    "child": "electric field strength unit"
+  },
+  {
+    "ID": "TR_b092151a",
+    "parent": "atom",
+    "child": "Cerium Atom"
+  },
+  {
+    "ID": "TR_09e58224",
+    "parent": "atom",
+    "child": "Californium Atom"
+  },
+  {
+    "ID": "TR_89d82216",
+    "parent": "density",
+    "child": "mass density"
+  },
+  {
+    "ID": "TR_121e64f2",
+    "parent": "Concentration",
+    "child": "molality"
+  },
+  {
+    "ID": "TR_80e9db27",
+    "parent": "angle unit",
+    "child": "plane angle unit"
+  },
+  {
+    "ID": "TR_b022d461",
+    "parent": "electromagnetic radation",
+    "child": "radiance"
+  },
+  {
+    "ID": "TR_dcf754ab",
+    "parent": "scaled unit",
+    "child": "deka scaled unit"
+  },
+  {
+    "ID": "TR_6e54ff38",
+    "parent": "unit",
+    "child": "molar energy unit"
+  },
+  {
+    "ID": "TR_3b833a73",
+    "parent": "measured property",
+    "child": "magnetic flux density"
+  },
+  {
+    "ID": "TR_bcb8d8cf",
+    "parent": "chemical quality",
+    "child": "Chemical Family"
+  },
+  {
+    "ID": "TR_fa2981ce",
+    "parent": "atom",
+    "child": "Aluminium Atom"
+  },
+  {
+    "ID": "TR_6ee60a69",
+    "parent": "processual_entity",
+    "child": "fiat_process_part"
+  },
+  {
+    "ID": "TR_342e7610",
+    "parent": "measured property",
+    "child": "Lattice Parameter"
+  },
+  {
+    "ID": "TR_efef9700",
+    "parent": "conduction unit",
+    "child": "thermal conduction unit"
+  },
+  {
+    "ID": "TR_d43d131b",
+    "parent": "object",
+    "child": "mixture"
+  },
+  {
+    "ID": "TR_c5eb07a8",
+    "parent": "radiation",
+    "child": "radioactivity activity"
+  },
+  {
+    "ID": "TR_88ff81e6",
+    "parent": "intensive property",
+    "child": "specific heat"
+  },
+  {
+    "ID": "TR_7f5af80a",
+    "parent": "measured property",
+    "child": "grain size"
+  },
+  {
+    "ID": "TR_7cdef564",
+    "parent": "chemical quality",
+    "child": "Electronegativity"
+  },
+  {
+    "ID": "TR_4e8b3671",
+    "parent": "measured property",
+    "child": "electric charge density"
+  },
+  {
+    "ID": "TR_32155b69",
+    "parent": "atom",
+    "child": "Lawrencium Atom"
+  },
+  {
+    "ID": "TR_17cf6d06",
+    "parent": "MolecularQuality",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "ID": "TR_c5141449",
+    "parent": "radiation unit",
+    "child": "absorbed dose unit"
+  },
+  {
+    "ID": "TR_5a56470a",
+    "parent": "element",
+    "child": "Caesium"
+  },
+  {
+    "ID": "TR_bd06a2e9",
+    "parent": "unit",
+    "child": "frequency unit"
+  },
+  {
+    "ID": "TR_30fa64e5",
+    "parent": "measured property",
+    "child": "permeability"
+  },
+  {
+    "ID": "TR_51c197b9",
+    "parent": "unit",
+    "child": "entropy unit"
+  },
+  {
+    "ID": "TR_74c2668e",
+    "parent": "carbon allotrope",
+    "child": "aggregated carbon nanorods"
+  },
+  {
+    "ID": "TR_9d1885d9",
+    "parent": "density",
+    "child": "linear density"
+  },
+  {
+    "ID": "TR_2a9c8080",
+    "parent": "unit",
+    "child": "moment of force unit"
+  },
+  {
+    "ID": "TR_c2889e0f",
+    "parent": "polarity",
+    "child": "polar"
+  },
+  {
+    "ID": "TR_8864cfbc",
+    "parent": "Electronegativity",
+    "child": "pauling electronegativity"
+  },
+  {
+    "ID": "TR_2f6bd33e",
+    "parent": "measured property",
+    "child": "acceleration"
+  },
+  {
+    "ID": "TR_7f7e3921",
+    "parent": "Ion",
+    "child": "cation"
+  },
+  {
+    "ID": "TR_0373de87",
+    "parent": "element",
+    "child": "Beryllium"
+  },
+  {
+    "ID": "TR_c250101d",
+    "parent": "organic group",
+    "child": "secondary amine group"
+  },
+  {
+    "ID": "TR_d872c6f4",
+    "parent": "atom",
+    "child": "Boron Atom"
+  },
+  {
+    "ID": "TR_6dccbc19",
+    "parent": "chemical quality",
+    "child": "Chemical Class"
+  },
+  {
+    "ID": "TR_d6abe61c",
+    "parent": "chemical reaction",
+    "child": "isomerization"
+  },
+  {
+    "ID": "TR_26d3c1ed",
+    "parent": "atom",
+    "child": "Protactinium Atom"
+  },
+  {
+    "ID": "TR_6df81cd9",
+    "parent": "molecular geometry",
+    "child": "linear molecular geometry"
+  },
+  {
+    "ID": "TR_90603eee",
+    "parent": "organic group",
+    "child": "methyl group"
+  },
+  {
+    "ID": "TR_dda6f225",
+    "parent": "cis/trans isomer",
+    "child": "cis isomer"
+  },
+  {
+    "ID": "TR_962646cc",
+    "parent": "bond",
+    "child": "stereo bond"
+  },
+  {
+    "ID": "TR_b9b852f9",
+    "parent": "processual_entity",
+    "child": "process"
+  },
+  {
+    "ID": "TR_4603a7bd",
+    "parent": "connected_spatiotemporal_region",
+    "child": "spatiotemporal_interval"
+  },
+  {
+    "ID": "TR_212c32d7",
+    "parent": "organic group",
+    "child": "ester group"
+  },
+  {
+    "ID": "TR_2e86963a",
+    "parent": "bond",
+    "child": "single bond"
+  },
+  {
+    "ID": "TR_23eceee4",
+    "parent": "unit",
+    "child": "inductance unit"
+  },
+  {
+    "ID": "TR_ba3c8f40",
+    "parent": "electromagnetic radiation unit",
+    "child": "radiance unit"
+  },
+  {
+    "ID": "TR_dfcc59e2",
+    "parent": "atom",
+    "child": "Sulfur Atom"
+  },
+  {
+    "ID": "TR_95a92aa2",
+    "parent": "stereoisomer",
+    "child": "Enantiomer"
+  },
+  {
+    "ID": "TR_0963a38f",
+    "parent": "group element",
+    "child": "group 18 element"
+  },
+  {
+    "ID": "TR_1ae9ce51",
+    "parent": "amine",
+    "child": "tertiary amine"
+  },
+  {
+    "ID": "TR_cc3e1058",
+    "parent": "material category",
+    "child": "nanomaterials"
+  },
+  {
+    "ID": "TR_e3fbff6b",
+    "parent": "material category",
+    "child": "metals"
+  },
+  {
+    "ID": "TR_2c7d1e60",
+    "parent": "independent_continuant",
+    "child": "object"
+  },
+  {
+    "ID": "TR_947f9510",
+    "parent": "electromagnetic radiation unit",
+    "child": "luminance unit"
+  },
+  {
+    "ID": "TR_d7c1e4c4",
+    "parent": "element",
+    "child": "Mercury"
+  },
+  {
+    "ID": "TR_99bf23a3",
+    "parent": "atom",
+    "child": "Actinium Atom"
+  },
+  {
+    "ID": "TR_8023c06e",
+    "parent": "molecular geometry",
+    "child": "square planar molecular geometry"
+  },
+  {
+    "ID": "TR_168565e3",
+    "parent": "isomer",
+    "child": "structural isomer"
+  },
+  {
+    "ID": "TR_fe1623c6",
+    "parent": "compound",
+    "child": "molecule"
+  },
+  {
+    "ID": "TR_e367751c",
+    "parent": "atom",
+    "child": "Oxygen Atom"
+  },
+  {
+    "ID": "TR_37daedce",
+    "parent": "molar energy",
+    "child": "Gibbs free energy"
+  },
+  {
+    "ID": "TR_65691b30",
+    "parent": "unit",
+    "child": "angular velocity unit"
+  },
+  {
+    "ID": "TR_fd4c788b",
+    "parent": "material category",
+    "child": "ceramics"
+  },
+  {
+    "ID": "TR_de2f9d1b",
+    "parent": "concentration unit",
+    "child": "catalytic concentration unit"
+  },
+  {
+    "ID": "TR_36e20ec4",
+    "parent": "measured property",
+    "child": "mass"
+  },
+  {
+    "ID": "TR_73cd3457",
+    "parent": "Hardness Range",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "ID": "TR_bbb095fe",
+    "parent": "radiation",
+    "child": "equivalent dose"
+  },
+  {
+    "ID": "TR_1dfe6702",
+    "parent": "series element",
+    "child": "alkaline earth metal"
+  },
+  {
+    "ID": "TR_7832d1a1",
+    "parent": "element",
+    "child": "Arsenic"
+  },
+  {
+    "ID": "TR_dd3e3bfa",
+    "parent": "electromagnetic radiation unit",
+    "child": "radiance unit"
+  },
+  {
+    "ID": "TR_1ca95e79",
+    "parent": "element",
+    "child": "Zinc"
+  },
+  {
+    "ID": "TR_30ae9ffb",
+    "parent": "unit",
+    "child": "molecular mass unit"
+  },
+  {
+    "ID": "TR_03b1ba80",
+    "parent": "energy",
+    "child": "Helmholtz free energy"
+  },
+  {
+    "ID": "TR_dd63090f",
+    "parent": "measured property",
+    "child": "electric charge density"
+  },
+  {
+    "ID": "TR_61f9a424",
+    "parent": "radiation",
+    "child": "exposure"
+  },
+  {
+    "ID": "TR_1a78fed1",
+    "parent": "unit raised to power",
+    "child": "unit raised to power of negative one"
+  },
+  {
+    "ID": "TR_877f9986",
+    "parent": "element",
+    "child": "Titanium"
+  },
+  {
+    "ID": "TR_0a91b81f",
+    "parent": "measured property",
+    "child": "electric field strength"
+  },
+  {
+    "ID": "TR_11255f31",
+    "parent": "chemical substance",
+    "child": "solvent"
+  },
+  {
+    "ID": "TR_38a4936e",
+    "parent": "bond",
+    "child": "triple bond"
+  },
+  {
+    "ID": "TR_6ce71d92",
+    "parent": "Solution",
+    "child": "racemic mixture"
+  },
+  {
+    "ID": "TR_ec5dbab4",
+    "parent": "unit",
+    "child": "inductance unit"
+  },
+  {
+    "ID": "TR_a496957d",
+    "parent": "periodic table element",
+    "child": "period element"
+  },
+  {
+    "ID": "TR_b1cd78ff",
+    "parent": "density unit",
+    "child": "linear density unit"
+  },
+  {
+    "ID": "TR_985cdc2c",
+    "parent": "amine",
+    "child": "primary amine"
+  },
+  {
+    "ID": "TR_57ac3c05",
+    "parent": "atom",
+    "child": "Hassium Atom"
+  },
+  {
+    "ID": "TR_55d35a5f",
+    "parent": "object",
+    "child": "source"
+  },
+  {
+    "ID": "TR_656dd090",
+    "parent": "unit",
+    "child": "radiation unit"
+  },
+  {
+    "ID": "TR_51dc9f13",
+    "parent": "element",
+    "child": "Erbium"
+  },
+  {
+    "ID": "TR_8c49a7e0",
+    "parent": "MolecularQuality",
+    "child": "identifier"
+  },
+  {
+    "ID": "TR_78ee155e",
+    "parent": "group element",
+    "child": "group 17 element"
+  },
+  {
+    "ID": "TR_9c465725",
+    "parent": "unit",
+    "child": "magnetic field strength"
+  },
+  {
+    "ID": "TR_146da96c",
+    "parent": "density unit",
+    "child": "area density unit"
+  },
+  {
+    "ID": "TR_8eef901a",
+    "parent": "unit",
+    "child": "area unit"
+  },
+  {
+    "ID": "TR_eb2fc658",
+    "parent": "realizable_entity",
+    "child": "function"
+  },
+  {
+    "ID": "TR_a69d92b1",
+    "parent": "angle unit",
+    "child": "solid angle unit"
+  },
+  {
+    "ID": "TR_8b1a4b21",
+    "parent": "MoleculeComponentCount",
+    "child": "undefined stereo bond count"
+  },
+  {
+    "ID": "TR_ad41104e",
+    "parent": "ring",
+    "child": "non aromatic ring"
+  },
+  {
+    "ID": "TR_806f8526",
+    "parent": "measured property",
+    "child": "molecular mass"
+  },
+  {
+    "ID": "TR_9da4a148",
+    "parent": "organic group",
+    "child": "methyl group"
+  },
+  {
+    "ID": "TR_c21c21cc",
+    "parent": "scaled unit",
+    "child": "nano scaled unit"
+  },
+  {
+    "ID": "TR_8d8a0edd",
+    "parent": "carbon allotrope",
+    "child": "glassy carbon"
+  },
+  {
+    "ID": "TR_4ea9d168",
+    "parent": "acyl halide group",
+    "child": "acyl iodide group"
+  },
+  {
+    "ID": "TR_4b486d7f",
+    "parent": "angle",
+    "child": "plane angle"
+  },
+  {
+    "ID": "TR_a64fc1f3",
+    "parent": "organic group",
+    "child": "acyl group"
+  },
+  {
+    "ID": "TR_f03d2588",
+    "parent": "unit",
+    "child": "catalytic activity unit"
+  },
+  {
+    "ID": "TR_3f38eb30",
+    "parent": "measured property",
+    "child": "specific energy"
+  },
+  {
+    "ID": "TR_1594772d",
+    "parent": "atom",
+    "child": "Silicon Atom"
+  },
+  {
+    "ID": "TR_fb89419c",
+    "parent": "unit",
+    "child": "currency unit"
+  },
+  {
+    "ID": "TR_e2174e84",
+    "parent": "measured property",
+    "child": "moment of force"
+  },
+  {
+    "ID": "TR_a04d0d85",
+    "parent": "organic group",
+    "child": "general sulfinic acid group"
+  },
+  {
+    "ID": "TR_700bca02",
+    "parent": "Reagent",
+    "child": "Cofactor"
+  },
+  {
+    "ID": "TR_e2283f39",
+    "parent": "measured property",
+    "child": "electric resistance"
+  },
+  {
+    "ID": "TR_6e29dcc2",
+    "parent": "unit",
+    "child": "force unit"
+  },
+  {
+    "ID": "TR_d1071b85",
+    "parent": "Concentration",
+    "child": "parts per notation"
+  },
+  {
+    "ID": "TR_9973c2a9",
+    "parent": "measured property",
+    "child": "Lattice Parameter"
+  },
+  {
+    "ID": "TR_38d8a7c6",
+    "parent": "element",
+    "child": "Ununseptium"
+  },
+  {
+    "ID": "TR_0cd4da99",
+    "parent": "MoleculeComponentCount",
+    "child": "undefined stereo atom count"
+  },
+  {
+    "ID": "TR_d3aef7a1",
+    "parent": "measured property",
+    "child": "energy"
+  },
+  {
+    "ID": "TR_7a0ad346",
+    "parent": "element",
+    "child": "Xenon"
+  },
+  {
+    "ID": "TR_fc382d21",
+    "parent": "process",
+    "child": "chemical reaction"
+  },
+  {
+    "ID": "TR_3e826a0f",
+    "parent": "conformer",
+    "child": "rotamer"
+  },
+  {
+    "ID": "TR_5e3de8c1",
+    "parent": "electric charge",
+    "child": "neutral phase"
+  },
+  {
+    "ID": "TR_d8c88f42",
+    "parent": "ring",
+    "child": "aromatic ring"
+  },
+  {
+    "ID": "TR_e1cb62f6",
+    "parent": "chemical conformation",
+    "child": "anticlinal conformation"
+  },
+  {
+    "ID": "TR_0d03bbad",
+    "parent": "electromagnetic radation",
+    "child": "luminance"
+  },
+  {
+    "ID": "TR_5386de2c",
+    "parent": "uncommon chemical phase",
+    "child": "liquid crystal phase"
+  },
+  {
+    "ID": "TR_e0b55e26",
+    "parent": "scaled unit",
+    "child": "pico scaled unit"
+  },
+  {
+    "ID": "TR_b59e9658",
+    "parent": "unit",
+    "child": "dynamic viscosity unit"
+  },
+  {
+    "ID": "TR_01f2a0d9",
+    "parent": "periodic block",
+    "child": "g-block element"
+  },
+  {
+    "ID": "TR_323668cf",
+    "parent": "atom",
+    "child": "Argon Atom"
+  },
+  {
+    "ID": "TR_1f280dbf",
+    "parent": "atom",
+    "child": "Ununoctium Atom"
+  },
+  {
+    "ID": "TR_091f0f1a",
+    "parent": "measured property",
+    "child": "power"
+  },
+  {
+    "ID": "TR_216606e2",
+    "parent": "unit",
+    "child": "permittivity unit"
+  },
+  {
+    "ID": "TR_3237441a",
+    "parent": "electromagnetic radiation unit",
+    "child": "radiant intensity unit"
+  },
+  {
+    "ID": "TR_b2d40fa3",
+    "parent": "cis/trans isomer",
+    "child": "trans isomer"
+  },
+  {
+    "ID": "TR_22f334f0",
+    "parent": "extensive property",
+    "child": "heat capacity"
+  },
+  {
+    "ID": "TR_4c1ffdef",
+    "parent": "unit",
+    "child": "temperature unit"
+  },
+  {
+    "ID": "TR_8ff826fa",
+    "parent": "unit",
+    "child": "permeability unit"
+  },
+  {
+    "ID": "TR_8f1c0893",
+    "parent": "measured property",
+    "child": "electric flux density"
+  },
+  {
+    "ID": "TR_58b23501",
+    "parent": "unit",
+    "child": "molecular mass unit"
+  },
+  {
+    "ID": "TR_cfe38d1f",
+    "parent": "quality",
+    "child": "measured property"
+  },
+  {
+    "ID": "TR_99680b1f",
+    "parent": "element",
+    "child": "Tellurium"
+  },
+  {
+    "ID": "TR_f85bfbfe",
+    "parent": "element",
+    "child": "Actinium"
+  },
+  {
+    "ID": "TR_fb214ee1",
+    "parent": "atom",
+    "child": "Calcium Atom"
+  },
+  {
+    "ID": "TR_ac0e8c0e",
+    "parent": "element",
+    "child": "Ununquadium"
+  },
+  {
+    "ID": "TR_02c23024",
+    "parent": "concentration unit",
+    "child": "catalytic concentration unit"
+  },
+  {
+    "ID": "TR_3f4e810b",
+    "parent": "electromagnetic radation",
+    "child": "radiance"
+  },
+  {
+    "ID": "TR_5b988f78",
+    "parent": "MolecularQuality",
+    "child": "cyclicity"
+  },
+  {
+    "ID": "TR_7d625d1c",
+    "parent": "acyl halide",
+    "child": "acyl iodide"
+  },
+  {
+    "ID": "TR_8bd3baaf",
+    "parent": "measured property",
+    "child": "permeability"
+  },
+  {
+    "ID": "TR_4d50d7c1",
+    "parent": "measured property",
+    "child": "Phase Equilibrium"
+  },
+  {
+    "ID": "TR_5819564b",
+    "parent": "area",
+    "child": "polar surface area"
+  },
+  {
+    "ID": "TR_2d1c188a",
+    "parent": "atom",
+    "child": "Terbium Atom"
+  },
+  {
+    "ID": "TR_c70bc79e",
+    "parent": "element",
+    "child": "Terbium"
+  },
+  {
+    "ID": "TR_784384d7",
+    "parent": "molar energy",
+    "child": "Gibbs free energy"
+  },
+  {
+    "ID": "TR_cd9b8bb4",
+    "parent": "chemical interaction",
+    "child": "bond"
+  },
+  {
+    "ID": "TR_616286ec",
+    "parent": "chemical substance",
+    "child": "pure substance"
+  },
+  {
+    "ID": "TR_dcbae490",
+    "parent": "MoleculeComponentCount",
+    "child": "rotatable bond count"
+  },
+  {
+    "ID": "TR_ecff4975",
+    "parent": "measured property",
+    "child": "pressure"
+  },
+  {
+    "ID": "TR_782db8e7",
+    "parent": "measured property",
+    "child": "entropy"
+  },
+  {
+    "ID": "TR_4cbb46b5",
+    "parent": "element",
+    "child": "Lawrencium"
+  },
+  {
+    "ID": "TR_a5ddc2ce",
+    "parent": "group element",
+    "child": "group 9 element"
+  },
+  {
+    "ID": "TR_1a934679",
+    "parent": "element",
+    "child": "Barium"
+  },
+  {
+    "ID": "TR_9977b8b3",
+    "parent": "unit",
+    "child": "molecular mass unit"
+  },
+  {
+    "ID": "TR_773775ba",
+    "parent": "atom",
+    "child": "Lutetium Atom"
+  },
+  {
+    "ID": "TR_72f7933e",
+    "parent": "measured property",
+    "child": "density"
+  },
+  {
+    "ID": "TR_f0217d5c",
+    "parent": "chemical reaction",
+    "child": "organic reaction"
+  },
+  {
+    "ID": "TR_ca4e0f2a",
+    "parent": "concentration unit",
+    "child": "molality unit"
+  },
+  {
+    "ID": "TR_801d0583",
+    "parent": "extensive property",
+    "child": "heat capacity"
+  },
+  {
+    "ID": "TR_7bc246df",
+    "parent": "chemical quality",
+    "child": "molecular center"
+  },
+  {
+    "ID": "TR_e6715126",
+    "parent": "uncommon chemical phase",
+    "child": "strange matter phase"
+  },
+  {
+    "ID": "TR_a0158a0f",
+    "parent": "element",
+    "child": "Zirconium"
+  },
+  {
+    "ID": "TR_1b2114eb",
+    "parent": "group element",
+    "child": "group 10 element"
+  },
+  {
+    "ID": "TR_eae6bb12",
+    "parent": "unit",
+    "child": "surface tension unit"
+  },
+  {
+    "ID": "TR_b13ce49a",
+    "parent": "organic group",
+    "child": "sulfonic acid group"
+  },
+  {
+    "ID": "TR_3816fbf6",
+    "parent": "measured property",
+    "child": "moment of force"
+  },
+  {
+    "ID": "TR_a9fbb561",
+    "parent": "Electronegativity",
+    "child": "mulliken electronegativity"
+  },
+  {
+    "ID": "TR_bb22d944",
+    "parent": "angle",
+    "child": "solid angle"
+  },
+  {
+    "ID": "TR_a9887afd",
+    "parent": "energy",
+    "child": "Helmholtz free energy"
+  },
+  {
+    "ID": "TR_1c21ffa7",
+    "parent": "chemical quality",
+    "child": "electric charge"
+  },
+  {
+    "ID": "TR_47d1c485",
+    "parent": "process",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "ID": "TR_bdaa68d5",
+    "parent": "atom",
+    "child": "Uranium Atom"
+  },
+  {
+    "ID": "TR_6a657d3a",
+    "parent": "dependent_continuant",
+    "child": "realizable_entity"
+  },
+  {
+    "ID": "TR_b79475fa",
+    "parent": "unit",
+    "child": "capacitance unit"
+  },
+  {
+    "ID": "TR_11473928",
+    "parent": "common chemical phase",
+    "child": "gas phase"
+  },
+  {
+    "ID": "TR_abb9a0fc",
+    "parent": "organic group",
+    "child": "sulfonic acid derivative group"
+  },
+  {
+    "ID": "TR_3cdcc22d",
+    "parent": "molecular center",
+    "child": "chiral center"
+  },
+  {
+    "ID": "TR_9f67c7b1",
+    "parent": "measured property",
+    "child": "ultimate tensile strength"
+  },
+  {
+    "ID": "TR_8be7ced7",
+    "parent": "measured property",
+    "child": "Melting Point"
+  },
+  {
+    "ID": "TR_e269dd5d",
+    "parent": "element",
+    "child": "Dysprosium"
+  },
+  {
+    "ID": "TR_bbb5a9a3",
+    "parent": "unit",
+    "child": "angle unit"
+  },
+  {
+    "ID": "TR_9d79cb04",
+    "parent": "element",
+    "child": "Ununhexium"
+  },
+  {
+    "ID": "TR_1060adb3",
+    "parent": "thermodynamic system",
+    "child": "open thermodynamic system"
+  },
+  {
+    "ID": "TR_16f6b538",
+    "parent": "conduction",
+    "child": "electric conduction"
+  },
+  {
+    "ID": "TR_bf54aa19",
+    "parent": "measured property",
+    "child": "acceleration"
+  },
+  {
+    "ID": "TR_7108cede",
+    "parent": "MolecularQuality",
+    "child": "aromaticity"
+  },
+  {
+    "ID": "TR_41e5084e",
+    "parent": "density",
+    "child": "mass density"
+  },
+  {
+    "ID": "TR_a8be321a",
+    "parent": "measured property",
+    "child": "electric charge"
+  },
+  {
+    "ID": "TR_14b5023a",
+    "parent": "organic group",
+    "child": "secondary amine group"
+  },
+  {
+    "ID": "TR_7bfa1db6",
+    "parent": "realizable_entity",
+    "child": "disposition"
+  },
+  {
+    "ID": "TR_f2155f88",
+    "parent": "scaled unit",
+    "child": "yotta scaled unit"
+  },
+  {
+    "ID": "TR_c39f9b91",
+    "parent": "molecular geometry",
+    "child": "trigonal bipyramidal molecular geometry"
+  },
+  {
+    "ID": "TR_0b2009ef",
+    "parent": "measured property",
+    "child": "grain size"
+  },
+  {
+    "ID": "TR_aaa4c132",
+    "parent": "measured property",
+    "child": "magnetic flux density"
+  },
+  {
+    "ID": "TR_03e224d1",
+    "parent": "periodic table element",
+    "child": "series element"
+  },
+  {
+    "ID": "TR_67641b23",
+    "parent": "atom",
+    "child": "Xenon Atom"
+  },
+  {
+    "ID": "TR_7ad293f2",
+    "parent": "R or S isomer",
+    "child": "R isomer"
+  },
+  {
+    "ID": "TR_b9ca8573",
+    "parent": "atom",
+    "child": "Radon Atom"
+  },
+  {
+    "ID": "TR_3117b33c",
+    "parent": "unit",
+    "child": "electric field strength unit"
+  },
+  {
+    "ID": "TR_8838bc16",
+    "parent": "unit",
+    "child": "catalytic activity unit"
+  },
+  {
+    "ID": "TR_0cfaa6a4",
+    "parent": "radiation unit",
+    "child": "absorbed dose rate unit"
+  },
+  {
+    "ID": "TR_2b82e8f9",
+    "parent": "measured property",
+    "child": "amount of substance"
+  },
+  {
+    "ID": "TR_2722af97",
+    "parent": "atom",
+    "child": "Mendelevium Atom"
+  },
+  {
+    "ID": "TR_bc4e265a",
+    "parent": "acidity",
+    "child": "neutral acidity"
+  },
+  {
+    "ID": "TR_4cde0ff2",
+    "parent": "molecular geometry",
+    "child": "square pyramidal molecular geometry"
+  },
+  {
+    "ID": "TR_3a02cb92",
+    "parent": "element",
+    "child": "Tungsten"
+  },
+  {
+    "ID": "TR_5b7ca28d",
+    "parent": "periodic block",
+    "child": "p-block element"
+  },
+  {
+    "ID": "TR_ad600cf0",
+    "parent": "element",
+    "child": "Meitnerium"
+  },
+  {
+    "ID": "TR_eb8f9a29",
+    "parent": "process",
+    "child": "bond"
+  },
+  {
+    "ID": "TR_e146513d",
+    "parent": "unit",
+    "child": "specific energy unit"
+  },
+  {
+    "ID": "TR_e338ce2c",
+    "parent": "measured property",
+    "child": "energy"
+  },
+  {
+    "ID": "TR_e83e6a28",
+    "parent": "stereo bond",
+    "child": "stereo wedge bond"
+  },
+  {
+    "ID": "TR_440487bb",
+    "parent": "unit",
+    "child": "angle unit"
+  },
+  {
+    "ID": "TR_3ce4a47b",
+    "parent": "element",
+    "child": "Hydrogen"
+  },
+  {
+    "ID": "TR_d176715c",
+    "parent": "atom",
+    "child": "Platinum Atom"
+  },
+  {
+    "ID": "TR_e7c962b6",
+    "parent": "unit",
+    "child": "molar mass unit"
+  },
+  {
+    "ID": "TR_f544294a",
+    "parent": "period element",
+    "child": "period 3 element"
+  },
+  {
+    "ID": "TR_ae0e553b",
+    "parent": "measured property",
+    "child": "radiation"
+  },
+  {
+    "ID": "TR_75f67332",
+    "parent": "unit",
+    "child": "surface tension unit"
+  },
+  {
+    "ID": "TR_39fd0cda",
+    "parent": "unit",
+    "child": "electric flux density unit"
+  },
+  {
+    "ID": "TR_ffc67e7b",
+    "parent": "Reactant",
+    "child": "substrate"
+  }
+]

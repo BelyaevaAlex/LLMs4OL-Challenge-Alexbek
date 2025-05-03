@@ -1,0 +1,654 @@
+carbon allotrope
+specific volume
+composites
+Tellurium
+liquid crystal phase
+spatiotemporal_interval
+element
+molar mass unit
+carbon group
+Cadmium
+organic nitrogen group
+addition reaction
+tertiary amine
+Hardness Range Lower Bound
+energy density unit
+group 14 element
+molar energy unit
+fiat_process_part
+Calcium Atom
+unit raised to power of three
+Radium Atom
+parts per notation
+conduction
+Empirical Formula
+g-block element
+triple bond
+isotopic atom count
+organic compound
+displacement reaction
+exposure unit
+amide group
+Gadolinium
+force unit
+Ytterbium Atom
+two_dimensional_region
+Arsenic
+Californium
+acceleration
+imine
+pH
+Gold
+milli scaled unit
+flexural strength
+Vanadium Atom
+aromatic
+Zinc
+Wikipedia
+aryl
+process
+group 7 element
+magnetic flux unit
+plasma phase
+carbonyl compound
+electric charge density
+Rhodium Atom
+general sulfinic acid group
+Vanadium
+neutral phase
+implicit valence
+unit
+conformer
+organic phosphate group
+R or S isomer
+ChemicalDegradationPathway
+inorganic reaction
+radical
+hybridization
+Fluorine
+acyl group
+catalytic activity
+period 1 element
+isomeric smiles
+Caesium Atom
+Calcium
+electric current density
+Magnesium Atom
+radiant intensity
+area density
+stereo bond
+partition coefficient
+organic reaction
+Holmium
+elastic modulus
+linear molecular geometry
+polarity
+Fermium Atom
+unit raised to power of two
+acid-base reaction
+hydrophobic interaction
+electric current
+periplanar conformation
+catalytic concentration unit
+methyl group
+dependent_continuant
+lonsdaleite
+three_dimensional_region
+glasses
+homocyclic
+volume density unit
+ring
+Ununhexium Atom
+Ununtrium Atom
+electric field strength unit
+covalent bond
+Structure Type
+polymers
+Germanium
+Ununseptium
+ionic bond
+molecular geometry
+chaoite
+Arsenic Atom
+R isomer
+molar entropy
+radiant intensity unit
+Reactant
+Stress
+specific energy
+irradiance unit
+secondary amine group
+Rhenium Atom
+Tellurium Atom
+spatiotemporal_instant
+uncommon chemical phase
+D or L isomer
+super solid phase
+f-block element
+Sulfur
+Cadmium Atom
+molecule
+Thallium Atom
+Hardness Range
+isolated thermodynamic system
+Indium Atom
+Scandium
+synthesis reaction
+Ununseptium Atom
+Cofactor
+non polar
+Caesium
+Barium
+electric flux density unit
+time
+stereoisomer
+D isomer
+enthalpy unit
+zepto scaled unit
+period 3 element
+realizable_entity
+temperature unit
+ester group
+carbonyl group
+allotrope
+undefined stereo bond count
+Americium Atom
+Tungsten Atom
+unit raised to power of one
+electronic interaction
+radiance
+band gap
+period 6 element
+Potassium Atom
+organic sulfur compound
+chemical agent
+Radium
+chemical phase
+electric resistance unit
+Tantalum Atom
+molecular mass unit
+Temperature Range Lower Bound
+Argon Atom
+angular acceleration
+grain size
+connected_temporal_region
+Sodium
+Concentration
+Ununhexium
+radical center
+Bromine
+Ununbium Atom
+luminous flux
+mulliken electronegativity
+acyl halide
+compound
+d-block element
+anti conformation
+Ununpentium Atom
+Darmstadtium
+source
+currency unit
+trigonal bipyramidal molecular geometry
+intensive property
+boron group element
+velocity unit
+electric current unit
+series element
+catalytic concentration
+noble gas
+tera scaled unit
+Terbium Atom
+undefined stereo atom count
+magnetic flux
+organic group
+Strontium Atom
+plane angle
+chalcogen
+Hardness
+electromagnetic radiation unit
+Ununquadium Atom
+aldehyde
+surface tension
+connected_spatiotemporal_region
+Xenon Atom
+Samarium Atom
+Praseodymium Atom
+Mercury
+rotamer
+velocity
+angle unit
+deka scaled unit
+carboxylic acid group
+flexural modulus
+Titanium
+Iron Atom
+group 15 element
+Hassium Atom
+power unit
+cyclic
+topological complex
+double bond
+Yttrium Atom
+organic sulfur group
+angular velocity unit
+Lead
+Selenium Atom
+Palladium Atom
+Polonium Atom
+Chemical Formula
+atom
+neutral acidity
+amine
+count
+isomerization
+occurrent
+temperature
+non metal
+diastereomer
+luminous flux unit
+electrophilic addition reaction
+electrostatic interaction
+Radon
+octahedral molecular geometry
+luminance
+kilo scaled unit
+Radon Atom
+OpticalIsomer
+Thermal Expansion
+process_aggregate
+acyclic
+acyl iodide group
+group element
+non aromatic
+Gallium Atom
+internal energy
+component count
+sulfoxide group
+molecular complex formation
+electric current density unit
+unit raised to power of negative three
+Ununtrium
+anion
+Lanthanum
+transition metal
+Ceramic Material
+Einsteinium
+crystal system
+Temperature Range
+primary amine
+exa scaled unit
+spatial_region
+group 17 element
+energy
+material
+surface tension unit
+chemical substance
+hydrophobic
+aromatic ring
+space group number
+Bismuth Atom
+electric flux density
+unit raised to power of negative one
+homogeneous mixture
+metal complex
+aggregated carbon nanorods
+molecular center
+radioactivity activity
+plane angle unit
+Molybdenum
+Tungsten
+dynamic viscosity unit
+racemic mixture
+group 13 element
+heat capacity
+pressure
+group 18 element
+permeability unit
+period 4 element
+Magnesium
+illuminance
+Lithium Atom
+ionic compound
+hydrophobicity
+entity
+specific energy unit
+isomer
+Rubidium Atom
+Ununbium
+HeteroAtom
+aromaticity
+peta scaled unit
+MoleculeComponentCount
+Osmium
+power
+Aluminium Atom
+processual_entity
+Beryllium
+Mendelevium Atom
+exposure
+Ununquadium
+continuant
+stereo wedge bond
+nitrogen group element
+area
+specific volume unit
+single displacement reaction
+fiat_object_part
+thiol group
+thermal conduction unit
+site
+common chemical phase
+Unununium Atom
+wavenumber unit
+acyl halide group
+Erbium Atom
+spatiotemporal_region
+Actinium
+thermodynamic system
+Dysprosium
+Product
+object
+molar energy
+magnetic flux density
+permittivity
+permittivity unit
+electric charge density unit
+HalogenAtom
+Alloy
+molecular complex assembly
+scaled unit
+square planar molecular geometry
+non aromatic ring
+Boron
+Holmium Atom
+radiance unit
+period 7 element
+ultimate tensile strength
+Ununnilium
+group 16 element
+identifier
+polar addition reaction
+MolecularQuality
+moment of force
+Molecular Formula
+binary compound
+Iron
+electric field strength
+absorbed dose unit
+solid phase
+Californium Atom
+material category
+pressure unit
+Gibbs free energy
+irradiance
+catalytic activity unit
+Ruthenium
+electric resistance
+alkali metal
+period element
+specific entropy
+length
+group 10 element
+glassy carbon
+strange matter phase
+enthalpy
+wavenumber
+object_boundary
+acyl chloride group
+Curium
+acyl compound
+redox reaction
+tautomer count
+measured property
+polar surface area
+periodic table element
+sulfonic acid derivative group
+ketone
+Lattice Parameter
+pauling electronegativity
+Thulium Atom
+Krypton
+free radical addition
+refactory
+Cerium Atom
+material quality
+metalloid
+weibull modulus
+magnetic field strength
+potential difference unit
+potential difference
+solid angle
+Hardness Range Upper Bound
+nanomaterials
+Temperature Range Upper Bound
+tertiary amine group
+molecular mass
+p-block element
+Zirconium
+elastomers
+acyl bromide
+Silver
+structural isomer
+chemical reaction pathway
+Oxygen Atom
+Uranium Atom
+Curium Atom
+gas phase
+AcylBromideGroup
+Sulfur Atom
+molecular complex disassociation
+permeability
+dose equivalent unit
+Lithium
+Erbium
+luminance unit
+entropy unit
+Lutetium Atom
+radiation
+trans isomer
+ketone group
+Solution
+S isomer
+nucleophilic addition reaction
+quality
+Selenium
+density
+paramagnetic phase
+Astatine Atom
+stereo hash bond
+cis/trans isomer
+pico scaled unit
+reducing agent
+bond
+capacitance
+linear density
+Chemical Family
+precipitate
+volume
+giga scaled unit
+inductance unit
+hydrogen bond acceptor count
+Phase Equilibrium
+Rutherfordium
+Rubidium
+Ununnilium Atom
+molality unit
+concentration unit
+Europium Atom
+atto scaled unit
+molar entropy unit
+anticlinal conformation
+Yttrium
+complex
+ChemicalSynthesisPathway
+crystalline phase
+Base
+chemical reaction
+acidity
+Tin
+function
+chemical conformation
+frequency unit
+unit raised to power of negative two
+Iridium Atom
+acyl chloride
+Phosphorus
+area unit
+Terbium
+hydrogen bond donor count
+temporal_interval
+electric conduction
+acceleration unit
+Actinium Atom
+luminous intensity
+amount of substance
+homo cyclic ring
+square pyramidal molecular geometry
+inductance
+Seaborgium
+acyl iodide
+electric conduction unit
+femto scaled unit
+Europium
+dipole-dipole interaction
+yocto scaled unit
+imine group
+decomposition reaction
+Hafnium
+group 1 element
+acid
+linear density unit
+angular velocity
+Melting Point
+specific entropy unit
+Palladium
+molecular formula
+group 9 element
+absorbed dose
+cyclicity
+Cerium
+Lawrencium Atom
+systematic name
+Lutetium
+centi scaled unit
+gauche conformation
+Ion
+polar bond
+period 5 element
+Silicon Atom
+conduction unit
+radiation unit
+absorbed dose rate unit
+zero_dimensional_region
+entropy
+hecto scaled unit
+Xenon
+rotatable bond count
+ceramics
+ferromagnetic phase
+disulfide bond
+length unit
+non polar addition reaction
+cation pi interaction
+Platinum Atom
+shifted unit
+mass density
+polar
+fullerene
+Electronegativity
+defined stereo bond count
+area density unit
+sulfonic acid group
+Protactinium Atom
+illuminance unit
+catalyst
+volume unit
+space group property
+Hydrogen
+nano scaled unit
+trigonal pyramidal molecular geometry
+viscosity
+substrate
+DerivedUnit
+catalyzed reaction
+Helmholtz free energy
+electromagnetic radation
+alkaline earth metal
+halogen
+mass unit
+hydrogen bond
+specific heat
+Mercury Atom
+Strontium
+Uranium
+electric charge
+intermolecular interaction
+open thermodynamic system
+molality
+Francium Atom
+lanthanide
+closed thermodynamic system
+mixture
+Helium Atom
+density unit
+Krypton Atom
+deci scaled unit
+Reagent
+group 11 element
+Boron Atom
+extensive property
+Enantiomer
+chiral center
+unit raised to power
+capacitance unit
+molar mass
+traditional name
+Ununoctium
+yotta scaled unit
+aromatic bond
+name
+solid angle unit
+chemical quality
+oxidizing agent
+energy unit
+period 2 element
+solvent
+moment of force unit
+Lawrencium
+Ununoctium Atom
+cation
+angular acceleration unit
+angle
+independent_continuant
+thermal conduction
+Oxygen
+fracture toughness
+Meitnerium
+Plutonium
+amount of substance concentration
+group 4 element
+cis isomer
+Hydrogen Atom
+pure substance
+pH unit
+single bond
+frequency
+temporal_instant
+Cobalt Atom
+atom property
+force
+Promethium
+equivalent dose
+absorbed dose rate
+Manganese Atom
+disposition
+magnetic flux density unit
+Praseodymium
+chemical interaction
+periodic block
+mass
+Germanium Atom
+metals
+Tin Atom
+Chemical Class
+amount of substance concentration unit

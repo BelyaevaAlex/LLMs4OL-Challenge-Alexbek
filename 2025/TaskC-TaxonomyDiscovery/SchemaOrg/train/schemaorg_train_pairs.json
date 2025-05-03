@@ -1,0 +1,3617 @@
+[
+  {
+    "ID": "TR_56ac8cd6",
+    "parent": "Enumeration",
+    "child": "WarrantyScope"
+  },
+  {
+    "ID": "TR_f00fae20",
+    "parent": "Text",
+    "child": "CssSelectorType"
+  },
+  {
+    "ID": "TR_0d2dca15",
+    "parent": "Intangible",
+    "child": "HealthInsurancePlan"
+  },
+  {
+    "ID": "TR_e6303dd1",
+    "parent": "PerformingGroup",
+    "child": "TheaterGroup"
+  },
+  {
+    "ID": "TR_5a0a6adc",
+    "parent": "Event",
+    "child": "TheaterEvent"
+  },
+  {
+    "ID": "TR_321c3635",
+    "parent": "Event",
+    "child": "FoodEvent"
+  },
+  {
+    "ID": "TR_c78a3b30",
+    "parent": "CivicStructure",
+    "child": "BusStop"
+  },
+  {
+    "ID": "TR_f4a21dff",
+    "parent": "PriceSpecification",
+    "child": "PaymentChargeSpecification"
+  },
+  {
+    "ID": "TR_8617d2a8",
+    "parent": "ReactAction",
+    "child": "EndorseAction"
+  },
+  {
+    "ID": "TR_508c6d72",
+    "parent": "InformAction",
+    "child": "RsvpAction"
+  },
+  {
+    "ID": "TR_fb6ba7d4",
+    "parent": "Accommodation",
+    "child": "House"
+  },
+  {
+    "ID": "TR_7453b28c",
+    "parent": "FinancialProduct",
+    "child": "CurrencyConversionService"
+  },
+  {
+    "ID": "TR_350d0245",
+    "parent": "Organization",
+    "child": "PoliticalParty"
+  },
+  {
+    "ID": "TR_a3a18773",
+    "parent": "GeoShape",
+    "child": "GeoCircle"
+  },
+  {
+    "ID": "TR_49512980",
+    "parent": "InteractAction",
+    "child": "MarryAction"
+  },
+  {
+    "ID": "TR_263c1f88",
+    "parent": "Product",
+    "child": "ProductGroup"
+  },
+  {
+    "ID": "TR_14a7446e",
+    "parent": "Enumeration",
+    "child": "MusicReleaseFormatType"
+  },
+  {
+    "ID": "TR_4c969acc",
+    "parent": "MedicalAudience",
+    "child": "Patient"
+  },
+  {
+    "ID": "TR_883ba10d",
+    "parent": "CommunicateAction",
+    "child": "AskAction"
+  },
+  {
+    "ID": "TR_ed84ee52",
+    "parent": "LocalBusiness",
+    "child": "ProfessionalService"
+  },
+  {
+    "ID": "TR_5affe4ac",
+    "parent": "HowToItem",
+    "child": "HowToTool"
+  },
+  {
+    "ID": "TR_cc299455",
+    "parent": "CreativeWork",
+    "child": "Statement"
+  },
+  {
+    "ID": "TR_d4cb22d1",
+    "parent": "MedicalOrganization",
+    "child": "Pharmacy"
+  },
+  {
+    "ID": "TR_85e8e295",
+    "parent": "MediaObject",
+    "child": "LegislationObject"
+  },
+  {
+    "ID": "TR_5c2d89d0",
+    "parent": "Enumeration",
+    "child": "DeliveryMethod"
+  },
+  {
+    "ID": "TR_60b0a2b7",
+    "parent": "CreativeWorkSeries",
+    "child": "BookSeries"
+  },
+  {
+    "ID": "TR_eb458929",
+    "parent": "TherapeuticProcedure",
+    "child": "MedicalTherapy"
+  },
+  {
+    "ID": "TR_08124442",
+    "parent": "CreativeWork",
+    "child": "MediaReviewItem"
+  },
+  {
+    "ID": "TR_60b1e063",
+    "parent": "QualitativeValue",
+    "child": "DriveWheelConfigurationValue"
+  },
+  {
+    "ID": "TR_2a25dbda",
+    "parent": "CommunicateAction",
+    "child": "ReplyAction"
+  },
+  {
+    "ID": "TR_01db65bf",
+    "parent": "InvestmentOrDeposit",
+    "child": "DepositAccount"
+  },
+  {
+    "ID": "TR_bdc25f70",
+    "parent": "SportsActivityLocation",
+    "child": "HealthClub"
+  },
+  {
+    "ID": "TR_b143a0c8",
+    "parent": "UserInteraction",
+    "child": "UserTweets"
+  },
+  {
+    "ID": "TR_0b73e46f",
+    "parent": "CreateAction",
+    "child": "WriteAction"
+  },
+  {
+    "ID": "TR_a97dadae",
+    "parent": "Person",
+    "child": "Patient"
+  },
+  {
+    "ID": "TR_5993033d",
+    "parent": "SportsActivityLocation",
+    "child": "PublicSwimmingPool"
+  },
+  {
+    "ID": "TR_da8032fa",
+    "parent": "Store",
+    "child": "ClothingStore"
+  },
+  {
+    "ID": "TR_5487508b",
+    "parent": "EmergencyService",
+    "child": "PoliceStation"
+  },
+  {
+    "ID": "TR_d8097792",
+    "parent": "PublicationEvent",
+    "child": "OnDemandEvent"
+  },
+  {
+    "ID": "TR_c9584ef9",
+    "parent": "ComicStory",
+    "child": "ComicCoverArt"
+  },
+  {
+    "ID": "TR_a0ddd04d",
+    "parent": "LodgingBusiness",
+    "child": "BedAndBreakfast"
+  },
+  {
+    "ID": "TR_2d1b91b3",
+    "parent": "PaymentMethod",
+    "child": "PaymentService"
+  },
+  {
+    "ID": "TR_ea642677",
+    "parent": "Organization",
+    "child": "Project"
+  },
+  {
+    "ID": "TR_f3ab674a",
+    "parent": "Service",
+    "child": "CableOrSatelliteService"
+  },
+  {
+    "ID": "TR_bc225df4",
+    "parent": "MedicalClinic",
+    "child": "CovidTestingFacility"
+  },
+  {
+    "ID": "TR_8d92bb3b",
+    "parent": "ReactAction",
+    "child": "LikeAction"
+  },
+  {
+    "ID": "TR_818c089b",
+    "parent": "Intangible",
+    "child": "GeospatialGeometry"
+  },
+  {
+    "ID": "TR_6e9a4a86",
+    "parent": "Enumeration",
+    "child": "BookFormatType"
+  },
+  {
+    "ID": "TR_08cefd81",
+    "parent": "CreativeWork",
+    "child": "DigitalDocument"
+  },
+  {
+    "ID": "TR_a5f2842d",
+    "parent": "CreativeWork",
+    "child": "TVSeries"
+  },
+  {
+    "ID": "TR_0fc574b0",
+    "parent": "StructuredValue",
+    "child": "PriceSpecification"
+  },
+  {
+    "ID": "TR_452a7a3e",
+    "parent": "InteractAction",
+    "child": "SubscribeAction"
+  },
+  {
+    "ID": "TR_f55ca592",
+    "parent": "MedicalEntity",
+    "child": "SuperficialAnatomy"
+  },
+  {
+    "ID": "TR_b2403b3c",
+    "parent": "Action",
+    "child": "AchieveAction"
+  },
+  {
+    "ID": "TR_88ea12d9",
+    "parent": "MedicalEntity",
+    "child": "MedicalRiskEstimator"
+  },
+  {
+    "ID": "TR_21f53ab9",
+    "parent": "ControlAction",
+    "child": "DeactivateAction"
+  },
+  {
+    "ID": "TR_aa390dba",
+    "parent": "DataType",
+    "child": "DateTime"
+  },
+  {
+    "ID": "TR_9447c5a6",
+    "parent": "ListItem",
+    "child": "HowToDirection"
+  },
+  {
+    "ID": "TR_ef49aeee",
+    "parent": "Store",
+    "child": "LiquorStore"
+  },
+  {
+    "ID": "TR_7d697a49",
+    "parent": "HomeAndConstructionBusiness",
+    "child": "Plumber"
+  },
+  {
+    "ID": "TR_edab4e20",
+    "parent": "Store",
+    "child": "WholesaleStore"
+  },
+  {
+    "ID": "TR_6b3ea3ba",
+    "parent": "LifestyleModification",
+    "child": "PhysicalActivity"
+  },
+  {
+    "ID": "TR_7e44a16b",
+    "parent": "MediaObject",
+    "child": "3DModel"
+  },
+  {
+    "ID": "TR_b537d823",
+    "parent": "TradeAction",
+    "child": "OrderAction"
+  },
+  {
+    "ID": "TR_9bda7733",
+    "parent": "ListItem",
+    "child": "HowToStep"
+  },
+  {
+    "ID": "TR_f2b46085",
+    "parent": "Episode",
+    "child": "TVEpisode"
+  },
+  {
+    "ID": "TR_474ec265",
+    "parent": "Product",
+    "child": "Drug"
+  },
+  {
+    "ID": "TR_eb3bfe99",
+    "parent": "StructuredValue",
+    "child": "PropertyValue"
+  },
+  {
+    "ID": "TR_69527f7d",
+    "parent": "Grant",
+    "child": "MonetaryGrant"
+  },
+  {
+    "ID": "TR_cfe9be33",
+    "parent": "MedicalAudience",
+    "child": "Patient"
+  },
+  {
+    "ID": "TR_df1d37b0",
+    "parent": "Series",
+    "child": "EventSeries"
+  },
+  {
+    "ID": "TR_2d8d1703",
+    "parent": "Enumeration",
+    "child": "MediaManipulationRatingEnumeration"
+  },
+  {
+    "ID": "TR_e6b43f34",
+    "parent": "StatusEnumeration",
+    "child": "ActionStatusType"
+  },
+  {
+    "ID": "TR_8249c9bc",
+    "parent": "CommunicateAction",
+    "child": "InformAction"
+  },
+  {
+    "ID": "TR_f660ed14",
+    "parent": "Substance",
+    "child": "DietarySupplement"
+  },
+  {
+    "ID": "TR_c12d0028",
+    "parent": "DataType",
+    "child": "Time"
+  },
+  {
+    "ID": "TR_74bc1982",
+    "parent": "MedicalStudy",
+    "child": "MedicalTrial"
+  },
+  {
+    "ID": "TR_c5f139ba",
+    "parent": "Intangible",
+    "child": "MediaSubscription"
+  },
+  {
+    "ID": "TR_4b91ed16",
+    "parent": "PaymentMethod",
+    "child": "PaymentService"
+  },
+  {
+    "ID": "TR_997e6fb5",
+    "parent": "Enumeration",
+    "child": "PriceComponentTypeEnumeration"
+  },
+  {
+    "ID": "TR_fda6b901",
+    "parent": "CriticReview",
+    "child": "ReviewNewsArticle"
+  },
+  {
+    "ID": "TR_0b337d65",
+    "parent": "OrganizeAction",
+    "child": "BookmarkAction"
+  },
+  {
+    "ID": "TR_d7572cba",
+    "parent": "PeopleAudience",
+    "child": "MedicalAudience"
+  },
+  {
+    "ID": "TR_c96205f0",
+    "parent": "Intangible",
+    "child": "DataFeedItem"
+  },
+  {
+    "ID": "TR_0a008e51",
+    "parent": "CreativeWork",
+    "child": "Conversation"
+  },
+  {
+    "ID": "TR_49098dde",
+    "parent": "StatusEnumeration",
+    "child": "ReservationStatusType"
+  },
+  {
+    "ID": "TR_00d37838",
+    "parent": "LifestyleModification",
+    "child": "Diet"
+  },
+  {
+    "ID": "TR_d11e7b24",
+    "parent": "Trip",
+    "child": "BusTrip"
+  },
+  {
+    "ID": "TR_a2aa87bd",
+    "parent": "CreativeWork",
+    "child": "Map"
+  },
+  {
+    "ID": "TR_6c588693",
+    "parent": "EntertainmentBusiness",
+    "child": "MovieTheater"
+  },
+  {
+    "ID": "TR_c2d9dd2a",
+    "parent": "WebPageElement",
+    "child": "SiteNavigationElement"
+  },
+  {
+    "ID": "TR_303a35ed",
+    "parent": "PublicationEvent",
+    "child": "BroadcastEvent"
+  },
+  {
+    "ID": "TR_ca02c34d",
+    "parent": "StructuredValue",
+    "child": "DatedMoneySpecification"
+  },
+  {
+    "ID": "TR_542eff3a",
+    "parent": "ControlAction",
+    "child": "SuspendAction"
+  },
+  {
+    "ID": "TR_8cd7f30b",
+    "parent": "MedicalEnumeration",
+    "child": "MedicalObservationalStudyDesign"
+  },
+  {
+    "ID": "TR_59196364",
+    "parent": "Enumeration",
+    "child": "HealthAspectEnumeration"
+  },
+  {
+    "ID": "TR_1289de1b",
+    "parent": "AllocateAction",
+    "child": "RejectAction"
+  },
+  {
+    "ID": "TR_cd43be14",
+    "parent": "ListItem",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_be27a3ed",
+    "parent": "Enumeration",
+    "child": "Specialty"
+  },
+  {
+    "ID": "TR_c7c1e846",
+    "parent": "MoveAction",
+    "child": "TravelAction"
+  },
+  {
+    "ID": "TR_9e5de2aa",
+    "parent": "ComicStory",
+    "child": "ComicCoverArt"
+  },
+  {
+    "ID": "TR_425509e1",
+    "parent": "DataType",
+    "child": "Boolean"
+  },
+  {
+    "ID": "TR_f52e274d",
+    "parent": "Enumeration",
+    "child": "MeasurementMethodEnum"
+  },
+  {
+    "ID": "TR_bbc92d52",
+    "parent": "InteractAction",
+    "child": "CommunicateAction"
+  },
+  {
+    "ID": "TR_c5f28039",
+    "parent": "EntertainmentBusiness",
+    "child": "AmusementPark"
+  },
+  {
+    "ID": "TR_d321a63e",
+    "parent": "Enumeration",
+    "child": "MedicalEnumeration"
+  },
+  {
+    "ID": "TR_437e3a32",
+    "parent": "Legislation",
+    "child": "LegislationObject"
+  },
+  {
+    "ID": "TR_8ed717e9",
+    "parent": "MedicalBusiness",
+    "child": "MedicalClinic"
+  },
+  {
+    "ID": "TR_929e8658",
+    "parent": "LodgingBusiness",
+    "child": "VacationRental"
+  },
+  {
+    "ID": "TR_15673899",
+    "parent": "StructuredValue",
+    "child": "OpeningHoursSpecification"
+  },
+  {
+    "ID": "TR_ff29d330",
+    "parent": "Intangible",
+    "child": "EducationalOccupationalProgram"
+  },
+  {
+    "ID": "TR_5b6358ff",
+    "parent": "AssessAction",
+    "child": "ReactAction"
+  },
+  {
+    "ID": "TR_8405d961",
+    "parent": "Store",
+    "child": "BikeStore"
+  },
+  {
+    "ID": "TR_7af15a3c",
+    "parent": "CivicStructure",
+    "child": "BusStation"
+  },
+  {
+    "ID": "TR_b7ce0f5a",
+    "parent": "CivicStructure",
+    "child": "MovieTheater"
+  },
+  {
+    "ID": "TR_2fd7fec6",
+    "parent": "CreativeWork",
+    "child": "TVSeason"
+  },
+  {
+    "ID": "TR_821861e4",
+    "parent": "CivicStructure",
+    "child": "Aquarium"
+  },
+  {
+    "ID": "TR_adfa12ab",
+    "parent": "Organization",
+    "child": "GovernmentOrganization"
+  },
+  {
+    "ID": "TR_9cdc3745",
+    "parent": "Organization",
+    "child": "Airline"
+  },
+  {
+    "ID": "TR_0412c075",
+    "parent": "StructuredValue",
+    "child": "TypeAndQuantityNode"
+  },
+  {
+    "ID": "TR_8d3b93e8",
+    "parent": "ControlAction",
+    "child": "ActivateAction"
+  },
+  {
+    "ID": "TR_dbf438e2",
+    "parent": "SizeSystemEnumeration",
+    "child": "WearableSizeSystemEnumeration"
+  },
+  {
+    "ID": "TR_5e0fb513",
+    "parent": "AutomotiveBusiness",
+    "child": "GasStation"
+  },
+  {
+    "ID": "TR_115bea5a",
+    "parent": "MedicalBusiness",
+    "child": "MedicalClinic"
+  },
+  {
+    "ID": "TR_fb5b3646",
+    "parent": "Accommodation",
+    "child": "Suite"
+  },
+  {
+    "ID": "TR_045b58ae",
+    "parent": "Enumeration",
+    "child": "RefundTypeEnumeration"
+  },
+  {
+    "ID": "TR_4c1560f8",
+    "parent": "FinancialService",
+    "child": "BankOrCreditUnion"
+  },
+  {
+    "ID": "TR_9e7f6552",
+    "parent": "Event",
+    "child": "ComedyEvent"
+  },
+  {
+    "ID": "TR_758c8f27",
+    "parent": "Intangible",
+    "child": "Property"
+  },
+  {
+    "ID": "TR_f182bb7b",
+    "parent": "Service",
+    "child": "TaxiService"
+  },
+  {
+    "ID": "TR_da24eb6d",
+    "parent": "Action",
+    "child": "TradeAction"
+  },
+  {
+    "ID": "TR_327acc16",
+    "parent": "Trip",
+    "child": "TrainTrip"
+  },
+  {
+    "ID": "TR_e5f21d28",
+    "parent": "FoodEstablishment",
+    "child": "Bakery"
+  },
+  {
+    "ID": "TR_1e344e40",
+    "parent": "SportsActivityLocation",
+    "child": "ExerciseGym"
+  },
+  {
+    "ID": "TR_e11fdcd1",
+    "parent": "Room",
+    "child": "MeetingRoom"
+  },
+  {
+    "ID": "TR_57a681de",
+    "parent": "Vessel",
+    "child": "Vein"
+  },
+  {
+    "ID": "TR_0c0f3372",
+    "parent": "WebPage",
+    "child": "SearchResultsPage"
+  },
+  {
+    "ID": "TR_4adcc4b6",
+    "parent": "SizeGroupEnumeration",
+    "child": "WearableSizeGroupEnumeration"
+  },
+  {
+    "ID": "TR_aa05482f",
+    "parent": "LodgingBusiness",
+    "child": "Resort"
+  },
+  {
+    "ID": "TR_2d93f341",
+    "parent": "Resort",
+    "child": "SkiResort"
+  },
+  {
+    "ID": "TR_01cf2f01",
+    "parent": "Event",
+    "child": "Festival"
+  },
+  {
+    "ID": "TR_40a5c911",
+    "parent": "Review",
+    "child": "ClaimReview"
+  },
+  {
+    "ID": "TR_bf68bf50",
+    "parent": "QuantitativeValue",
+    "child": "Observation"
+  },
+  {
+    "ID": "TR_c4facfc3",
+    "parent": "CreativeWork",
+    "child": "Photograph"
+  },
+  {
+    "ID": "TR_1940ec8f",
+    "parent": "Action",
+    "child": "OrganizeAction"
+  },
+  {
+    "ID": "TR_59d316ed",
+    "parent": "LocalBusiness",
+    "child": "AnimalShelter"
+  },
+  {
+    "ID": "TR_feaea328",
+    "parent": "Reservation",
+    "child": "BoatReservation"
+  },
+  {
+    "ID": "TR_f992cb09",
+    "parent": "Clip",
+    "child": "TVClip"
+  },
+  {
+    "ID": "TR_56a78650",
+    "parent": "TradeAction",
+    "child": "PayAction"
+  },
+  {
+    "ID": "TR_3e161cff",
+    "parent": "DigitalDocument",
+    "child": "TextDigitalDocument"
+  },
+  {
+    "ID": "TR_d3edbc01",
+    "parent": "CivicStructure",
+    "child": "PublicToilet"
+  },
+  {
+    "ID": "TR_67e3be53",
+    "parent": "ContactPoint",
+    "child": "PostalAddress"
+  },
+  {
+    "ID": "TR_1ceae707",
+    "parent": "ConsumeAction",
+    "child": "UseAction"
+  },
+  {
+    "ID": "TR_daa8525e",
+    "parent": "DoseSchedule",
+    "child": "MaximumDoseSchedule"
+  },
+  {
+    "ID": "TR_f5e8cefc",
+    "parent": "LegalService",
+    "child": "Attorney"
+  },
+  {
+    "ID": "TR_912912eb",
+    "parent": "LocalBusiness",
+    "child": "FoodEstablishment"
+  },
+  {
+    "ID": "TR_93841b09",
+    "parent": "Reservation",
+    "child": "EventReservation"
+  },
+  {
+    "ID": "TR_dce7c5f8",
+    "parent": "FoodEstablishment",
+    "child": "Winery"
+  },
+  {
+    "ID": "TR_005af4ec",
+    "parent": "WebPage",
+    "child": "FAQPage"
+  },
+  {
+    "ID": "TR_4d42df4d",
+    "parent": "PriceSpecification",
+    "child": "UnitPriceSpecification"
+  },
+  {
+    "ID": "TR_172a1cac",
+    "parent": "QualitativeValue",
+    "child": "SizeSpecification"
+  },
+  {
+    "ID": "TR_8ea935f3",
+    "parent": "Resort",
+    "child": "SkiResort"
+  },
+  {
+    "ID": "TR_00cf9527",
+    "parent": "Store",
+    "child": "OfficeEquipmentStore"
+  },
+  {
+    "ID": "TR_2d78e219",
+    "parent": "MedicalEntity",
+    "child": "DrugCost"
+  },
+  {
+    "ID": "TR_750711d7",
+    "parent": "Intangible",
+    "child": "HealthPlanFormulary"
+  },
+  {
+    "ID": "TR_a897ba09",
+    "parent": "Intangible",
+    "child": "Audience"
+  },
+  {
+    "ID": "TR_f91e4c8d",
+    "parent": "FoodEstablishment",
+    "child": "CafeOrCoffeeShop"
+  },
+  {
+    "ID": "TR_7b404048",
+    "parent": "OrganizeAction",
+    "child": "AllocateAction"
+  },
+  {
+    "ID": "TR_e9ba4491",
+    "parent": "CreativeWork",
+    "child": "Claim"
+  },
+  {
+    "ID": "TR_56f764a1",
+    "parent": "CreativeWork",
+    "child": "WebPage"
+  },
+  {
+    "ID": "TR_35841b06",
+    "parent": "CreativeWork",
+    "child": "TVSeason"
+  },
+  {
+    "ID": "TR_3aa79a4a",
+    "parent": "CoverArt",
+    "child": "ComicCoverArt"
+  },
+  {
+    "ID": "TR_8f151760",
+    "parent": "CreativeWork",
+    "child": "ArchiveComponent"
+  },
+  {
+    "ID": "TR_5bb7a2e1",
+    "parent": "RadioChannel",
+    "child": "FMRadioChannel"
+  },
+  {
+    "ID": "TR_201c47f0",
+    "parent": "Enumeration",
+    "child": "PriceTypeEnumeration"
+  },
+  {
+    "ID": "TR_f2ff4b9d",
+    "parent": "MedicalEntity",
+    "child": "LifestyleModification"
+  },
+  {
+    "ID": "TR_5260e085",
+    "parent": "InteractAction",
+    "child": "JoinAction"
+  },
+  {
+    "ID": "TR_4b3be555",
+    "parent": "Series",
+    "child": "EventSeries"
+  },
+  {
+    "ID": "TR_87ca20ab",
+    "parent": "Organization",
+    "child": "LocalBusiness"
+  },
+  {
+    "ID": "TR_cc102828",
+    "parent": "SportsActivityLocation",
+    "child": "TennisComplex"
+  },
+  {
+    "ID": "TR_fb062b8c",
+    "parent": "Review",
+    "child": "UserReview"
+  },
+  {
+    "ID": "TR_109293e0",
+    "parent": "FindAction",
+    "child": "TrackAction"
+  },
+  {
+    "ID": "TR_914af63b",
+    "parent": "CreativeWorkSeries",
+    "child": "TVSeries"
+  },
+  {
+    "ID": "TR_ce25b20c",
+    "parent": "Store",
+    "child": "ShoeStore"
+  },
+  {
+    "ID": "TR_fc5d6bf0",
+    "parent": "Store",
+    "child": "ComputerStore"
+  },
+  {
+    "ID": "TR_af65bc6d",
+    "parent": "Service",
+    "child": "BroadcastService"
+  },
+  {
+    "ID": "TR_244ccc14",
+    "parent": "FoodEstablishment",
+    "child": "Distillery"
+  },
+  {
+    "ID": "TR_45943b91",
+    "parent": "HomeAndConstructionBusiness",
+    "child": "HousePainter"
+  },
+  {
+    "ID": "TR_3fede5cb",
+    "parent": "Enumeration",
+    "child": "MusicAlbumReleaseType"
+  },
+  {
+    "ID": "TR_f719ab15",
+    "parent": "MedicalSignOrSymptom",
+    "child": "MedicalSymptom"
+  },
+  {
+    "ID": "TR_93f8fa47",
+    "parent": "Event",
+    "child": "SportsEvent"
+  },
+  {
+    "ID": "TR_fb77fbc9",
+    "parent": "Service",
+    "child": "FoodService"
+  },
+  {
+    "ID": "TR_851dad44",
+    "parent": "AutomotiveBusiness",
+    "child": "AutoWash"
+  },
+  {
+    "ID": "TR_17521975",
+    "parent": "Reservation",
+    "child": "LodgingReservation"
+  },
+  {
+    "ID": "TR_b5b88680",
+    "parent": "LocalBusiness",
+    "child": "EntertainmentBusiness"
+  },
+  {
+    "ID": "TR_ac606520",
+    "parent": "Enumeration",
+    "child": "GovernmentBenefitsType"
+  },
+  {
+    "ID": "TR_fba1a7f5",
+    "parent": "EmergencyService",
+    "child": "FireStation"
+  },
+  {
+    "ID": "TR_c22ef2a5",
+    "parent": "DigitalDocument",
+    "child": "PresentationDigitalDocument"
+  },
+  {
+    "ID": "TR_25a1956e",
+    "parent": "StructuredValue",
+    "child": "EngineSpecification"
+  },
+  {
+    "ID": "TR_7bb5cb63",
+    "parent": "Role",
+    "child": "OrganizationRole"
+  },
+  {
+    "ID": "TR_3e7c79f1",
+    "parent": "PlanAction",
+    "child": "ReserveAction"
+  },
+  {
+    "ID": "TR_f7e774be",
+    "parent": "MedicalEntity",
+    "child": "MedicalIntangible"
+  },
+  {
+    "ID": "TR_a87b9f82",
+    "parent": "LocalBusiness",
+    "child": "TelevisionStation"
+  },
+  {
+    "ID": "TR_46ae0ba3",
+    "parent": "Intangible",
+    "child": "EnergyConsumptionDetails"
+  },
+  {
+    "ID": "TR_3d2a9983",
+    "parent": "AddAction",
+    "child": "InsertAction"
+  },
+  {
+    "ID": "TR_1a835ed7",
+    "parent": "FinancialProduct",
+    "child": "BankAccount"
+  },
+  {
+    "ID": "TR_6d976bcd",
+    "parent": "TransferAction",
+    "child": "ReturnAction"
+  },
+  {
+    "ID": "TR_26567a12",
+    "parent": "Intangible",
+    "child": "Schedule"
+  },
+  {
+    "ID": "TR_2896025d",
+    "parent": "Comment",
+    "child": "Question"
+  },
+  {
+    "ID": "TR_112f2293",
+    "parent": "Intangible",
+    "child": "ListItem"
+  },
+  {
+    "ID": "TR_55605c6a",
+    "parent": "Clip",
+    "child": "VideoGameClip"
+  },
+  {
+    "ID": "TR_a5cec5ab",
+    "parent": "CreativeWork",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_d340d222",
+    "parent": "StructuredValue",
+    "child": "OfferShippingDetails"
+  },
+  {
+    "ID": "TR_2346422d",
+    "parent": "Quantity",
+    "child": "Mass"
+  },
+  {
+    "ID": "TR_49435299",
+    "parent": "RadioChannel",
+    "child": "AMRadioChannel"
+  },
+  {
+    "ID": "TR_289ad278",
+    "parent": "LocalBusiness",
+    "child": "GovernmentOffice"
+  },
+  {
+    "ID": "TR_745f4476",
+    "parent": "ListItem",
+    "child": "HowToItem"
+  },
+  {
+    "ID": "TR_b3d22da4",
+    "parent": "FinancialService",
+    "child": "InsuranceAgency"
+  },
+  {
+    "ID": "TR_dc6a3680",
+    "parent": "Enumeration",
+    "child": "LegalValueLevel"
+  },
+  {
+    "ID": "TR_802d041b",
+    "parent": "Comment",
+    "child": "CorrectionComment"
+  },
+  {
+    "ID": "TR_fe00f5f0",
+    "parent": "Product",
+    "child": "ProductModel"
+  },
+  {
+    "ID": "TR_88689801",
+    "parent": "InsertAction",
+    "child": "PrependAction"
+  },
+  {
+    "ID": "TR_cad33c5c",
+    "parent": "Legislation",
+    "child": "LegislationObject"
+  },
+  {
+    "ID": "TR_55a95bca",
+    "parent": "WebPageElement",
+    "child": "WPSideBar"
+  },
+  {
+    "ID": "TR_e34c6673",
+    "parent": "AssessAction",
+    "child": "ReviewAction"
+  },
+  {
+    "ID": "TR_82246539",
+    "parent": "Episode",
+    "child": "RadioEpisode"
+  },
+  {
+    "ID": "TR_9b22e8e8",
+    "parent": "CivicStructure",
+    "child": "Park"
+  },
+  {
+    "ID": "TR_e5cc103e",
+    "parent": "CreativeWork",
+    "child": "MusicPlaylist"
+  },
+  {
+    "ID": "TR_23f96b22",
+    "parent": "WebPage",
+    "child": "CheckoutPage"
+  },
+  {
+    "ID": "TR_3baedf40",
+    "parent": "MedicalOrganization",
+    "child": "VeterinaryCare"
+  },
+  {
+    "ID": "TR_0a02ae0f",
+    "parent": "CreativeWork",
+    "child": "Legislation"
+  },
+  {
+    "ID": "TR_61f29fad",
+    "parent": "Substance",
+    "child": "Drug"
+  },
+  {
+    "ID": "TR_b18c2836",
+    "parent": "Place",
+    "child": "LocalBusiness"
+  },
+  {
+    "ID": "TR_a6b7e961",
+    "parent": "Enumeration",
+    "child": "PaymentMethodType"
+  },
+  {
+    "ID": "TR_b04b0767",
+    "parent": "Intangible",
+    "child": "OccupationalExperienceRequirements"
+  },
+  {
+    "ID": "TR_70bce2f9",
+    "parent": "LodgingBusiness",
+    "child": "Motel"
+  },
+  {
+    "ID": "TR_f89856f4",
+    "parent": "WebPage",
+    "child": "QAPage"
+  },
+  {
+    "ID": "TR_bef80ca9",
+    "parent": "CreativeWork",
+    "child": "TVSeries"
+  },
+  {
+    "ID": "TR_dc15d1e9",
+    "parent": "BodyOfWater",
+    "child": "SeaBodyOfWater"
+  },
+  {
+    "ID": "TR_75bd1438",
+    "parent": "ListItem",
+    "child": "HowToDirection"
+  },
+  {
+    "ID": "TR_8cbea639",
+    "parent": "EducationalOrganization",
+    "child": "MiddleSchool"
+  },
+  {
+    "ID": "TR_ce0caf8a",
+    "parent": "CreativeWork",
+    "child": "Poster"
+  },
+  {
+    "ID": "TR_3ea240db",
+    "parent": "MoveAction",
+    "child": "DepartAction"
+  },
+  {
+    "ID": "TR_3420b957",
+    "parent": "DataType",
+    "child": "Text"
+  },
+  {
+    "ID": "TR_71ee442d",
+    "parent": "HomeAndConstructionBusiness",
+    "child": "Electrician"
+  },
+  {
+    "ID": "TR_d7eac297",
+    "parent": "Offer",
+    "child": "AggregateOffer"
+  },
+  {
+    "ID": "TR_f4071cd6",
+    "parent": "TradeAction",
+    "child": "BuyAction"
+  },
+  {
+    "ID": "TR_6bc38bf8",
+    "parent": "Intangible",
+    "child": "MenuItem"
+  },
+  {
+    "ID": "TR_fb8b6c09",
+    "parent": "TransferAction",
+    "child": "MoneyTransfer"
+  },
+  {
+    "ID": "TR_4d2fae6b",
+    "parent": "Intangible",
+    "child": "ConstraintNode"
+  },
+  {
+    "ID": "TR_f27175c8",
+    "parent": "Event",
+    "child": "MusicEvent"
+  },
+  {
+    "ID": "TR_12a18174",
+    "parent": "CreativeWork",
+    "child": "Chapter"
+  },
+  {
+    "ID": "TR_127d7455",
+    "parent": "Quantity",
+    "child": "Distance"
+  },
+  {
+    "ID": "TR_6c0d7148",
+    "parent": "Vessel",
+    "child": "LymphaticVessel"
+  },
+  {
+    "ID": "TR_f15bf82b",
+    "parent": "Enumeration",
+    "child": "ContactPointOption"
+  },
+  {
+    "ID": "TR_c497dc93",
+    "parent": "Intangible",
+    "child": "EntryPoint"
+  },
+  {
+    "ID": "TR_94c01630",
+    "parent": "SoftwareApplication",
+    "child": "VideoGame"
+  },
+  {
+    "ID": "TR_81d2f542",
+    "parent": "Book",
+    "child": "Audiobook"
+  },
+  {
+    "ID": "TR_9f599dab",
+    "parent": "Enumeration",
+    "child": "ReturnLabelSourceEnumeration"
+  },
+  {
+    "ID": "TR_94c775b0",
+    "parent": "CivicStructure",
+    "child": "Zoo"
+  },
+  {
+    "ID": "TR_1a4cabcc",
+    "parent": "CivicStructure",
+    "child": "BoatTerminal"
+  },
+  {
+    "ID": "TR_e295d116",
+    "parent": "Store",
+    "child": "SportingGoodsStore"
+  },
+  {
+    "ID": "TR_4e03e50d",
+    "parent": "MeasurementTypeEnumeration",
+    "child": "WearableMeasurementTypeEnumeration"
+  },
+  {
+    "ID": "TR_2e50cf6d",
+    "parent": "Intangible",
+    "child": "Service"
+  },
+  {
+    "ID": "TR_b066f8d0",
+    "parent": "MedicalEnumeration",
+    "child": "DrugPrescriptionStatus"
+  },
+  {
+    "ID": "TR_452f0898",
+    "parent": "HealthAndBeautyBusiness",
+    "child": "HairSalon"
+  },
+  {
+    "ID": "TR_51989c1c",
+    "parent": "TransferAction",
+    "child": "BorrowAction"
+  },
+  {
+    "ID": "TR_f3d81ee0",
+    "parent": "PlanAction",
+    "child": "ScheduleAction"
+  },
+  {
+    "ID": "TR_20e478e9",
+    "parent": "StatusEnumeration",
+    "child": "EventStatusType"
+  },
+  {
+    "ID": "TR_35a7fa08",
+    "parent": "Intangible",
+    "child": "Series"
+  },
+  {
+    "ID": "TR_edc8d4f4",
+    "parent": "Store",
+    "child": "HardwareStore"
+  },
+  {
+    "ID": "TR_3ec1c948",
+    "parent": "GovernmentBuilding",
+    "child": "LegislativeBuilding"
+  },
+  {
+    "ID": "TR_f6a5ac51",
+    "parent": "Action",
+    "child": "TransferAction"
+  },
+  {
+    "ID": "TR_60a17329",
+    "parent": "FindAction",
+    "child": "CheckAction"
+  },
+  {
+    "ID": "TR_5694ba45",
+    "parent": "BroadcastService",
+    "child": "RadioBroadcastService"
+  },
+  {
+    "ID": "TR_643be19a",
+    "parent": "MedicalEntity",
+    "child": "MedicalCause"
+  },
+  {
+    "ID": "TR_92637051",
+    "parent": "CivicStructure",
+    "child": "SubwayStation"
+  },
+  {
+    "ID": "TR_16869acc",
+    "parent": "Action",
+    "child": "ControlAction"
+  },
+  {
+    "ID": "TR_82bebb98",
+    "parent": "CreativeWork",
+    "child": "SoftwareApplication"
+  },
+  {
+    "ID": "TR_dafc0696",
+    "parent": "Enumeration",
+    "child": "TierBenefitEnumeration"
+  },
+  {
+    "ID": "TR_fd5e6fa5",
+    "parent": "Intangible",
+    "child": "OrderItem"
+  },
+  {
+    "ID": "TR_1a31fb26",
+    "parent": "HomeAndConstructionBusiness",
+    "child": "GeneralContractor"
+  },
+  {
+    "ID": "TR_225ff748",
+    "parent": "GovernmentBuilding",
+    "child": "DefenceEstablishment"
+  },
+  {
+    "ID": "TR_39b58af1",
+    "parent": "MusicPlaylist",
+    "child": "MusicRelease"
+  },
+  {
+    "ID": "TR_905aa9a1",
+    "parent": "CivicStructure",
+    "child": "PoliceStation"
+  },
+  {
+    "ID": "TR_71ca546d",
+    "parent": "CommunicateAction",
+    "child": "ShareAction"
+  },
+  {
+    "ID": "TR_9b5545bc",
+    "parent": "FindAction",
+    "child": "DiscoverAction"
+  },
+  {
+    "ID": "TR_e16defe7",
+    "parent": "CreativeWork",
+    "child": "EducationalOccupationalCredential"
+  },
+  {
+    "ID": "TR_de04fabd",
+    "parent": "CreativeWork",
+    "child": "PublicationIssue"
+  },
+  {
+    "ID": "TR_cc322adc",
+    "parent": "MedicalTherapy",
+    "child": "PalliativeProcedure"
+  },
+  {
+    "ID": "TR_dd1033a0",
+    "parent": "UserInteraction",
+    "child": "UserCheckins"
+  },
+  {
+    "ID": "TR_d6447927",
+    "parent": "Enumeration",
+    "child": "BusinessEntityType"
+  },
+  {
+    "ID": "TR_eb7b4666",
+    "parent": "Intangible",
+    "child": "VirtualLocation"
+  },
+  {
+    "ID": "TR_1dbb778c",
+    "parent": "MedicalProcedure",
+    "child": "TherapeuticProcedure"
+  },
+  {
+    "ID": "TR_ed16ca48",
+    "parent": "MedicalEnumeration",
+    "child": "MedicalEvidenceLevel"
+  },
+  {
+    "ID": "TR_cf59ffe8",
+    "parent": "Action",
+    "child": "MoveAction"
+  },
+  {
+    "ID": "TR_a0420d29",
+    "parent": "CreativeWorkSeason",
+    "child": "TVSeason"
+  },
+  {
+    "ID": "TR_3e538f46",
+    "parent": "House",
+    "child": "SingleFamilyResidence"
+  },
+  {
+    "ID": "TR_ff962d12",
+    "parent": "EntertainmentBusiness",
+    "child": "Casino"
+  },
+  {
+    "ID": "TR_4ea56756",
+    "parent": "Store",
+    "child": "FurnitureStore"
+  },
+  {
+    "ID": "TR_8fb56f64",
+    "parent": "LocalBusiness",
+    "child": "InternetCafe"
+  },
+  {
+    "ID": "TR_cbba2c8b",
+    "parent": "DataFeed",
+    "child": "CompleteDataFeed"
+  },
+  {
+    "ID": "TR_e87418e7",
+    "parent": "ListItem",
+    "child": "HowToTip"
+  },
+  {
+    "ID": "TR_5bd39412",
+    "parent": "WebPage",
+    "child": "ItemPage"
+  },
+  {
+    "ID": "TR_5d08a8cc",
+    "parent": "ConsumeAction",
+    "child": "InstallAction"
+  },
+  {
+    "ID": "TR_da6a7b75",
+    "parent": "Product",
+    "child": "DietarySupplement"
+  },
+  {
+    "ID": "TR_e608d663",
+    "parent": "ConsumeAction",
+    "child": "EatAction"
+  },
+  {
+    "ID": "TR_908059eb",
+    "parent": "LocalBusiness",
+    "child": "RecyclingCenter"
+  },
+  {
+    "ID": "TR_a126810d",
+    "parent": "SocialMediaPosting",
+    "child": "BlogPosting"
+  },
+  {
+    "ID": "TR_24b380c4",
+    "parent": "ConsumeAction",
+    "child": "ReadAction"
+  },
+  {
+    "ID": "TR_32c38c36",
+    "parent": "Place",
+    "child": "TouristDestination"
+  },
+  {
+    "ID": "TR_77b22537",
+    "parent": "Enumeration",
+    "child": "MusicAlbumProductionType"
+  },
+  {
+    "ID": "TR_44826611",
+    "parent": "Organization",
+    "child": "EducationalOrganization"
+  },
+  {
+    "ID": "TR_7ec4a055",
+    "parent": "MedicalProcedure",
+    "child": "PhysicalExam"
+  },
+  {
+    "ID": "TR_6ae04e29",
+    "parent": "BodyOfWater",
+    "child": "Waterfall"
+  },
+  {
+    "ID": "TR_d49f05b8",
+    "parent": "MedicalOrganization",
+    "child": "Dentist"
+  },
+  {
+    "ID": "TR_209d27dd",
+    "parent": "WebContent",
+    "child": "HealthTopicContent"
+  },
+  {
+    "ID": "TR_d523e8c7",
+    "parent": "Enumeration",
+    "child": "DayOfWeek"
+  },
+  {
+    "ID": "TR_8ae9f708",
+    "parent": "CreativeWork",
+    "child": "Code"
+  },
+  {
+    "ID": "TR_f135a432",
+    "parent": "BankAccount",
+    "child": "DepositAccount"
+  },
+  {
+    "ID": "TR_f8f4568e",
+    "parent": "Audience",
+    "child": "BusinessAudience"
+  },
+  {
+    "ID": "TR_77374517",
+    "parent": "AnatomicalStructure",
+    "child": "Vessel"
+  },
+  {
+    "ID": "TR_d1f87cdd",
+    "parent": "CriticReview",
+    "child": "ReviewNewsArticle"
+  },
+  {
+    "ID": "TR_34303dc3",
+    "parent": "WebPage",
+    "child": "ContactPage"
+  },
+  {
+    "ID": "TR_328df6a3",
+    "parent": "StatusEnumeration",
+    "child": "GameServerStatus"
+  },
+  {
+    "ID": "TR_47a886fe",
+    "parent": "CreativeWork",
+    "child": "HyperTocEntry"
+  },
+  {
+    "ID": "TR_2ce28341",
+    "parent": "CivicStructure",
+    "child": "Museum"
+  },
+  {
+    "ID": "TR_2757a52f",
+    "parent": "StructuredValue",
+    "child": "ShippingDeliveryTime"
+  },
+  {
+    "ID": "TR_86954e1f",
+    "parent": "ConstraintNode",
+    "child": "StatisticalVariable"
+  },
+  {
+    "ID": "TR_e1607339",
+    "parent": "Enumeration",
+    "child": "RsvpResponseType"
+  },
+  {
+    "ID": "TR_08bce974",
+    "parent": "Intangible",
+    "child": "Seat"
+  },
+  {
+    "ID": "TR_9bb2606c",
+    "parent": "Event",
+    "child": "EventSeries"
+  },
+  {
+    "ID": "TR_8c8cef91",
+    "parent": "ItemList",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_66d27f41",
+    "parent": "Enumeration",
+    "child": "PhysicalActivityCategory"
+  },
+  {
+    "ID": "TR_592acc44",
+    "parent": "CreativeWork",
+    "child": "Diet"
+  },
+  {
+    "ID": "TR_7addc8da",
+    "parent": "EmergencyService",
+    "child": "Hospital"
+  },
+  {
+    "ID": "TR_0cf424a9",
+    "parent": "PriceSpecification",
+    "child": "CompoundPriceSpecification"
+  },
+  {
+    "ID": "TR_1b7c03eb",
+    "parent": "CreativeWork",
+    "child": "Course"
+  },
+  {
+    "ID": "TR_cb5a005d",
+    "parent": "AdministrativeArea",
+    "child": "City"
+  },
+  {
+    "ID": "TR_e4413990",
+    "parent": "MedicalIntangible",
+    "child": "MedicalConditionStage"
+  },
+  {
+    "ID": "TR_bcef4024",
+    "parent": "LodgingBusiness",
+    "child": "Campground"
+  },
+  {
+    "ID": "TR_4304e3d3",
+    "parent": "MedicalEntity",
+    "child": "MedicalDevice"
+  },
+  {
+    "ID": "TR_ff9c192b",
+    "parent": "Action",
+    "child": "ConsumeAction"
+  },
+  {
+    "ID": "TR_992af60c",
+    "parent": "Specialty",
+    "child": "MedicalSpecialty"
+  },
+  {
+    "ID": "TR_29dcc719",
+    "parent": "Enumeration",
+    "child": "DigitalPlatformEnumeration"
+  },
+  {
+    "ID": "TR_2c5b2736",
+    "parent": "MedicalIntangible",
+    "child": "DrugLegalStatus"
+  },
+  {
+    "ID": "TR_65c44bf9",
+    "parent": "Enumeration",
+    "child": "MediaEnumeration"
+  },
+  {
+    "ID": "TR_f11eeaa2",
+    "parent": "WebPage",
+    "child": "CollectionPage"
+  },
+  {
+    "ID": "TR_c16e2231",
+    "parent": "HealthAndBeautyBusiness",
+    "child": "DaySpa"
+  },
+  {
+    "ID": "TR_ab4a4157",
+    "parent": "Action",
+    "child": "FindAction"
+  },
+  {
+    "ID": "TR_f8040ddf",
+    "parent": "UserInteraction",
+    "child": "UserPlays"
+  },
+  {
+    "ID": "TR_af5e3359",
+    "parent": "HomeAndConstructionBusiness",
+    "child": "RoofingContractor"
+  },
+  {
+    "ID": "TR_8d012e7d",
+    "parent": "HealthAndBeautyBusiness",
+    "child": "TattooParlor"
+  },
+  {
+    "ID": "TR_b08a877e",
+    "parent": "BioChemEntity",
+    "child": "Protein"
+  },
+  {
+    "ID": "TR_b152b5ea",
+    "parent": "AdministrativeArea",
+    "child": "Country"
+  },
+  {
+    "ID": "TR_588016da",
+    "parent": "Store",
+    "child": "MovieRentalStore"
+  },
+  {
+    "ID": "TR_974670d3",
+    "parent": "CreativeWork",
+    "child": "Certification"
+  },
+  {
+    "ID": "TR_259765fd",
+    "parent": "CreateAction",
+    "child": "CookAction"
+  },
+  {
+    "ID": "TR_ff813889",
+    "parent": "MedicalEnumeration",
+    "child": "MedicalImagingTechnique"
+  },
+  {
+    "ID": "TR_308c4268",
+    "parent": "Organization",
+    "child": "OnlineBusiness"
+  },
+  {
+    "ID": "TR_f91c9723",
+    "parent": "AllocateAction",
+    "child": "AssignAction"
+  },
+  {
+    "ID": "TR_c2bbbdbb",
+    "parent": "Intangible",
+    "child": "Observation"
+  },
+  {
+    "ID": "TR_13df45a3",
+    "parent": "CommunicateAction",
+    "child": "CheckInAction"
+  },
+  {
+    "ID": "TR_598c654a",
+    "parent": "Product",
+    "child": "ProductCollection"
+  },
+  {
+    "ID": "TR_409b8d58",
+    "parent": "MedicalEntity",
+    "child": "AnatomicalStructure"
+  },
+  {
+    "ID": "TR_a81bb89a",
+    "parent": "Organization",
+    "child": "ResearchOrganization"
+  },
+  {
+    "ID": "TR_ab7a41aa",
+    "parent": "Place",
+    "child": "TouristAttraction"
+  },
+  {
+    "ID": "TR_e79d6853",
+    "parent": "TradeAction",
+    "child": "QuoteAction"
+  },
+  {
+    "ID": "TR_8fbb0dd0",
+    "parent": "UserInteraction",
+    "child": "UserBlocks"
+  },
+  {
+    "ID": "TR_b2e42e27",
+    "parent": "MedicalEntity",
+    "child": "MedicalIndication"
+  },
+  {
+    "ID": "TR_afb203cf",
+    "parent": "Store",
+    "child": "Florist"
+  },
+  {
+    "ID": "TR_f5af5304",
+    "parent": "UserInteraction",
+    "child": "UserComments"
+  },
+  {
+    "ID": "TR_e913c646",
+    "parent": "EmergencyService",
+    "child": "Hospital"
+  },
+  {
+    "ID": "TR_c9185c4b",
+    "parent": "EducationalOrganization",
+    "child": "Preschool"
+  },
+  {
+    "ID": "TR_8b56c3a6",
+    "parent": "LearningResource",
+    "child": "Quiz"
+  },
+  {
+    "ID": "TR_d5506ad2",
+    "parent": "Enumeration",
+    "child": "StatusEnumeration"
+  },
+  {
+    "ID": "TR_b7cae48e",
+    "parent": "Project",
+    "child": "FundingAgency"
+  },
+  {
+    "ID": "TR_f7a1b99d",
+    "parent": "ItemList",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_00ebefb5",
+    "parent": "FinancialProduct",
+    "child": "LoanOrCredit"
+  },
+  {
+    "ID": "TR_52a5b5ed",
+    "parent": "UserInteraction",
+    "child": "UserLikes"
+  },
+  {
+    "ID": "TR_d23bb209",
+    "parent": "MedicalEnumeration",
+    "child": "PhysicalExam"
+  },
+  {
+    "ID": "TR_0dca288c",
+    "parent": "DataType",
+    "child": "Date"
+  },
+  {
+    "ID": "TR_dfe72e22",
+    "parent": "UserInteraction",
+    "child": "UserDownloads"
+  },
+  {
+    "ID": "TR_741aa3ed",
+    "parent": "StructuredValue",
+    "child": "GeoCoordinates"
+  },
+  {
+    "ID": "TR_73c7a0e2",
+    "parent": "Enumeration",
+    "child": "GenderType"
+  },
+  {
+    "ID": "TR_b0ea9998",
+    "parent": "EducationalOrganization",
+    "child": "HighSchool"
+  },
+  {
+    "ID": "TR_08925947",
+    "parent": "Enumeration",
+    "child": "CertificationStatusEnumeration"
+  },
+  {
+    "ID": "TR_c20a4abf",
+    "parent": "AssessAction",
+    "child": "ChooseAction"
+  },
+  {
+    "ID": "TR_efce10d8",
+    "parent": "EducationalOrganization",
+    "child": "CollegeOrUniversity"
+  },
+  {
+    "ID": "TR_5df72905",
+    "parent": "OrganizationRole",
+    "child": "EmployeeRole"
+  },
+  {
+    "ID": "TR_43302966",
+    "parent": "Intangible",
+    "child": "Rating"
+  },
+  {
+    "ID": "TR_4ce8a4db",
+    "parent": "Organization",
+    "child": "PerformingGroup"
+  },
+  {
+    "ID": "TR_4a712a9f",
+    "parent": "Message",
+    "child": "EmailMessage"
+  },
+  {
+    "ID": "TR_cf23ea5d",
+    "parent": "Intangible",
+    "child": "ParcelDelivery"
+  },
+  {
+    "ID": "TR_05d8abf9",
+    "parent": "Accommodation",
+    "child": "Room"
+  },
+  {
+    "ID": "TR_ed886e20",
+    "parent": "Accommodation",
+    "child": "CampingPitch"
+  },
+  {
+    "ID": "TR_257d7e52",
+    "parent": "PerformingGroup",
+    "child": "MusicGroup"
+  },
+  {
+    "ID": "TR_7ef5a156",
+    "parent": "TransferAction",
+    "child": "GiveAction"
+  },
+  {
+    "ID": "TR_d7a664cf",
+    "parent": "MedicalProcedure",
+    "child": "DiagnosticProcedure"
+  },
+  {
+    "ID": "TR_efe4c577",
+    "parent": "TradeAction",
+    "child": "TipAction"
+  },
+  {
+    "ID": "TR_083b8192",
+    "parent": "Intangible",
+    "child": "SpeakableSpecification"
+  },
+  {
+    "ID": "TR_c1b182d1",
+    "parent": "Action",
+    "child": "SearchAction"
+  },
+  {
+    "ID": "TR_d74175fe",
+    "parent": "Enumeration",
+    "child": "CarUsageType"
+  },
+  {
+    "ID": "TR_be190bdd",
+    "parent": "LocalBusiness",
+    "child": "MedicalBusiness"
+  },
+  {
+    "ID": "TR_3ffd83a6",
+    "parent": "CreativeWorkSeason",
+    "child": "RadioSeason"
+  },
+  {
+    "ID": "TR_6c226b64",
+    "parent": "Rating",
+    "child": "EndorsementRating"
+  },
+  {
+    "ID": "TR_e6c834c5",
+    "parent": "Event",
+    "child": "SaleEvent"
+  },
+  {
+    "ID": "TR_362f3a5c",
+    "parent": "PlayAction",
+    "child": "ExerciseAction"
+  },
+  {
+    "ID": "TR_15d6b86c",
+    "parent": "MedicalOrganization",
+    "child": "MedicalClinic"
+  },
+  {
+    "ID": "TR_ea1fa0df",
+    "parent": "MediaObject",
+    "child": "MusicVideoObject"
+  },
+  {
+    "ID": "TR_13d1b1e6",
+    "parent": "ConsumeAction",
+    "child": "DrinkAction"
+  },
+  {
+    "ID": "TR_114df4a2",
+    "parent": "Place",
+    "child": "Residence"
+  },
+  {
+    "ID": "TR_5d8c70e9",
+    "parent": "AutomotiveBusiness",
+    "child": "AutoPartsStore"
+  },
+  {
+    "ID": "TR_a2d51dd1",
+    "parent": "Event",
+    "child": "ExhibitionEvent"
+  },
+  {
+    "ID": "TR_d6b4bd91",
+    "parent": "EntertainmentBusiness",
+    "child": "MovieTheater"
+  },
+  {
+    "ID": "TR_c73986ba",
+    "parent": "CreativeWork",
+    "child": "Drawing"
+  },
+  {
+    "ID": "TR_36e1298d",
+    "parent": "MedicalIntangible",
+    "child": "MedicalCode"
+  },
+  {
+    "ID": "TR_3d415407",
+    "parent": "CreativeWorkSeries",
+    "child": "MovieSeries"
+  },
+  {
+    "ID": "TR_866b66bf",
+    "parent": "InvestmentOrDeposit",
+    "child": "BrokerageAccount"
+  },
+  {
+    "ID": "TR_c3af5b1a",
+    "parent": "SportsOrganization",
+    "child": "SportsTeam"
+  },
+  {
+    "ID": "TR_ba0b2338",
+    "parent": "CreateAction",
+    "child": "DrawAction"
+  },
+  {
+    "ID": "TR_cf7b7d1b",
+    "parent": "EmergencyService",
+    "child": "PoliceStation"
+  },
+  {
+    "ID": "TR_e15dfb4c",
+    "parent": "CreativeWork",
+    "child": "HowToStep"
+  },
+  {
+    "ID": "TR_156e8f62",
+    "parent": "CreativeWork",
+    "child": "DataCatalog"
+  },
+  {
+    "ID": "TR_6fdf9c17",
+    "parent": "LocalBusiness",
+    "child": "TravelAgency"
+  },
+  {
+    "ID": "TR_25b70333",
+    "parent": "Enumeration",
+    "child": "BusinessFunction"
+  },
+  {
+    "ID": "TR_94ec3e33",
+    "parent": "CreativeWork",
+    "child": "Diet"
+  },
+  {
+    "ID": "TR_5cf8f33f",
+    "parent": "Audience",
+    "child": "PeopleAudience"
+  },
+  {
+    "ID": "TR_6aaefd71",
+    "parent": "AchieveAction",
+    "child": "TieAction"
+  },
+  {
+    "ID": "TR_5b264555",
+    "parent": "Reservation",
+    "child": "ReservationPackage"
+  },
+  {
+    "ID": "TR_bfebc064",
+    "parent": "Substance",
+    "child": "DietarySupplement"
+  },
+  {
+    "ID": "TR_aecdc241",
+    "parent": "Store",
+    "child": "TireShop"
+  },
+  {
+    "ID": "TR_29a8bd52",
+    "parent": "Church",
+    "child": "CatholicChurch"
+  },
+  {
+    "ID": "TR_5f918a99",
+    "parent": "Enumeration",
+    "child": "BoardingPolicyType"
+  },
+  {
+    "ID": "TR_97783f1f",
+    "parent": "Enumeration",
+    "child": "AdultOrientedEnumeration"
+  },
+  {
+    "ID": "TR_a1bdeeb1",
+    "parent": "CreateAction",
+    "child": "PaintAction"
+  },
+  {
+    "ID": "TR_f7b95701",
+    "parent": "MedicalTherapy",
+    "child": "RadiationTherapy"
+  },
+  {
+    "ID": "TR_a01ae8e5",
+    "parent": "Text",
+    "child": "PronounceableText"
+  },
+  {
+    "ID": "TR_9d94030a",
+    "parent": "Event",
+    "child": "ScreeningEvent"
+  },
+  {
+    "ID": "TR_cc93212d",
+    "parent": "CreativeWork",
+    "child": "ShortStory"
+  },
+  {
+    "ID": "TR_ea63601e",
+    "parent": "Store",
+    "child": "BookStore"
+  },
+  {
+    "ID": "TR_da759348",
+    "parent": "CreativeWork",
+    "child": "Manuscript"
+  },
+  {
+    "ID": "TR_c2cbeee5",
+    "parent": "Enumeration",
+    "child": "RestrictedDiet"
+  },
+  {
+    "ID": "TR_f498dc40",
+    "parent": "Intangible",
+    "child": "Trip"
+  },
+  {
+    "ID": "TR_55eebef1",
+    "parent": "MedicalProcedure",
+    "child": "PalliativeProcedure"
+  },
+  {
+    "ID": "TR_59ee7ec2",
+    "parent": "CreativeWork",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_d6bb542c",
+    "parent": "EntertainmentBusiness",
+    "child": "ComedyClub"
+  },
+  {
+    "ID": "TR_761080e7",
+    "parent": "PriceSpecification",
+    "child": "DeliveryChargeSpecification"
+  },
+  {
+    "ID": "TR_e25a7e44",
+    "parent": "WebPageElement",
+    "child": "WPFooter"
+  },
+  {
+    "ID": "TR_49dc596d",
+    "parent": "Article",
+    "child": "AdvertiserContentArticle"
+  },
+  {
+    "ID": "TR_bd0c68eb",
+    "parent": "ListItem",
+    "child": "HowToStep"
+  },
+  {
+    "ID": "TR_c4e20838",
+    "parent": "CreativeWork",
+    "child": "Article"
+  },
+  {
+    "ID": "TR_baeba342",
+    "parent": "LearningResource",
+    "child": "Course"
+  },
+  {
+    "ID": "TR_81e25fca",
+    "parent": "LocalBusiness",
+    "child": "LegalService"
+  },
+  {
+    "ID": "TR_566f89e8",
+    "parent": "Intangible",
+    "child": "Ticket"
+  },
+  {
+    "ID": "TR_d27c4313",
+    "parent": "Enumeration",
+    "child": "ProductReturnEnumeration"
+  },
+  {
+    "ID": "TR_f06d63c7",
+    "parent": "Article",
+    "child": "TechArticle"
+  },
+  {
+    "ID": "TR_2bb5cfa4",
+    "parent": "CommunicateAction",
+    "child": "CheckOutAction"
+  },
+  {
+    "ID": "TR_3e39efea",
+    "parent": "CivicStructure",
+    "child": "EventVenue"
+  },
+  {
+    "ID": "TR_f717bca5",
+    "parent": "Comment",
+    "child": "Answer"
+  },
+  {
+    "ID": "TR_dd24dba3",
+    "parent": "MedicalGuideline",
+    "child": "MedicalGuidelineContraindication"
+  },
+  {
+    "ID": "TR_e2ddaf45",
+    "parent": "PlayAction",
+    "child": "PerformAction"
+  },
+  {
+    "ID": "TR_94f14080",
+    "parent": "ScholarlyArticle",
+    "child": "MedicalScholarlyArticle"
+  },
+  {
+    "ID": "TR_26104f17",
+    "parent": "MedicalOrganization",
+    "child": "Dentist"
+  },
+  {
+    "ID": "TR_41ec04bf",
+    "parent": "PropertyValue",
+    "child": "LocationFeatureSpecification"
+  },
+  {
+    "ID": "TR_f795dc16",
+    "parent": "StatusEnumeration",
+    "child": "OrderStatus"
+  },
+  {
+    "ID": "TR_a1563da7",
+    "parent": "Audience",
+    "child": "EducationalAudience"
+  },
+  {
+    "ID": "TR_ceb0e914",
+    "parent": "LocalBusiness",
+    "child": "LodgingBusiness"
+  },
+  {
+    "ID": "TR_c3c59304",
+    "parent": "MedicalEnumeration",
+    "child": "PhysicalExam"
+  },
+  {
+    "ID": "TR_0f3defa7",
+    "parent": "MedicalBusiness",
+    "child": "Dentist"
+  },
+  {
+    "ID": "TR_cf62a92b",
+    "parent": "Review",
+    "child": "Recommendation"
+  },
+  {
+    "ID": "TR_fe654300",
+    "parent": "SoftwareApplication",
+    "child": "MobileApplication"
+  },
+  {
+    "ID": "TR_ac4c283a",
+    "parent": "Organization",
+    "child": "FundingScheme"
+  },
+  {
+    "ID": "TR_6d43080c",
+    "parent": "Audience",
+    "child": "Researcher"
+  },
+  {
+    "ID": "TR_b56ab4c7",
+    "parent": "SoftwareApplication",
+    "child": "VideoGame"
+  },
+  {
+    "ID": "TR_60d83b53",
+    "parent": "Clip",
+    "child": "MovieClip"
+  },
+  {
+    "ID": "TR_9603a6cd",
+    "parent": "Quantity",
+    "child": "Energy"
+  },
+  {
+    "ID": "TR_ef7e6436",
+    "parent": "Clip",
+    "child": "RadioClip"
+  },
+  {
+    "ID": "TR_c97d0a67",
+    "parent": "InvestmentOrDeposit",
+    "child": "DepositAccount"
+  },
+  {
+    "ID": "TR_5f6ef1e1",
+    "parent": "HomeAndConstructionBusiness",
+    "child": "MovingCompany"
+  },
+  {
+    "ID": "TR_27f7cff5",
+    "parent": "MedicalOrganization",
+    "child": "Hospital"
+  },
+  {
+    "ID": "TR_6599ae19",
+    "parent": "LocalBusiness",
+    "child": "ChildCare"
+  },
+  {
+    "ID": "TR_9b89a1c0",
+    "parent": "UserInteraction",
+    "child": "UserPlusOnes"
+  },
+  {
+    "ID": "TR_2fa44ca3",
+    "parent": "ImageObject",
+    "child": "ImageObjectSnapshot"
+  },
+  {
+    "ID": "TR_f79c5af7",
+    "parent": "CivicStructure",
+    "child": "StadiumOrArena"
+  },
+  {
+    "ID": "TR_8c83023c",
+    "parent": "EducationalOccupationalProgram",
+    "child": "WorkBasedProgram"
+  },
+  {
+    "ID": "TR_6143397b",
+    "parent": "CommunicateAction",
+    "child": "InviteAction"
+  },
+  {
+    "ID": "TR_7598c7c2",
+    "parent": "FoodEstablishment",
+    "child": "FastFoodRestaurant"
+  },
+  {
+    "ID": "TR_34e8a551",
+    "parent": "Intangible",
+    "child": "Reservation"
+  },
+  {
+    "ID": "TR_27b28db7",
+    "parent": "StructuredValue",
+    "child": "QuantitativeValueDistribution"
+  },
+  {
+    "ID": "TR_542bfef0",
+    "parent": "Organization",
+    "child": "WorkersUnion"
+  },
+  {
+    "ID": "TR_18f4c122",
+    "parent": "ItemList",
+    "child": "HowToStep"
+  },
+  {
+    "ID": "TR_6a2178fd",
+    "parent": "ListItem",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_288b7d44",
+    "parent": "TradeAction",
+    "child": "SellAction"
+  },
+  {
+    "ID": "TR_bfbe38c6",
+    "parent": "MedicalEntity",
+    "child": "MedicalGuideline"
+  },
+  {
+    "ID": "TR_048cdf85",
+    "parent": "Event",
+    "child": "UserInteraction"
+  },
+  {
+    "ID": "TR_9aee4f3d",
+    "parent": "AggregateRating",
+    "child": "EmployerAggregateRating"
+  },
+  {
+    "ID": "TR_97393f4f",
+    "parent": "CivicStructure",
+    "child": "Airport"
+  },
+  {
+    "ID": "TR_f4ca3929",
+    "parent": "MedicalProcedure",
+    "child": "SurgicalProcedure"
+  },
+  {
+    "ID": "TR_31a322a3",
+    "parent": "StructuredValue",
+    "child": "DefinedRegion"
+  },
+  {
+    "ID": "TR_5bc40cb2",
+    "parent": "CreativeWork",
+    "child": "HowToStep"
+  },
+  {
+    "ID": "TR_8ba573e7",
+    "parent": "Event",
+    "child": "EducationEvent"
+  },
+  {
+    "ID": "TR_662b2008",
+    "parent": "LocalBusiness",
+    "child": "SportsActivityLocation"
+  },
+  {
+    "ID": "TR_bcb7d18f",
+    "parent": "MedicalIntangible",
+    "child": "MedicalCode"
+  },
+  {
+    "ID": "TR_faa1b052",
+    "parent": "DefinedTermSet",
+    "child": "CategoryCodeSet"
+  },
+  {
+    "ID": "TR_d9b055d0",
+    "parent": "CreativeWork",
+    "child": "VisualArtwork"
+  },
+  {
+    "ID": "TR_4b9aafcb",
+    "parent": "CivicStructure",
+    "child": "ParkingFacility"
+  },
+  {
+    "ID": "TR_96753239",
+    "parent": "CoverArt",
+    "child": "ComicCoverArt"
+  },
+  {
+    "ID": "TR_15eb9c8c",
+    "parent": "PlaceOfWorship",
+    "child": "BuddhistTemple"
+  },
+  {
+    "ID": "TR_4e614b7e",
+    "parent": "Vehicle",
+    "child": "BusOrCoach"
+  },
+  {
+    "ID": "TR_a1141a32",
+    "parent": "CreativeWork",
+    "child": "Book"
+  },
+  {
+    "ID": "TR_a97e1401",
+    "parent": "MedicalEntity",
+    "child": "MedicalProcedure"
+  },
+  {
+    "ID": "TR_7bd81deb",
+    "parent": "LocalBusiness",
+    "child": "ArchiveOrganization"
+  },
+  {
+    "ID": "TR_2527f1fc",
+    "parent": "Organization",
+    "child": "MedicalOrganization"
+  },
+  {
+    "ID": "TR_a2c5baa5",
+    "parent": "HowTo",
+    "child": "Recipe"
+  },
+  {
+    "ID": "TR_203a2482",
+    "parent": "ConsumeAction",
+    "child": "ViewAction"
+  },
+  {
+    "ID": "TR_a0b23202",
+    "parent": "Store",
+    "child": "GroceryStore"
+  },
+  {
+    "ID": "TR_2bcdb328",
+    "parent": "CreativeWork",
+    "child": "SheetMusic"
+  },
+  {
+    "ID": "TR_32a7b9d2",
+    "parent": "FinancialProduct",
+    "child": "PaymentCard"
+  },
+  {
+    "ID": "TR_352fa5fc",
+    "parent": "Audience",
+    "child": "MedicalAudience"
+  },
+  {
+    "ID": "TR_39af464d",
+    "parent": "UseAction",
+    "child": "WearAction"
+  },
+  {
+    "ID": "TR_9838ba65",
+    "parent": "CivicStructure",
+    "child": "Hospital"
+  },
+  {
+    "ID": "TR_5b55cda5",
+    "parent": "MedicalTherapy",
+    "child": "PalliativeProcedure"
+  },
+  {
+    "ID": "TR_e3072d1a",
+    "parent": "MedicalRiskEstimator",
+    "child": "MedicalRiskScore"
+  },
+  {
+    "ID": "TR_db0dc9d5",
+    "parent": "Service",
+    "child": "GovernmentService"
+  },
+  {
+    "ID": "TR_21263e37",
+    "parent": "Project",
+    "child": "ResearchProject"
+  },
+  {
+    "ID": "TR_f548589c",
+    "parent": "Substance",
+    "child": "Drug"
+  },
+  {
+    "ID": "TR_7b1639c8",
+    "parent": "Event",
+    "child": "CourseInstance"
+  },
+  {
+    "ID": "TR_5a93373b",
+    "parent": "PhysicalActivity",
+    "child": "ExercisePlan"
+  },
+  {
+    "ID": "TR_2c043692",
+    "parent": "Trip",
+    "child": "TouristTrip"
+  },
+  {
+    "ID": "TR_23cf9861",
+    "parent": "WebPageElement",
+    "child": "WPAdBlock"
+  },
+  {
+    "ID": "TR_385aac77",
+    "parent": "CreativeWorkSeries",
+    "child": "VideoGameSeries"
+  },
+  {
+    "ID": "TR_e8e1b5e0",
+    "parent": "MedicalBusiness",
+    "child": "Dentist"
+  },
+  {
+    "ID": "TR_03495beb",
+    "parent": "Intangible",
+    "child": "Invoice"
+  },
+  {
+    "ID": "TR_cce6df05",
+    "parent": "CivicStructure",
+    "child": "Cemetery"
+  },
+  {
+    "ID": "TR_72605b7f",
+    "parent": "BodyOfWater",
+    "child": "LakeBodyOfWater"
+  },
+  {
+    "ID": "TR_09010e5c",
+    "parent": "MediaEnumeration",
+    "child": "IPTCDigitalSourceEnumeration"
+  },
+  {
+    "ID": "TR_e6c0da5d",
+    "parent": "Enumeration",
+    "child": "EventAttendanceModeEnumeration"
+  },
+  {
+    "ID": "TR_7d286b33",
+    "parent": "QualitativeValue",
+    "child": "BedType"
+  },
+  {
+    "ID": "TR_cd999f12",
+    "parent": "Organization",
+    "child": "LocalBusiness"
+  },
+  {
+    "ID": "TR_2902fd63",
+    "parent": "MedicalTest",
+    "child": "ImagingTest"
+  },
+  {
+    "ID": "TR_41943a59",
+    "parent": "Enumeration",
+    "child": "MeasurementTypeEnumeration"
+  },
+  {
+    "ID": "TR_5afcd082",
+    "parent": "Event",
+    "child": "Hackathon"
+  },
+  {
+    "ID": "TR_9c4c2add",
+    "parent": "AchieveAction",
+    "child": "WinAction"
+  },
+  {
+    "ID": "TR_e10c2c13",
+    "parent": "Permit",
+    "child": "GovernmentPermit"
+  },
+  {
+    "ID": "TR_1b154d0a",
+    "parent": "CivicStructure",
+    "child": "FireStation"
+  },
+  {
+    "ID": "TR_94969cd1",
+    "parent": "CreativeWorkSeason",
+    "child": "PodcastSeason"
+  },
+  {
+    "ID": "TR_c3a0fb6a",
+    "parent": "Review",
+    "child": "EmployerReview"
+  },
+  {
+    "ID": "TR_7f27a4ff",
+    "parent": "Intangible",
+    "child": "MerchantReturnPolicySeasonalOverride"
+  },
+  {
+    "ID": "TR_e19a563e",
+    "parent": "Landform",
+    "child": "Volcano"
+  },
+  {
+    "ID": "TR_200cdeb7",
+    "parent": "LodgingBusiness",
+    "child": "Campground"
+  },
+  {
+    "ID": "TR_89acb410",
+    "parent": "EducationalOrganization",
+    "child": "School"
+  },
+  {
+    "ID": "TR_8f3d5e34",
+    "parent": "CreativeWorkSeries",
+    "child": "RadioSeries"
+  },
+  {
+    "ID": "TR_efe88434",
+    "parent": "StructuredValue",
+    "child": "QuantitativeValue"
+  },
+  {
+    "ID": "TR_03c9bf7a",
+    "parent": "AutomotiveBusiness",
+    "child": "AutoPartsStore"
+  },
+  {
+    "ID": "TR_8449db76",
+    "parent": "Trip",
+    "child": "BoatTrip"
+  },
+  {
+    "ID": "TR_c7770de9",
+    "parent": "MedicalEnumeration",
+    "child": "DrugCostCategory"
+  },
+  {
+    "ID": "TR_e04a6810",
+    "parent": "Physician",
+    "child": "PhysiciansOffice"
+  },
+  {
+    "ID": "TR_2834fda1",
+    "parent": "Rating",
+    "child": "AggregateRating"
+  },
+  {
+    "ID": "TR_d79767a9",
+    "parent": "LocalBusiness",
+    "child": "EmploymentAgency"
+  },
+  {
+    "ID": "TR_400e9971",
+    "parent": "LocalBusiness",
+    "child": "Dentist"
+  },
+  {
+    "ID": "TR_359ad3d6",
+    "parent": "MedicalEnumeration",
+    "child": "MedicalTrialDesign"
+  },
+  {
+    "ID": "TR_5d0ea412",
+    "parent": "LocalBusiness",
+    "child": "HealthAndBeautyBusiness"
+  },
+  {
+    "ID": "TR_9e4ea825",
+    "parent": "VisualArtwork",
+    "child": "CoverArt"
+  },
+  {
+    "ID": "TR_e4bb5f0b",
+    "parent": "EmergencyService",
+    "child": "FireStation"
+  },
+  {
+    "ID": "TR_ffd16b44",
+    "parent": "CivicStructure",
+    "child": "EducationalOrganization"
+  },
+  {
+    "ID": "TR_35c2e40f",
+    "parent": "MediaObject",
+    "child": "DataDownload"
+  },
+  {
+    "ID": "TR_621df0e8",
+    "parent": "CreativeWork",
+    "child": "CreativeWorkSeries"
+  },
+  {
+    "ID": "TR_46965dcf",
+    "parent": "Event",
+    "child": "BusinessEvent"
+  },
+  {
+    "ID": "TR_f37dcdb4",
+    "parent": "MusicPlaylist",
+    "child": "MusicAlbum"
+  },
+  {
+    "ID": "TR_65a9facd",
+    "parent": "ItemList",
+    "child": "OfferCatalog"
+  },
+  {
+    "ID": "TR_c20b9c18",
+    "parent": "EducationalOrganization",
+    "child": "ElementarySchool"
+  },
+  {
+    "ID": "TR_c8badd40",
+    "parent": "Reservation",
+    "child": "FlightReservation"
+  },
+  {
+    "ID": "TR_ded41dda",
+    "parent": "AdministrativeArea",
+    "child": "State"
+  },
+  {
+    "ID": "TR_1307e676",
+    "parent": "QuantitativeValueDistribution",
+    "child": "MonetaryAmountDistribution"
+  },
+  {
+    "ID": "TR_5e626a63",
+    "parent": "StructuredValue",
+    "child": "MonetaryAmount"
+  },
+  {
+    "ID": "TR_200adf1b",
+    "parent": "Intangible",
+    "child": "Occupation"
+  },
+  {
+    "ID": "TR_28178a4d",
+    "parent": "MedicalBusiness",
+    "child": "Physician"
+  },
+  {
+    "ID": "TR_a12f7de2",
+    "parent": "GovernmentBuilding",
+    "child": "Courthouse"
+  },
+  {
+    "ID": "TR_8899ecaf",
+    "parent": "CreativeWorkSeries",
+    "child": "PodcastSeries"
+  },
+  {
+    "ID": "TR_6ff08d9e",
+    "parent": "LocalBusiness",
+    "child": "RealEstateAgent"
+  },
+  {
+    "ID": "TR_2ddbfb20",
+    "parent": "FinancialProduct",
+    "child": "InvestmentOrDeposit"
+  },
+  {
+    "ID": "TR_8d04a17b",
+    "parent": "Action",
+    "child": "CreateAction"
+  },
+  {
+    "ID": "TR_0730dc48",
+    "parent": "Place",
+    "child": "Landform"
+  },
+  {
+    "ID": "TR_e92c589a",
+    "parent": "Text",
+    "child": "URL"
+  },
+  {
+    "ID": "TR_68e7c2a3",
+    "parent": "Product",
+    "child": "Vehicle"
+  },
+  {
+    "ID": "TR_13296c82",
+    "parent": "Article",
+    "child": "ScholarlyArticle"
+  },
+  {
+    "ID": "TR_e3e689f8",
+    "parent": "ControlAction",
+    "child": "ResumeAction"
+  },
+  {
+    "ID": "TR_91121eda",
+    "parent": "AllocateAction",
+    "child": "AuthorizeAction"
+  },
+  {
+    "ID": "TR_ae993b80",
+    "parent": "MedicalCondition",
+    "child": "MedicalSignOrSymptom"
+  },
+  {
+    "ID": "TR_997e8a36",
+    "parent": "Organization",
+    "child": "SearchRescueOrganization"
+  },
+  {
+    "ID": "TR_58aaa3c8",
+    "parent": "Store",
+    "child": "ToyStore"
+  },
+  {
+    "ID": "TR_935d804b",
+    "parent": "PaymentCard",
+    "child": "CreditCard"
+  },
+  {
+    "ID": "TR_90fb7ce0",
+    "parent": "MedicalEntity",
+    "child": "MedicalRiskFactor"
+  },
+  {
+    "ID": "TR_f7c3de21",
+    "parent": "CreativeWork",
+    "child": "Collection"
+  },
+  {
+    "ID": "TR_add4123b",
+    "parent": "Accommodation",
+    "child": "Apartment"
+  },
+  {
+    "ID": "TR_c482fc95",
+    "parent": "StructuredValue",
+    "child": "ContactPoint"
+  },
+  {
+    "ID": "TR_8406d376",
+    "parent": "LocalBusiness",
+    "child": "EmergencyService"
+  },
+  {
+    "ID": "TR_5a3faa56",
+    "parent": "TransferAction",
+    "child": "TakeAction"
+  },
+  {
+    "ID": "TR_d5539878",
+    "parent": "FoodEstablishment",
+    "child": "Restaurant"
+  },
+  {
+    "ID": "TR_f15e3e7a",
+    "parent": "UpdateAction",
+    "child": "ReplaceAction"
+  },
+  {
+    "ID": "TR_ae18a430",
+    "parent": "Intangible",
+    "child": "BedDetails"
+  },
+  {
+    "ID": "TR_98b6b2c4",
+    "parent": "Store",
+    "child": "GardenStore"
+  },
+  {
+    "ID": "TR_da0027ed",
+    "parent": "Event",
+    "child": "DeliveryEvent"
+  },
+  {
+    "ID": "TR_84a462b0",
+    "parent": "StatusEnumeration",
+    "child": "LegalForceStatus"
+  },
+  {
+    "ID": "TR_0544d748",
+    "parent": "Game",
+    "child": "VideoGame"
+  },
+  {
+    "ID": "TR_2edbc072",
+    "parent": "LodgingBusiness",
+    "child": "Hotel"
+  },
+  {
+    "ID": "TR_2652be0d",
+    "parent": "Product",
+    "child": "SomeProducts"
+  },
+  {
+    "ID": "TR_e25fa08b",
+    "parent": "SportsActivityLocation",
+    "child": "SkiResort"
+  },
+  {
+    "ID": "TR_d4ececde",
+    "parent": "Intangible",
+    "child": "BroadcastChannel"
+  },
+  {
+    "ID": "TR_19a4a798",
+    "parent": "MedicalBusiness",
+    "child": "Optician"
+  },
+  {
+    "ID": "TR_3e408778",
+    "parent": "WebPage",
+    "child": "AboutPage"
+  },
+  {
+    "ID": "TR_2c02c1bd",
+    "parent": "Enumeration",
+    "child": "DigitalDocumentPermissionType"
+  },
+  {
+    "ID": "TR_d7b0184c",
+    "parent": "FinancialService",
+    "child": "AutomatedTeller"
+  },
+  {
+    "ID": "TR_9517a0f8",
+    "parent": "FoodEstablishment",
+    "child": "BarOrPub"
+  },
+  {
+    "ID": "TR_3dd41eac",
+    "parent": "MedicalEntity",
+    "child": "MedicalStudy"
+  },
+  {
+    "ID": "TR_364c0028",
+    "parent": "Enumeration",
+    "child": "ReturnFeesEnumeration"
+  },
+  {
+    "ID": "TR_03601742",
+    "parent": "LearningResource",
+    "child": "Course"
+  },
+  {
+    "ID": "TR_5f0889a6",
+    "parent": "Organization",
+    "child": "Corporation"
+  },
+  {
+    "ID": "TR_c8bd31b9",
+    "parent": "Physician",
+    "child": "IndividualPhysician"
+  },
+  {
+    "ID": "TR_b672d8dc",
+    "parent": "Dataset",
+    "child": "DataFeed"
+  },
+  {
+    "ID": "TR_62084e9d",
+    "parent": "Action",
+    "child": "PlayAction"
+  },
+  {
+    "ID": "TR_a2e5c08f",
+    "parent": "HomeAndConstructionBusiness",
+    "child": "HVACBusiness"
+  },
+  {
+    "ID": "TR_c9bae1fa",
+    "parent": "CreativeWork",
+    "child": "Painting"
+  },
+  {
+    "ID": "TR_a8a68ebb",
+    "parent": "Periodical",
+    "child": "ComicSeries"
+  },
+  {
+    "ID": "TR_ac1d6239",
+    "parent": "AssessAction",
+    "child": "IgnoreAction"
+  },
+  {
+    "ID": "TR_64969f7d",
+    "parent": "AdministrativeArea",
+    "child": "SchoolDistrict"
+  },
+  {
+    "ID": "TR_f8450500",
+    "parent": "CreativeWork",
+    "child": "CreativeWorkSeries"
+  },
+  {
+    "ID": "TR_accdd0aa",
+    "parent": "BodyOfWater",
+    "child": "Reservoir"
+  },
+  {
+    "ID": "TR_2e8ab255",
+    "parent": "EmergencyService",
+    "child": "Hospital"
+  },
+  {
+    "ID": "TR_af9832c9",
+    "parent": "GovernmentBuilding",
+    "child": "CityHall"
+  },
+  {
+    "ID": "TR_c606ae8d",
+    "parent": "Store",
+    "child": "AutoPartsStore"
+  },
+  {
+    "ID": "TR_23a6168d",
+    "parent": "AutomotiveBusiness",
+    "child": "AutoRepair"
+  },
+  {
+    "ID": "TR_3b08db20",
+    "parent": "CivicStructure",
+    "child": "TrainStation"
+  },
+  {
+    "ID": "TR_2c1a9893",
+    "parent": "MedicalBusiness",
+    "child": "Physician"
+  },
+  {
+    "ID": "TR_de4c725f",
+    "parent": "MedicalEnumeration",
+    "child": "MedicalDevicePurpose"
+  },
+  {
+    "ID": "TR_1824bc45",
+    "parent": "CivicStructure",
+    "child": "TaxiStand"
+  },
+  {
+    "ID": "TR_06bb23ae",
+    "parent": "Article",
+    "child": "SocialMediaPosting"
+  },
+  {
+    "ID": "TR_80b16b48",
+    "parent": "Enumeration",
+    "child": "GamePlayMode"
+  },
+  {
+    "ID": "TR_375a694e",
+    "parent": "Trip",
+    "child": "Flight"
+  },
+  {
+    "ID": "TR_48db2605",
+    "parent": "GovernmentBuilding",
+    "child": "Embassy"
+  },
+  {
+    "ID": "TR_e03f1bef",
+    "parent": "LocalBusiness",
+    "child": "Library"
+  },
+  {
+    "ID": "TR_1c937779",
+    "parent": "BodyOfWater",
+    "child": "RiverBodyOfWater"
+  },
+  {
+    "ID": "TR_e60f0c43",
+    "parent": "Store",
+    "child": "JewelryStore"
+  },
+  {
+    "ID": "TR_9c7c0fa8",
+    "parent": "MedicalProcedure",
+    "child": "PalliativeProcedure"
+  },
+  {
+    "ID": "TR_d8a2aa66",
+    "parent": "Event",
+    "child": "EventSeries"
+  },
+  {
+    "ID": "TR_8c86555e",
+    "parent": "Intangible",
+    "child": "Permit"
+  },
+  {
+    "ID": "TR_4f6dee09",
+    "parent": "AnatomicalStructure",
+    "child": "BrainStructure"
+  },
+  {
+    "ID": "TR_fb631cb6",
+    "parent": "MedicalBusiness",
+    "child": "Dentist"
+  },
+  {
+    "ID": "TR_9520521b",
+    "parent": "CreativeWork",
+    "child": "AmpStory"
+  },
+  {
+    "ID": "TR_ce514e0f",
+    "parent": "PaymentMethod",
+    "child": "PaymentCard"
+  },
+  {
+    "ID": "TR_810ce069",
+    "parent": "MedicalSign",
+    "child": "VitalSign"
+  },
+  {
+    "ID": "TR_517aa3a5",
+    "parent": "Landform",
+    "child": "Continent"
+  },
+  {
+    "ID": "TR_6995f0ba",
+    "parent": "BlogPosting",
+    "child": "LiveBlogPosting"
+  },
+  {
+    "ID": "TR_7da3e7a7",
+    "parent": "Intangible",
+    "child": "Grant"
+  },
+  {
+    "ID": "TR_ea083810",
+    "parent": "Offer",
+    "child": "OfferForPurchase"
+  },
+  {
+    "ID": "TR_9b2f2cf3",
+    "parent": "Place",
+    "child": "LocalBusiness"
+  },
+  {
+    "ID": "TR_08fadbb2",
+    "parent": "PeopleAudience",
+    "child": "ParentAudience"
+  },
+  {
+    "ID": "TR_e1887831",
+    "parent": "LoanOrCredit",
+    "child": "CreditCard"
+  },
+  {
+    "ID": "TR_bc443d33",
+    "parent": "ImageObject",
+    "child": "Barcode"
+  },
+  {
+    "ID": "TR_372fa4f0",
+    "parent": "MedicalIndication",
+    "child": "ApprovedIndication"
+  },
+  {
+    "ID": "TR_c3273032",
+    "parent": "AutomotiveBusiness",
+    "child": "AutoRental"
+  },
+  {
+    "ID": "TR_eaf55b60",
+    "parent": "UserInteraction",
+    "child": "UserPageVisits"
+  },
+  {
+    "ID": "TR_944aacae",
+    "parent": "MedicalEntity",
+    "child": "DrugClass"
+  },
+  {
+    "ID": "TR_52adad0e",
+    "parent": "Intangible",
+    "child": "MemberProgram"
+  },
+  {
+    "ID": "TR_e62a02af",
+    "parent": "CreativeWork",
+    "child": "Play"
+  },
+  {
+    "ID": "TR_acd71894",
+    "parent": "CivicStructure",
+    "child": "PoliceStation"
+  },
+  {
+    "ID": "TR_963164bb",
+    "parent": "AnatomicalStructure",
+    "child": "Bone"
+  },
+  {
+    "ID": "TR_6d6e2a53",
+    "parent": "CreativeWork",
+    "child": "Sculpture"
+  },
+  {
+    "ID": "TR_70b560e5",
+    "parent": "LoanOrCredit",
+    "child": "MortgageLoan"
+  },
+  {
+    "ID": "TR_285113d7",
+    "parent": "CivicStructure",
+    "child": "Campground"
+  },
+  {
+    "ID": "TR_6c0e0de9",
+    "parent": "TechArticle",
+    "child": "APIReference"
+  },
+  {
+    "ID": "TR_9ff65b1d",
+    "parent": "CreativeWork",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_b7e3bb61",
+    "parent": "SportsActivityLocation",
+    "child": "SkiResort"
+  },
+  {
+    "ID": "TR_78dc92ea",
+    "parent": "MedicalOrganization",
+    "child": "Dentist"
+  },
+  {
+    "ID": "TR_93ce5c82",
+    "parent": "OrganizeAction",
+    "child": "ApplyAction"
+  },
+  {
+    "ID": "TR_cfecc8cb",
+    "parent": "Enumeration",
+    "child": "ItemListOrderType"
+  },
+  {
+    "ID": "TR_f6664b5e",
+    "parent": "Product",
+    "child": "DietarySupplement"
+  },
+  {
+    "ID": "TR_7236c6f0",
+    "parent": "WebPage",
+    "child": "MedicalWebPage"
+  },
+  {
+    "ID": "TR_d5158fb5",
+    "parent": "Event",
+    "child": "DanceEvent"
+  },
+  {
+    "ID": "TR_e6fee4a2",
+    "parent": "BankAccount",
+    "child": "DepositAccount"
+  },
+  {
+    "ID": "TR_1ddb0419",
+    "parent": "Store",
+    "child": "PawnShop"
+  },
+  {
+    "ID": "TR_3f0d6022",
+    "parent": "VideoObject",
+    "child": "VideoObjectSnapshot"
+  },
+  {
+    "ID": "TR_61781f27",
+    "parent": "PaymentMethod",
+    "child": "PaymentCard"
+  },
+  {
+    "ID": "TR_51baf60a",
+    "parent": "Product",
+    "child": "Drug"
+  },
+  {
+    "ID": "TR_45decb93",
+    "parent": "CivicStructure",
+    "child": "Crematorium"
+  },
+  {
+    "ID": "TR_6fd72af5",
+    "parent": "AnatomicalStructure",
+    "child": "Joint"
+  },
+  {
+    "ID": "TR_39974733",
+    "parent": "EnergyEfficiencyEnumeration",
+    "child": "EnergyStarEnergyEfficiencyEnumeration"
+  },
+  {
+    "ID": "TR_d97762dd",
+    "parent": "Landform",
+    "child": "Mountain"
+  },
+  {
+    "ID": "TR_71de134e",
+    "parent": "BroadcastChannel",
+    "child": "TelevisionChannel"
+  },
+  {
+    "ID": "TR_b829e429",
+    "parent": "StructuredValue",
+    "child": "OwnershipInfo"
+  },
+  {
+    "ID": "TR_c59f9ffb",
+    "parent": "TherapeuticProcedure",
+    "child": "PsychologicalTreatment"
+  },
+  {
+    "ID": "TR_b08e7491",
+    "parent": "Enumeration",
+    "child": "ReturnMethodEnumeration"
+  },
+  {
+    "ID": "TR_a18e8828",
+    "parent": "MedicalIntangible",
+    "child": "DoseSchedule"
+  },
+  {
+    "ID": "TR_9d4395a5",
+    "parent": "MedicalTherapy",
+    "child": "OccupationalTherapy"
+  },
+  {
+    "ID": "TR_fe46a550",
+    "parent": "BodyOfWater",
+    "child": "OceanBodyOfWater"
+  },
+  {
+    "ID": "TR_cdcfc838",
+    "parent": "Store",
+    "child": "HomeGoodsStore"
+  },
+  {
+    "ID": "TR_e3e0d4ce",
+    "parent": "StructuredValue",
+    "child": "GeoShape"
+  },
+  {
+    "ID": "TR_49da55d9",
+    "parent": "HealthAndBeautyBusiness",
+    "child": "BeautySalon"
+  },
+  {
+    "ID": "TR_dbcd807b",
+    "parent": "Action",
+    "child": "UpdateAction"
+  },
+  {
+    "ID": "TR_6dafc476",
+    "parent": "Store",
+    "child": "HobbyShop"
+  },
+  {
+    "ID": "TR_829d17f5",
+    "parent": "Landform",
+    "child": "BodyOfWater"
+  },
+  {
+    "ID": "TR_e10a0a31",
+    "parent": "ConsumeAction",
+    "child": "WatchAction"
+  },
+  {
+    "ID": "TR_b9f53c80",
+    "parent": "PublicationIssue",
+    "child": "ComicIssue"
+  },
+  {
+    "ID": "TR_a9a0370a",
+    "parent": "MedicalOrganization",
+    "child": "Hospital"
+  },
+  {
+    "ID": "TR_b93d3d98",
+    "parent": "WebPage",
+    "child": "ProfilePage"
+  },
+  {
+    "ID": "TR_57bcb3b1",
+    "parent": "ItemList",
+    "child": "HowToSection"
+  },
+  {
+    "ID": "TR_e6b4b869",
+    "parent": "AutomotiveBusiness",
+    "child": "MotorcycleRepair"
+  },
+  {
+    "ID": "TR_1415142d",
+    "parent": "Enumeration",
+    "child": "GameAvailabilityEnumeration"
+  },
+  {
+    "ID": "TR_9213d4ce",
+    "parent": "CreativeWork",
+    "child": "AmpStory"
+  },
+  {
+    "ID": "TR_f8c89f05",
+    "parent": "MedicalEnumeration",
+    "child": "MedicalSpecialty"
+  },
+  {
+    "ID": "TR_2622159c",
+    "parent": "Enumeration",
+    "child": "SizeGroupEnumeration"
+  },
+  {
+    "ID": "TR_cc515f10",
+    "parent": "LocalBusiness",
+    "child": "AutomotiveBusiness"
+  },
+  {
+    "ID": "TR_6bb385fa",
+    "parent": "MedicalOrganization",
+    "child": "Physician"
+  },
+  {
+    "ID": "TR_9c5946f3",
+    "parent": "CreativeWork",
+    "child": "Quotation"
+  },
+  {
+    "ID": "TR_5e40bf27",
+    "parent": "Series",
+    "child": "CreativeWorkSeries"
+  },
+  {
+    "ID": "TR_c0bd70ad",
+    "parent": "StatusEnumeration",
+    "child": "PaymentStatusType"
+  },
+  {
+    "ID": "TR_10eb4332",
+    "parent": "MedicalEnumeration",
+    "child": "MedicineSystem"
+  },
+  {
+    "ID": "TR_ff83933f",
+    "parent": "Intangible",
+    "child": "JobPosting"
+  },
+  {
+    "ID": "TR_f94fc275",
+    "parent": "CreativeWork",
+    "child": "Menu"
+  },
+  {
+    "ID": "TR_7281d2a5",
+    "parent": "Store",
+    "child": "ConvenienceStore"
+  },
+  {
+    "ID": "TR_ea40862b",
+    "parent": "Intangible",
+    "child": "StructuredValue"
+  },
+  {
+    "ID": "TR_8d5022f6",
+    "parent": "MedicalEnumeration",
+    "child": "InfectiousAgentClass"
+  }
+]
