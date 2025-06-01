@@ -5,8 +5,9 @@ __pycache__/
 *.ipynb
 2025/TaskA-Text2Onto/*/test/*   
 
-2025/TaskB-TermTyping/*/test/* 
+
 2025/TaskB-TermTyping/*/all/* 
+2025/TaskB-TermTyping/*/test/*_gt.json
 
 
 2025/TaskC-TaxonomyDiscovery/*/all/* 
