@@ -1,0 +1,530 @@
+application
+chromophore
+process chemistry datum
+methanol
+Ostwald ripening
+rhombohedral
+commercial chemical product
+washing
+heterocyclic compound
+macronutrient
+annealing
+carboxylic acid
+AFRL_0000423
+AFFN_0000187
+organic heterocyclic compound
+AFQ_0000113
+Variable Time Normalisation Analysis
+redox reaction property
+ditrigonal-dipyramidal
+mouse metabolite
+elution
+tetartoidal
+rhombic-pyramidal
+factorial design
+eukaryotic metabolite
+organooxygen compound
+generically dependent continuant
+iron(3+) chelator
+quality specification
+mathematical constant
+AFRL_0000364
+propanones
+AFRL_0000249
+obsolescence reason specification
+annulene
+chemical role
+chemical product
+DNA polymerase complex
+sample quenching
+role
+secondary fatty alcohol
+chemical abstracts name
+luciferin
+fatty acid anion
+hexagonal-pyrimidal
+methyl ketone
+carbonyl compound
+butan-2-one
+value specification
+ethanol extraction
+PCR product
+Acheson method
+realizable entity
+ribonucleic acid
+diploidal
+amphiphile
+food component
+dioxane
+organic ion
+membrane extraction
+integral kinetic measurement
+acyl group
+catalytic activity
+saturated organic heteromonocyclic parent
+concentrating
+prismatic
+oxolanes
+unit cell gamma internal angle
+nucleon
+gas molecular entity
+hydrocarbon
+evaporation
+hexoctahedral
+membrane extraction with a sorbent interface
+aromatic compound
+concomitant polymorphs
+acetone
+Davies condenser
+iron(2+) chelator
+carbon oxoacid
+planned process
+AFRL_0000289
+solvent evaporation
+one-carbon compound
+reactive distillation
+protective agent
+mammalian metabolite
+AFRL_0000344
+solvent extraction
+tetragonal-trapezohedral
+ditrigonal-pyramidal
+formamide
+thermal degradation product
+gas–liquid extraction
+route specification
+electron donor
+CQA specification
+monovalent inorganic cation
+AFM_0001038
+molecular complex
+AFRL_0000510
+organic acid
+AFRL_0000533
+product filing documentation
+AFQ_0000114
+nuclear particle
+trigonal-trapezohedral
+organic anion
+objective specification
+plan specification
+AFQ_0000250
+biophysical role
+formic acid
+molecule
+specifically dependent continuant
+ageing
+organic heteromonocyclic compound
+methylbenzene
+ditetragonal-pyramidal
+aromatic annulene
+air-sensitive vacuum distillation
+molecular entity
+emulsifier
+supercritical fluid method
+ammonia
+polymerisation monomer
+hydrogen isocyanide
+unit cell crystal density
+biological role
+pharmacological role
+purge factor
+reagent
+hydrides
+protophilic solvent
+dioxanes
+hydrogen donor
+carbon atom
+solid solution
+AFRL_0000020
+written name
+oxolane
+protein precipitation
+pseudohalide anion
+supercritical drying
+sample heating
+chemical impurity
+persistent organic pollutant
+propan-2-ol
+process profile specification
+study design execution
+amplified DNA
+neurotransmitter agent
+assessed solubility purge factor
+CHEBI_24870
+organic cyclic compound
+flask
+experimental design
+centrifugation
+volatile organic compound
+polyatomic ion
+chromatography
+AFQ_0000256
+material processing
+ether
+oxide
+lumiphore
+amino acid
+scalar measurement datum
+route development optimization
+nucleophilic reagent
+AFRL_0000231
+antioxidant
+crystalline solid
+organochalcogen compound
+critical process parameter specification
+AFRL_0000365
+organic group
+hydracid
+pnictogen molecular entity
+heteromonocyclic compound
+enzymatic amplification
+chalcogen
+route validation
+AFRL_0000429
+oxygen atom
+critical process parameter
+saturated organic heterocyclic parent
+explosive
+drug
+oxoacid derivative
+sequential centrifugation
+protic solvent
+main group molecular entity
+domatic
+organic aromatic compound
+evaporation device
+trituration
+benzene
+photochemical role
+donor
+carbamic acid
+master formula record
+material transformation objective
+review of prior art
+AFFN_0000014
+affinity chromatography
+ball milling
+extractive distillation
+biochemical role
+toluene
+monoclinic unit cell
+AFFN_0000127
+monocarboxylic acid
+organic molecule
+portion of material
+ammonium
+atom
+process validation
+polymeric membrane extraction
+divalent inorganic anion
+occurrent
+oxidising agent
+hexagonal unit cell
+Bridgeman technique
+AFRL_0000508
+liquid–liquid extraction
+homocyclic compound
+one-factor-at-a-time experimental design
+AFQ_0000112
+degassing
+tetragonal-dipyramidal
+vacuum distillation
+AFE_0000407
+solvate
+neuroprotective agent
+AFRL_0000367
+anion
+anhydrous phase
+enzyme
+route related process
+document
+human metabolite
+temperature profile in synthesis process
+material entity
+kinetic order
+Reaction Progress Kinetic Analysis
+formamides
+seed role
+nucleic acid template role
+inorganic ion
+oxidized luciferins
+hextetrahedral
+amide
+organic fundamental parent
+redox potential change
+curve fitting objective
+polymerase chain reaction
+competency question
+grinding
+thermodynamic reaction property
+environmental contaminant
+crystallisation adjutant
+cyanide
+aliphatic nitrile
+AFFN_0000055
+metabolite
+temporal region
+sequentional extraction
+AFQ_0000111
+data item
+nutrient
+process chemistry workflow plan
+hexagonal-dipyrimidal
+deaminating agent
+lipid
+EC 3.5.* (hydrolases acting on non-peptide C-N bonds) inhibitor
+azanide
+documenting
+continuant
+Lewis acid
+respiratory-chain inhibitor
+kinetic constant
+crystallization
+AFM_0001035
+preparative centrifugation
+separation method
+distillation
+temporal measure
+information content entity
+AFE_0000354
+flocculant
+radical scavenger
+data set
+photobiochemical role
+reaction process profile
+organonitrogen compound
+polar aprotic solvent
+differential centrifugation
+polyatomic anion
+carboximidic acid
+food preservative
+hadron
+bill of materials
+assessed reactivity purge factor
+organic molecular entity
+organic amino compound
+isomorphic desolvate
+identifier
+mononuclear parent hydride
+phase-transfer catalyst
+Lewis base
+Control Strategy
+dissolving
+cloud-point extraction
+gyroidal
+Arhennius equation
+unit operation in chemical processing
+azeotropic distillation
+AFM_0001097
+ICH Q3C Residual Solvents
+rate equation
+oxygen molecular entity
+Box–Behnken design
+subatomic particle
+monocyclic arene
+process chemistry filing
+p-block molecular entity
+processed material
+ketone
+formate
+sample solidification
+AFRL_0000216
+hydrogen molecular entity
+nitrogen atom
+liquid-solid extraction
+Allihn condenser
+intermediate material for synthesis
+eutectic
+monocyclic compound
+material component separation
+iron ionophore
+document part
+data transformation
+acyl donor
+mechanistic and kinetic determination
+symmetry
+food additive
+amphiprotic solvent
+fatty acid derivative
+GMP synthetic process
+composite particle
+CTA Section 3.2.S.1.1 Nomenclature
+methoxide
+appearance datum
+onium cation
+Widmer column
+cofactor
+purification
+crystallisation
+carboxamide
+primary amide
+aetiopathogenetic role
+crystallization yield
+monocyclic hydrocarbon
+AFFN_0000139
+round bottom flask
+column chromatography
+benzenoid aromatic compound
+mixing
+monocarboxylic acid amide
+route selection
+AFRL_0000422
+hydrogen cyanide
+quality
+crystalline solid thermodynamic phase
+unit cell
+chalcogen molecular entity
+drying control chemical additive
+AFRL_0000511
+iron chelator
+electron-transport chain inhibitor
+condensor
+inorganic cation
+half-life
+organic divalent group
+butanone
+heteroorganic entity
+curve fitting data transformation
+alpha-1-microglobulin-Ig alpha complex chromophores
+alkyl alcohol
+dialkyl ketone
+carbon group molecular entity
+monocarboxylic acid anion
+pnictogen hydride
+vapour-phase extraction
+exponential time constant
+Vigreux column
+product stream
+spiking
+toluenes
+CTA Section 3.2.S.2.3 Control of Materials
+process boundary
+acceptor
+function
+high-energy ball milling
+carboxylic acid anion
+alcohol
+oxoanion
+evaluant role
+polar solvent
+group
+azane
+AFRL_0000428
+formimidic acid
+heteroatomic molecular entity
+material costs
+AFM_0001034
+slurry
+crystal growth method
+molecular quality
+nucleic acid
+nonmetal atom
+base
+ICH Guideline
+chemical entity
+inorganic molecular entity
+process profile
+data transformation objective
+organic oxo compound
+AFFN_0000111
+residual solvent impurity
+dihexagonal-pyramidal
+GMP starting material
+starting material for synthesis
+seeded sublimation
+s-block element atom
+imidic acid
+deoxyribonucleic acid
+hydroxides
+inorganic anion
+antisolvent role
+ketone body
+data about an ontology part
+food emulsifier
+sample deposition
+primary alcohol
+AFFN_0000044
+Maillard reaction product
+surfactant
+carbocyclic compound
+rotary evaporation
+AFRL_0000244
+catalyst
+sample drying
+equation
+dual-phase extraction
+investigation
+food antioxidant
+CTA Section 3.2.S.1.3 General Properties
+directive information entity
+electrophilic reagent
+ICH Q6A Specifications: Test Procedures and Acceptance Criteria for Chemical Substances
+animal metabolite
+oxacycle
+tetragonal-scalenohedral
+carbamate
+rhombic-dipyramidal
+fractionating column
+measurement datum
+cyclic ether
+partial rate order
+laboratory notebook experiment identifier
+unit cell quality
+EC 3.5.1.* (non-peptide linear amide C-N hydrolase) inhibitor
+dispersive solid phase extraction
+morphology
+AFRL_0000513
+cyclic compound
+fermentation
+device
+siderophore
+extraction
+reaction rate profile
+membrane transport modulator
+phytosiderophore
+monovalent inorganic anion
+surface-assisted chemical vapour transport
+phytochrome chromophore
+cyclic hydrocarbon
+molecular_function
+AFFN_0000128
+solvent
+polyatomic entity
+cation
+double-stranded DNA
+batch campaign
+antimicrobial agent
+point group symmetry
+reaction rate
+centrally registered identifier
+reagent role
+AFRL_0000167
+chemical vapour transport
+solvent precipitation
+amino-acid anion
+sequestrant
+fuel
+fatty acid
+centrally registered identifier registry
+unit cell b-axis length
+Permitted Daily Exposure
+fractional crystallisation
+1,4-dioxane
+Central Composite Design
+hydrogen atom
+precipitation
+rhombic-disphenoidal
+acetonitrile
+reference substance role
+fatty alcohol
+DNA polymerase activity
+protein-containing complex
+nitrogen molecular entity
+nitrogen hydride
+fate of impurity
+international nonproprietary name
+ditetragonal-dipyramidal
+quality process profile
+hexagonal-trapezohedral
+synthetic chemical process

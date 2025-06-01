@@ -1,0 +1,2821 @@
+GEM premier blood gas venous blood ionized calcium assay
+standard deviation calculation
+insecticide resistance by detecting carboxylic ester hydrolase activity assay
+age measurement datum
+intracellular cytokine staining assay measuring epitope specific interleukin-22 production by T cells
+creatinine clearance urine creatinine assay
+brachioradialis functionality
+ELISA measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+hemoglobin oxygen saturation arterial blood oxygen assay
+areola
+disposition to cause an allergic reaction
+direct venous blood bilirubin assay
+spatial region
+POC chem8 arterial blood sodium assay
+assay measuring epitope specific interleukin-27 production by T cells
+material sample
+solid NMR probe
+B cell epitope specific antibody-dependent cellular cytotoxicity
+machine learning
+laser
+umbilical cord blood specimen
+photomultiplier tube
+cortex of kidney specimen
+low-density lipoprotein cholesterol assay
+ELISA measuring epitope specific interferon-beta production by T cells
+adjuvant role
+cerebrospinal fluid microbiology assay
+multi-unit recording
+small-animal image acquisition device
+dye role
+Illumina HiSeq 1500
+cultured CD4-/CD8- T cell population
+TSH reflex Free T4 venous blood thyroid stimulating hormone assay
+role of independent data monitoring committee
+trough venous blood tobramycin assay
+blood gas venous blood bicarbonate assay
+ABL90 panel arterial blood hematocrit assay
+16s ribosomal gene sequencing assay
+plasma cell
+establishing cell line
+cytometric bead array assay measuring epitope specific interleukin-17A production by T cells
+electrophoresis system
+isolation of adherent cells
+ultrasound machine
+epithelial cell
+mouse MHC class I protein complex with H2-b haplotype
+total venous blood T3 assay
+intracellular cytokine staining assay measuring epitope specific interleukin-3 production by T cells
+Amniota
+efficacy of epitope intervention experiment
+transcription profiling by RT-PCR design
+interleukin-9 production
+family wise error rate correction method
+centroid mass spectrum analysis
+inside-out patch clamp assay
+data set of predicted values according to fitted curve
+venous blood ammonia assay
+cluster study group role
+3,3',5'-triiodothyronine
+array scanner
+antigen role
+assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+T cell mediated cytotoxicity
+categorical measurement datum
+amplicon sequencing assay
+antibody binding detection by fluorescence quenching
+promyelocyte assay
+SPEP protein electrophoresis venous blood albumin assay
+ELISPOT assay measuring epitope specific interleukin-1 alpha production by T cells
+C-reactive protein assay
+organism detection by PCR assay
+material anatomical entity
+cell culture splitting
+node quality calculation
+induced sputum microbiology assay
+vancomycin
+cell culture analyte detection bioassay measuring epitope specific interleukin-6 production by T cells
+radioactivity detection assay measuring competitive binding of a cell-bound-MHC:ligand complex
+intraoperative venous blood PTH assay
+T2 weighted magnetic resonance image data set
+MHC tetramer/multimer assay measuring binding of a T cell epitope:MHC:TCR complex
+folic acids assay
+computed tomography imaging assay
+total venous blood cholesterol assay
+catalytic activity
+genomic SELEX
+electrolytes urine potassium assay
+cDNA library
+image creation
+specimen collection process
+enzyme-linked immunospot assay
+extraction date
+curated information
+establishing cell culture
+ELISPOT assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+dose response design
+core HBV IgM antibody assay
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-X-C motif) ligand 13 production by T cells
+mass spectrometry-based protein state assay
+proton density magnetic resonance image data set
+testosterone concentration assay
+basic metabolic panel venous blood calcium assay
+DNA sequencing by synthesis assay
+obsolete health care provider role
+cytometric bead array assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+antibody purification of MHC class I protein complex
+induced sputum microbiology datum
+Illumina HiSeq 1000
+detection of specific nucleic acids with complementary probes assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+northing coordinate measurement datum
+venous blood Ceruloplasmin assay
+organ harvesting
+CBC with manual differential venous blood myelocyte count assay
+Bruker NMR probe
+assay measuring epitope specific lymphotactin production by T cells
+cardiac enzymes venous blood creatine kinase assay
+BioSorter2000
+blood plasma specimen
+personal protective clothing item
+detection of specific nucleic acids with complementary probes assay measuring epitope specific perforin release
+Illumina HiSeq X Ten
+ABL90 panel venous blood bicarbonate assay
+descriptive statistical calculation data transformation
+globulin assay
+hierarchical clustering
+venous blood T3 assay
+ELISA measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+ion exchange column
+Alexa Fluor 546
+chromosomal substitution
+nitrile glove
+epitope specific helper T cell enhancement of T cell mediated immune response
+phosphorus-32 atom
+H2-Ld protein complex
+cell culture supernatant
+tumor necrosis factor (ligand) superfamily member 11 production
+ELISA measuring epitope specific interleukin-17F production by T cells
+gene list visualization
+breast
+gel dryer
+microscopy assay
+cytometric bead array assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+blood gas venous blood carbon dioxide assay
+addition of molecular tracer function
+cytometry assay
+specimen pad
+total venous blood protein assay
+intracellular cytokine staining assay measuring epitope specific interleukin-4 production by T cells
+chromosome conformation capture sequencing assay
+leptin assay
+radioactivity detection assay measuring half life to determine direct binding of a cell-lysate-MHC:ligand complex
+hemoglobin A1c
+argon ion laser
+minimum resolved unit of measurement
+epitope specific chemokine (C-C motif) ligand 21 production by T cells
+immuno staining assay measuring binding of a B cell epitope:antibody complex
+restricting MHC role
+molecular feature identification objective
+Human Exon 1.0 ST tilling array
+assay measuring epitope specific perforin release by T cells
+3D neural cell structure determination assay
+Viruses
+bio-layer interferometry assay
+real-time PCR machine
+host exposure to infectious agent
+discriminant function analysis
+s transformation
+progesterone
+direct insecticide resistance bioassay
+GEM premier blood gas venous blood oxygen assay
+study design dependent variable
+microarray platform
+scanning force microscope
+polymerase chain reaction assay
+labeled nucleic acid extract
+footprinting assay
+slide warmer
+antibody purification of MHC class II protein complex
+GEM4 arterial blood hematocrit assay
+radioactivity detection assay measuring half life to determine direct binding of a purified-MHC:ligand complex
+in vivo assay measuring B cell epitope specific protection from pathogen challenge resulting from the adoptive transfer of epitope specific antibodies or B cells
+assay measuring a binding constant of a T cell epitope:MHC:TCR complex
+angiograph
+DNA extract
+test tube
+triglyceride assay
+sigmoid colon specimen
+assay measuring epitope specific interferon-alpha production by T cells
+unblinding process
+interleukin-1 alpha production
+sequence data feature count tabulation
+epitope specific interleukin-7 production by T cells
+uterine cervix specimen
+denotator type
+normalization data transformation
+DNA fingerprinting assay
+vector mediated expression
+Rhodium DNA structure mapping assay
+peritoneal fluid
+umbilical cord blood assay
+nose to finger assessment
+cryostat
+venous blood prealbunin assay
+transcription profiling assay
+endotracheal tube specimen
+ovitrap
+respiratory system specimen
+intracellular cytokine staining assay measuring epitope specific interleukin-1 beta production by T cells
+shotgun bisulfite-seq assay
+inFlux Analyzer
+email address of sequencing facility contact person
+tongue swab specimen
+arterial blood sodium assay
+contig
+pathogen role
+breast swab specimen
+computer
+swab specimen
+logit-log curve fitting
+chem16 venous blood triglyceride assay
+high-density lipoprotein concentration assay
+epitope protection from infectious challenge experiment
+vibration isolation table
+interleukin-18 production
+inclusion criterion
+25-hydroxyvitamin D2
+in vivo assay measuring B cell epitope specific survival after pathogen challenge
+T cell proliferation
+continuant fiat boundary
+scalar measurement datum
+Rodentia
+WHO paper kit diagnostic assay
+terbium atom
+X-ray crystallography assay determining the 3D structure of a B cell epitope:antibody complex
+mesothelial cell count assay
+Centers for Disease Control and Prevention gravid trap
+radioactivity detection assay measuring direct binding of a cell-lysate-MHC:ligand complex
+mass spectrometry assay measuring MHC ligand processing and presentation
+LSRFortessa X-20
+spectrolyse heparin antifactor-Xa assay
+tube 1 count cerebrospinal fluid cell count assay
+cytometric bead array assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+glucose tolerance test
+flash pump system
+AB SOLiD System
+ELISA measuring epitope specific interleukin-27 production by T cells
+prediction
+DNA sequencing assay
+cytometric bead array assay measuring epitope specific chemokine (C-C motif) ligand 22 production by T cells
+T cell tolerance induction
+thermal cycler
+vial
+molecular interaction identification design
+intracellular cytokine staining assay measuring epitope specific interleukin-18 production by T cells
+half maximal effective concentration (EC50)
+POC chem8 arterial blood ionized calcium assay
+imaging assay
+pump valve switch
+hepatic panel venous blood human alkaline phosphatase assay
+indicator of whether all inclusion criteria were met
+artificially induced nucleic acid hybridization
+material service
+total venous blood calcium assay
+replicate analysis
+B cell receptor repertoire sequencing assay
+plasma proteomics assay
+chromatography device
+killing
+alkaline phosphatase activity level assay
+chemokine (C-C motif) ligand 19 production
+abdominal wall fat pad biopsy
+CBC with manual differential venous blood band neutrophil count assay
+transparent droplet barrier
+material transformation objective
+cytometric bead array assay measuring epitope specific interleukin-8 production by T cells
+sequencing facility contact person
+radioactivity detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a purified-MHC:ligand complex
+venous blood albumin assay
+regulation-assigned role
+portioning objective
+ABL90 panel venous blood chloride assay
+digital camera
+ribosomal profiling by sequencing assay
+clinical history
+3,3',5'-triiodothyronine assay
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-18 production by T cells
+EDTA methidiumpropylamide
+scalar value specification
+Scrub Typhus Detect IgM ELISA kit
+analyte role
+glucose assay
+SWATH-MS protein profiling assay
+mouth
+atom
+GEM4 arterial blood glucose assay
+standard compliance rule
+ionize process
+tissue section thickness
+bodily fluid specimen
+antigen specific antibodies assay datum
+quality of interaction of a substance with electromagnetic radiation
+biopsy
+Bruker NMR Case sample changer
+throat
+barcode target locus role
+Luminex 100
+phage display library
+fluorescence detection assay measuring direct binding of a purified-MHC:ligand complex
+liver function venous blood protein assay
+ABL90 panel venous blood oxygen assay
+transfection
+assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+split-ubiquitin assay
+micropipette puller
+comprehensive metabolic panel venous blood albumin assay
+secondary cultured cell population
+pupal specimen collection process
+multichannel electronic pipette
+ELISA measuring epitope specific interleukin-4 production by T cells
+binding constant determination assay
+obsolete_platform
+fluid pressure regulator
+insecticide resistance by detecting mixed-function oxidase assay
+ELISA measuring epitope specific interleukin-9 production by T cells
+injection into organ section
+categorical value specification
+genotyping by high throughput sequencing assay
+adverse event trigger
+cytokine production
+interleukin-12 production
+in vivo assay measuring T cell epitope specific survival after pathogen challenge
+eukaryota in urine datum
+RNA extraction
+phosphate ion
+ELISA measuring epitope specific vascular endothelial growth factor production by T cells
+OBI_0002203
+longitudinal data analysis
+kethoxal structure mapping assay
+size exclusion column
+gas chromatography detector
+ELISPOT assay measuring epitope specific interleukin-21 production by T cells
+GEM premier blood gas venous blood sodium assay
+hyper graeco latin square design
+epitope specific chemokine (C-X-C motif) ligand 12 production by T cells
+obsolete_left handedness
+intracellular cytokine staining assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+evaporative light scattering detector
+single-cell RNA sequencing assay
+diagnosis of an organism
+in live organism assay
+sequence feature annotation
+in vivo assay measuring T cell epitope specific protection from pathogen challenge
+specimen collection time post infection
+ABL90 panel arterial blood carbon dioxide assay
+data item
+age determination assay
+nucleated erythrocyte percentage assay
+liver evaluation venous blood human aspartate aminotransferase assay
+latin square design
+light trap
+entity
+carboxyfluorescein succinimidyl ester staining assay measuring epitope specific proliferation of T cells
+multiplexed sequence data
+wild type allele information
+addition of molecular label
+in vivo assay measuring B cell epitope specific protection from fertility
+fibrinogen assay
+micrococcal nuclease digestion followed by high throughput sequencing assay
+Centers for Disease Control and Prevention light trap
+obsolete_polymer
+forced cough assessment
+group assignment
+glial cell line-derived neurotrophic factor
+concentration of
+DNA sequence feature detection assay
+X-ray source
+Illumina NovaSeq 6000
+ELISA measuring epitope specific granzyme B release by T cells
+ferritin assay
+electron-microscopy 3D molecular structure determination assay
+cooximitery arterial blood methemoglobin assay
+one-dimensional continuant fiat boundary
+diode laser
+cloaca
+ELISPOT assay measuring epitope specific interleukin-12 production by T cells
+assay measuring MHC ligand processing and presentation
+trough venous blood vancomycin assay
+RNAi profiling by array design
+venous blood uric acid assay
+complementary nucleotide probe role
+venous blood tobramycin assay
+intracellular cytokine staining assay measuring epitope specific lymphotoxin A production by T cells
+exposure resulting in immune reactivity
+secondary structure of sequence macromolecule
+myelocyte
+radio immuno assay
+assay measuring T cell epitope specific in vivo activity
+gating
+feces microbiology datum
+ABL90 panel venous blood hemoglobin assay
+DNase I hypersensitive sites sequencing assay
+cytometric bead array assay measuring epitope specific granzyme A release by T cells
+epitope specific T cell proliferation
+lymph node cell specimen
+genotyping by PCR assay
+kurtosis calculation
+in vivo assay measuring epitope specific proliferation of T cells resulting from the adoptive transfer of epitope specific T cells
+exposure to environmental and workplace carcinogens history
+alanine aminotransferase assay
+Solexa sequencing assay
+CyFlow Space
+placebo role
+immunoblot assay
+nuclear ligation assay
+MPE-Fe(II) structure mapping assay
+liver function venous blood alanine aminotransferase assay
+intracerebral administration
+biomaterial purity
+density plot
+image creation device
+assay measuring epitope specific proliferation of T cells
+cell culture analyte detection bioassay measuring epitope specific interleukin-5 production by T cells
+drawing a conclusion
+bilirubin IXalpha assay
+synthesis
+false discovery rate correction method
+optical filter
+vagina specimen
+chem16 venous blood creatinine assay
+venous blood iron assay
+flow cytometry assay measuring cell-cell binding of a T cell epitope:MHC:TCR complex
+equilibrium dissociation constant (KD) approximated by EC50
+antibody purification of human MHC class I protein complex
+cytometric bead array assay measuring epitope specific macrophage migration inhibitory factor (MIF) production by T cells
+transcription profiling by RT-PCR assay
+arterial blood hematocrit assay
+mating type
+Human Genome U133 Plus 2.0 tiling array
+euploid
+history
+thrombin time assay
+assay measuring epitope specific interleukin-16 production by T cells
+computed tomography scanner
+local field potential recording
+extracellular electrophysiology recording assay
+Immunization in vitro
+activated partial thromboplastin time assay
+recombinant plasmid
+restriction enzyme
+in vivo cell killing assay
+acquisition computer
+testosterone
+cell culture expansion
+cytometric bead array assay measuring epitope specific interleukin-17F production by T cells
+human antithrombin-III in blood assay
+input protein sequence start site
+ABL90 panel venous blood sodium assay
+ELISA measuring epitope specific lymphotoxin A production by T cells
+transcription profiling by tiling array design
+epitope specific chemokine (C-C motif) ligand 22 production by T cells
+history of sex with someone with a history of intravenous drugs exclusion criterion
+organismal quality
+assay
+ELISA measuring epitope specific amphiregulin production by T cells
+assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+endotracheal aspirate assay datum
+epitope specific interleukin-22 production by T cells
+microRNA profiling by high throughput sequencing assay
+CBC with manual differential venous blood WBC count assay
+electrophoretic mobility shift assay
+ionized arterial blood calcium assay
+arithmetic mean calculation
+automatic staining machine
+informing subject of study arm
+promyelocyte
+temperature control bath
+creatine assay
+venous blood mycophenolic acid assay
+bone profile venous blood protein assay
+yeast mating type
+laboratory animal care
+assay measuring qualitative binding of a T cell epitope:MHC:TCR complex
+ELISA measuring epitope specific interleukin-16 production by T cells
+ankle joint
+competitive inhibition of binding assay
+GEM premier blood gas venous blood potassium assay
+cytometric bead array assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+assay measuring a binding constant of a MHC:ligand complex
+GEM4000 ANLCOOX arterial blood temperature assay
+DNA methylation profiling by high throughput sequencing design
+ploidy
+magnetic resonance image data set
+carbon dioxide
+voltage amplifier
+epitope protection experiment
+random electrolytes urine potassium assay
+scattered molecular aggregate
+pathologic distant metastases stage for lung according to AJCC 7th edition
+cytometric bead array assay measuring epitope specific interleukin-5 production by T cells
+assay measuring qualitative binding of a B cell epitope:antibody complex
+assay measuring epitope specific chemokine (C-C motif) ligand 22 production by T cells
+intracellular cytokine staining assay measuring epitope specific interleukin-15 production by T cells
+freeze substitution system
+muscle atrophy assessment
+ribonuclease U2
+obsolete_DNA sequencing training service
+electricity supply function
+number of errors
+role of regulator of chemical manufacturer
+multiplex real time polymerase chain reaction assay
+western blot assay
+encephalitis virus surveillance trap
+EBV IgG antibody assay
+deep tendon reflex assessment
+randomized group participant role
+vented blood gas arterial blood oxygen assay
+regulator role
+RNAi gene knockdown
+monocyte chemotactic protein-1 production
+assay measuring epitope specific chemokine (C-X-C motif) ligand 13 production by T cells
+exponential transformation
+assay detecting a molecular label
+solid support function
+resting arthropod trap
+curve fitting data transformation
+mass analyzer
+intrauteral administration
+multiplex ligation-mediated amplification
+class discovery data transformation
+CBC venous blood hematocrit assay
+reverse transcription polymerase chain reaction assay
+calibration
+assay measuring the off rate [koff] of a T cell epitope:MHC:TCR complex
+X-ray crystallography assay determining the 3D structure of a MHC:ligand complex
+ELISPOT assay measuring epitope specific interferon-gamma production by T cells
+genetic material
+ELISA measuring epitope specific interleukin-15 production by T cells
+chemokine (C-C motif) ligand 22 production
+bisulfite sequencing assay
+assay kit
+sheath tank
+function
+gravidity inclusion criterion
+comprehensive metabolic panel venous blood creatinine assay
+input gene sequence start site
+transgenic mutagenesis
+assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+fluorescence detection assay measuring competitive binding of a purified-MHC:ligand complex
+evaluant role
+venous blood WBC count assay
+microarray assay measuring NS1
+Metazoa
+microtome knife sharpener
+assay measuring epitope specific interleukin-17A production by T cells
+GEM4000 ANLCOOX arterial blood glucose assay
+grant
+worker role
+datum label
+quality of a gas
+oligonucleotide primer set
+random venous blood amikacin assay
+osmolality assay
+bone marrow microbiology assay
+umbilical cord blood microbiology assay
+Kitrinoviricota
+isoelectric focusing device
+segmented neutrophil of bone marrow
+Saccharomyces cerevisiae mating type
+anion trap column
+role of regulator of consumables and medical devices
+assay measuring epitope specific helper T cell enhancement of a T cell mediated immune response resulting from the adoptive transfer of epitope specific T cells
+ELISPOT assay measuring epitope specific IP-10 production by T cells
+surface plasmon resonance assay measuring the off rate [koff] of a B cell epitope:antibody complex
+conclusion based on data
+face shield
+neutrophil count assay
+assay measuring epitope specific antibody-dependent cellular cytotoxicity
+immunoblot assay measuring binding of a B cell epitope:antibody complex
+ELISPOT assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+erythrocyte count assay
+Bruker NMR instrument
+comprehensive metabolic panel venous blood potassium assay
+electrophoresis
+in vivo assay measuring B cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on survival
+k-means clustering
+feces specimen
+role of legally acceptable representative
+cultured cell population
+GEM4000 ANLCOOX arterial blood hematocrit assay
+3D structure determination of bound molecular complex assay
+transthyretin
+trial monitor role
+insecticide resistance by detecting alpha esterase activity assay
+suprapubic skin specimen
+topical administration
+induced sputum assay
+venous blood transferrin assay
+fluorescently labeled MHC multimer
+epitope specific macrophage inflammatory protein-1 gamma production by T cells
+3D structural organization datum
+hepatic panel venous blood bilirubin assay
+adiponectin
+reduced representation bisulfite sequencing assay
+ELISPOT assay measuring epitope specific interleukin-3 production by T cells
+in vivo assay measuring B cell epitope specific treatment of disease
+in vivo assay measuring B cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on pathogen burden
+subcellular protein immunohistochemistry assay
+intracellular material detection assay measuring epitope specific perforin release
+pattern matching objective
+mechanical balance
+gene dosage assay
+liquid chromatography mass spectrometry platform
+POC chem8 arterial blood creatinine assay
+single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing
+vagina swab specimen
+carboxyfluorescein succinimidyl ester staining assay
+insecticide resistance dose response by survival of larvae assay
+gene knockdown
+sequence trimming
+very-low-density lipoprotein concentration assay
+positron emission tomography scanner
+transferrin assay
+predicted value
+participant identifier
+material maintenance service
+antibody purification of H2-Ld protein complex, H2-Db protein complex, and/or H2-Dq protein complex
+venous blood LDH assay
+viral hemagglutination inhibition assay
+ELISA measuring epitope specific perforin release by T cells
+pathogen detection assay
+in vivo assay measuring B cell epitope specific protection from other challenge
+network analysis
+epitope specific chemokine (C-C motif) ligand 4 production by T cells
+needle biopsy
+gradient separation
+gas chromatography mass spectrometry
+pathologic distant metastases stage for ovary according to AJCC 7th edition
+lipoprotein concentration assay
+assay measuring epitope specific interleukin-22 production by T cells
+plasmon resonance assay measuring the dissociation constant [KD] of a T cell epitope:MHC:TCR complex
+total venous blood homocysteine assay
+CBC with automated differential venous blood nucleated RBC count assay
+in vivo assay measuring B cell epitope specific protection from pathogen challenge
+intracellular cytokine staining assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+denatured polymer
+target of material addition role
+analog-to-digital converter
+antibacterial
+assay measuring epitope specific cytotoxic T cell degranulation
+study group role
+antibody purification of MHC protein complex
+Illumina NextSeq 500
+global chromatin profiling by mass spectrometry assay
+obsolete transcription factor binding site
+total intensity transformation paired
+measurement datum
+soil
+genotype information
+cell fixation
+endotracheal aspirate assay
+node out-degree calculation
+insecticide resistance detection objective
+specimen collection time post disease onset
+viral hemagglutination inhibition assay measuring binding of a B cell epitope:antibody complex
+gynecologic surgery history
+environmental proximity to infectious agent
+T1 weighted GRE magnetic resonance image data set
+biological feature identification objective
+genotyping by array assay
+insecticide resistance by PCR amplification of specific alleles assay
+urine assay datum
+urine creatinine assay
+clinical data item
+centrally registered identifier symbol
+ELISA measuring epitope specific interleukin-1 beta production by T cells
+assay measuring binding of a purified-MHC:ligand complex
+MosquiTRAP
+proteomic profiling design
+device
+epitope specific interleukin-1 alpha production by T cells
+esophagogastric junction specimen
+intracellular cytokine staining assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+cytometric bead array assay measuring epitope specific interleukin-9 production by T cells
+anion exchange column
+assay array
+parathyroid hormone
+double-stranded DNA
+automated count venous blood reticulocyte count assay
+recombinant vector cloning
+histone modification identification by ChIP-Seq assay
+protein sequencing by tandem mass spectrometry assay
+venous blood T4 assay
+renal medulla
+cool function
+histological sample preparation
+interleukin-7 production
+pathogen release in laboratory accident
+blood microbiology assay
+fasting
+multispectral imaging flow cytometer
+parallel analysis of RNA structure assay
+minimal inhibitory concentration
+digestive tract specimen
+categorical binding datum
+insecticide resistance by monitoring known mutations assay
+calorimetry assay measuring binding of a B cell epitope:antibody complex
+fractional factorial design
+intracellular cytokine staining assay measuring epitope specific interleukin-9 production by T cells
+country name
+analyte assay
+GEM4000 ANLCOOX arterial blood sodium assay
+CBC with automated differential venous blood WBC count assay
+CBC with manual differential venous blood lymphocyte count assay
+obsolete_defined_output
+fluorescence detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a purified-MHC:ligand complex
+epigenetic modification identification objective
+Illumina NovaSeq series instrument
+arterial blood chloride assay
+growth environment
+vitamin B12 and Folate venous blood folic acid assay
+sample from organism
+rate unit
+liquid chromatography-tandem mass spectrometry
+comprehensive metabolic panel venous blood protein assay
+DNA transduction
+WHO larvicide diagnostic assay
+chem16 venous blood human alkaline phosphatase assay
+Revtraviricetes
+organism detection by morphological examination assay
+granulysin production
+immunoblot scanner
+DNA extraction
+RIA measuring the association constant [KA] of a B cell epitope:antibody complex
+organ section
+antigen specific antibodies in blood assay
+multiple wavelength detector
+ribosomal RNA-depleted RNA sequencing assay
+obsolete performing a clinical assessment
+T1 weighted SE magnetic resonance image data set
+Edman degradation
+liver evaluation venous blood bilirubin assay
+assay measuring the off rate [koff] of a B cell epitope:antibody complex
+assay measuring epitope specific transforming growth factor-beta production by T cells
+glass bottle
+assay measuring epitope specific interleukin-15 production by T cells
+performance status value specification
+intact venous blood PTH assay
+Holm-Bonferroni family-wise error rate correction method
+molecular label
+RNAi knockdown assay
+quenching assay measuring binding of a B cell epitope:antibody complex
+categorical label
+neither hysterectomy nor oophorectomy history
+microcentrifuge
+CBC venous blood hemoglobin assay
+antibody purification of pig MHC class I protein complex, cattle MHC class I protein complex, and/or human MHC class I protein complex
+JEOL ECX NMR spectrometer
+induced sputum specimen
+arterial blood glucose assay
+panel5 venous blood potassium assay
+gel filtration column
+proportional hazards model estimation
+autoclave
+alpha mating type (yeast)
+tandem mass spectrometry analysis
+intracellular cytokine staining assay measuring epitope specific interferon-beta production by T cells
+cell cycle synchronization
+DNA adenine methyltransferase identification assay
+3-D extent
+ELISPOT assay measuring epitope specific granzyme B release by T cells
+assay measuring epitope specific T cell killing
+monocyte assay
+filter paper
+antibody purification of H2-Db protein complex
+CBC with manual differential venous blood nucleated RBC count assay
+DISCOVERY console
+chemokine (C-C motif) ligand 17 production
+chem11 venous blood potassium assay
+GEM premier blood gas venous blood bicarbonate assay
+mass spectrometer
+ABL90 panel venous blood hematocrit assay
+loess scale group transformation
+SPEP protein electrophoresis venous blood beta-globin assay
+ChIP-seq design
+ELISA measuring binding of a B cell epitope:antibody complex
+column adapter
+quartz crystal microbalance assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+raw magnetic resonance image data set reconstruction
+value specification
+dbGaP study identifier
+Bruker autosampler
+aneuploid
+RNA-binding protein immunoprecipitation array profiling assay
+pathologic process
+antigen
+liver fibrosis (NAFLD) venous blood platelet count assay
+pig MHC class I protein complex
+POC arterial blood creatinine assay
+ribonucleic acid
+Bruker UltraShield Plus NMR magnet
+random venous blood tobramycin assay
+in vivo assay measuring a T cell epitope specific response after adoptive transfer of epitope specific T cells
+free fatty acid concentration assay
+vacuum oven
+yeast 2-hybrid assay
+bio-layer interferometry assay measuring binding of a B cell epitope:antibody complex
+reconstitution assay
+upper respiratory tract specimen
+quantile transformation
+intrarectal administration
+DNA transfection
+single-end library
+chromatin immunoprecipitation
+GEM premier blood gas venous blood hemoglobin assay
+animal euthanization
+bodily fluid
+calcium cation assay
+composition
+bone profile venous blood human alkaline phosphatase assay
+assay measuring the association constant [KA] of a B cell epitope:antibody complex
+group randomization
+creatinine assay
+antigen binding
+DNA split-pool recognition of interactions and tag extension assay
+pill delivery form for hormonal replacement therapy
+liquid chromatography column
+intracellular cytokine staining assay measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+mother clinical history of cancer
+RNAi profiling by array assay
+canonical variate analysis
+dye swap design
+cerebral cortex specimen
+lipid panel reflex direct venous blood triglyceride assay
+RNA stability design
+assay measuring the off rate measurement [koff] of a MHC:ligand complex
+nucleic acid sequencer
+planned process
+binding
+ratio of collected to emitted light
+tissue embedding station
+centrifuge pellet role
+chromatin immunoprecipitation with exonuclease sequencing assay
+brain specimen
+neuron morphology assay
+vented blood gas arterial blood carbon dioxide assay
+Opisthokonta
+tolerance induction
+fluorescence detection assay measuring competitive binding of a cell-bound-MHC:ligand complex
+C1R cell line
+row submatrix extraction
+venous blood beta hydroxybutryic acid assay
+translation profiling design
+narrative object
+cytometric bead array assay measuring epitope specific interferon-gamma production by T cells
+histological assay
+rodent care
+image data set analysis
+cell killing
+DMS structure mapping assay
+nutrient role
+peptide antigen binding
+Southern blot assay
+protein-protein interaction detection assay
+epitope specific killing by T cells
+amplification of intermethylated sites assay
+MHC:epitope complex binding to TCR
+DNA replication timing by array assay
+life cycle stage
+binding on rate measurement datum (kon)
+assay measuring epitope specific granzyme A release by T cells
+algorithm
+51 chromium assay measuring epitope specific T cell killing
+ELISA measuring epitope specific lymphotactin production by T cells
+antibody purification of human MHC class II protein complex
+stance feet apart assessment
+1M-Duo Infinium HD BeadChip
+dendritic cell
+measurement unit label
+responsible party role
+mass spectrometry analysis
+automated differential venous blood lymphocyte count assay
+antigen specific antibodies assay
+MHC ligand assay
+cytometric bead array assay measuring epitope specific granzyme B release by T cells
+mode calculation
+in vitro assay measuring epitope specific proliferation of T cells
+agarose gel electrophoresis system
+insecticide resistance dose response by bottle assay
+chem11 venous blood carbon dioxide assay
+assay measuring epitope specific vascular endothelial growth factor production by T cells
+raw magnetic resonance image data set
+trap column
+temperature unit
+immunoglobulin mediated immune response
+notified body role
+ELISA measuring epitope specific interleukin-1 alpha production by T cells
+hepatic panel venous blood protein assay
+Benjamini and Yekutieli false discovery rate correction method
+intracellular cytokine staining assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+inpatient profile venous blood creatinine assay
+assay measuring epitope specific helper T cell enhancement of a B cell mediated immune response resulting from the adoptive transfer of epitope specific T cells
+principal component regression
+material separation device
+chem11 venous blood sodium assay
+chem16 venous blood potassium assay
+3-hydroxybutyric acid
+physical object quality
+venous blood thyroid stimulating hormone assay
+role of being consumer safety officer
+vector mediated amplification
+electrocution
+detection of specific nucleic acids with complementary probes assay measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+obsolete_protocol service provider role
+cap analysis of gene expression assay
+informed consent process
+study design execution
+endotracheal tube aspirate microbiology assay
+sequencing assay
+vancomycin assay
+venous blood creatinine assay
+ELISPOT assay measuring epitope specific interleukin-2 production by T cells
+Luminex 200
+injury design
+administering substance in vivo
+vaccine production
+basic metabolic panel venous blood potassium assay
+endonuclease mediated mutagenesis
+virus in pleural fluid datum
+Affymetrix Rhesus Macaque Genome Array
+rate measurement datum
+Pancrustacea
+establishing primary cell culture
+pathologic primary tumor stage for colon and rectum according to AJCC 7th edition
+heel along shin assessment
+epigenetic modification assay
+specimens derived from shared ancestor
+venous blood tacrolimus assay
+medical glove
+ELISA measuring epitope specific monocyte chemotactic protein-1 production by T cells
+galactosidase activity
+3-hydroxybutyric acid assay
+data visualization
+epitope specific GM-CSF release by T cells
+flow cytometer sorter
+Illumina NextSeq 1000
+service provider role
+concentrate
+Obsolete Class
+basic metabolic panel venous blood carbon dioxide assay
+diagnosis of infectious disease
+prostate-specific antigen assay
+intraocular administration
+elemental oxygen assay
+MHC protein complex
+power supply
+in vivo assay measuring a B cell epitope specific response after adoptive transfer of epitope specific antibodies or B cells
+software testing objective
+in vivo assay measuring B cell epitope specific induction of hypersensitivity resulting from the adoptive transfer of epitope specific antibodies or B cells
+quantitative venous blood IgM assay
+CBC with manual differential venous blood plasma cell count assay
+manufacturer role
+RNA-directed DNA polymerase activity
+skin of body specimen
+ELISA measuring epitope specific tumor necrosis factor alpha production by T cells
+insecticide resistance by nested polymerase chain reaction assay
+epitope specific IP-10 production by T cells
+saliva assay
+KINOMEscan assay
+mosquito membrane feeding assay
+epitope specific interleukin-8 production by T cells
+jackknifing method
+Alexa Fluor 532
+tail probability for the proportion of false positives correction method
+microRNA profiling assay
+y-column connector
+chemokine (C-X-C motif) ligand 13 production
+cytometric bead array assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+assay measuring the dissociation constant [KD] of a T cell epitope:MHC:TCR complex
+feces assay
+3D molecular structure determination assay of a T cell epitope:MHC:TCR complex
+tobramycin assay
+blood gas arterial blood carbon dioxide assay
+blood gas arterial blood bicarbonate assay
+inductive reasoning
+free venous blood T4 assay
+creatinine
+alpha-beta T cell
+lymph
+ABL90 panel venous blood methemoglobin assay
+albumin
+liver function venous blood albumin assay
+in vivo assay measuring T cell epitope specific tolerance induction
+CBC with manual differential venous blood promyelocyte count assay
+fluorescence detection assay measuring equilibrium association constant [KA] to determine direct binding of a cell-bound-MHC:ligand complex
+GEM premier blood gas venous blood hematocrit assay
+rare earth metal atom
+epitope specific cytokine production by T cells
+clustered data visualization
+average depth of sequence coverage
+antibody purification of H2-Kb protein complex, H2-Ks protein complex, and/or H2-Kq protein complex
+cell viability assay
+bio-layer interferometry assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+incubator
+epitope specific cytotoxic T cell degranulation
+denaturing
+footwear cover
+premenopausal status
+chem11 venous blood glucose assay
+CBC with manual differential venous blood eosinophil count assay
+diluted
+occurrent
+glucose metabolic process
+phospholipid
+manual hematocrit assay
+segmented neutrophil of bone marrow count assay
+intravenous drug use exclusion criterion
+adding substance to cell culture
+radioactivity detection assay measuring binding off rate [koff] to determine direct binding of a cell-lysate-MHC:ligand complex
+zero-dimensional temporal region
+sort function
+T4 uptake venous blood T4 assay
+stance feet together assessment
+platelet count assay
+insecticide resistance dose response by WHO paper kit assay
+blood assay datum
+Mosquito Magnet Liberty Plus trap
+immunoprecipitation assay measuring binding of a B cell epitope:antibody complex
+paraffin storage
+transcription cofactor activity region identification by ChIP-Seq assay
+cerebral cortex
+liver evaluation venous blood human alkaline phosphatase assay
+chem16 venous blood bilirubin assay
+quaternary pump system
+balanced incomplete block design
+ABL90 panel arterial blood bicarbonate assay
+GEM4000 ANLCOOX arterial blood carbon dioxide assay
+assay measuring epitope specific chemokine (C-X-C motif) ligand 16 production by T cells
+hydrogen/deuterium exchange footprinting assay
+enzyme
+primary cultured cell population
+cell population proliferation
+obsolete hospital
+cerebrospinal fluid eosinophil count assay
+organism detection datum
+DNASE 1 structure mapping assay
+material entity
+filtration
+Illumina BeadChip
+in vivo assay measuring B cell epitope specific protection based on survival
+flow cytometer analyzer
+krypton ion laser
+globulin concentration assay
+liver function venous blood bilirubin assay
+cytometric bead array assay measuring epitope specific IP-10 production by T cells
+serum neutralization of viral infectivity assay
+count venous blood reticulocyte count assay
+assay measuring the dissociation constant [KD] of a MHC:ligand complex
+assay measuring epitope specific interleukin-25 production by T cells
+chorionic villus specimen
+modular decomposition
+panel5 venous blood sodium assay
+interleukin-4 production
+methylated polymer
+endotracheal tube aspirate microbiology datum
+immunohistochemistry assay measuring binding of a B cell epitope:antibody complex
+Edinburgh score
+voltage clamp assay
+interleukin-26 production
+temporal region
+ELISPOT assay measuring epitope specific interleukin-17 production by T cells
+insecticide resistance by primer introduced restriction analysis PCR assay
+manufacturing
+fluorescence imaging-based cell viability assay
+isolation of PBMCs
+disease stage
+bromouridine labeling and sequencing assay
+in vivo assay measuring epitope specific T cell killing
+reconstructed magnetic resonance image data set
+umbilical cord blood assay datum
+PDB file chain
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-17A production by T cells
+ELISA measuring epitope specific IP-10 production by T cells
+histologic grade for ovarian tumor
+courier organization
+thyroxine assay
+chem16 venous blood glucose assay
+antibody purification of H2-Dd protein complex and/or H2-Kd protein complex
+lymphocyte
+myelocyte assay
+inter-rater reliability objective
+cytometric bead array assay measuring epitope specific interleukin-15 production by T cells
+B cell receptor complex
+visible light source
+affinity column
+labeled specimen
+nucleic acid extract
+self vs self design
+Human 3x720K Whole Genome CGH Tiling Array
+genetically modified organism
+chromatin remodeling
+eosinophil percentage assay
+deuterium atom
+assay measuring epitope specific tumor necrosis factor alpha production by T cells
+venous blood GGT assay
+transcription profiling by array assay
+manufacturing objective
+measuring glucose concentration in blood serum assay
+liquid chromatography instrument
+transcript expression location detection by hybridization chain reaction assay
+detection of specific nucleic acids with complementary probes assay measuring epitope specific lymphotoxin A production by T cells
+methylation-specific polymerase chain reaction assay
+opsonization
+passive immunization
+CBC venous blood platelet count assay
+comprehensive metabolic panel venous blood calcium assay
+information content entity
+hybridization oven
+cytometric bead array assay measuring epitope specific granulysin release by T cells
+cross-linking immunoprecipitation high-throughput sequencing assay
+cerebrospinal fluid mesothelial cell count assay
+data set
+fluorescence imaging multiplex cytological profiling
+obsolete_immortal cell
+phagocytosis
+intracarotid administration
+intracellular cytokine staining assay measuring epitope specific vascular endothelial growth factor production by T cells
+DNA methylation profiling by array assay
+collecting specimen with swab
+bone profile venous blood phosphate assay
+fluorescence imaging-based cell proliferation assay
+fluorescence detection assay measuring binding off rate [koff] to determine direct binding of a purified-MHC:ligand complex
+Bruker micro imaging probe
+cytometric bead array assay measuring epitope specific interleukin-2 production by T cells
+macrophage
+reverse PCR primer
+infection
+immunocytochemistry
+exome sequencing assay
+bioreactor
+sweat specimen
+ELISA measuring epitope specific interferon-gamma production by T cells
+human MHC class II protein complex
+gel electrophoresis system
+assay measuring epitope specific interleukin-17 production by T cells
+epitope specific IFN-g release by T cells
+lavage
+phage display binding assay measuring binding of a purified-MHC:ligand complex
+cell culture analyte detection bioassay measuring epitope specific tumor necrosis factor alpha production by T cells
+software optimization objective
+one-dimensional spatial region
+one dimensional cartesian spatial coordinate datum
+venous blood ionized calcium assay
+diagnosis
+bacterial mating type
+in vivo assay measuring epitope specific T cell helper activity
+radioactivity detection assay measuring half maximal inhibitory concentration [IC50] to determine competitive binding of a purified-MHC:ligand complex
+assay measuring binding of a cell-lysate-MHC:ligand complex
+assay measuring epitope specific immunoglobulin-mediated neutralization
+insulin
+assay measuring epitope specific interleukin-17F production by T cells
+ELISA measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+genetic characteristics information
+GEM4 arterial blood sodium assay
+whole metagenome sequencing assay
+Eukaryota
+histone modification identification by ChIP-chip assay
+deep tendon reflex assessment of the tendon of biceps brachii
+principal components analysis dimensionality reduction
+transforming growth factor beta production
+specimen from organism
+detection of specific nucleic acids with complementary probes assay measuring epitope specific IP-10 production by T cells
+antigen inhibition assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex approximated by IC50
+binding constant
+hemoglobin and hematocrit venous blood hemoglobin assay
+organism detection assay
+email address
+macrophage inflammatory protein-1 gamma production
+3D structure determination assay
+assay measuring epitope specific amphiregulin production by T cells
+protein assay
+blot module
+linked-read sequencing assay
+time series design
+Illumina NextSeq series instrument
+RNA Bind-n-Seq assay
+chemical solution
+immortalizing cell line transformation
+epitope specific tumor necrosis factor (ligand) superfamily member 11 production by T cells
+BG-Counter
+Hepatitis B virus
+peptide construct
+ELISPOT assay measuring epitope specific interleukin-9 production by T cells
+data transformation
+ELISPOT assay measuring epitope specific interferon-beta production by T cells
+monocyte
+animal care protocol
+organization
+intracellular cytokine staining assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+selection by survival
+spread calculation data transformation
+placental blood specimen
+cytometric bead array assay measuring epitope specific RANTES production by T cells
+subgraph out-degree calculation
+in vivo assay measuring epitope specific helper T cell enhancement of a B cell mediated immune response
+participant under investigation role
+in vitro cell killing assay
+expectation maximization
+hardware optimization objective
+alkaline phosphatase (human) assay
+cellular developmental process
+species subset ontology module
+topologically preserved clustered data set
+haploid
+skin of body
+estimated venous blood glomerular filtration assay
+venous blood sodium assay
+total RNA extraction
+surgical biopsy
+venous blood beta hydroxybutric acid assay
+reverse transcriptase
+arthropod resting outdoors specimen collection by aspiration
+glass column
+optical subsystem
+insecticide resistance by PCR-RFLP assay
+specimen collector role
+in vivo assay measuring T cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific T cells based on pathogen burden
+RNASE V1 structure mapping assay
+antibody detection by cytometric bead array assay
+parameter threshold
+promoter activity detection by reporter gene assay
+intra-arterial administration
+in vivo assay measuring B cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on tumor burden
+b transformation
+quality
+cytometric bead array assay measuring epitope specific interleukin-4 production by T cells
+epitope specific IL-4 release by T cells
+interleukin-3 production
+thyroid stimulating hormone assay
+assay measuring binding of a cell-bound-MHC:ligand complex
+cytometric bead array assay measuring epitope specific interleukin-17 production by T cells
+ELISPOT assay measuring epitope specific interleukin-6 production by T cells
+chromatin interaction analysis by paired-end tag sequencing assay
+surface plasmon resonance binding assay
+tandem walk assessment
+disease exacerbation in vivo intervention experiment
+magnify function
+CBC with manual differential venous blood basophil count assay
+assay for transposase-accessible chromatin using sequencing
+fasting venous blood glucose assay
+precipitate
+CBC with automated differential venous blood platelet count assay
+cerebrospinal fluid macrophage count assay
+reason for lack of data item
+movement quality
+comparing prediction to measurement
+isolation of cell population
+fraction collector
+randomized complete block design
+intracellular cytokine staining assay measuring epitope specific IP-10 production by T cells
+RNA sequencing assay
+intravenous injection
+biodiversity assessment objective
+hemoglobin oxygen saturation arterial blood hemoglobin assay
+OH-radical structure mapping assay
+breast specimen
+mathematical feature
+data service
+CBC with manual differential venous blood segmented neutrophil count assay
+half life of binding datum
+reactant role
+assay measuring epitope specific interleukin-18 production by T cells
+activity (of a radionuclide)
+epitope specific interleukin-3 production by T cells
+epitope specific IL-2 release by T cells
+molecular quality
+epitope specific TNF release by T cells
+chemokine (C-C motif) ligand 20 production
+core promoter sequence-specific DNA binding
+guanyl-specific ribonuclease T1
+positive reference substance role
+tecmag EAGLE probe
+finger to finger assessment
+eukaryota in feces datum
+venous blood carbon dioxide assay
+hepatocyte growth factor production
+fluorescence detection assay measuring direct binding of a cell-lysate-MHC:ligand complex
+analytical balance
+half life datum (t 1/2)
+ELISPOT assay measuring epitope specific interleukin-23 production by T cells
+hydrogen/deuterium exchange footprinting assay measuring binding of a B cell epitope:antibody complex
+Carbon-copy chromosome conformation capture assay
+purification objective
+cell culture analyte detection bioassay measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+Bruker LC-NMR/MS platform
+intracellular cytokine staining assay measuring epitope specific interleukin-27 production by T cells
+functional assessment of individual
+Bioinformatics Resource Center contact person
+son clinical history of cancer
+staining
+granzyme B production
+Diptera
+cell proliferation assay using carboxyfluorescein succinimidyl ester staining
+network graph construction
+T cell activation induced marker assay
+in vivo skin test assay measuring T cell epitope specific type IV hypersensitivity resulting from the adoptive transfer of epitope specific T cells
+diagnosis textual entity
+feces microbiology assay
+micrococcal nuclease digestion followed by tiling array assay
+cytometric bead array assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+optical microscope
+medication time value specification
+induced mutagenesis
+magnesium cation assay
+photoionization detector
+IHC slide staining
+promoter activity detection by reporter gene assay measuring epitope specific interleukin-2 production by T cells
+cultured CD4- T cell population
+lymphoid system
+filter function
+3D molecular structure determination assay of a MHC:ligand complex
+in vivo assay measuring B cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific antibodies or B cells
+H2-Db protein complex
+flow cell
+nucleic acid extraction
+split-pool recognition of interactions and tag extension assay
+Homo sapiens
+differential pressure gauge
+hormonal birth control use history
+SAGE ditag library preparation
+vacuum degasser
+in vivo assay measuring B cell epitope specific disease exacerbation resulting from the adoptive transfer of epitope specific antibodies or B cells
+Lead structure mapping assay
+24 hour urine creatinine assay
+left side of
+fasted
+investigation
+stereo microscope
+blood serum specimen
+CytoBuoy flow cytometer analyzer
+high throughput multiplexed assay measuring binding of a B cell epitope:antibody complex
+venous blood beta-2-microglobulin assay
+gait assessment
+interleukin-6 production
+half maximal inhibitory concentration (IC50)
+RNA Annotation and Mapping of Promoters for the Analysis of Gene Expression assay
+lactate dehydrogenase complex assay
+position
+preparative chromatography
+chem16 venous blood calcium assay
+assay measuring epitope specific interleukin-21 production by T cells
+assay measuring interleukin-9 production by T cells
+multiple testing correction objective
+microarray
+hydrogencarbonate assay
+vascular endothelial growth factor production
+single-cell combinatorial indexing RNA sequencing assay
+antibody purification of HLA-DR protein complex
+physician's global assessment of disease activity
+study design
+light source
+primer role
+SOLiD 3 Plus System
+Hi-C assay
+high temperature column
+biexponential transformation
+file merge
+light microscopy assay
+minor salivary gland
+light emission device
+ABI 377 automated sequencer
+pareto scaling
+GEM4 arterial blood oxygen assay
+eukaryota in umbilical cord blood datum
+International Federation of Gynecology and Obstetrics ovarian cancer stage value specification
+morphology
+DNA sequencing by ligation assay
+urine microbiology assay
+radioactivity detection assay measuring half maximal inhibitory concentration [IC50] to determine competitive binding of a cell-bound-MHC:ligand complex
+sequencing protocol
+Human 6x630K CGH Whole Genome Tiling Array
+lower respiratory tract specimen
+macrophage assay
+size
+protein sequencer
+survival analysis data transformation
+blood specimen in vacutainer
+environmental exposure to infectious agent
+podzol
+handedness categorical measurement datum
+oral swab specimen
+ABL90 panel venous blood potassium assay
+vaginal administration
+multiplexed nucleotide library sequencing
+cooximitery arterial blood hemoglobin assay
+T2 cell line
+manual differential bodily fluid macrophage count assay
+ontology module
+magic angle spinning rotor
+mass spectrometry assay
+creatine
+isoform sequencing
+tacrolimus hydrate
+chart recorder
+Fisher's exact test
+insecticide resistance by amplification refractory mutation system assay
+fatty acid
+lymph node administration
+polyA RNA extract
+in vivo assay measuring B cell epitope specific pathogen protection from challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on survival
+metamyelocyte assay
+organism status comparison design
+pancreas
+blood meal assay
+comprehensive metabolic panel venous blood glucose assay
+testosterone assay
+ionized venous blood calcium assay
+ruthenium atom
+selectively maintained organism
+immune epitope assay
+precipitation
+material separation function
+reference substance role
+pleural fluid
+allergic reaction
+protein-containing complex
+fluorescence detection assay measuring binding on rate [kon] to determine direct binding of a cell-bound-MHC:ligand complex
+3D molecular structure determination assay of an antigen:antibody complex
+specimen provider principal investigator
+Biosite cardiac panel arterial blood creatine kinase MB assay
+charge plate
+chem16 venous blood albumin assay
+fluorescence microscopy assay
+vacuum dryer
+random access memory size
+assay measuring epitope specific cytokine production by T cells
+nasopharyngeal or oropharyngeal swab microbiology datum
+number of live births
+mosaicism with repeat frameshift genetic sparse labeling
+data normalization objective
+methylation-sensitive restriction enzyme sequencing assay
+high sensitivity cardiac/neonatal venous blood c-reactive protein assay
+single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing
+artery
+nitrite assay
+polyploid
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interferon-gamma production by T cells
+venous blood glucose assay
+bodily fluid glucose assay
+questionnaire
+interleukin-2 production
+venous blood megakaryocyte count assay
+cytometric bead array assay
+administering substance in vivo to reduce or prevent disease
+ELISPOT assay measuring epitope specific interleukin-8 production by T cells
+epitope specific IL-6 release by T cells
+recombinant YAC cloning
+quenching assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+pseudovirus entry assay
+liver evaluation venous blood albumin assay
+chromosome conformation identification objective
+pathologic lymph node stage for lung according to AJCC 7th edition
+X-ray crystallography 3D molecular structure determination assay
+investigation agent role
+Faraday cage
+epitope specific IL-12 release by T cells
+liver fibrosis (chronic viral hepatitis) venous blood platelet count assay
+factorial design
+RNA protection assay
+GEM4 arterial blood ionized calcium assay
+dichroic mirror
+assay measuring epitope specific chemokine (C-X-C motif) ligand 12 production by T cells
+RNP (ribonuclear particle) immunoprecipitation high- throughput sequencing assay
+electron microscope
+aspartate aminotransferase (human) assay
+subgraph in-degree calculation
+ELISA measuring epitope specific interleukin-6 production by T cells
+epitope specific immune intervention
+comprehensive metabolic panel venous blood carbon dioxide assay
+HLA protein complex with B27 serotype
+blood assay
+Bruker NMR magnet
+post-transcriptional modification design
+specific enzymatic cleavage
+patch clamp assay
+pulsed amperometric detector
+hyperlog transformation
+limits of stability assessment
+in vivo assay measuring B cell epitope specific protection from challenge
+DNA polymerase complex
+chromatography column
+process
+material separation objective
+epitope specific IL-13 release by T cells
+averaging data transformation
+graph
+lactate dehydrogenase activity level assay
+organism
+reagent application function
+chemokine (C-C motif) ligand 4 production
+chemokine (C-C motif) ligand 5 production
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-8 production by T cells
+parasite detection assay
+cell
+Sos-recruitment assay
+assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+KiNativ assay
+skin of body microbiology assay
+capsule shell
+PCR product
+digoxin
+DNA methylation profiling by ChIP-chip assay
+liver injury venous blood human aspartate aminotransferase assay
+linear discriminant functional analysis
+insecticide resistance dose response assay
+digital-to-analog converter
+single fragment library
+chromosome organization assay by fluorescence in-situ hybridization
+chem11 venous blood phosphate assay
+clustered data set
+sequence data
+epitope specific interleukin-17A production by T cells
+cell culture analyte detection bioassay measuring epitope specific interleukin-16 production by T cells
+gravid trap
+in vivo assay measuring B cell epitope specific induction of hypersensitivity
+multiplexed fluorescent antibody imaging assay
+3D molecular structure determination assay
+A40-MiniFCM
+calibration substance role
+chem11 venous blood calcium assay
+antibody purification of HLA protein complex with A2 serotype and/or HLA protein complex with A28 serotype
+reticulocyte count assay
+magnetic resonance imaging assay
+liver function venous blood human alkaline phosphatase assay
+BG-Sentinel trap
+Advantage Chikungunya IgM Card kit
+ChIP-qPCR assay
+assay using chromatin immunoprecipitation
+Euarchontoglires
+core needle biopsy
+obsolete molecular label
+epitope specific interferon-beta production by T cells
+eye specimen
+DT60 venous blood creatinine assay
+ferritin complex
+observational assessment of individual
+environmental material collection process
+cytometric bead array assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+transcript analysis by paired-end tag sequencing assay
+phosphate buffered saline solution
+serotransferrin
+feature extraction
+ontology module subsetted by expressivity
+enzyme-linked antibody
+tiling microarray
+radioactivity detection assay measuring direct binding of a purified-MHC:ligand complex
+RIA measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+venous blood prostate specific antigen assay
+creatine kinase activity
+data set of features
+transcription profiling by high throughput sequencing design
+chromatography instrument
+ELISA measuring epitope specific interleukin-3 production by T cells
+multichannel pipette
+labeled DNA extract
+protein binding site identification design
+chromosome conformation capture assay
+Murinae
+T cell activation
+multiplexed error-robust fluorescence in situ hybridization assay
+antigen inhibition assay measuring binding of a B cell epitope:antibody complex
+partial least square regression analysis
+image cytometer
+spectrophotometer
+chem16 venous blood human aspartate aminotransferase assay
+cerebrospinal fluid basophil count assay
+antigen specific antibodies in blood assay datum
+figure
+radioactivity detection assay measuring half life to determine direct binding of a cell-bound-MHC:ligand complex
+Culicidae
+exposure to second hand smoke
+sequence feature identification objective
+planned irradiation
+DNA sequencer
+survival assessment assay
+epitope specific interleukin-23 production by T cells
+ELISA measuring epitope specific interleukin-17 production by T cells
+cell line immortalization
+objective specification
+cerebrospinal fluid monocyte count assay
+enzymatic ligation
+lung assay
+cytometric bead array assay measuring epitope specific interleukin-27 production by T cells
+bone profile venous blood calcium assay
+detector reagent role
+polyA-selected RNA sequencing assay
+bulbar assessment
+enzymatic reaction identification design
+footprinting assay measuring binding of a B cell epitope:antibody complex
+specifically dependent continuant
+HIV-1 nucleic acid testing
+energy supply function
+reticulocyte assay
+conclusion textual entity
+chromatography assay measuring the association constant [KA] of a B cell epitope:antibody complex
+molecular entity
+assay measuring epitope specific RANTES production by T cells
+RNASE T2 structure mapping assay
+immunoglobulin complex
+facial muscle performance
+binding datum
+immortal cell line
+assay measuring epitope specific interleukin-1 alpha production by T cells
+comprehensive metabolic panel venous blood human alkaline phosphatase assay
+array platform variation design
+quality of a liquid
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-1 alpha production by T cells
+ELISA measuring epitope specific interferon-alpha production by T cells
+alanine aminotransferase
+computed image data set
+immunohistochemistry
+scalar score from composite inputs
+chloride assay
+neural cell
+exposure to arsenic history
+vibrotome
+cytometric bead array assay measuring epitope specific interleukin-6 production by T cells
+chem16 venous blood alanine aminotransferase assay
+chromium release assay
+blood meal source organism
+fluorescein (lactone form)
+arterial blood hemoglobin assay
+cytometric bead array assay measuring epitope specific interleukin-1 beta production by T cells
+rodent care protocol
+carbon dioxide assay
+sequence annotation algorithm
+macromolecule
+DEPC structure mapping assay
+weighted network graph construction
+amplified DNA
+RNA Integrity Number calculation
+collection of specimens
+ELISA measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+triglyceride concentration assay
+creatine concentration assay
+cellular process
+assay measuring biological activity resulting from T cell epitope:MHC:TCR binding
+estradiol
+ethical standard compliance rule
+intracellular cytokine staining assay measuring epitope specific interleukin-8 production by T cells
+intracellular cytokine staining assay measuring epitope specific RANTES production by T cells
+strain comparison design
+ELISPOT assay measuring epitope specific interleukin-4 production by T cells
+Immunization in vivo
+courier tracking number
+immunoelectrophoresis
+injection
+amino acid
+kinase inhibitor assay
+insecticide resistance by ligase detection reaction-fluorescent microsphere assay
+granulocyte macrophage colony-stimulating factor production
+whole organism preparation
+in vivo assay measuring T cell epitope specific protection from tumor challenge
+organism feature identification objective
+antigen presentation function
+myelocyte count assay
+umbilical cord blood microbiology datum
+ELISPOT assay measuring epitope specific interleukin-22 production by T cells
+fluorescence detection assay measuring half life to determine direct binding of a purified-MHC:ligand complex
+epitope specific transforming growth factor-beta production by T cells
+cell-attached patch clamp assay
+POC chem8 arterial blood hematocrit assay
+cytometric bead array measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+immuno staining assay
+in vivo assay measuring B cell epitope specific protection from infectious challenge based on pathogen burden
+alanine aminotransferase activity level assay
+venous blood hemoglobin assay
+enzymatic amplification
+service consumer role
+intracellular cytokine staining assay measuring epitope specific interleukin-13 production by T cells
+venous blood magnesium assay
+bone profile venous blood albumin assay
+positron emission tomography imaging assay
+basic metabolic panel venous blood creatinine assay
+basic metabolic panel venous blood glucose assay
+diagnosis of cancer
+assay measuring epitope specific granulysin release by T cells
+SRS identifier
+assay measuring the on rate [kon] of a B cell epitope:antibody complex
+pathogen detection by Rapid Analyte Measurement Platform assay
+hydroxyl-radical footprinting assay
+digestive system fluid or secretion specimen
+assay measuring epitope specific interleukin-4 production by T cells
+antibody purification of mouse MHC class I protein complex
+organism diagnostic process
+cross linking
+flow cytometer
+leptin
+T cell
+assay measuring epitope specific opsonization
+cell culture
+microscope
+hemoglobin assay
+cholesterol
+b cell epitope prediction
+lymphocyte count assay
+pyrosequencing assay
+intracellular electrophysiology recording assay
+leukocyte
+esophagogastric junction
+detection of specific nucleic acid polymers with complementary probes
+assay validation objective
+microdissection instrument
+mass measurement datum
+microarray assay
+venous blood phosphate assay
+EC50 binding datum
+solar light source
+exposure to second hand smoke in current household
+assay measuring B cell epitope specific in vivo activity
+liver injury venous blood alanine aminotransferase assay
+artificially induced cell membrane lysis
+symbol
+genome architecture mapping assay
+mouse MHC class I protein complex
+ileum
+random mutagenesis
+specimen-based scope of investigation specification
+document
+immunoprecipitation
+ABL90 panel arterial blood lactic acid assay
+glomerular filtration
+characteristic path length calculation
+intradermal injection
+material combination objective
+ELISA measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+ELISPOT assay measuring epitope specific lymphotoxin A production by T cells
+D-glutamyltransferase activity
+linlog transformation
+stimulus or stress design
+transcription factor binding site identification by ChIP-chip assay
+basic metabolic panel venous blood chloride assay
+serum anti-cytomegalovirus antibody level assay
+ELISPOT assay measuring epitope specific interleukin-15 production by T cells
+RNASE T1 structure mapping assay
+protein extract
+fluorescence imaging-based protein phosphorylation state assay
+operator variation design
+in vivo assay measuring T cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific T cells
+GEM premier blood gas venous blood lactic acid assay
+immunoglobulin complex, circulating
+specimen collection device
+cloning vector
+curve fitting objective
+optimal-IT rapid diagnostic test
+polymerase chain reaction
+polyA depleted RNA extract
+live arthropod specimen collection process
+polystyrene tube
+primary cultured cell
+DNA sequence variation detection assay
+dichroic filter
+basic metabolic panel venous blood sodium assay
+oropharyngeal swab specimen
+erythrocyte assay
+mhc binding prediction
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-17F production by T cells
+cerebrospinal fluid protein assay
+analytical chromatography
+material acquisition
+chain termination sequencing assay
+center calculation data transformation
+immunologic adjuvant role
+facial atrophy assessment
+molecular crosslinker
+cut open oocyte voltage clamp assay
+patient gown
+systematic evolution of ligands by exponential enrichment assay
+manual differential bodily fluid basophil count assay
+cell proliferation assay
+in vivo assay measuring T cell epitope specific treatment of disease
+in vivo assay measuring T cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific T cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-X-C motif) ligand 16 production by T cells
+automatic tissue processor
+continuant
+physical quality
+Flaviviridae
+deep tendon reflex assessment of the ankle joint
+normalized data set
+peptide
+cytometric bead array assay measuring epitope specific interleukin-16 production by T cells
+liquid filter function
+milk specimen
+innate behavior design
+ABL90 panel arterial blood sodium assay
+RNA-templated transcription
+measurand role
+free/total venous blood PSA assay
+assay measuring epitope specific interleukin-7 production by T cells
+in vivo assay measuring B cell epitope specific survival after tumor challenge
+PacBio Sequel
+F minus mating type
+corrected venous blood leukocyte count assay
+number of particles in subset
+experimentally modified cell in vitro
+gas purifier
+liquid handler
+specification of data to be generated in an investigation
+subcutaneous injection
+DNA methylation profiling assay
+malaria rapid diagnosis assay
+quartz crystal microbalance assay
+Panbio Dengue IgM capture ELISA kit
+ion source
+GEM4 arterial blood hemoglobin assay
+differential screening hybridization
+obsolete_fragment derived from protein
+self-transcribing active regulatory region sequencing assay
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+comprehensive metabolic panel venous blood chloride assay
+survival analysis objective
+pH indicator dye role
+tibial artery
+transcription factor binding site identification by ChIP-Seq assay
+array based nucleic acid structure mapping assay
+assay measuring epitope specific interferon-gamma production by T cells
+synthetic peptide
+karyotype information
+serum anti-Epstein-Barr virus antibody level assay
+epitope specific IL-17 release by T cells
+ion semiconductor chip
+dimensionality reduction
+cryofixation device
+helper T cell enhancement of adaptive immune response
+omentum specimen
+cell differentiation design
+epitope specific interleukin-9 production by T cells
+whole genome sequencing assay
+arterial blood lactic acid assay
+obsolete purified MHC binding constant determination assay
+gene expression
+CBC with automated differential venous blood hemoglobin assay
+individual-nucleotide resolution cross-linking and immunoprecipitation sequencing assay
+random venous blood vancomycin assay
+ELISA measuring epitope specific interleukin-23 production by T cells
+cytometric bead array assay measuring epitope specific tumor necrosis factor alpha production by T cells
+oligonucleotide synthesizer
+immature neutrophil count assay
+cell sorter collection tube
+planning
+antibody purification of H2-IA protein complex
+restriction enzyme based cloning
+interleukin-1 beta production
+protein microarray
+rapid amplification of cDNA ends
+multiple testing correction method
+intracellular cytokine staining assay measuring epitope specific transforming growth factor-beta production by T cells
+hematology assay
+GEM4000 ANLCOOX arterial blood bicarbonate assay
+Agilent-030493 SurePrint G3 Mouse Exon 4x180K Microarray
+calorimeter
+denaturing high-performance liquid chromatography instrument
+bilirubin IXalpha
+assay measuring epitope specific interleukin-12 production by T cells
+ELISPOT assay measuring epitope specific interleukin-17F production by T cells
+recombinant vector
+sample preparation for assay
+lavage fluid specimen
+venous blood dehydroepiandrosterone assay
+lipid panel venous blood high density lipoprotein assay
+epitope treatment experiment
+bacteria in endotracheal tube aspirate datum
+intracellular cytokine staining assay measuring epitope specific interleukin-2 production by T cells
+cholesterol assay
+Daphnia
+platelet assay
+ELISPOT assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+birth cohort study design
+surface HBV antibody assay
+tecmag NMR console
+assay measuring a binding constant of a B cell epitope:antibody complex
+processed material
+POC chem8 arterial blood glucose assay
+microwestern meso-scale quantitative western blot assay
+software
+base calling algorithm
+intracellular cytokine staining assay measuring epitope specific interleukin-16 production by T cells
+assay measuring epitope specific interleukin-1 beta production by T cells
+epitope specific monocyte chemotactic protein-1 production by T cells
+Edinburgh handedness assay
+cytometric bead array assay measuring epitope specific interleukin-12 production by T cells
+network graph quality calculation
+comprehensive metabolic panel venous blood bilirubin assay
+subset ontology module
+geometric mean calculation
+organism part comparison design
+RNA interactome capture
+intracellular cytokine staining assay measuring epitope specific interleukin-7 production by T cells
+assay measuring epitope specific interleukin-6 production by T cells
+ChIP-chip assay
+national registry
+assay measuring epitope specific interleukin-5 production by T cells
+chemokine production
+assay measuring epitope specific chemokine (C-C motif) ligand 21 production by T cells
+cytometric bead array assay measuring epitope specific intracellular cytokine staining (ICS) IL-23 production by T cells
+GEM4 arterial blood carbon dioxide assay
+potassium(1+) concentration assay
+mean cell hemoglobin assay
+column heater
+in vitro assay measuring epitope specific T cell killing
+multi-tissue structure
+Westfall and Young family wise error rate correction
+ELISA measuring epitope specific interleukin-25 production by T cells
+OBI_0002202
+epitope tolerance induction experiment
+assay measuring the half maximal inhibitory concentration [IC50] of a MHC:ligand complex
+submatrix extraction
+bone marrow biopsy
+personal protective glove
+single-nucleotide-resolution nucleic acid structure mapping assay
+cultured cell
+panel5 venous blood carbon dioxide assay
+genetic interaction identification design
+bio-layer interferometry assay measuring the off rate [koff] of a B cell epitope:antibody complex
+ABL90 panel arterial blood glucose assay
+protein state assay
+uterus specimen
+venous blood bicarbonate assay
+cytometric bead array assay measuring epitope specific lymphotoxin A production by T cells
+time measurement datum
+blood gas venous blood oxygen assay
+epitope protection from infectious challenge experiment based on survival
+comet assay
+cerebrospinal fluid assay
+ELISA measuring epitope specific interleukin-5 production by T cells
+high resolution probe with automatic tuning and matching
+blood
+obsolete_cell line
+binding off rate measurement datum (koff)
+liver injury venous blood human alkaline phosphatase assay
+volume
+epitope specific T cell activation
+arrayer
+inpatient profile venous blood sodium assay
+lymphocyte assay
+MoFlo
+partial least square discriminant analysis
+quenching assay measuring the on rate [kon] of a B cell epitope:antibody complex
+liquid chromatography-tandem mass spectrometry analysis
+lyophilization storage
+quantitative binding datum
+gene list
+paraffin oven
+resting box trap
+Bruker Capillary LC-NMR platform
+fluorescence in-situ hybridization assay
+obsolete interleukin-14 production
+microtiter plate
+immune complex formation
+lactate dehydrogenase complex
+single-nucleus ATAC-seq
+hepatic panel venous blood alanine aminotransferase assay
+epitope protection from tumor challenge experiment based on burden
+venous blood reticulocyte count assay
+cytometric bead array assay measuring epitope specific intracellular cytokine staining (ICS) IL-22 production by T cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific granzyme B release by T cells
+cell co-culturing
+CMV antibody assay
+histamine secretion mediated by immunoglobulin
+fluorescence detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a cell-bound-MHC:ligand complex
+family clinical history of cancer
+comprehensive metabolic panel venous blood alanine aminotransferase assay
+GEM4000 ANLCOOX arterial blood hemoglobin assay
+reasoned ontology module
+process profile
+Affymetrix Mouse Gene 2.1 ST Array
+cerebrospinal fluid segmented neutrophil count assay
+blood microbiology datum
+Agilent-026655 Whole Mouse Genome Microarray 4x44K v2
+national biomedical registry
+cerebrospinal fluid lymphocyte count assay
+average value
+in vivo assay measuring T cell epitope specific protection from pathogen challenge resulting from the adoptive transfer of epitope specific T cells
+occurrence of infectious disease
+assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+knockdown arthropod specimen collection process
+genetic transformation
+hepatic panel venous blood albumin assay
+programmable array microscope
+analytical chromatography measuring Chikungunya IgM antibody
+adaptive immune effector function
+in vivo intervention experiment
+epitope specific tumor necrosis factor superfamily cytokine production by T cells
+feces
+ring trial design
+antibody purification of mouse MHC class I protein complex with H2-b haplotype and/or mouse MHC protein complex with H2-p haplotype
+protein
+intracellular cytokine staining assay measuring epitope specific interleukin-17F production by T cells
+assay measuring epitope specific interleukin-13 production by T cells
+cytometry analysis by manual gating
+assay measuring binding of a B cell epitope:antibody complex
+in vivo assay measuring T cell epitope specific disease exacerbation resulting from the adoptive transfer of epitope specific T cells
+genome coverage
+B cell epitope assay
+diagnosis of HIV
+RNASE CL3 structure mapping assay
+antibody-dependent cellular cytotoxicity
+bodily fluid triglyceride assay
+venous blood haptoglobin assay
+MHC class II protein complex
+negative reference substance role
+data about an ontology part
+assay measuring epitope specific interleukin-23 production by T cells
+separation into different composition objective
+Southwestern blot assay
+larval specimen collection process
+interleukin-23 production
+atrial appendage specimen
+genotyping design
+fluorescence imaging-based drug synergy assay
+interleukin-27 production
+CBC with automated differential venous blood hematocrit assay
+high-density lipoprotein cholesterol assay
+glutamate dehydrogenase [NAD(P)+] activity
+manual differential bodily fluid eosinophil count assay
+microbiome protein expression profiling assay
+intracellular cytokine staining assay measuring epitope specific interleukin-12 production by T cells
+material combination function
+spinning-disk confocal microscope
+fluorescence detection assay measuring half maximal effective concentration [EC50] to determine direct binding of a purified-MHC:ligand complex
+293-T cell line
+directive information entity
+scaling data transformation
+statistical model validation
+ELISA measuring epitope specific interleukin-22 production by T cells
+cell type comparison design
+intracellular cytokine staining assay measuring epitope specific interleukin-25 production by T cells
+sine transformation
+venous blood hemoglobin A1c assay
+sweat
+electrophysiology assay
+bead array reader
+contract research organization role
+cholesterol concentration assay
+intralymphatic administration
+fixed tissue specimen
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 22 production by T cells
+deep tendon reflex assessment of the brachioradialis
+lowess transformation
+PCR instrument
+protocol
+array manufacturer role
+box-cox transformation
+complex of molecular entities
+normalization testing design
+eosinophil
+intervention design
+venous blood erythropoietin assay
+venous blood creatine kinase assay
+liver function venous blood human aspartate aminotransferase assay
+disposition to be bound by an MHC protein complex
+single-nucleus methylcytosine and transcriptome sequencing assay
+incubator shaker
+Agilent-074809 SurePrint G3 Mouse GE v2 8x60K Microarray
+zinc finger mediated mutagenesis
+oral administration
+directed network graph construction
+DNA replication timing by sequencing assay
+partitioning data transformation
+protocol optimization design
+liver evaluation venous blood protein assay
+CBC venous blood RBC count assay
+ABL90 panel arterial blood chloride assay
+transcription profiling identification objective
+in vivo assay measuring T cell epitope specific survival after tumor challenge
+intratumoral administration
+GEM4 arterial blood bicarbonate assay
+base ontology module
+intracellular cytokine staining assay measuring epitope specific interleukin-1 alpha production by T cells
+in vivo assay measuring T cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific T cells based on survival
+mass spectrometry assay measuring MHC ligand processing and presentation of MHC ligands eluted from cellular MHC
+ABG/electrolytes arterial blood ionized calcium assay
+hydroxyl-radical footprinting assay measuring binding of a B cell epitope:antibody complex
+reagent role
+reverse transcribed polymerase chain reaction
+assay measuring epitope specific lymphotoxin A production by T cells
+nCounter Mouse miRNA Expression array
+autofluorescence assay
+assay measuring epitope specific chemokine (C-C motif) ligand 20 production by T cells
+potassium(1+) assay
+freezing storage
+intracellular cytokine staining assay measuring epitope specific interleukin-10 production by T cells
+venous blood hematocrit assay
+baseline high resolution T1 weighted magnetic resonance image data set
+placenta specimen
+image data set
+epitope specific interleukin-16 production by T cells
+tandem mass spectrometry assay
+assembly
+urine sodium assay
+insecticide resistance assay
+gene knock-down assay
+enzymatic activity level assay
+environmental control device
+Illumina HiSeq series instrument
+ChIP assay
+FACS Canto2
+Affymetrix Clariom S Assay, Human
+fluorescence detection assay measuring equilibrium dissociation constant [KD] to determine direct binding of a purified-MHC:ligand complex approximated by EC50
+handedness assay
+GEM4000 ANLCOOX arterial blood oxygen assay
+similarity calculation
+Sysmex CA-6000 Coagulation Analyzer
+liver evaluation venous blood globulin assay
+epitope specific macrophage inflammatory protein-1 alpha production by T cells
+ELISA measuring epitope specific granulocyte colony stimulating factor production by T cells
+interleukin-17 production
+in vivo assay measuring T cell epitope specific pathogen protection from challenge resulting from the adoptive transfer of epitope specific T cells based on survival
+ELISPOT assay measuring epitope specific interleukin-18 production by T cells
+venous blood 25-hydroxyvitamin D2 assay
+obsolete_label role
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 17 production by T cells
+cultured immune cell population
+disease prevalence reduction objective
+reusable footwear cover
+cell harvester
+leave one out cross validation method
+specific labeling
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-17 production by T cells
+liver evaluation venous blood alanine aminotransferase assay
+DNA microarray
+fluorescence detection assay measuring half maximal inhibitory concentration [IC50] to determine competitive binding of a cell-bound-MHC:ligand complex
+manual differential bodily fluid monocyte count assay
+Centre for Disease Control and Prevention bottle bioassay
+arthropod specimen collection process
+refractive index detector
+CBC venous blood WBC count assay
+assay measuring epitope specific interleukin-8 production by T cells
+bodily fluid cell count assay
+histologic grade for ovarian tumor according to a two-tier grading system
+in vivo assay measuring T cell epitope specific protection from challenge
+chem11 venous blood albumin assay
+in vivo assay measuring B cell epitope specific protection after tumor burden challenge
+vitreous humor
+semen
+detection of specific nucleic acids with complementary probes assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+sequence_assembly
+ELISPOT assay measuring epitope specific interleukin-27 production by T cells
+in vivo assay measuring B cell epitope specific protection from challenge resulting from adoptive transfer of epitope specific antibodies or B cells
+bile specimen
+repeated measure design
+import ontology module
+fluorescence imaging-based apoptosis assay
+assay measuring T cell epitope specific suppression in vitro
+ELISA measuring epitope specific interleukin-2 production by T cells
+iron assay
+forward PCR primer
+needle assembly
+binding assay using fluorescence detection
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 21 production by T cells
+generically dependent continuant
+lower respiratory tract aspirate specimen
+radioactivity detection assay measuring competitive binding of a purified-MHC:ligand complex
+cell culture analyte detection bioassay measuring epitope specific interleukin-10 production by T cells
+insecticide resistance time response by bottle assay
+ABG/electrolytes arterial blood carbon dioxide assay
+type IV hypersensitivity
+environmental swab specimen
+specimen with pre- or post-mortem status
+cell viability assay using Annexin V staining
+detection of specific nucleic acids with complementary probes assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+quality of a solid
+H&E slide staining
+sample preparation for sequencing assay
+node in-degree calculation
+resting flight-capable arthropod specimen collection process
+obsolescence reason specification
+assigning a centrally registered identifier
+cytometric bead array assay measuring epitope specific intracellular cytokine staining (ICS) IL-21 production by T cells
+research organization
+rac-lactic acid assay
+transcription profiling by tiling array assay
+cytotoxic T cell degranulation
+role
+disposition to be a product of antigen processing and presentation
+comprehensive metabolic panel venous blood sodium assay
+DNA ligase
+upper respiratory tract
+TRAIL production
+GEM premier blood gas venous blood glucose assay
+Bruker SPE-NMR platform
+cellular_component
+potassium(1+)
+cytometric bead array assay measuring  epitope specific chemokine (C-C motif) ligand 20 production by T cells
+MHC class I protein complex
+assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+Archaea
+realizable entity
+detection of specific nucleic acids with complementary probes assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+chromatography assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+ELISA measuring the association constant [KA] of a B cell epitope:antibody complex
+specimen collection duration
+Cy3 dye
+arterial blood creatinine assay
+complete linkage hierarchical clustering
+CBC with manual differential venous blood metamyelocyte count assay
+acquisition
+SD Bioline Chikungunya IgM RDT kit
+flash freezing
+venous blood chloride assay
+venous blood ferritin assay
+investigation title
+BrdU incorporation assay
+arterial blood specimen
+falcivax rapid diagnostic test
+panel5 venous blood creatinine assay
+induced sputum assay datum
+micro electrode
+intracellular material detection assay measuring epitope specific granulysin release by T cells
+biological_process
+hematocrit assay
+GEM4 arterial blood lactic acid assay
+obsolete tandem mass spectrometry
+GenePattern software
+cytometric bead array assay measuring epitope specific interleukin-18 production by T cells
+epitope specific IL-18 release by T cells
+age group inclusion criterion
+transcription factor binding site assay
+moving average
+chemical cleavage
+trypsination
+epitope specific interleukin-27 production by T cells
+24 hour total urine volume assay
+textual entity
+binding assay using radioactivity detection
+lipid panel venous blood low density lipoprotein assay
+adding material objective
+insecticide resistance by ligase detection reaction assay
+FACSAria
+GEM4 arterial blood temperature assay
+BG-lure scent dispenser
+in vivo assay measuring T cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific T cells based on tumor burden
+cell-cell killing assay
+direct interaction identification design
+epitope specific T cell tolerance induction
+arthropod trap
+antibody purification of HLA protein complex with A2 serotype
+PRO-cap
+chemokine (C-X-C motif) ligand 16 production
+gel tank
+chromatography pump system
+BrdU assay measuring epitope specific proliferation of T cells
+cultured CD8- T cell population
+fluorescence detection assay measuring direct binding of a cell-bound-MHC:ligand complex
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-6 production by T cells
+synovial fluid specimen
+balance
+material combination
+fluorescence detection assay measuring half maximal effective concentration [EC50] to determine direct binding of a cell-bound-MHC:ligand complex
+blood meal by counter current immunoelectrophoresis assay
+lung microbiology assay
+T cell epitope specific immune intervention
+plan specification
+immunoprecipitation assay
+non-negative matrix factorization
+chem16 venous blood sodium assay
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-3 production by T cells
+binding assay
+data vector reduction objective
+thermostatic circulator
+upper limb coordination assessment
+passage history record
+email address of specimen provider principal investigator
+whole virome sequencing assay
+organism detection by specific DNA hybridization assay
+calorimetric binding assay
+chromosome conformation capture-on-chip assay
+biological sex
+target of material addition
+venous blood temperature assay
+epitope specific chemokine (C-X-C motif) ligand 16 production by T cells
+loop-mediated isothermal amplification
+ELISPOT assay measuring epitope specific tumor necrosis factor alpha production by T cells
+DNA polymerase amplification
+epitope specific chemokine (C-C motif) ligand 19 production by T cells
+venous blood potassium assay
+flow cytometry assay
+reagent
+macrophage inflammatory protein-1 alpha production
+clinical study center
+device for collection of resting adult arthropods
+anatomical structure quality
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-12 production by T cells
+virus in feces datum
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-X-C motif) ligand 12 production by T cells
+phosphate ion assay
+raw image data set
+guard column
+densitometer
+creatine kinase
+fluorescene detector
+perfusion station
+enzyme-linked immunosorbent assay
+material to be added
+probabilistic algorithm
+random electrolytes urine sodium assay
+disease course
+ileum specimen
+in vivo assay measuring B cell epitope specific disease exacerbation
+centrifugation
+in vivo assay measuring T cell epitope specific disease exacerbation
+actin filament polymerization
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-25 production by T cells
+number of lost events electronic
+material processing
+patch clamp device
+liquid chromatrography mass spectrometry analysis
+ELISA measuring epitope specific RANTES production by T cells
+individual genetic characteristics comparison design
+MHC protein complex binding to ligand
+real time reverse-transcription polymerase chain reaction assay
+cytosolic creatine kinase complex, MB-type assay
+protein column
+assay measuring epitope specific activation of additional immune response in vitro
+Affymetrix Human Exon Junction Array
+chem11 venous blood magnesium assay
+venous blood digoxin assay
+Fe-BABE RNA structure mapping assay
+dissection
+amikacin
+insecticide resistance by detecting enzyme activity assay
+median centering
+comprehensive metabolic panel venous blood human aspartate aminotransferase assay
+monocyte count assay
+CBC with automated differential venous blood RBC count assay
+interleukin-1 production
+post mortem specimen
+microRNA profiling by array assay
+protection from challenge in vivo intervention experiment
+DNA based blood meal finger printing assay
+autofluorescence microscopy assay
+antibody cross-blocking assay
+in vivo assay measuring B cell epitope specific protection from other challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on survival
+endotracheal aspirate specimen
+Giemsa stain assay
+laser capture microdissection microscope
+RNA extraction with polyA depletion
+in vivo skin test assay measuring T cell epitope specific type IV hypersensitivity
+POC chem8 arterial blood chloride assay
+Li-Cor 4300 DNA Analysis System
+proximity extension assay
+clonal cDNA library
+DNA replication
+venous blood nucleated RBC count assay
+chem16 venous blood phosphate assay
+venous blood creatine kinase MB assay
+unit-variance scaling
+antibody purification of H2-IAd protein complex
+cell culture analyte detection bioassay measuring epitope specific interleukin-4 production by T cells
+microwave synthesis system
+gas chromatography equipment
+protease cleavage
+surveillance process
+cell line culture
+prothrombin time assay
+neutrophil
+service
+intracellular material detection measuring epitope specific granzyme B release by T cells
+nuclear RNA extract
+hepatic panel venous blood human aspartate aminotransferase assay
+nasal aspirate microbiology assay
+assay measuring epitope specific IP-10 production by T cells
+allele information
+in vivo assay measuring T cell epitope specific protection from other challenge resulting from the adoptive transfer of epitope specific T cells based on survival
+epitope protection from tumor challenge experiment
+trimmed sequence data
+ELISPOT assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+venous blood lactate dehydrogenase assay
+creatine kinase assay
+automated differential venous blood monocyte count assay
+menopausal status
+taxonomic diversity assessment by targeted gene survey
+Amnis ImageStream
+DNA methylation profiling by high throughput sequencing assay
+reference genome role
+experimental disease induction
+assay measuring the half maximal effective concentration [EC50] of a MHC:ligand complex
+physical store
+obsolete_general scalar measurement datum
+genetically modified material
+pooling specimens
+radio immuno assay measuring epitope specific interferon-gamma production by T cells
+basophil assay
+in vivo assay measuring epitope specific helper T cell enhancement of a T cell mediated immune response
+ionized venous blood ionized calcium assay
+clinical history of repeated HIV assays
+assay measuring epitope specific immunoglobulin-mediated antigen activation
+antibody purification of pig MHC class I protein complex
+blood meal source role
+assay measuring the half life of a MHC:ligand complex
+ChIP-seq assay
+infrared image acquisition device
+GEM4000 ANLCOOX arterial blood potassium assay
+nasopharynx specimen
+epitope binding by adaptive immune receptor
+in vivo assay measuring T cell epitope specific protection from infectious challenge based on pathogen burden
+ABG/electrolytes arterial blood oxygen assay
+neuron morphology reconstruction assay
+1-D extent
+direct insecticide resistance diagnostic assay
+assay measuring epitope specific granulocyte macrophage colony stimulating factor production by T cells
+antigen specific antibodies in milk assay datum
+formaldehyde-assisted isolation of regulatory elements assay
+arterial blood
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-23 production by T cells
+agar stab storage
+molecular-labeled material
+bodily fluid albumin assay
+ontology module subsetted by OWL profile
+T1 weighted magnetic resonance image data set
+excision
+water filtration
+intracellular cytokine staining assay measuring epitope specific interleukin-6 production by T cells
+processed specimen
+drag swab
+freezing
+nucleic acid template role
+assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+mass selective detector
+pleural fluid microbiology assay
+liquid chromatography autosampler
+edge quality calculation
+ELISPOT assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-10 production by T cells
+ELISPOT assay measuring epitope specific interleukin-10 production by T cells
+confocal microscope
+interleukin-5 production
+cytometric bead array assay measuring epitope specific transforming growth factor-beta production by T cells
+autosampler
+cell line
+organism substance
+proteomic profiling by array design
+ELISPOT assay measuring epitope specific interleukin-1 beta production by T cells
+pill
+antibody purification of mouse MHC class II protein complex
+hardware testing objective
+methodology testing objective
+maximum age value specification
+infectious agent detection assay
+fluorescence detection assay measuring binding off rate [koff] to determine direct binding of a cell-bound-MHC:ligand complex
+data format specification
+DamID-seq
+Plasmodium gametocyte detection assay
+ELISPOT assay measuring epitope specific RANTES production by T cells
+genotyping assay
+latitude coordinate measurement datum
+chem11 venous blood creatinine assay
+ELISPOT assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+drawing a conclusion based on data
+exclusion criterion
+ventral to
+anatomical cluster
+hypothesis generating investigation
+pleural fluid microbiology datum
+SPEP protein electrophoresis venous blood protein assay
+sample inlet
+assay measuring quantitative binding of an antigen:antibody complex
+storage
+intracellular cytokine staining assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+placental blood microbiology assay
+automated differential venous blood eosinophil count assay
+immature neutrophil percentage assay
+occurrence of allergy
+syringe
+overnight fasting
+sodium(1+) assay
+replicate design
+epitope specific tolerance induction by T cells
+chemokine (C-C motif) ligand 21 production
+ABL90 panel arterial blood potassium assay
+obsolete intracellular material detection by flow cytometry assay  of epitope specific cytotoxic T cell degranulation
+core HBV antibody assay
+hemoglobin and hematocrit venous blood hematocrit assay
+megakaryocyte count assay
+CBC with manual differential venous blood monocyte count assay
+in vivo assay measuring B cell epitope specific tolerance induction
+object
+artificially induced methylation
+epitope specific IL-1b release by T cells
+obsolete_electrically powered device
+disposition to infect an organism
+sex comparison design
+in vivo assay measuring T cell epitope specific protection after tumor burden challenge
+Guava Personal Cell Analysis-96
+sequence analysis data transformation
+sputum specimen
+diagnosis of hepatitis C
+bulk Hi-C assay
+cell specimen
+error correction objective
+venous blood triglyceride assay
+immune response
+POC chem8 arterial blood potassium assay
+free venous blood T3 assay
+interleukin-22 production
+T cell epitope assay
+inpatient profile venous blood potassium assay
+yeast artificial chromosome vector
+lipid panel reflex direct venous blood low density lipoprotein assay
+cell pellet
+venous blood oxygen assay
+peripheral nervous system
+sequence alignment
+CBC with manual differential venous blood megakaryocyte count assay
+ELISA measuring epitope specific transforming growth factor-beta production by T cells
+basophil count assay
+low-density lipoprotein
+class prediction data transformation
+extract
+comment on investigation
+tritiated thymidine incorporation assay
+digestive system secreted substance
+parasite organism
+sticky trap
+adaptive immune receptor
+lipid panel venous blood cholesterol assay
+antigen detection by cytometric bead array assay
+epitope specific chemokine (C-X-C motif) ligand 13 production by T cells
+column connector
+cell collecting
+chem16 venous blood carbon dioxide assay
+exposure to chromium history
+specimen collection time measurement datum
+secondary cultured cell
+coma severity assay
+JEOL NMR instrument
+RNA ADA I RNA structure mapping assay
+length
+96-well neutralization assay
+material information bearer
+vented blood gas arterial blood bicarbonate assay
+cooximitery arterial blood oxygen assay
+MeDIP-seq assay
+insecticide resistance time response by WHO paper kit assay
+library preparation
+mixed argon-krypton gas laser
+mean cell volume assay
+PCR-SSCP assay
+volumetric flow rate unit
+regression analysis method
+urine assay
+rocker
+arthropod resting outdoors on artificial support specimen collection by aspiration
+proteomic profiling by array assay
+lipoprotein
+transcription start site mapping by primer extension assay
+Mammalia
+whole mount tissue
+target material in specimen specification
+blood specimen
+material component separation
+in-situ hybridization assay
+fatty acid assay
+electrode puller
+aspiration specimen collection
+cheek
+GEM4 arterial blood potassium assay
+direct binding assay
+reverse phase protein array profiling assay
+urine microbiology datum
+venous blood parathyroid hormone assay
+RNA-seq assay
+Influx Cell Sorter
+exposure of material to environment
+growth condition intervention design
+count bodily fluid cell count assay
+specimens collected in one encounter
+dry ice bath
+cervical administration
+electron microscopy assay determining the 3D structure of a B cell epitope:antibody complex
+mortal cell line
+Bruker high resolution probe
+aquatic arthropod specimen collection process
+column compartment
+T2 weighted SE magnetic resonance image data set
+assay measuring the association constant [KA] of a MHC:ligand complex
+venous blood folic acid assay
+personal protective device
+target gene specification
+lipid panel reflex direct venous blood cholesterol assay
+cannot be assessed determination
+sequence assembly process
+RNA extract
+in vitro transcription reconstitution assay
+epitope:MHC:TCR complex
+epitope protection from infectious challenge experiment based on pathogen burden
+specimen
+Bruker UltraShield NMR magnet
+compound treatment design
+H2-Dd protein complex
+ELISA measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+prostate gland specimen
+Illumina MouseRef-8 v2.0 beadchip
+directed mutagenesis
+Schizosaccharomyces pombe mating type
+assay measuring epitope specific interleukin-3 production by T cells
+bio-layer interferometry assay measuring the on rate [kon] of a B cell epitope:antibody complex
+statistical hypothesis test
+mean-centered data
+ABL90 panel arterial blood hemoglobin assay
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-9 production by T cells
+cerebellum
+K-fold cross validation method
+disease specific study design
+insecticide resistance by detecting beta esterase activity assay
+transplantation
+Ion 318 Chip v2
+eosinophil assay
+venous blood fibrinogen assay
+cultured CD3+ T cell population
+phage display binding assay
+multiple linear regression analysis
+chem16 venous blood magnesium assay
+trial statistician role
+Kaplan Meier
+quality of a substance
+obsolete_sample population
+feces assay datum
+GEM premier blood gas venous blood carbon dioxide assay
+microarray wash station
+classified data visualization
+ELISPOT assay measuring epitope specific interleukin-13 production by T cells
+CBC with manual differential venous blood neutrophil count assay
+Illumina HiSeq 2000
+nasopharyngeal swab specimen
+homocysteine
+material maintenance
+detection of specific nucleic acids with complementary probes assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+Bruker BEST NMR system
+coelution assay measuring MHC ligand processing and presentation using T cell recognition of HPLC fractionated eluate compared to synthetic ligand
+background corrected data set
+follow-up high resolution T1 weighted magnetic resonance image data set
+piezo electric crystal
+IP-10 production
+antibody purification of HLA-DP protein complex
+total venous blood PSA assay
+interquartile-range calculation
+preparative autosampler
+T cell receptor complex
+high performance liquid chromotography assay
+PubMed ID
+real time polymerase chain reaction assay
+validated information
+inpatient profile venous blood carbon dioxide assay
+T2 weighted STIR magnetic resonance image data set
+intra subgraph connectivity calculation
+parasite species identification by PCR assay
+agglomerative hierarchical clustering
+correction objective
+specimen collection objective
+chem11 venous blood chloride assay
+nucleic acid
+assay measuring epitope specific interleukin-2 production by T cells
+immunoglobulin binding to epitope
+comparative genomic hybridization by array assay
+ELISA measuring epitope specific interleukin-10 production by T cells
+delivery form for hormonal replacement therapy
+single-unit recording
+total bodily fluid protein assay
+microhardness tester
+in vivo assay measuring B cell epitope specific protection from tumor challenge
+data transformation objective
+beta-2-microglobulin
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-16 production by T cells
+longitudinal mass measurement assay
+clinical history devoid of cancer
+ion laser
+epitope disease exacerbation experiment
+cell bound MHC competitive binding assay of a MHC:ligand complex using T cell epitope recognition
+physical examination of an organism
+non-vented blood gas arterial blood bicarbonate assay
+maintaining cell culture
+parasite detection by PCR assay
+computation run time
+insecticide resistance by short interspersed elements PCR assay
+radioactive
+conditional specification
+HBV surface antigen assay
+B cell
+extraction duration time
+radioactivity detection assay measuring half maximal effective concentration [EC50] to determine direct binding of a cell-lysate-MHC:ligand complex
+in vivo assay measuring T cell epitope specific protection based on survival
+face mask
+discriminant analysis
+insecticide resistance by fluorogenic PCR assay
+CytoSence
+deoxyribonucleic acid
+helper T cell enhancement of T cell mediated immune response
+generalized family wise error rate correction method
+cytochalasin-induced inhibition of actin polymerization assay
+lipid panel reflex direct venous blood high density lipoprotein assay
+cell culture assay
+CBC with manual differential venous blood cell count assay
+skewness calculation
+competitive binding reference ligand role
+Affymetrix Human Genome U219 Array
+plasmon resonance assay measuring binding of a B cell epitope:antibody complex
+median calculation
+decoding amplified targeted transcripts with fluorescence in situ hybridization assay
+liver injury venous blood bilirubin assay
+email address of specimen collector
+GEM4000 ANLCOOX arterial blood ionized calcium assay
+length measurement datum
+surface plasmon resonance sensor chip
+electrolytes urine sodium assay
+assay measuring epitope specific granzyme B release by T cells
+aunt clinical history of cancer
+measurement device
+reporter cell line analyte detection bioassay
+urine protein assay
+in vivo assay measuring T cell epitope specific protection from other challenge resulting from the adoptive transfer of epitope specific T cells
+RNA Integrity Number value specification
+correlation study objective
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-21 production by T cells
+fluorescence detection assay
+assay measuring epitope specific interferon-beta production by T cells
+3H-thymidine assay measuring epitope specific proliferation of T cells
+enzymatic cleavage
+limb coordination assessment
+B cell epitope specific immune complex formation
+neuron
+non-cardiac venous blood c-reactive protein assay
+ABL90 panel venous blood glucose assay
+vacuum manifold
+venous blood calcium assay
+pulsed-field gel electrophoresis system
+hypersensitivity
+antibodies from lymphocyte secretions assay
+lipid panel venous blood triglyceride assay
+intracellular cytokine staining assay measuring epitope specific interferon-gamma production by T cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-13 production by T cells
+B cell epitope specific immune intervention
+neutrophil assay
+pleural fluid specimen
+cytometric bead array assay measuring epitope specific interleukin-3 production by T cells
+calorimetry assay measuring the association constant [KA] of a B cell epitope:antibody complex
+intracellular cytokine staining assay measuring epitope specific interleukin-5 production by T cells
+obsolete CD8 receptor
+epitope specific XCL1 release by T cells
+rat MHC class I protein complex
+translation profiling assay
+obsolete cell lysate MHC competitive binding assay using radioactivity detection
+radioactivity detection assay measuring direct binding of a cell-bound-MHC:ligand complex
+adding a material entity into a target
+ELISA measuring epitope specific interleukin-18 production by T cells
+polyacrylamide gel
+eukaryota in blood datum
+merged aligned sequence data
+background correction data transformation
+network subgraph quality calculation
+automated differential venous blood basophil count assay
+study design controlled variable
+ABL90 panel arterial blood methemoglobin assay
+methemoglobin assay
+interleukin-13 production
+collecting specimen from organism
+biological attribute
+extraction
+albumin assay
+top loading balance
+Riboviria
+peak venous blood tobramycin assay
+intracellular cytokine staining assay measuring epitope specific interleukin-17 production by T cells
+tolerance induction intervention experiment
+molecular_function
+blood gas arterial blood oxygen assay
+RIA measuring binding of a B cell epitope:antibody complex
+substance detection assay
+artificially induced DNA repair
+ABL90 panel arterial blood calcium assay
+transforming growth factor beta2 production
+decision tree induction objective
+full karyotype information
+ABL90 panel venous blood ionized calcium assay
+intentional overdosing
+milk assay datum
+comparative phenotypic assessment
+protein expression profiling assay
+immunization
+assay measuring biological activity resulting from B cell epitope:antibody binding
+target capture specification
+assay measuring the MHC ligand binding on rate [kon] of a MHC:ligand complex
+container
+insecticide resistance time response assay
+Benjamini and Hochberg false discovery rate correction method
+cerebrospinal fluid glucose assay
+perimenopausal status
+DNA residue methylation
+ELISPOT assay measuring epitope specific interleukin-5 production by T cells
+non-vented blood gas arterial blood oxygen assay
+fluorescence detection assay measuring half life to determine direct binding of a cell-bound-MHC:ligand complex
+graph of vertices
+SOLiD sequencing assay
+mean centering
+disposition
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-7 production by T cells
+centrifuge
+decision analysis study design
+intracellular cytokine staining assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+cell culture analyte detection bioassay measuring epitope specific interferon-gamma production by T cells
+uterus
+band pass filter
+in vitro CRISPR screen assay
+antigen specific antibodies in milk assay
+region
+assay measuring epitope specific interleukin-10 production by T cells
+fluorescence imaging-based cell morphology assay
+mononuclear cell
+edited document
+microarray assay measuring binding of a B cell epitope:antibody complex

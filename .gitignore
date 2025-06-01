@@ -8,8 +8,11 @@ __pycache__/
 2025/TaskB-TermTyping/*/test/* 
 2025/TaskB-TermTyping/*/all/* 
 
-2025/TaskC-TaxonomyDiscovery/*/test/* 
+
 2025/TaskC-TaxonomyDiscovery/*/all/* 
+2025/TaskC-TaxonomyDiscovery/*/test/*.json
+2025/TaskC-TaxonomyDiscovery/*/test/*.zip
+
 
 2025/TaskD-NonTaxonomicRE/*/test/* 
 2025/TaskD-NonTaxonomicRE/*/all/* 

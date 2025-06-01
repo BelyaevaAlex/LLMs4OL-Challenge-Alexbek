@@ -1,0 +1,916 @@
+leaf lamina tooth
+parenchyma cell
+vascular leaf initiation stage
+embryo hypocotyl
+basal endosperm transfer layer
+phloem
+phyllome abaxial meristem
+root cap
+socket cell
+root apical meristem
+anthela inflorescence
+axillary hair basal cell
+thorn
+xylem vessel
+seminal root
+root lateral meristem
+microsporophyll
+papilla cell
+megasporangium endothecium
+modified aleurone
+plant axis differentiation zone
+anther theca
+stem base
+tassel spikelet pair meristem
+rhizoid meristematic apical cell
+monarch protoxylem
+endodermis
+sporangium
+portion of vascular tissue
+intermediary companion cell
+axillary inflorescence bud
+root emergence stage
+leaf substomatal cavity
+plant ovule micropyle
+xylem
+scale leaf margin
+seed chalaza
+phyllome development stage
+persistent sepal
+plant structure
+gynoecium ridge
+apical meristem
+embryo apical cell
+leaf vascular system
+intercalary meristem
+leaf adaxial epidermis
+shoot-borne root
+flower pedicel abscission zone
+adaxial nucellar projection
+LP.04 four leaves visible stage
+LP.06 six leaves visible stage
+crown root primordium formation stage
+leaf trichome development stage
+hypocotyl epidermis
+locule
+ear spikelet pair meristem
+root cap of primary root
+megasporangium
+palisade mesophyll intercellular space
+leaf lamina adaxial epidermis
+integument epidermis
+leaf abaxial trichome
+tuberous root tuber
+sieve element
+cambial zone
+drepanium inflorescence
+shoot axis pith
+1 root primordium formation stage
+plant ovary wall
+secondary phloem
+seed coat epidermis
+root differentiation zone
+stigma vascular system
+phyllome founder cell
+petiole cortex
+axillary shoot system
+gametophyte reproductive stage
+fused calyx
+ventral canal cell
+vegetative bud
+SE.16 sixteen or more nodes or internodes visible stage
+cotyledon emergence stage
+plant organ margin
+vascular leaf adaxial meristem
+phelloderm
+fruit storage parenchyma
+ear inflorescence axillary meristem
+hypocotyl-root junction
+trichome tip
+lower glume of tassel spikelet
+upper glume
+seedling development stage
+phyllome margin
+root cortex
+plant embryo coleoptile
+stem hypodermis
+sepal parenchyma
+cambial initial cell
+chlorenchyma
+inflorescence axis
+ceonosorus
+peristome tooth
+ear spikelet meristem
+fruit replum
+spikelet pair meristem
+LP.09 nine leaves visible stage
+exotegmen
+seta
+IL.03 full inflorescence length reached stage
+articulated laticifer cell
+septate phloem fiber cell
+basal axillary shoot system
+plant anatomical space
+eighth order infructescence axis
+phyllome primordium
+tuber pith
+fascicular cambium
+callus parenchyma cell
+cotyledonary node rhizoid
+phyllome guard cell
+root initial cell
+developing seed stage
+aerial tuber storage parenchyma
+parenchyma
+unicellular trichome
+sporophyte foot
+tepal margin
+whole plant fruit formation stage
+subterranean tuber pith
+ear meristem
+fiber tracheid
+plant zygote
+peduncle trichome
+phyllome lamina
+BFO_0000040
+mature plant embryo stage
+cardinal organ part
+pericycle cell
+septum
+IL.00 inflorescence just visible stage
+leaf mesophyll intercellular space
+plant organ
+sheath cell
+bud burst stage
+leaf stomatal pore
+tassel inflorescence branch
+spermatogenous cell
+bract
+inflorescence axis internode
+tassel floret
+septate fiber tracheid
+peristome
+fusiform initial cell
+bract base
+plant embryo true leaf formation stage
+primordium
+beginning of whole plant fruit ripening stage
+bract primordium
+plant embryo development stage
+IL.01 1/4 inflorescence length reached stage
+flower development stage
+flower bract
+shoot axis tegument layer
+leaf base
+costa
+PO_0025349
+seed trichome development stage
+lodicule primordium
+fruit
+whole plant fruit formation stage up to 10%
+collective plant organ structure
+mid rosette growth stage
+petal
+initial cell
+L mature pollen stage
+cell differentiation stage of secondary xylem
+first order inflorescence axis
+tracheid bar
+vascular leaf
+sporophyll margin
+root parenchyma
+plant epidermal cell
+trichome apex
+lower floret of pedicellate spikelet of tassel
+stamen primordium
+gametophyte coma
+xylem vessel member
+root elongation zone
+secondary xylem parenchyma
+epicormic shoot system
+rosette growth stage
+collenchyma cell
+A archesporial cells visible stage
+inflorescence apical meristem
+hood-shaped primordium stage
+tepal trichome
+petiole canal
+procambium
+petiole epidermis
+seta meristematic apical cell
+zygotic plant embryo
+calyx
+stomatal pore
+leaf marginal meristem
+root epidermal differentiation stage
+meristem L3 layer
+BO.01 early boot stage
+in vitro plant structure
+fruit nucellus
+tassel sessile spikelet
+pedicel cortex
+bract stomatal complex
+hypocotyl vascular system
+transfer cell
+phyllome trichome
+IE.01 1/4 of inflorescence emerged from flag leaf sheath stage
+canal
+sporophyte development stage
+perisperm
+floral organ primordium
+shoot-borne internode root
+shoot system vascular system
+nectary epidermis
+gametophyte development stage
+phyllome tip
+epidermal rhizoid
+first order ear inflorescence axis
+venter
+nucellus
+male archesporial cell
+fruit formation stage
+thallus reproductive whole plant development stage
+plant ovary ovule
+root hair cell
+plant organ development stage
+terminal reproductive bud
+petal stomatal complex
+transition zone
+late wood
+spikelet
+SE.08 eight nodes or internodes visible stage
+plant epidermis
+petal differentiation and expansion stage
+late wood tracheary element
+sporangium base
+phyllome lamina areole
+guard cell
+second order infructescence
+stipule
+sepal apex
+branch node
+vascular system
+bract tip
+glume awn
+panicle inflorescence
+seed trichome elongation stage
+gametophore
+sporangium wall endothecium
+leaf collar
+shoot axis internode
+bundle sheath extension
+lateral root apical meristem
+alar cell
+shoot axis trichome
+tmema
+stamen vascular system
+plant fiber cell
+higher order infructescence axis
+inflorescence axis node
+root epidermal cell
+pith
+ligule
+fruit locule
+tracheary element
+lateral meristem
+pneumatorhiza
+stamen
+hydathode pore
+primary xylem
+phyllome stomatal complex
+stalk
+microsporangium tapetum cell
+secondary leaf vein
+non-vascular leaf development stage
+G eight nucleate megagametophyte stage
+achene fruit
+root primordium
+tetrad of microspores
+hydroid
+plant embryo axis
+seedling coleorhiza
+ear spikelet
+extrafloral nectary
+1 main shoot growth stage
+collective phyllome structure development stage
+plant egg cell
+secondary xylem
+carpel margin
+endosperm
+poricidal capsule fruit
+shoot-borne root epidermis
+upper glume of pedicellate spikelet of ear
+gametophore stem
+embryo hypocotyl-root junction
+determinate nodule
+microsporangium endothecium
+E tetrad stage
+seedling hypocotyl-root junction
+cultured plant cell
+receptacle
+mesophyll cell
+gametophyte meristematic apical cell
+protonema sub-apical initial cell
+procambial cell
+bract epidermis
+filament vascular system
+sepal primordium
+anther wall tapetum cell
+spikelet pedicel
+leaf prickle
+tracheid
+tetrad of megaspores
+multicellular trichome tip
+leaf rachis
+primary xylem vessel
+glandular trichome
+filament
+style
+F microspore release stage
+oil gland
+cuticular wax
+endodermal passage cell
+higher order leaf vein
+leaf production stage
+phyllode leaf
+floral organ abscission zone
+palea
+spore capsule operculum
+M germinated pollen stage
+petal spur
+endotegmen
+LP.02 two leaves visible stage
+leaflet
+petal mesophyll
+multicellular trichome
+shoot axis apex
+plant structure development stage
+dry seed stage
+lower glume of sessile spikelet of tassel
+tubercle
+anther wall secondary parietal cell layer
+antheridium head
+shoot-borne shoot system
+shoot axis
+tuber axillary shoot
+stem trichome
+sporophyte meristematic apical cell
+flower bract primordium
+leaf abaxial stomatal complex
+raceme inflorescence
+protonemal rhizoid
+bud dormancy stage
+vascular leaf primordium formation stage
+branch stele
+shoot-borne nodal root
+staminate flower
+mericarp
+endosperm parenchyma
+adaxial protoderm
+central root cap
+B enlarged microsporocyte stage
+IL.02 1/2 inflorescence length reached stage
+stigma papilla cell
+BO.05 flag leaf sheath opened stage
+megagametophyte
+gametophore bud
+endocarp
+plant ovule integument
+synergid
+axial system
+hypanthium
+primary xylem tracheid
+vascular leaf founder cell
+arilloid
+rachilla of sessile spikelet of tassel
+mesophyll
+central zone of the leaf lamina
+leaf trichome
+carpel anlagen
+root meristem
+ground tissue cell
+whole plant fruit formation stage 30 to 50%
+reproductive shoot system
+coleoptile
+branch
+tassel spikelet rachilla
+microgametophyte
+subterranean tuber axillary bud meristem
+plant axis elongation zone
+shoot epidermal cell
+non-hair root epidermal cell
+exotesta
+phyllome apex
+phellem
+cotyledon anlagen
+non-articulated laticifer cell
+tuber interfascicular region
+body cell
+shoot axis meristematic apical cell
+axillary flower bud
+storage parenchyma
+shoot axis hypodermis
+phyllome sinus
+included phloem
+vascular tissue development stage
+collective phyllome structure
+inflorescence vascular system
+leaf sheath abaxial epidermis
+parenchyma sheath
+phyllome anlagen
+sepal mesophyll
+root nodule
+nectary
+higher order inflorescence axis
+plant sperm cell
+substomatal cavity
+vascular leaf differentiation stage
+plant spore
+shoot axis tuber epidermis
+IE.03 3/4 of inflorescence emerged from flag leaf sheath stage
+protective layer
+collective plant structure
+sporangium wall
+vascular leaf development stage
+seed obturator
+archegonium neck
+staminode
+short tassel branch
+axillary bud meristem
+vascular leaf anlagen
+lateral root
+leptoid
+anther locule
+leaf guard cell
+periblem
+leaf lamina areole
+phyllome adaxial meristem
+antheridium stalk
+inflorescence bract
+petiole margin
+K second mitotic division stage
+scutellum vascular system
+stele
+inflorescence development stage
+protoxylem
+leaflet tendril
+mestome sheath
+megagametophyte development stage
+shoot lateral meristem
+F bilocular anther stage
+nucellar epidermis
+rhizome scale leaf
+primary xylem tracheary element
+exothecium
+leaf adaxial stomatal complex
+trichoblast
+anther septum
+floral organ primordium development stage
+stem internode
+meristem L1 layer
+microsporocyte
+androecium primordium
+ninth order inflorescence axis
+vascular shoot axis meristematic apical cell
+epicalyx
+endotesta
+4 root elongation stage
+leaflet margin
+hypocotyl emergence stage
+plant cuticle
+stem node
+spikelet floret
+paraclade cortex
+flower fascicle
+shoot system
+shoot procambium
+adventitious root nodule
+seed trichome
+hypocotyl
+prophyll
+inflorescence
+bundle sheath cell
+included vascular cambium
+secondary phloem sieve tube element
+polyarch protoxylem
+cultured zygote-derived plant embryo
+SE.99 maximum stem length reached stage
+fruit septum
+plant ovary outer epidermis
+abscission zone
+companion cell
+indeterminate nodule
+leaf stomatal complex
+subterranean tuber storage parenchyma
+phloem development stage
+shoot axis cortex
+floral organ formation stage
+axil
+lateral root emergence stage
+petal parenchyma
+root giant cell
+aerial tuber axillary shoot
+petal primordium
+ear pedicellate spikelet
+tertiary leaf vein
+metaxylem tracheary element
+late whole plant fruit ripening stage
+bundle sheath chlorenchyma cell
+vascular leaf senescent stage
+embryo sac egg cell
+phloem mother cell
+bract apex
+meristem L2 layer
+stem tegument layer
+quiescent center
+SE.00 stem elongation begins stage
+plant ovary replum
+shoot axis procambium
+fruit pedicel
+native plant cell
+root stele
+plant embryo radicle
+keel petal
+2 formation of axillary shoot stage
+meristematic apical cell
+gametophore bud initial cell
+root system
+spine petiole
+amphithecium
+sporophyte vegetative stage
+shoot axis epidermis
+rapid elongation of vascular leaf lamina stage
+root vascular cambium
+trichome cell
+transfer companion cell
+sorus
+scale leaf
+leaf adaxial pavement cell
+upper glume of ear spikelet
+inflorescence bract primordium
+stipel
+anther
+sepal primordium visible stage
+embryo sac cell
+stem stele
+whole plant development stage
+collective plant organ structure development stage
+perianth
+trichome development stage
+central endosperm
+rapid elongation of leaf sheath stage
+phyllome
+collective organ part structure
+phyllome stomatal pore
+terminal flower bud
+vascular leaf primordium abaxial side
+inflorescence bud
+plant ovary epidermis
+inflorescence axillary meristem
+ensiform vascular leaf
+fruit size up to 10% stage
+palea apiculus
+petal margin
+shoot epidermal pavement cell
+rachilla of pedicellate spikelet of ear
+upper glume of pedicellate spikelet of tassel
+root development stage
+leaf plate meristem
+shoot axis tuber axillary bud meristem
+sclerenchyma cell
+leaf lamina vascular system
+lateral root elongation zone
+cauline axillary shoot
+chlorenchyma cell
+passage cell
+primary parietal cell
+androecium
+prophyll margin
+secondary cell wall formation stage of secondary xylem
+vascular bundle
+bud development stage
+inflorescence bifurcation stage
+central zone
+laticifer cell
+mesocotyl
+megasporocyte
+stomatal complex
+secondary xylem parenchyma cell
+micropylar endosperm
+tassel apical meristem
+calyx development stage
+tension wood
+tuber
+whole plant
+booting stage
+plant embryo vascular system
+primary thickening meristem
+palisade mesophyll cell
+spikelet meristem
+bud swell stage
+palisade mesophyll
+free nuclear endosperm
+trichome
+ovule differentiation and expansion stage
+ear apical meristem
+portion of ground tissue
+root epidermis
+terminal strobilus bud
+hypocotyl endodermis
+inflorescence emergence stage
+ear peduncle
+root cortex-endodermis initial cell
+megasporangium exothecium
+xylem sap
+sepal adaxial epidermis
+septate fiber cell
+root-derived cultured plant cell
+radicle
+whole plant fruit ripening stage
+carpel vascular system
+androecium development stage
+seedling hypocotyl
+banner petal
+aleurone layer
+secondary vascular tissue
+capsule fruit
+collective leaf structure
+portion of meristem tissue
+petiole parenchyma
+leaf pavement cell
+exocarp
+gametophore axillary hair
+somatic plant embryo
+seed funicle
+secondary xylem vessel member
+aerial tuber axillary bud meristem
+interfascicular region
+tuber perimedullary zone
+plant anatomical entity
+whole plant flowering stage
+receptacle pith
+coleorhiza
+cotyledon
+fruit placenta
+lemma development stage
+plant protoplast
+gemma
+spikelet rachilla
+upright ray secondary xylem parenchyma cell
+epithem cell
+plant ovary inner epidermis
+phyllome plate meristem
+archesporial cell
+silique fruit
+spadix inflorescence
+root system exarch protoxylem
+idioblast
+caulonema meristematic apical cell
+vascular cambium
+FL.01 1/4 of flowers open stage
+reaction wood
+shoot system meristem
+vascular leaf expansion stage
+epicotyl
+antheridium sperm cell
+leaf abscission zone
+petiole adaxial epidermis
+root cambial zone
+scutellar epithelium
+axillary reproductive bud
+root pith
+gametophore axillary hair basal cell
+lower glume of pedicellate spikelet of tassel
+phyllome base
+secondary xylem tracheary element
+nucellar plant embryo
+flower bud
+primary phloem sieve element
+leaf lamina stomatal complex
+second order inflorescence
+leaf tip
+free ending veinlet
+caryopsis hull
+leaf lamina epidermis
+leaf sheath epidermis
+seventh order inflorescence axis
+tassel peduncle
+elaiosome
+pedicel of tassel spikelet
+gametophore branch
+bundle sheath
+anther development stage
+terminal inflorescence bud
+palea differentiation and expansion stage
+SE.13 thirteen nodes or internodes visible stage
+petal anlagen
+gynoecium development stage
+ear spikelet rachilla
+4 growth directionality stage
+hypodermis
+megasporangium wall
+portion of plant tissue
+perimedullary zone
+lodicule development stage
+rhizome
+F four nucleate megagametophyte stage
+unicellular plant gametangium
+portion of secretory tissue
+sporangium locule
+sporophyte dormant stage
+sepal tip
+LP.05 five leaves visible stage
+plant embryo dormant stage
+bract trichome
+plant ovary placenta
+adult vascular leaf
+secondary thickening meristem
+ground meristem
+tuber storage parenchyma
+aerial tuber pith
+lemma apiculus
+transition vascular leaf
+seedling radicle
+vegetative shoot system
+fruit pedicel abscission zone
+pedicel
+root-borne shoot system
+infructescence fruit pedicel
+pappus element
+endarch protoxylem
+embryo basal cell
+sporophyll
+corolla development stage
+phyllome epidermis
+inflorescence meristem
+rhizoid
+plant cell
+corolla
+cultured somatic plant embryo
+seventh order infructescence axis
+central root cap of primary root
+rachilla of sessile spikelet of ear
+microgametophyte vegetative cell
+silk scar
+phyllome vascular system
+leaf lamina
+outer vascular cambium
+plumule
+E two nucleate megagametophyte stage
+aerial tuber perimedullary zone
+tassel inflorescence axillary meristem
+sporocyte
+long cell
+plant ovary septum
+short tassel branch meristem
+meristematic cell
+C four anther lobes formed stage
+primary endosperm cell
+rachilla of pedicellate spikelet of tassel
+root secondary thickening meristem
+gynoecium
+plant ovule
+fruit valve
+aerial tuber
+reproductive shoot apical meristem
+glume
+stem epidermis
+stamen trichome
+seedling coleoptile
+gametophore reproductive whole plant development stage
+embryo hypophysis
+chloronema
+plant axis
+seedling mesocotyl
+shoot system epidermis
+gametophyte perianth
+embryo sac
+fruit operculum
+leaf procambial cell
+axillary hair terminal cell
+shoot-borne root apical meristem
+leaf development stage
+protoderm
+leaf lamina vein
+shoot axis internode elongation zone
+stem elongation stage
+sieve tube element
+life of whole plant stage
+lenticel
+fruit distal end
+vegetative shoot apical meristem
+shoot axis node
+receptacle cortex
+seed development stage
+phyllome substomatal cavity
+involucral bract
+endothelium
+pollen development stage
+axial secondary xylem parenchyma cell
+peduncle
+lateral root primordium
+fruit abscission zone
+cell expansion stage of secondary xylem
+lower glume
+protonema
+tmema cell
+sixth order inflorescence axis
+pedicel of ear spikelet
+intercellular space
+seed storage parenchyma
+PO_0000055
+palea development stage
+tapetum cell
+leaf epidermis
+shoot axis vascular cambium
+leaf sheath auricle
+plant embryo cotyledon
+pulvinus
+ovule development stage
+subterranean tuber perimedullary zone
+tenth order inflorescence axis
+metaxylem tracheid
+flower
+epiblast
+shoot axis tuber
+tassel spikelet
+phyllome lamina tooth
+tepal
+plant embryo coleoptilar stage
+embryo coleorhiza
+infructescence axis
+leaf sheath pulvinus
+free petal
+stem
+shoot axis stele
+libriform fiber cell
+long lateral tassel branch
+ray secondary xylem parenchyma cell
+root vascular system
+pollen
+caulonema cell
+calyptra calyx
+lemma
+periderm
+non-pericyclic lateral root
+E anther wall tapetum degeneration initiated stage
+tuber cortex
+tegmen
+metaxylem vessel
+embryo root
+primary root apical meristem
+compound capitulum inflorescence
+plant resin
+leaf sinus
+rib zone
+valve
+seed dormant stage
+whole plant inflorescence detectable stage
+placenta
+tassel spikelet meristem
+anther wall primary parietal cell layer
+leaf apex
+3 establishment of tissue systems stage
+phyllome marginal meristem
+flower vascular system
+2.03 main shoot and axillary shoots visible at three nodes stage
+short shoot
+archegonium central cell
+anther wall inner secondary parietal cell layer
+separation layer
+epiphragm
+sepal epidermis
+axillary hair
+protonema meristematic apical cell
+cortex
+cultured plant embryo
+plant ovary
+archegonium megagametophyte
+aerial tuber cortex
+shoot axis prickle
+perigynium
+leaf lamina tip
+persistent stamen
+septate libriform fiber cell
+reproductive bud
+shoot apical meristem
+petiole
+aerial tuber epidermis
+embryo epicotyl
+reproductive shoot system development stage
+branch internode
+upper glume of tassel spikelet
+shoot system development stage
+prickle
+obturator
+portion of plant substance
+chalazal cyst
+tenth order infructescence axis
+hydathode
+multicellular trichome apex
+epicuticular wax
+gametophyte dormant stage
+shoot system xylem sap
+hydrome
+transition phyllode leaf
+cardinal part of multi-tissue plant structure
