@@ -1,0 +1,6 @@
+consider
+present in taxon
+equivalentClass
+disjointWith
+term replaced by
+never in taxon
