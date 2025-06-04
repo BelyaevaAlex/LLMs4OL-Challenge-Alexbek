@@ -1,2 +1,2 @@
-equivalentClass
 disjointWith
+equivalentClass
