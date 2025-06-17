@@ -77,13 +77,6 @@
     ]
   },
   {
-    "id": "TT_a344db5b",
-    "term": "N25f25f9f64774c09a2aac945739543bb",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_d1c63511",
     "term": "lifetime",
     "types": [
@@ -151,13 +144,6 @@
     "term": "icy",
     "types": [
       "chemical state"
-    ]
-  },
-  {
-    "id": "TT_9374e7d0",
-    "term": "Nd97bc392e58944e1af71fa85a165a591",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -315,13 +301,6 @@
     ]
   },
   {
-    "id": "TT_92398fe1",
-    "term": "Nfae0985d3a8b49b6aee8fb01952de5a7",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_5e43acf3",
     "term": "atomic scale",
     "types": [
@@ -340,20 +319,6 @@
     "term": "beaufort2",
     "types": [
       "beaufort scale"
-    ]
-  },
-  {
-    "id": "TT_65fbc7bb",
-    "term": "N678483a45e6e4819bab6f0471ea8dafe",
-    "types": [
-      "Organization"
-    ]
-  },
-  {
-    "id": "TT_761cb784",
-    "term": "N021d33114c034b7fa775fe195edc9705",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -494,13 +459,6 @@
     "term": "web coverage server",
     "types": [
       "geospatial interface protocol"
-    ]
-  },
-  {
-    "id": "TT_eecd2f9e",
-    "term": "N7b33d72fe26f4d52bc62d32cafe38966",
-    "types": [
-      "height range km"
     ]
   },
   {
@@ -679,13 +637,6 @@
     ]
   },
   {
-    "id": "TT_b1cd297d",
-    "term": "N1e2f51b9a1314eee828918655f2cec16",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_16656e61",
     "term": "dwa",
     "types": [
@@ -805,13 +756,6 @@
     ]
   },
   {
-    "id": "TT_332d69d8",
-    "term": "Nccb029283d094b86810429caf6ab4eec",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_a8fe4390",
     "term": "mhz",
     "types": [
@@ -889,20 +833,6 @@
     ]
   },
   {
-    "id": "TT_47cd830c",
-    "term": "N946692c5720f4722bb121c083ffaeb72",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
-    "id": "TT_21191c79",
-    "term": "N363a97cd8ecd4e8f8a88cb9bba341bd6",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
     "id": "TT_0cd9c85d",
     "term": "peru current",
     "types": [
@@ -935,13 +865,6 @@
     "term": "u",
     "types": [
       "actinoid"
-    ]
-  },
-  {
-    "id": "TT_5061639d",
-    "term": "N994b3fc2750941d09e63d2e6be09548f",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -984,13 +907,6 @@
     "term": "quiescent",
     "types": [
       "speed state"
-    ]
-  },
-  {
-    "id": "TT_6972c914",
-    "term": "N3b2f04610fec4d8d8982203abbde756c",
-    "types": [
-      "north latitude band"
     ]
   },
   {
@@ -1075,13 +991,6 @@
     "term": "bicarbonite",
     "types": [
       "ion"
-    ]
-  },
-  {
-    "id": "TT_643afbf4",
-    "term": "N3a0d5a4b98734bbb9344b3b8344ad0de",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -1358,13 +1267,6 @@
     ]
   },
   {
-    "id": "TT_23754561",
-    "term": "N5496d60f89684ad4a9b61b6de64399c0",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_a9554859",
     "term": "sheet",
     "types": [
@@ -1446,13 +1348,6 @@
     "term": "biodegradable",
     "types": [
       "biological state"
-    ]
-  },
-  {
-    "id": "TT_45ae6594",
-    "term": "N0cb71d834be045ef9595a6701d405e08",
-    "types": [
-      "south latitude line"
     ]
   },
   {
@@ -1589,13 +1484,6 @@
     ]
   },
   {
-    "id": "TT_1a94c9cc",
-    "term": "N60a6164ace3942469c272b1b7e90e44b",
-    "types": [
-      "north latitude line"
-    ]
-  },
-  {
     "id": "TT_fc1f1a4a",
     "term": "s33",
     "types": [
@@ -1649,13 +1537,6 @@
     "term": "grooved",
     "types": [
       "shape"
-    ]
-  },
-  {
-    "id": "TT_79b9b074",
-    "term": "N14623c552f6c4522bfe8df694c186aaa",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -1764,24 +1645,10 @@
     ]
   },
   {
-    "id": "TT_96b25415",
-    "term": "N6d05f712438241f8b25f68ee3fd95e25",
-    "types": [
-      "precipitation range"
-    ]
-  },
-  {
     "id": "TT_d2986402",
     "term": "high",
     "types": [
       "vertical extent"
-    ]
-  },
-  {
-    "id": "TT_bb865062",
-    "term": "N4e66d80b61c1413983dab80c39e69b29",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -1817,13 +1684,6 @@
     "term": "eddy",
     "types": [
       "wave state"
-    ]
-  },
-  {
-    "id": "TT_e97bb6b0",
-    "term": "N454f39c07a874d2f82a70fe00b963374",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -1883,20 +1743,6 @@
     ]
   },
   {
-    "id": "TT_b9eec44b",
-    "term": "N36cedbb3d3234c43ba70fcb6f4ef2e3a",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
-    "id": "TT_eec29457",
-    "term": "N81fa88f053d04b0c98c84284aed9ee99",
-    "types": [
-      "wavelength nm"
-    ]
-  },
-  {
     "id": "TT_bc7324a5",
     "term": "sio2",
     "types": [
@@ -1911,24 +1757,10 @@
     ]
   },
   {
-    "id": "TT_c5d8bf22",
-    "term": "N961c332678684190bc3136d3847c462f",
-    "types": [
-      "frequency band mhz"
-    ]
-  },
-  {
     "id": "TT_feb5197e",
     "term": "dry adiabat",
     "types": [
       "thermodynamic state"
-    ]
-  },
-  {
-    "id": "TT_d5cbb982",
-    "term": "Nafede79129a34782832b2076d20cee50",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -1957,13 +1789,6 @@
     "term": "oblique",
     "types": [
       "direction"
-    ]
-  },
-  {
-    "id": "TT_423b22ef",
-    "term": "N4a6e6bce58be43dd8993dc9fb6c85cfe",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -2083,13 +1908,6 @@
     "term": "believable",
     "types": [
       "trust"
-    ]
-  },
-  {
-    "id": "TT_677bac97",
-    "term": "N8e33dbe0393249b08c96a0cf30e84987",
-    "types": [
-      "height range km"
     ]
   },
   {
@@ -2233,24 +2051,10 @@
     ]
   },
   {
-    "id": "TT_576e74c8",
-    "term": "N13041bce755d4721977a168f7eaf013c",
-    "types": [
-      "wavelength band nm"
-    ]
-  },
-  {
     "id": "TT_cbe633c2",
     "term": "pressurized",
     "types": [
       "fluid state"
-    ]
-  },
-  {
-    "id": "TT_e224c5dd",
-    "term": "N1e7149753f89473c8edfa5a34707b0b8",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -2272,13 +2076,6 @@
     "term": "right",
     "types": [
       "direction"
-    ]
-  },
-  {
-    "id": "TT_a195f885",
-    "term": "N94c365551dbe4f94818cf3bdb3f68857",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -2335,13 +2132,6 @@
     "term": "proxy",
     "types": [
       "representative role"
-    ]
-  },
-  {
-    "id": "TT_ec5727bd",
-    "term": "Nbf2983966c254f999739f90776519fee",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -2443,13 +2233,6 @@
     ]
   },
   {
-    "id": "TT_49aff380",
-    "term": "Nf923959b81464e339a435fac2dcc473f",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_dbab2f5b",
     "term": "pacific ocean",
     "types": [
@@ -2482,13 +2265,6 @@
     "term": "k",
     "types": [
       "element"
-    ]
-  },
-  {
-    "id": "TT_4b96bb67",
-    "term": "N5acbd2673002401991a712c2f710778b",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -2541,13 +2317,6 @@
     ]
   },
   {
-    "id": "TT_1ba7ad77",
-    "term": "Na80bd451e9a3441db83cc23180d98f83",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_3ba8b9b3",
     "term": "elliptical",
     "types": [
@@ -2562,13 +2331,6 @@
     ]
   },
   {
-    "id": "TT_b8a396fc",
-    "term": "N1554cf37f441477c9945b4c62c285ef5",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_f0c92cb2",
     "term": "pptv",
     "types": [
@@ -2580,13 +2342,6 @@
     "term": "heterogeneous",
     "types": [
       "system state"
-    ]
-  },
-  {
-    "id": "TT_9daa8a6e",
-    "term": "N3de946c97ac546fbb31cebc3b6698310",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -2643,13 +2398,6 @@
     "term": "pt2million_km2",
     "types": [
       "ocean area"
-    ]
-  },
-  {
-    "id": "TT_72dce7c7",
-    "term": "N8d38e8043f60469da76631b5074b9927",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -2772,13 +2520,6 @@
     ]
   },
   {
-    "id": "TT_c9dfaa37",
-    "term": "Ncca785f6bea441b8980fa2e0992f9f86",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_970469c2",
     "term": "ppmv",
     "types": [
@@ -2818,13 +2559,6 @@
     "term": "isobaric",
     "types": [
       "equilibrium state"
-    ]
-  },
-  {
-    "id": "TT_80bd332c",
-    "term": "N9fe7474e41eb43cda7b07b27911c4082",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -3255,13 +2989,6 @@
     ]
   },
   {
-    "id": "TT_5457ff75",
-    "term": "Nbff8c882805f41a5a5737655f1f5f6d8",
-    "types": [
-      "frequency band mhz"
-    ]
-  },
-  {
     "id": "TT_57b0a125",
     "term": "neutral",
     "types": [
@@ -3332,13 +3059,6 @@
     ]
   },
   {
-    "id": "TT_914ac9bb",
-    "term": "Nb2bb4b1402f744f09137d4466d2bab10",
-    "types": [
-      "depth range km"
-    ]
-  },
-  {
     "id": "TT_3271e483",
     "term": "degrees",
     "types": [
@@ -3360,24 +3080,10 @@
     ]
   },
   {
-    "id": "TT_c7f4a78c",
-    "term": "Nde631698e4c4413bb30cd7aa2ed156bd",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_48b674ba",
     "term": "ppt",
     "types": [
       "unit derived by scaling"
-    ]
-  },
-  {
-    "id": "TT_a804b2d3",
-    "term": "Nbf64bb28ad594d68a8d4a00d70da5c36",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -3469,13 +3175,6 @@
     "term": "hydrogen",
     "types": [
       "element"
-    ]
-  },
-  {
-    "id": "TT_96541b75",
-    "term": "Nee7a52e1902042feac296ba191c0ee43",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -3731,13 +3430,6 @@
     ]
   },
   {
-    "id": "TT_4b0d18ec",
-    "term": "N4f496301026043b18b2fa8181fe5363d",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
     "id": "TT_aabbbf0d",
     "term": "mid latitude",
     "types": [
@@ -3808,13 +3500,6 @@
     ]
   },
   {
-    "id": "TT_d01bbce7",
-    "term": "Nff4f3021688648d787dda60b01ebd6ee",
-    "types": [
-      "wavelength cm"
-    ]
-  },
-  {
     "id": "TT_a602c48c",
     "term": "x12 class",
     "types": [
@@ -3836,24 +3521,10 @@
     ]
   },
   {
-    "id": "TT_b1ccb5ec",
-    "term": "Na3e3f3de17814d38a3f3200dacfeca51",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_834cd004",
     "term": "irreversible",
     "types": [
       "system state"
-    ]
-  },
-  {
-    "id": "TT_28bf4375",
-    "term": "N972051b9dc0442f888f7185d7fa1c0e0",
-    "types": [
-      "south latitude band"
     ]
   },
   {
@@ -3969,20 +3640,6 @@
     ]
   },
   {
-    "id": "TT_7de1c891",
-    "term": "N8f72c64306ea43038b15785515b85b6d",
-    "types": [
-      "wavelength nm"
-    ]
-  },
-  {
-    "id": "TT_8519d62e",
-    "term": "N7bfb2709824844848f7fff215b50d4b1",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
     "id": "TT_7e44af2c",
     "term": "axisymmetric",
     "types": [
@@ -4039,13 +3696,6 @@
     ]
   },
   {
-    "id": "TT_0a9071a1",
-    "term": "Nbd877f20a5304088b63d0f02d9670fb4",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_08729cbe",
     "term": "u",
     "types": [
@@ -4057,13 +3707,6 @@
     "term": "b",
     "types": [
       "element"
-    ]
-  },
-  {
-    "id": "TT_70d39fcb",
-    "term": "N643989f493d84d4cba744cb8d6fef8b9",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -4228,13 +3871,6 @@
     ]
   },
   {
-    "id": "TT_81ec4e3e",
-    "term": "N346675009c5846a3b26ea8883ecb5c23",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_249bfb84",
     "term": "earth",
     "types": [
@@ -4256,31 +3892,10 @@
     ]
   },
   {
-    "id": "TT_09181b15",
-    "term": "Nb0fc7b0544104aaa819c47239cd1cbf8",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_b585fde8",
     "term": "semi annual",
     "types": [
       "frequency"
-    ]
-  },
-  {
-    "id": "TT_f6e44689",
-    "term": "Na081c7c60eb84eff98f1148dbe63b0ed",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
-    "id": "TT_e85466a5",
-    "term": "Ne870f4c6529640b0916c6d058982d2d2",
-    "types": [
-      "frequency band mhz"
     ]
   },
   {
@@ -4361,13 +3976,6 @@
     ]
   },
   {
-    "id": "TT_e5452231",
-    "term": "N9e5e7395ef924422921d0bdf742c5cd9",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_5d4c64b3",
     "term": "telychian",
     "types": [
@@ -4428,13 +4036,6 @@
     "term": "x6 class",
     "types": [
       "x class"
-    ]
-  },
-  {
-    "id": "TT_47c067c1",
-    "term": "Nbff8158e4df444319aca9a6008fcf401",
-    "types": [
-      "precipitation range cm"
     ]
   },
   {
@@ -4589,13 +4190,6 @@
     "term": "cfc113",
     "types": [
       "cfc"
-    ]
-  },
-  {
-    "id": "TT_e604cc52",
-    "term": "N00cd20fd831f482894ad2b98aa3193ba",
-    "types": [
-      "month range"
     ]
   },
   {
@@ -4767,13 +4361,6 @@
     ]
   },
   {
-    "id": "TT_fe4f7da2",
-    "term": "N7115b89523f047e1a89c0b033d19854a",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_2d704969",
     "term": "south pacific gyre",
     "types": [
@@ -4837,13 +4424,6 @@
     ]
   },
   {
-    "id": "TT_f4847415",
-    "term": "N280fb46f2c0549399bc403ca1a6588e2",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_ca8bd16c",
     "term": "airborne",
     "types": [
@@ -4862,13 +4442,6 @@
     "term": "rupelian",
     "types": [
       "age"
-    ]
-  },
-  {
-    "id": "TT_8d59bb01",
-    "term": "N142d07f345ca48658230d403bd01a5df",
-    "types": [
-      "precipitation range"
     ]
   },
   {
@@ -4949,13 +4522,6 @@
     ]
   },
   {
-    "id": "TT_937d55d2",
-    "term": "Ndceb8f091194477b9398319bdbee53c0",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_8bc5dea5",
     "term": "actual",
     "types": [
@@ -4967,13 +4533,6 @@
     "term": "red",
     "types": [
       "spectral band"
-    ]
-  },
-  {
-    "id": "TT_c849c93b",
-    "term": "N86b9e793ffd8425f843e4f0724ce69f2",
-    "types": [
-      "frequency band mhz"
     ]
   },
   {
@@ -5117,13 +4676,6 @@
     ]
   },
   {
-    "id": "TT_22b521b1",
-    "term": "N984047af6db44f479dd6ee3392e3810a",
-    "types": [
-      "precipitation range"
-    ]
-  },
-  {
     "id": "TT_6ae91499",
     "term": "zi",
     "types": [
@@ -5243,13 +4795,6 @@
     ]
   },
   {
-    "id": "TT_28a710cd",
-    "term": "N59030b8100194487911e9a53b5779f13",
-    "types": [
-      "frequency band mhz"
-    ]
-  },
-  {
     "id": "TT_62d65078",
     "term": "faa",
     "types": [
@@ -5261,20 +4806,6 @@
     "term": "ndvi",
     "types": [
       "difference"
-    ]
-  },
-  {
-    "id": "TT_84989c67",
-    "term": "N1f835ba493e6423c8e9bb52e0a216268",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
-    "id": "TT_547879f3",
-    "term": "N6f86cc4cee2b42cb9746351a1563efde",
-    "types": [
-      "frequency band mhz"
     ]
   },
   {
@@ -5303,13 +4834,6 @@
     "term": "trustworthy",
     "types": [
       "trust"
-    ]
-  },
-  {
-    "id": "TT_67b707f3",
-    "term": "Nf54ca3c582ff49b2a676d383a06ae8a2",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -5373,13 +4897,6 @@
     "term": "considerable",
     "types": [
       "impact"
-    ]
-  },
-  {
-    "id": "TT_01c6e1fb",
-    "term": "Nd5f770a121b34c7bbd394f5a12d26361",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -5450,13 +4967,6 @@
     "term": "cx",
     "types": [
       "allotrope"
-    ]
-  },
-  {
-    "id": "TT_04c29042",
-    "term": "Nad571da4f36d4cd7a0ad3d1b14272697",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -5569,13 +5079,6 @@
     "term": "nh4plus",
     "types": [
       "ion"
-    ]
-  },
-  {
-    "id": "TT_fd0142b9",
-    "term": "N6414eb5578a5429a90cfa416e85e4980",
-    "types": [
-      "size range micron"
     ]
   },
   {
@@ -5901,13 +5404,6 @@
     ]
   },
   {
-    "id": "TT_1a5f4c70",
-    "term": "N0c680e6b70e841078cb9ebbc2e025412",
-    "types": [
-      "frequency band mhz"
-    ]
-  },
-  {
     "id": "TT_654766a3",
     "term": "albian",
     "types": [
@@ -5982,13 +5478,6 @@
     "term": "questionable",
     "types": [
       "trust"
-    ]
-  },
-  {
-    "id": "TT_304e83d4",
-    "term": "Nd2c700c5bd8541dfb2972d321c96a323",
-    "types": [
-      "depth range km"
     ]
   },
   {
@@ -6083,13 +5572,6 @@
     ]
   },
   {
-    "id": "TT_98b1d36d",
-    "term": "Ndaeeeb85c0d74383a3f4aedaafedec5c",
-    "types": [
-      "wavelength nm"
-    ]
-  },
-  {
     "id": "TT_1eda6f31",
     "term": "secondary",
     "types": [
@@ -6122,13 +5604,6 @@
     "term": "product",
     "types": [
       "chemical role"
-    ]
-  },
-  {
-    "id": "TT_794774e7",
-    "term": "Na4d3d9e6a9184236ab1ca70e6ebe17a0",
-    "types": [
-      "wavelength nm"
     ]
   },
   {
@@ -6220,13 +5695,6 @@
     "term": "x35 class",
     "types": [
       "x class"
-    ]
-  },
-  {
-    "id": "TT_06fa3f97",
-    "term": "N0104c3a014144b83853ad1ee1ed95993",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -6339,13 +5807,6 @@
     "term": "dwa",
     "types": [
       "d"
-    ]
-  },
-  {
-    "id": "TT_7ecc7e40",
-    "term": "Na360fc8988364ce8be9d4bbdfcc1607b",
-    "types": [
-      "wavelength nm"
     ]
   },
   {
@@ -6489,13 +5950,6 @@
     ]
   },
   {
-    "id": "TT_06ab9e59",
-    "term": "N3593671184ad4fa3b485fe5e3cb02608",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_f1c61433",
     "term": "dehydrate",
     "types": [
@@ -6605,13 +6059,6 @@
     "term": "olenekian",
     "types": [
       "age"
-    ]
-  },
-  {
-    "id": "TT_35ba69d9",
-    "term": "N2510f345381f4be0af50ef897a166046",
-    "types": [
-      "month range"
     ]
   },
   {
@@ -6755,13 +6202,6 @@
     ]
   },
   {
-    "id": "TT_c607cd1e",
-    "term": "N308480a0c7e445998c614c8d92310c70",
-    "types": [
-      "precipitation range"
-    ]
-  },
-  {
     "id": "TT_a25fbb2b",
     "term": "1600mya",
     "types": [
@@ -6801,13 +6241,6 @@
     "term": "macro",
     "types": [
       "size"
-    ]
-  },
-  {
-    "id": "TT_c8dd06dd",
-    "term": "N10795b8ac36642b6acfdfc05e511c3d3",
-    "types": [
-      "frequency band mhz"
     ]
   },
   {
@@ -7014,13 +6447,6 @@
     ]
   },
   {
-    "id": "TT_f0a8bfe3",
-    "term": "Nf911b89c728746dbaa21db960509f9e3",
-    "types": [
-      "size range micron"
-    ]
-  },
-  {
     "id": "TT_3068caec",
     "term": "paibian",
     "types": [
@@ -7130,13 +6556,6 @@
     "term": "transformed eulerian mean",
     "types": [
       "horizontal coordinate system"
-    ]
-  },
-  {
-    "id": "TT_638fe50e",
-    "term": "N5719ec65d01e481f92f840f5cb92c413",
-    "types": [
-      "frequency band mhz"
     ]
   },
   {
@@ -7266,13 +6685,6 @@
     ]
   },
   {
-    "id": "TT_3e66e986",
-    "term": "Na423f18313b94c3d8fa4f20d9eb39e6a",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
     "id": "TT_0192835a",
     "term": "hcfc22",
     "types": [
@@ -7329,13 +6741,6 @@
     ]
   },
   {
-    "id": "TT_729d98db",
-    "term": "N726c1a1fe65747d3b08935292a784fde",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_236ec39f",
     "term": "hdfeos",
     "types": [
@@ -7364,20 +6769,6 @@
     ]
   },
   {
-    "id": "TT_53768813",
-    "term": "N13b2b106e44648ea8838fb2d8a669416",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
-    "id": "TT_2c7143cc",
-    "term": "N83d3a8fd4b71410ba64fbbae7a921e6d",
-    "types": [
-      "depth range km"
-    ]
-  },
-  {
     "id": "TT_832504ea",
     "term": "macronutrient",
     "types": [
@@ -7399,13 +6790,6 @@
     ]
   },
   {
-    "id": "TT_468d655e",
-    "term": "Na0ef86c8060845138a540ef25a67598a",
-    "types": [
-      "wavelength nm"
-    ]
-  },
-  {
     "id": "TT_e0c045d6",
     "term": "fws",
     "types": [
@@ -7417,13 +6801,6 @@
     "term": "longitudinal",
     "types": [
       "direction"
-    ]
-  },
-  {
-    "id": "TT_ea89b1b3",
-    "term": "Ne801817585224502a3ed58cbd707462d",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -7441,24 +6818,10 @@
     ]
   },
   {
-    "id": "TT_4d6d0bc7",
-    "term": "N13a367af6a124fd8b8154b8d5d3f5ba5",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_8585ddfe",
     "term": "heterotrophic",
     "types": [
       "biological role"
-    ]
-  },
-  {
-    "id": "TT_ab0b5078",
-    "term": "N092e176b11304e00b10feb616a66cafd",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -7487,13 +6850,6 @@
     "term": "bent",
     "types": [
       "shape"
-    ]
-  },
-  {
-    "id": "TT_9bfeb9d5",
-    "term": "Ne1bab54dc67944d395b9d1f93fd6253c",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -7543,13 +6899,6 @@
     "term": "abyssopelagic zone",
     "types": [
       "abyssopelagic zone"
-    ]
-  },
-  {
-    "id": "TT_5f2cd749",
-    "term": "N60a8e720c0c44cb08781ba8d4733c11d",
-    "types": [
-      "wavelength nm"
     ]
   },
   {
@@ -7714,13 +7063,6 @@
     ]
   },
   {
-    "id": "TT_e672f0fc",
-    "term": "N6966f10b11d646e38363bfd77917e576",
-    "types": [
-      "wavelength nm"
-    ]
-  },
-  {
     "id": "TT_30fe7ba2",
     "term": "semi arid climate",
     "types": [
@@ -7774,13 +7116,6 @@
     "term": "c4 class",
     "types": [
       "c class"
-    ]
-  },
-  {
-    "id": "TT_2b4744c2",
-    "term": "N32eff1fb36f6428c838e43a5e23dc42f",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -7865,13 +7200,6 @@
     "term": "h3",
     "types": [
       "allotrope"
-    ]
-  },
-  {
-    "id": "TT_b747c43c",
-    "term": "Nffea8ec5a71b40978f0cd2b53ac5cb85",
-    "types": [
-      "depth range km"
     ]
   },
   {
@@ -7987,13 +7315,6 @@
     ]
   },
   {
-    "id": "TT_95afb85e",
-    "term": "N93d7b45bade84945b9f20568adff7b0e",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_0f598770",
     "term": "distance weighting",
     "types": [
@@ -8026,13 +7347,6 @@
     "term": "annual potential evapotranspiration",
     "types": [
       "potential evapotranspiration"
-    ]
-  },
-  {
-    "id": "TT_71d61274",
-    "term": "N3d1d05150a4243b1a693ad83d89313a4",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -8113,13 +7427,6 @@
     ]
   },
   {
-    "id": "TT_4bfe7801",
-    "term": "Nc32ee893844b4b5ca624f100dea53d60",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_e683bc4e",
     "term": "hox",
     "types": [
@@ -8180,13 +7487,6 @@
     "term": "hypoxia",
     "types": [
       "biochemical state"
-    ]
-  },
-  {
-    "id": "TT_8edd0ac7",
-    "term": "N07f78485facf41bf9737efbe3da010ca",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -8267,13 +7567,6 @@
     ]
   },
   {
-    "id": "TT_f1d7a8ff",
-    "term": "Nf17a6deb2de34f93bd000d9425b3dc76",
-    "types": [
-      "precipitation range"
-    ]
-  },
-  {
     "id": "TT_f2202de6",
     "term": "maastrichtian",
     "types": [
@@ -8302,13 +7595,6 @@
     ]
   },
   {
-    "id": "TT_960f90b1",
-    "term": "Nc56eb887b2db47f7be3dee2b12d41e65",
-    "types": [
-      "wavelength band nm"
-    ]
-  },
-  {
     "id": "TT_7fb094eb",
     "term": "earth core",
     "types": [
@@ -8320,13 +7606,6 @@
     "term": "coulomb",
     "types": [
       "unit defined by product"
-    ]
-  },
-  {
-    "id": "TT_a582289d",
-    "term": "N38364b82b9d8434f9bc167206520422c",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -8456,13 +7735,6 @@
     ]
   },
   {
-    "id": "TT_f2bc08f9",
-    "term": "Nc3008e21137949c48340801be0a20283",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_95a8a6a7",
     "term": "geosynchronous",
     "types": [
@@ -8568,13 +7840,6 @@
     ]
   },
   {
-    "id": "TT_91e11062",
-    "term": "N08fbd749887f45ac808beb4b5c6d94e8",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_45f82241",
     "term": "young",
     "types": [
@@ -8663,13 +7928,6 @@
     "term": "c4h10",
     "types": [
       "alkane"
-    ]
-  },
-  {
-    "id": "TT_5bd7543d",
-    "term": "N1cc9b584c8da426d9fae57b0ae29e279",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -8792,13 +8050,6 @@
     ]
   },
   {
-    "id": "TT_ce379019",
-    "term": "Nc844ebd39d1b418d9a2f202d615b3a8d",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_50e1d48e",
     "term": "dense",
     "types": [
@@ -8838,20 +8089,6 @@
     "term": "13.82mya",
     "types": [
       "Instant"
-    ]
-  },
-  {
-    "id": "TT_1f4c7cee",
-    "term": "Ndd544ae741bb4caea96cf8282fe31735",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
-    "id": "TT_98311859",
-    "term": "Nc63c018ab60d486ab1d997ce97c10659",
-    "types": [
-      "height range km"
     ]
   },
   {
@@ -8936,13 +8173,6 @@
     "term": "mya",
     "types": [
       "unit derived by scaling"
-    ]
-  },
-  {
-    "id": "TT_aabbbffb",
-    "term": "N9a87fda4139c4718b54fffef8b22d3a3",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -9037,13 +8267,6 @@
     ]
   },
   {
-    "id": "TT_1f1039ca",
-    "term": "N6fd56b56bd8e45cf861de5bd0cd206c7",
-    "types": [
-      "frequency band mhz"
-    ]
-  },
-  {
     "id": "TT_b2617360",
     "term": "angstrom exponent",
     "types": [
@@ -9062,13 +8285,6 @@
     "term": "volume ratio",
     "types": [
       "base unit"
-    ]
-  },
-  {
-    "id": "TT_51df4672",
-    "term": "Nbe6a048f2edc414f985cb6b70083e982",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -9247,13 +8463,6 @@
     ]
   },
   {
-    "id": "TT_b3f3e646",
-    "term": "N7121672f81804609bf0ba62adbe3ccb9",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_ad6ebfae",
     "term": "middle mississippian",
     "types": [
@@ -9328,13 +8537,6 @@
     "term": "3200mya",
     "types": [
       "Instant"
-    ]
-  },
-  {
-    "id": "TT_17ae79d4",
-    "term": "Na6f680e714b641a3ba582afd7210438a",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -9492,13 +8694,6 @@
     ]
   },
   {
-    "id": "TT_a2994c22",
-    "term": "N1bac926d0ef34085a8f35505895d7636",
-    "types": [
-      "depth range km"
-    ]
-  },
-  {
     "id": "TT_f877bad5",
     "term": "curtain",
     "types": [
@@ -9531,13 +8726,6 @@
     "term": "ef3",
     "types": [
       "enhanced fujita scale"
-    ]
-  },
-  {
-    "id": "TT_4a34a3db",
-    "term": "N84754860d4e14442a24a62b1998394dc",
-    "types": [
-      "latitude band"
     ]
   },
   {
@@ -9653,13 +8841,6 @@
     ]
   },
   {
-    "id": "TT_ed914e17",
-    "term": "Ne588c55014594a3480b269798a5139b0",
-    "types": [
-      "frequency band mhz"
-    ]
-  },
-  {
     "id": "TT_98acc1be",
     "term": "ppb",
     "types": [
@@ -9692,13 +8873,6 @@
     "term": "neural network",
     "types": [
       "classifier"
-    ]
-  },
-  {
-    "id": "TT_0174a401",
-    "term": "Nd5ba0ff7e8e74f24afc8046f96edf359",
-    "types": [
-      "depth range km"
     ]
   },
   {
@@ -9762,13 +8936,6 @@
     "term": "pt1million_km2",
     "types": [
       "ocean area"
-    ]
-  },
-  {
-    "id": "TT_2f2ed39d",
-    "term": "Ncd85b16e8466430c82d42ab7e88a5ae1",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -9870,13 +9037,6 @@
     ]
   },
   {
-    "id": "TT_ca6a02b7",
-    "term": "Nd9b64b5cc5ee44788fbf0ed2ca49c757",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_2489f7f9",
     "term": "hydrogen oxides",
     "types": [
@@ -9902,13 +9062,6 @@
     "term": "oxygenated",
     "types": [
       "chemical state"
-    ]
-  },
-  {
-    "id": "TT_8c0e891e",
-    "term": "Nc0e754b3598642b2835f045f70d1ca47",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -10017,13 +9170,6 @@
     ]
   },
   {
-    "id": "TT_a9b9a529",
-    "term": "N70c9aedf05944b63860797d921b0acea",
-    "types": [
-      "wavelength band nm"
-    ]
-  },
-  {
     "id": "TT_44dc9837",
     "term": "extant",
     "types": [
@@ -10035,13 +9181,6 @@
     "term": "ground state",
     "types": [
       "chemical state"
-    ]
-  },
-  {
-    "id": "TT_f7a5764f",
-    "term": "Nc467c3aa24064cb29d295dd84db986ec",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -10098,13 +9237,6 @@
     "term": "x44 class",
     "types": [
       "x class"
-    ]
-  },
-  {
-    "id": "TT_7c50a303",
-    "term": "Ne8b97fbbf6314e67ad114de6cb7b1f28",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -10171,13 +9303,6 @@
     ]
   },
   {
-    "id": "TT_ecf57d79",
-    "term": "N595ed4dab6ca4556b7c7f9233e5c24a7",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
     "id": "TT_99b6f8e7",
     "term": "pcb153",
     "types": [
@@ -10210,13 +9335,6 @@
     "term": "commercial",
     "types": [
       "land use"
-    ]
-  },
-  {
-    "id": "TT_2b98ab00",
-    "term": "Nd6119ea9f47e4a6f812f08386397ac6a",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -10273,20 +9391,6 @@
     "term": "rcra",
     "types": [
       "environmental law"
-    ]
-  },
-  {
-    "id": "TT_a8d992be",
-    "term": "Nf5b91779f33d4573ae34c6f3b662798c",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
-    "id": "TT_dee20351",
-    "term": "N5c61f506080d4749a31298b6ccb81b6c",
-    "types": [
-      "south latitude band"
     ]
   },
   {
@@ -10388,13 +9492,6 @@
     ]
   },
   {
-    "id": "TT_097d0ca1",
-    "term": "N9943f07275c849cd85a00984c3eebcf1",
-    "types": [
-      "north latitude band"
-    ]
-  },
-  {
     "id": "TT_70ec3580",
     "term": "460.9mya",
     "types": [
@@ -10462,13 +9559,6 @@
     "term": "diurnal",
     "types": [
       "frequency"
-    ]
-  },
-  {
-    "id": "TT_7d108449",
-    "term": "N3c3adc587bf243049967a7859ed53a37",
-    "types": [
-      "south latitude band"
     ]
   },
   {
@@ -10598,13 +9688,6 @@
     ]
   },
   {
-    "id": "TT_bc132ff8",
-    "term": "N938658bc6f394af9baa5fc0a700c810b",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_cb182c45",
     "term": "dimethyl sulfide",
     "types": [
@@ -10630,13 +9713,6 @@
     "term": "dichlorine peroxide",
     "types": [
       "inorganic compound"
-    ]
-  },
-  {
-    "id": "TT_f5ef246f",
-    "term": "Ncf9f48eb09e5439189016fcd49aff4aa",
-    "types": [
-      "depth range km"
     ]
   },
   {
@@ -10738,13 +9814,6 @@
     ]
   },
   {
-    "id": "TT_547cfe6f",
-    "term": "N1098f0105235440faa30c9e1dcc4a87e",
-    "types": [
-      "south latitude band"
-    ]
-  },
-  {
     "id": "TT_c0574ba5",
     "term": "pastoral",
     "types": [
@@ -10791,13 +9860,6 @@
     "term": "asymmetry",
     "types": [
       "spatial configuration"
-    ]
-  },
-  {
-    "id": "TT_f011283c",
-    "term": "N15edef0567264dbca4142156a0545301",
-    "types": [
-      "frequency band mhz"
     ]
   },
   {
@@ -10948,31 +10010,10 @@
     ]
   },
   {
-    "id": "TT_44cc556f",
-    "term": "Nf180d0d7969b41f3a07b2d736ace205b",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
     "id": "TT_0da40d84",
     "term": "cenomanian",
     "types": [
       "age"
-    ]
-  },
-  {
-    "id": "TT_8c68a8e2",
-    "term": "Nb72f36fd61fd4531bbd6ada2ff59d279",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
-    "id": "TT_1b58bfd1",
-    "term": "N8b173ce50d2e483fb809d57b7ed9f732",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -11008,13 +10049,6 @@
     "term": "powder",
     "types": [
       "solid state"
-    ]
-  },
-  {
-    "id": "TT_a31dfe71",
-    "term": "N5fd125be235e4c4b84cf7d2d89530c8c",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -11078,13 +10112,6 @@
     "term": "deceased",
     "types": [
       "biological state"
-    ]
-  },
-  {
-    "id": "TT_87572320",
-    "term": "N5b0caca28c774410ac013e79e027805d",
-    "types": [
-      "wavelength band nm"
     ]
   },
   {
@@ -11207,24 +10234,10 @@
     ]
   },
   {
-    "id": "TT_a003dd54",
-    "term": "N11d4ea91c0d0421290c5e90d5c915444",
-    "types": [
-      "latitude line"
-    ]
-  },
-  {
     "id": "TT_6fe7e691",
     "term": "fe3",
     "types": [
       "allotrope"
-    ]
-  },
-  {
-    "id": "TT_e25e1a14",
-    "term": "N0902ade8e0574f77a6edbc586e987cfe",
-    "types": [
-      "temperature range"
     ]
   },
   {
@@ -11379,27 +10392,6 @@
     "term": "brazil current",
     "types": [
       "earth western boundary current"
-    ]
-  },
-  {
-    "id": "TT_1cd1396d",
-    "term": "N6654512e923c45df96fae133be567b7d",
-    "types": [
-      "depth range km"
-    ]
-  },
-  {
-    "id": "TT_39a4c7d2",
-    "term": "Neb05403932b0463f942a1c5e3359fac6",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
-    "id": "TT_2699abc8",
-    "term": "Nad2d6b86ddab49388432aceb300d26db",
-    "types": [
-      "size range micron"
     ]
   },
   {
@@ -11599,13 +10591,6 @@
     ]
   },
   {
-    "id": "TT_d7ba547f",
-    "term": "N42774f8ab23a43729b426d79c8c07b21",
-    "types": [
-      "month range"
-    ]
-  },
-  {
     "id": "TT_e95bfda1",
     "term": "per second cubed",
     "types": [
@@ -11627,24 +10612,10 @@
     ]
   },
   {
-    "id": "TT_8e0df407",
-    "term": "Nc88e51065b524cf8a8213d1f4d2babc3",
-    "types": [
-      "energy flux wm2"
-    ]
-  },
-  {
     "id": "TT_a631dd9d",
     "term": "40.4mya",
     "types": [
       "Instant"
-    ]
-  },
-  {
-    "id": "TT_56bcfae3",
-    "term": "N6d5ef5ff2bce4e6a94831423b3ca2f20",
-    "types": [
-      "energy flux wm2"
     ]
   },
   {
@@ -11753,13 +10724,6 @@
     ]
   },
   {
-    "id": "TT_3984e736",
-    "term": "N83fb9ff5456845c5815933ce455020c8",
-    "types": [
-      "temperature range"
-    ]
-  },
-  {
     "id": "TT_d6221431",
     "term": "static",
     "types": [
@@ -11820,13 +10784,6 @@
     "term": "no3minus",
     "types": [
       "ion"
-    ]
-  },
-  {
-    "id": "TT_11631287",
-    "term": "N1bdab8b8a92048a8a709f4d4a686eb2c",
-    "types": [
-      "temperature range"
     ]
   },
   {
