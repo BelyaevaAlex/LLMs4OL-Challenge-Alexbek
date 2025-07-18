@@ -1,6 +1,0 @@
-has obsolescence reason
-seeAlso
-database_cross_reference
-equivalentClass
-disjointWith
-term replaced by

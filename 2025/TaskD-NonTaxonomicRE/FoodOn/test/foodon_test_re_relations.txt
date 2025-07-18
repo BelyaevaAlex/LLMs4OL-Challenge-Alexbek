@@ -1,4 +1,0 @@
-database_cross_reference
-disjointWith
-term replaced by
-seeAlso
