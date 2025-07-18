@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """Data processing module for TaskB-TermTyping with RAG support."""
 
 import json
