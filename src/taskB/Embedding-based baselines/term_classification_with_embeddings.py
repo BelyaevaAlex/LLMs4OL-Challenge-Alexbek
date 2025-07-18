@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Term Classification using Embeddings instead of TfidfVectorizer
 Adapted version for using semantic embeddings instead of TF-IDF
