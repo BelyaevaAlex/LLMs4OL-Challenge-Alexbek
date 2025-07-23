@@ -1,0 +1,8 @@
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.14.0
+tqdm>=4.65.0
+pydantic>=2.0.0
+outlines>=0.0.34
+numpy>=1.24.0
+pandas>=2.0.0 
